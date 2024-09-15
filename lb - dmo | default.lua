@@ -1,22 +1,23 @@
---library
+--library библиотека
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
-local Window = OrionLib:MakeWindow({Name = "Ladder Breaker | DMO", HidePremium = false, IntroEnabled = true, IntroText = "welcome", SaveConfig = true, ConfigFolder = "OrionTest"})
---locals
+local Window = OrionLib:MakeWindow({Name = "Ladder Breaker | DMO", HidePremium = false, IntroEnabled = true, IntroText = "Loading..", SaveConfig = true, ConfigFolder = "OrionTest"})
+--locals локальные переменные
 local PlayerLog = game.Players.LocalPlayer
---notify
+--notify уведомление
 OrionLib:MakeNotification({
 	Name = "LadderBreaker loaded",
 	Content = "created by m1kpe0",
 	Image = "rbxassetid://4483345998",
 	Time = 5
 })
---values
+--values валуес
 _G.breakLadder = true
 _G.breakrfullLadder = true
 _G.brkspeed = brkspd
 _G.clocktm = clktme
 _G.tpbug = true
---functions
+--functions функции
+--функции ломания лестницы
 function brkLdr()
 	while _G.breakLadder == true do
         Game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(88, 141, -237)
@@ -194,7 +195,7 @@ function brkldrfull()
 		wait(_G.brkspeed)
 	end
 end
-
+--функция телепортп гличта
 function tpglitch()
 	while _G.tpbug == true do
 		game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(9999, 99999999, -9999)
@@ -203,7 +204,7 @@ function tpglitch()
 		wait()
 	end
 end
-
+--функция уведомления когда зашел креатор
 function m1kpeehasjoined()
 	OrionLib:MakeNotification({
 		Name = "m1kpe0 has joined",
@@ -212,7 +213,7 @@ function m1kpeehasjoined()
 		Time = 15
 	})
 end
-
+--вебхук
 function webhok()
 	local player = game.Players.LocalPlayer
 	local plrName = player.Name
@@ -252,7 +253,7 @@ function webhok()
 		Body = game:GetService'HttpService':JSONEncode( { content = Content; embeds = { Embed } } );
 	};
 end
---hi creator
+--уведомление когда зашел креатор
 game.Players.PlayerAdded:Connect(function(plr)
 	if plr.Name == "Yaros1979" then
 		print("m1kpe0 has joined")
@@ -260,13 +261,13 @@ game.Players.PlayerAdded:Connect(function(plr)
 	end
 end)
 
---main
+--главное
 local MainTab = Window:MakeTab({
 	Name = "Main",
 	Icon = "",
 	PremiumOnly = false
 })
-
+--тогл 1
 MainTab:AddToggle({
 	Name = "Break ladder 1",
 	Default = false,
@@ -275,7 +276,7 @@ MainTab:AddToggle({
         brkLdr()
 	end    
 })
-
+--тогл 2
 MainTab:AddToggle({
 	Name = "Break ladder 2 (more)",
 	Default = false,
@@ -284,7 +285,7 @@ MainTab:AddToggle({
         brkldrfull()
 	end    
 })
-
+--текстбокс
 MainTab:AddTextbox({
 	Name = "delay",
 	Default = "",
@@ -293,15 +294,15 @@ MainTab:AddTextbox({
 		_G.brkspeed = brkspd
 	end	  
 })
-
+--текст
 MainTab:AddParagraph("anti break ladder","ownertheplace made this")
---teleport
+--телепорт
 local TPTab = Window:MakeTab({
 	Name = "Teleport",
         Image = "rbxassetid://4483345998",
 	PremiumOnly = false
 })
-
+--кнопки
 TPTab:AddButton({
 	Name = "Spawn",
 	Callback = function()
@@ -378,26 +379,26 @@ TPTab:AddButton({
         game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-238, 265, -2809)
   	end    
 })
---anti admin
+--анти админ
 local AATab = Window:MakeTab({
 	Name = "Anti-admin",
         Image = "rbxassetid://4483345998",
 	PremiumOnly = false
 })
-
+--удаление блюра
 AATab:AddButton({
 	Name = "Delete blur",
 	Callback = function()
         game.Workspace.Camera.Blur:Destroy()
   	end    
 })
---player
+--игрок
 local PlayerTab = Window:MakeTab({
 	Name = "Player",
         Image = "rbxassetid://4483345998",
 	PremiumOnly = false
 })
-
+--слайдеры
 PlayerTab:AddTextbox({
 	Name = "Speed",
 	Default = "",
@@ -433,14 +434,14 @@ PlayerTab:AddTextbox({
 		game.Workspace.Camera.FieldOfView = fov
 	end	  
 })
-
+--кнопка р6 аватар
 PlayerTab:AddButton({
 	Name = "r6 avatar",
 	Callback = function()
 		loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-R6-Animations-on-R15-16865"))("t.me/arceusxscripts")
   	end    
 })
-
+--тогл глитч
 PlayerTab:AddToggle({
 	Name = "glitch",
 	Default = false,
@@ -449,56 +450,56 @@ PlayerTab:AddToggle({
         tpglitch()
 	end    
 })
-
+--текст
 PlayerTab:AddParagraph("Defaults","| Speed - 16 | Jump power - 50 | Gravity - 200 | FOV - 70 |")
-
+--скрипты
 local ScriptTab = Window:MakeTab({
 	Name = "Scripts",
         Image = "rbxassetid://4483345998",
 	PremiumOnly = false
 })
---inf yield
+--inf yield инфините уиелд
 ScriptTab:AddButton({
 	Name = "Infinite yield",
 	Callback = function()
         loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
   	end    
 })
---systembroken
+--systembroken сустемброкен
 ScriptTab:AddButton({
 	Name = "SystemBroken",
 	Callback = function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/H20CalibreYT/SystemBroken/main/script"))()
   	end    
 })
---float
+--float флоат
 ScriptTab:AddButton({
 	Name = "Float",
 	Callback = function()
         loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/main/Float'))("https://t.me/arceusxscripts")
   	end    
 })
---shaders
+--shaders шейдеры
 ScriptTab:AddButton({
 	Name = "Shaders",
 	Callback = function()
 loadstring(game:HttpGet(('https://pastefy.app/xXkUxA0P/raw'),true))("t.me/arceusxscripts")
   	end    
 })
---dex explorer v2
+--dex explorer v2 декс в2
 ScriptTab:AddButton({
 	Name = "Dex Explorer v2",
 	Callback = function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/MariyaFurmanova/Library/main/dex2.0", true))()
   	end    
 })
---clock time
+--clock time время
 local ClockTab = Window:MakeTab({
 	Name = "Time",
     	Image = "rbxassetid://4483345998",
 	PremiumOnly = false
 })
-
+--кнопки
 ClockTab:AddButton({
 	Name = "Night",
 	Callback = function()
@@ -528,7 +529,7 @@ ClockTab:AddButton({
 })
 
 Timee = 10
-
+--текстбокс
 ClockTab:AddTextbox({
 	Name = "Time",
 	Default = "",
@@ -538,37 +539,15 @@ ClockTab:AddTextbox({
 	end	  
 })
 
---changelog tab
+--инфо
 local Ctab = Window:MakeTab({
-	Name = "Changelog",
-        Image = "rbxassetid://4483345998",
-	PremiumOnly = false
-})
-Ctab:AddParagraph("v3.4","deleted: ??? (5 seconds); added: webhook(discord), anti-admin tab, tp to bottom of the stairs; renamed: changelog tab, script; cleared: source, changelog tab ")
-Ctab:AddParagraph("v3.5, no more updates (maybe)","added working breaking ladder script, glitch.. (v3.1 + v3.4 = v3.5)")
---creator tab
-local Otab = Window:MakeTab({
 	Name = "Info",
         Image = "rbxassetid://4483345998",
 	PremiumOnly = false
 })
-
-local Section = Otab:AddSection({
-	Name = "ENG"
-})
-
-Otab:AddParagraph("Discord","m1kpee")
-Otab:AddParagraph("Roblox","@Yaros1979/m1kpe0")
-Otab:AddParagraph("Source","obfuscated")
-
-local Section = Otab:AddSection({
-	Name = "RUS"
-})
-
-Otab:AddParagraph("Дискорд","m1kpee")
-Otab:AddParagraph("Роблокс","@Yaros1979/m1kpe0")
-Otab:AddParagraph("Источник","зашифрован")
-
+Ctab:AddParagraph("v3.4","deleted: ??? (5 seconds); added: webhook(discord), anti-admin tab, tp to bottom of the stairs; renamed: changelog tab, script; cleared: source, changelog tab ")
+Ctab:AddParagraph("v3.5, no more updates (maybe)","added working breaking ladder script, glitch. shhhh...")
+--скрипты от креатора и его друга
 local OStab = Window:MakeTab({
 	Name = "Other scripts",
         Image = "rbxassetid://4483345998",
