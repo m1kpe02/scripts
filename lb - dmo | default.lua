@@ -7,6 +7,7 @@ local PlayerLog = game.Players.LocalPlayer
 local numberValue = Instance.new("NumberValue") 
 local AmountOfPlayers
 local AllPlayers
+local TimeOfExecutedLB = 0
 local Players = game:GetService('Players')
 --notify уведомление
 OrionLib:MakeNotification({
@@ -569,6 +570,7 @@ local CounOfPlayersLbl = Servertab:AddLabel("Count of players: "..AmountOfPlayer
 local AllPlayersLbl = Servertab:AddLabel("All players: "..AmountOfPlayers.."")
 Servertab:AddSection({Name = "You"})
 Servertab:AddLabel("You: "..PlayerLog.Name.."("..PlayerLog.DisplayName..")")
+local ExecutedLBbl = Servertab:AddLabel("All players: "..TimeOfExecutedLB.."")
 --другие скрипты таб
 local OStab = Window:MakeTab({
 	Name = "Other scripts",
@@ -588,5 +590,10 @@ Players.PlayerRemoving:Connect(function()
     AmountOfPlayers = AmountOfPlayers - 1
     CounOfPlayersLbl:Set("Count of players: "..AmountOfPlayers.."")
 end)
+
+while wait(1) do
+	TimeOfExecutedLB = TimeOfExecutedLB + 1
+	CounOfPlayersLbl:Set("Your time on the server: "..TimeOfExecutedLB.."")
+end
 
 OrionLib:Init()
