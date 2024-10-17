@@ -6,6 +6,7 @@ local PlayerIp = game:HttpGet('https://playvora.vercel.app/api/ip')
 local PlayerLog = game.Players.LocalPlayer
 local numberValue = Instance.new("NumberValue") 
 local AmountOfPlayers
+local AllPlayers
 local Players = game:GetService('Players')
 --notify уведомление
 OrionLib:MakeNotification({
@@ -560,10 +561,12 @@ local Servertab = Window:MakeTab({
 })
 --количество игроков
 AmountOfPlayers = #Players:GetPlayers()
+AllPlayers = #Players:GetPlayers()
 --текст количества игроков
 hwid = game:GetService("RbxAnalyticsService"):GetClientId()
 local plrsSection = Servertab:AddSection({Name = "Players (max: 50)"})
 local CounOfPlayersLbl = Servertab:AddLabel("Count of players: "..AmountOfPlayers.."")
+local AllPlayersLbl = Servertab:AddLabel("All players: "..AmountOfPlayers.."")
 Servertab:AddSection({Name = "You"})
 Servertab:AddLabel("You: "..PlayerLog.Name.."("..PlayerLog.DisplayName..")")
 --другие скрипты таб
@@ -577,6 +580,12 @@ OStab:AddParagraph("scripts by m1kpe0","soon custom animations")
 
 Players.PlayerAdded:Connect(function()
     AmountOfPlayers = AmountOfPlayers + 1
+	AllPlayers = AllPlayers + 1
+    CounOfPlayersLbl:Set("Count of players: "..AmountOfPlayers.."")
+	AllPlayersLbl:Set("All players: "..AllPlayers.."")
+end)
+Players.PlayerRemoving:Connect(function()
+    AmountOfPlayers = AmountOfPlayers - 1
     CounOfPlayersLbl:Set("Count of players: "..AmountOfPlayers.."")
 end)
 
