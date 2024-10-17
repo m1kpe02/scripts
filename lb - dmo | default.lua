@@ -591,8 +591,10 @@ Players.PlayerRemoving:Connect(function()
     CounOfPlayersLbl:Set("Count of players: "..AmountOfPlayers.."")
 end)
 TimeOfExecutedLB = 0
-while wait(1) do
+while true do
+	wait(1)
 	TimeOfExecutedLB = TimeOfExecutedLB + 1
+	wait()
 	ExecutedLBbl:Set("Your time on the server: "..TimeOfExecutedLB.."")
 end
 
