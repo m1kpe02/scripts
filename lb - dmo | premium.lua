@@ -590,7 +590,7 @@ Players.PlayerRemoving:Connect(function()
     AmountOfPlayers = AmountOfPlayers - 1
     CounOfPlayersLbl:Set("Count of players: "..AmountOfPlayers.."")
 end)
-TimeOfExecutedLB = 0
+TimeOfExecutedLB
 while true do
 	wait(1)
 	TimeOfExecutedLB = TimeOfExecutedLB + 1
