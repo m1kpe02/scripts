@@ -7,7 +7,7 @@ local PlayerLog = game.Players.LocalPlayer
 local numberValue = Instance.new("NumberValue") 
 local AmountOfPlayers
 local AllPlayers
-local TimeOfExecutedLB = 0
+local TimeOfExecutedLB
 local Players = game:GetService('Players')
 --notify уведомление
 OrionLib:MakeNotification({
@@ -590,10 +590,10 @@ Players.PlayerRemoving:Connect(function()
     AmountOfPlayers = AmountOfPlayers - 1
     CounOfPlayersLbl:Set("Count of players: "..AmountOfPlayers.."")
 end)
-
+TimeOfExecutedLB = 0
 while wait(1) do
 	TimeOfExecutedLB = TimeOfExecutedLB + 1
-	CounOfPlayersLbl:Set("Your time on the server: "..TimeOfExecutedLB.."")
+	ExecutedLBbl:Set("Your time on the server: "..TimeOfExecutedLB.."")
 end
 
 OrionLib:Init()
