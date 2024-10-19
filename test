@@ -1907,6 +1907,21 @@ AutoPianoTab:AddToggle({
 	end    
 })
 
+AutoPianoTab:AddToggle({
+	Name = "Always grab the piano (piano's anti-grab)",
+	Default = false,
+	Callback = function(Value)
+        while Value do
+            local args = {
+                [1] = workspace:FindFirstChild(SpawnedInToys).MusicKeyboard.Part,
+                [2] = CFrame.new(0, 0, 0) * CFrame.Angles(-0, 0, -0)
+            }
+            game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
+        end
+	end    
+})
+
+
 local Section = AutoPianoTab:AddSection({
 	Name = "Spawn"
 })
