@@ -1917,6 +1917,7 @@ AutoPianoTab:AddToggle({
                 [2] = CFrame.new(0, 0, 0) * CFrame.Angles(-0, 0, -0)
             }
             game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
+            wait()
         end
 	end    
 })
