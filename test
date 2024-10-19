@@ -1917,7 +1917,7 @@ AutoPianoTab:AddButton({
         local args = {
             [1] = "MusicKeyboard",
             [2] = CFrame.new(pos) * CFrame.Angles(-0, 0, -0),
-            [3] = Vector3.new(0, 0, 0)
+            [3] = Vector3.new(pos)
         }
         game:GetService("ReplicatedStorage").MenuToys.SpawnToyRemoteFunction:InvokeServer(unpack(args))
         wait()
