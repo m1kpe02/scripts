@@ -1,4 +1,4 @@
-local HubName = 'е hub'
+local HubName = 'm1kp'
 local hui = false
 local UserInputService = game:GetService('UserInputService')
 local Players = game:GetService('Players')
