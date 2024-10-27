@@ -1,3 +1,4 @@
+ppl = {'Yaros1979', 'abororoumn', 'LYBLY_COCATb6969', 'bebra7658', 'asqw_zv'}
 local HubName = 'е hub'
 local hui = false
 local UserInputService = game:GetService('UserInputService')
@@ -1928,22 +1929,6 @@ AutoPianoTab:AddToggle({
 	end    
 })
 
-AutoPianoTab:AddToggle({
-	Name = 'Always grab the piano (piano's anti-grab)',
-	Default = false,
-	Callback = function(Value)
-        while Value do
-            local args = {
-                [1] = workspace:FindFirstChild(SpawnedInToys).MusicKeyboard.Part,
-                [2] = CFrame.new(0, 0, 0) * CFrame.Angles(-0, 0, -0)
-            }
-            game:GetService('ReplicatedStorage').GrabEvents.SetNetworkOwner:FireServer(unpack(args))
-            wait()
-        end
-	end    
-})
-
-
 local Section = AutoPianoTab:AddSection({
 	Name = 'Spawn'
 })
@@ -1954,7 +1939,7 @@ AutoPianoTab:AddButton({
         local args = {
             [1] = 'MusicKeyboard',
             [2] = CFrame.new(pos) * CFrame.Angles(-0, 0, -0),
-            [3] = Vector3.new(pos)
+            [3] = Vector3.new(0, -0, 0)
         }
         game:GetService('ReplicatedStorage').MenuToys.SpawnToyRemoteFunction:InvokeServer(unpack(args))
         wait()
