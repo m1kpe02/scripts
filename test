@@ -1,4 +1,3 @@
-ppl = {'Yaros1979', 'abororoumn', 'LYBLY_COCATb6969', 'bebra7658', 'asqw_zv'}
 local HubName = 'е hub'
 local hui = false
 local UserInputService = game:GetService('UserInputService')
