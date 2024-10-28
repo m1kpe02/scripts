@@ -54,6 +54,7 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     local SpamToggle = false
     local explodeAll
     local WhitelistPlayer
+    local WhiteListedPlrs = {}
     local allPlrs
     --Coroutines
     local PoisonGrabCoroutine
@@ -933,20 +934,20 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
         Name = 'Anti kick',
         Callback = function(Value)
             local args = {
-                [1] = 'NinjaKunai',
+                [1] = "NinjaKunai",
                 [2] = CFrame.new(pos),
                 [3] = Vector3.new(0, -0, 0)
             }
-            game:GetService('ReplicatedStorage').MenuToys.SpawnToyRemoteFunction:InvokeServer(unpack(args))
+            game:GetService("ReplicatedStorage").MenuToys.SpawnToyRemoteFunction:InvokeServer(unpack(args))
             local args = {
                 [1] = workspace:FindFirstChild(SpawnedInToys).NinjaKunai.SoundPart,
                 [2] = CFrame.new(pos)
             }
-            game:GetService('ReplicatedStorage').GrabEvents.SetNetworkOwner:FireServer(unpack(args))
+            game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
             workspace:FindFirstChild(SpawnedInToys).NinjaKunai.SoundPart.CFrame = CFrane.new(pos)
         end    
     })
-    Tab:AddParagraph('Note','Super anti-grab do BIG ping (for all), reset and turn off 'Ragdoll' and server get small ping')
+    Tab:AddParagraph('Note','Super anti-grab do BIG ping (for all), reset and turn off "Ragdoll" and server get small ping')
 
     local Section = Tab:AddSection({Name = 'Rinnegan'})
 
@@ -1120,17 +1121,17 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
                 while explodeAll do
                     wait()
                     local args = {
-                        [1] = 'BombMissile',
+                        [1] = "BombMissile",
                         [2] = CFrame.new(pos),
                         [3] = Vector3.new(0, -0, 0)
                     }
-                    game:GetService('ReplicatedStorage').MenuToys.SpawnToyRemoteFunction:InvokeServer(unpack(args))
+                    game:GetService("ReplicatedStorage").MenuToys.SpawnToyRemoteFunction:InvokeServer(unpack(args))
                     wait()
                     local args = {
                         [1] = workspace:FindFirstChild(SpawnedInToys).BombMissile.Body,
                         [2] = CFrame.new(pos)
                     }
-                    game:GetService('ReplicatedStorage').GrabEvents.SetNetworkOwner:FireServer(unpack(args))
+                    game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
                     wait(0.2)
                     game.Workspace:FindFirstChild(SpawnedInToys).BombMissile.Body.CFrame = CFrane.new(plrPoses)
                 end
@@ -1158,17 +1159,17 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
                 while explodeAll do
                     wait()
                     local args = {
-                        [1] = 'BombMissile',
+                        [1] = "BombMissile",
                         [2] = CFrame.new(pos),
                         [3] = Vector3.new(0, -0, 0)
                     }
-                    game:GetService('ReplicatedStorage').MenuToys.SpawnToyRemoteFunction:InvokeServer(unpack(args))
+                    game:GetService("ReplicatedStorage").MenuToys.SpawnToyRemoteFunction:InvokeServer(unpack(args))
                     wait()
                     local args = {
                         [1] = workspace:FindFirstChild(SpawnedInToys).BombMissile.Body,
                         [2] = CFrame.new(pos)
                     }
-                    game:GetService('ReplicatedStorage').GrabEvents.SetNetworkOwner:FireServer(unpack(args))
+                    game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
                     wait(0.2)
                     game.Workspace:FindFirstChild(SpawnedInToys).BombMissile.Body.Position = plrsPoses
                 end
@@ -2026,8 +2027,9 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
         ExplodePlayerDrop:Refresh(ExplodePlayerDropdown(), true)
         WhitelistPlayerDrop:Refresh(WhitelistPlayerDropdown(), true)
         AmountOfPlayers = AmountOfPlayers + 1
-        allPlrs = allPlrs + 1
         CounOfPlayersLbl:Set('Count of players: '..AmountOfPlayers..'')
+        allPlrs = allPlrs + 1
+        AllPlayersLbl:Set('Count of players: '..allPlrs..'')
     end)
     Players.PlayerRemoving:Connect(function()
         TPDrop:Refresh(TeleportToPlayersDropdown(), true)
