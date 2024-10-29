@@ -631,7 +631,7 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
         Callback = function(Value)
             if Value == true then
                 walkSpd = Speed
-            elseif Value == fasle then
+            elseif Value == false then
                 walkSpd = 16
             end
         end
@@ -656,7 +656,7 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
         Callback = function(Value)
             if Value == true then
                 jumpPwr = Jump
-            elseif Value == fasle then
+            elseif Value == false then
                 jumpPwr = 28
             end
         end
@@ -681,7 +681,7 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
         Callback = function(Value)
             if Value == true then
                 gravity = Grav
-            elseif Value == fasle then
+            elseif Value == false then
                 gravity = 200
             end
         end
