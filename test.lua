@@ -56,6 +56,9 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     local WhitelistPlayer
     local WhiteListedPlrs = {}
     local allPlrs
+    local walkSpd = game.Players.LocalPlayer.Character.Humanoid.WalkSpeed
+    local jumpPwr = game.Players.LocalPlayer.Character.Humanoid.JumpPower
+    local gravity = game.Workpace.Gravity
     --Coroutines
     local PoisonGrabCoroutine
     local poisonAuraCoroutine
@@ -429,6 +432,7 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
 
     --Tabs
     local MainTab = Window:MakeTab({Name = 'Line', Icon = '', PremiumOnly = false})
+    local CharTab = Window:MakeTab({Name = 'Character', Icon = '', PremiumOnly = false})
     local AuraTab = Window:MakeTab({Name = 'Aura', Icon = '', PremiumOnly = false})
     local Tab = Window:MakeTab({Name = 'Anti-all', Icon = '', PremiumOnly = false})
     local FunTab = Window:MakeTab({Name = 'Fun', Icon = '', PremiumOnly = false})
@@ -604,6 +608,124 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
         end
     })
 
+    local Section = CharTab:AddSection({
+	Name = 'Default'
+    })
+
+    CharTab:AddSlider({
+    	Name = 'Walk speed',
+    	Min = 0,
+    	Max = 200,
+    	Default = 16,
+    	Color = Color3.fromRGB(255,255,255),
+    	Increment = 1,
+    	ValueName = 'Speed',
+    	Callback = function(Speed)
+    		walkSpd = Speed
+    	end    
+    })
+
+    CharTab:AddToggle({
+        Name = 'Speed toggle',
+        Default = false,
+        Callback = function(Value)
+            if Value == true then
+                walkSpd = Speed
+            elseif Value == fasle then
+                walkSpd = 16
+            end
+        end
+    })
+
+    CharTab:AddSlider({
+    	Name = "Jump Power",
+    	Min = 0,
+    	Max = 500,
+    	Default = 28,
+    	Color = Color3.fromRGB(255,255,255),
+    	Increment = 1,
+    	ValueName = 'Jump',
+    	Callback = function(Jump)
+    		jumpPwr = Jump
+    	end    
+    })
+
+    CharTab:AddToggle({
+        Name = 'Jump toggle',
+        Default = false,
+        Callback = function(Value)
+            if Value == true then
+                jumpPwr = Jump
+            elseif Value == fasle then
+                jumpPwr = 28
+            end
+        end
+    })
+
+    CharTab:AddSlider({
+    	Name = 'Gravity toggle',
+    	Min = 0,
+    	Max = 500,
+    	Default = 28,
+    	Color = Color3.fromRGB(255,255,255),
+    	Increment = 1,
+    	ValueName = 'Jump',
+    	Callback = function(Grav)
+    		gravity = Grav
+    	end    
+    })
+
+    CharTab:AddToggle({
+        Name = 'Gravity',
+        Default = false,
+        Callback = function(Value)
+            if Value == true then
+                gravity = Grav
+            elseif Value == fasle then
+                gravity = 200
+            end
+        end
+    })
+
+    local Section = CharTab:AddSection({
+	Name = 'Advanced'
+    })
+
+    CharTab:AddToggle({
+        Name = 'More jumps (скоро)',
+        Default = false,
+        Callback = function(Value)
+            if Value then
+                print('скоро')
+                wait()
+            end
+        end
+    })
+
+    CharTab:AddSlider({
+    	Name = 'Jumps (скоро)',
+    	Min = 0,
+    	Max = 100,
+    	Default = 28,
+    	Color = Color3.fromRGB(255,255,255),
+    	Increment = 1,
+    	ValueName = 'Jump',
+    	Callback = function(Value)
+    		print(Value)
+    	end    
+    })
+
+    CharTab:AddToggle({
+        Name = 'Infinite jumps (скоро)',
+        Default = false,
+        Callback = function(Value)
+            if Value then
+                print('скоро')
+                wait()
+            end
+        end
+    })
+    
     AuraTab:AddToggle({
         Name = 'Grab aura',
         Default = false,
