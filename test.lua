@@ -58,7 +58,7 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     local allPlrs
     local walkSpd = game.Players.LocalPlayer.Character.Humanoid.WalkSpeed
     local jumpPwr = game.Players.LocalPlayer.Character.Humanoid.JumpPower
-    local gravity = game.Workpace.Gravity
+    local gravity = game.Workspace.Gravity
     --Coroutines
     local PoisonGrabCoroutine
     local poisonAuraCoroutine
@@ -73,6 +73,7 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     local killGrabCoroutine
     local defenseCoroutine
     local heavenGrabCoroutine
+    local CrazyGrabCoroutine
 
     local function getDescendantParts(descendantName)
         local parts = {}
@@ -608,6 +609,63 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
         end
     })
 
+    MainTab:AddToggle({
+        Name = 'Teleport grab',
+        Default = false,
+        Callback = function(Value)
+            if Value then
+                CrazyGrabCoroutine = coroutine.create(function()
+                    while true do
+                        pcall(function()
+                            local child = workspace:FindFirstChild('GrabParts')
+                            if child and child.Name == 'GrabParts' then
+                                local grabPart = child:FindFirstChild('GrabPart')
+                                local grabbedPart = grabPart:FindFirstChild('WeldConstraint').Part1
+                                local trgtCHR = grabbedPart.Parent
+                                local target = trgtCHR.Torso
+                                if trgtCHR then
+                                    if TPgrabOption == 'TP to spawn' then
+                                        trgtCHR.HumanoidRootPart.CFrame = CFrame.new(-1, -7, -9)
+                                        wait()
+                                    elseif TPgrabOption == 'Crazy teleport' then
+                                        trgtCHR.HumanoidRootPart.CFrame = CFrame.new(-17, 421, 50)
+                                        wait(0.1)
+                                        trgtCHR.HumanoidRootPart.CFrame = CFrame.new(145, 397, -126)
+                                        wait(0.1)
+                                        trgtCHR.HumanoidRootPart.CFrame = CFrame.new(157, 254, 89)
+                                        wait(0.1)
+                                        trgtCHR.HumanoidRootPart.CFrame = CFrame.new(-26, 207, -26)
+                                        wait(0.1)
+                                        trgtCHR.HumanoidRootPart.CFrame = CFrame.new(-23, 456, -19)
+                                        wait(0.1)
+                                        trgtCHR.HumanoidRootPart.CFrame = CFrame.new(15, 211, 45)
+                                        wait(0.1)
+                                    end
+                                end
+                            end
+                        end)
+                        wait()
+                    end
+                end)
+                coroutine.resume(CrazyGrabCoroutine)
+            else
+                if CrazyGrabCoroutine then
+                    coroutine.close(CrazyGrabCoroutine)
+                    CrazyGrabCoroutine = nil
+                end
+            end
+        end
+    })
+
+    MainTab:AddDropdown({
+        Name = 'Teleport grab',
+        Default = 'TP to spawn',
+        Options = {'TP to spawn', 'Crazy teleport'},
+        Callback = function(Value)
+            TPgrabOption = Value
+        end    
+    })
+
     local Section = CharTab:AddSection({
 	Name = 'Default'
     })
@@ -630,7 +688,9 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
         Default = false,
         Callback = function(Value)
             if Value == true then
-                walkSpd = Speed
+                while game:GetService('RunService').RenderSteped:Wait() do
+                    walkSpd = Speed
+                end
             elseif Value == false then
                 walkSpd = 16
             end
@@ -666,10 +726,10 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     	Name = 'Gravity toggle',
     	Min = 0,
     	Max = 500,
-    	Default = 28,
+    	Default = 200,
     	Color = Color3.fromRGB(255,255,255),
     	Increment = 1,
-    	ValueName = 'Jump',
+    	ValueName = 'Gravity',
     	Callback = function(Grav)
     		gravity = Grav
     	end    
@@ -1053,7 +1113,7 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     })
 
     Tab:AddButton({
-        Name = 'Anti kick',
+        Name = 'Anti kick (не работает)',
         Callback = function(Value)
             local args = {
                 [1] = "NinjaKunai",
@@ -1232,7 +1292,7 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     local Section = BombTab:AddSection({Name = 'All'})
 
     BombTab:AddToggle({
-        Name = 'Explode all',
+        Name = 'Explode all (не работает)',
         Default = false,
         Callback = function(Value)
             explodeAll = Value
@@ -1273,7 +1333,7 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     })
 
     BombTab:AddToggle({
-        Name = 'Explode all',
+        Name = 'Explode (не работает)',
         Default = false,
         Callback = function(Value)
             explodePlr = Value
@@ -1657,7 +1717,7 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
                 end
             end
         end
-    })
+    })z
 
     local Section = TPTab:AddSection({
         Name = 'Players'
