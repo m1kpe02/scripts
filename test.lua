@@ -1,24 +1,24 @@
-if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or 'abororoumn' or 'LYBLY_COCATb6969' then
-    local HubName = 'm1kp'
+if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "abororoumn" or "LYBLY_COCATb6969" then
+    local HubName = "m1kp"
     local hui = false
-    local UserInputService = game:GetService('UserInputService')
-    local Players = game:GetService('Players')
+    local UserInputService = game:GetService("UserInputService")
+    local Players = game:GetService("Players")
     local LocalPlayer = Players.LocalPlayer
     local LocalCharacter = LocalPlayer.Character or LocalPlayer.CharacterAdded:Wait()
-    local toysFolder = workspace:FindFirstChild(LocalPlayer.Name..'SpawnedInToys')
-    local RunService = game:GetService('RunService')
-    local ReplicatedStorage = game:GetService('ReplicatedStorage')
-    local Debris = game:GetService('Debris')
+    local toysFolder = workspace:FindFirstChild(LocalPlayer.Name.."SpawnedInToys")
+    local RunService = game:GetService("RunService")
+    local ReplicatedStorage = game:GetService("ReplicatedStorage")
+    local Debris = game:GetService("Debris")
 
-    local GrabEvents = ReplicatedStorage:WaitForChild('GrabEvents')
-    local MenuToys = ReplicatedStorage:WaitForChild('MenuToys')
-    local CharacterEvents = ReplicatedStorage:WaitForChild('CharacterEvents')
-    local SetNetworkOwner = GrabEvents:WaitForChild('SetNetworkOwner')
-    local Struggle = CharacterEvents:WaitForChild('Struggle')
-    local CreateGrabLine = GrabEvents:WaitForChild('CreateGrabLine')
-    local DestroyGrabLine = GrabEvents:WaitForChild('DestroyGrabLine')
-    local DestroyToy = MenuToys:WaitForChild('DestroyToy')
-    local RagdollRemote = CharacterEvents:WaitForChild('RagdollRemote')
+    local GrabEvents = ReplicatedStorage:WaitForChild("GrabEvents")
+    local MenuToys = ReplicatedStorage:WaitForChild("MenuToys")
+    local CharacterEvents = ReplicatedStorage:WaitForChild("CharacterEvents")
+    local SetNetworkOwner = GrabEvents:WaitForChild("SetNetworkOwner")
+    local Struggle = CharacterEvents:WaitForChild("Struggle")
+    local CreateGrabLine = GrabEvents:WaitForChild("CreateGrabLine")
+    local DestroyGrabLine = GrabEvents:WaitForChild("DestroyGrabLine")
+    local DestroyToy = MenuToys:WaitForChild("DestroyToy")
+    local RagdollRemote = CharacterEvents:WaitForChild("RagdollRemote")
     --Variables
     local burnPart
     local strength = 400
@@ -49,7 +49,7 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     local slotSelected
     local AmountOfPlayers = 0
     local pos = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
-    local SpawnedInToys = game.Players.LocalPlayer.Name..'SpawnedInToys'
+    local SpawnedInToys = game.Players.LocalPlayer.Name.."SpawnedInToys"
     local songSelected
     local SpamToggle = false
     local explodeAll
@@ -78,15 +78,15 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     local function getDescendantParts(descendantName)
         local parts = {}
         for _, descendant in ipairs(workspace:GetDescendants()) do
-            if descendant:IsA('Part') and descendant.Name == descendantName then
+            if descendant:IsA("Part") and descendant.Name == descendantName then
                 table.insert(parts, descendant)
             end
         end
         return parts
     end
 
-    local PoisonHurtParts = getDescendantParts('PoisonHurtPart')
-    local PaintPlayerParts = getDescendantParts('PaintPlayerPart')
+    local PoisonHurtParts = getDescendantParts("PoisonHurtPart")
+    local PaintPlayerParts = getDescendantParts("PaintPlayerPart")
 
     local function spawnItem(itemName, position, orientation)
         task.spawn(function()
@@ -107,15 +107,15 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
             local player = Players:FindFirstChild(p)
             if player and player.Character then
                 local playerCharacter = LocalCharacter
-                if toysFolder:FindFirstChild('Campfire') then
-                    DestroyToy:FireServer(toysFolder:FindFirstChild('Campfire'))
+                if toysFolder:FindFirstChild("Campfire") then
+                    DestroyToy:FireServer(toysFolder:FindFirstChild("Campfire"))
                     wait(0.5)
                 end
-                spawnItemCf('Campfire', playerCharacter.Head.CFrame + Vector3.new(0,-10,0))
-                local campfire = toysFolder:WaitForChild('Campfire')
+                spawnItemCf("Campfire", playerCharacter.Head.CFrame + Vector3.new(0,-10,0))
+                local campfire = toysFolder:WaitForChild("Campfire")
                 local firePlayerPart
                 for _, part in pairs(campfire:GetChildren()) do
-                    if part.Name == 'FirePlayerPart' then
+                    if part.Name == "FirePlayerPart" then
                         part.Size = Vector3.new(10, 10, 10)
                         firePlayerPart = part
                         break
@@ -127,7 +127,7 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
                 wait(0.3)
                 playerCharacter:MoveTo(originalPosition)
                 firePlayerPart.Size = Vector3.new(10, 10, 10)
-                local bodyPosition = Instance.new('BodyPosition')
+                local bodyPosition = Instance.new("BodyPosition")
                 bodyPosition.Parent = campfire.Main
                 bodyPosition.Position = playerCharacter.Head.Position + Vector3.new(0, 600, 0)
                 if player.Character and player.Character.HumanoidRootPart then
@@ -143,15 +143,15 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
             local player = Players:FindFirstChild(p)
             if player and player.Character then
                 local playerCharacter = LocalCharacter
-                if toysFolder:FindFirstChild('Campfire') then
-                    DestroyToy:FireServer(toysFolder:FindFirstChild('Campfire'))
+                if toysFolder:FindFirstChild("Campfire") then
+                    DestroyToy:FireServer(toysFolder:FindFirstChild("Campfire"))
                     wait(0.5)
                 end
-                spawnItemCf('Campfire', playerCharacter.Head.CFrame + Vector3.new(0,-10,0))
-                local campfire = toysFolder:WaitForChild('Campfire')
+                spawnItemCf("Campfire", playerCharacter.Head.CFrame + Vector3.new(0,-10,0))
+                local campfire = toysFolder:WaitForChild("Campfire")
                 local firePlayerPart
                 for _, part in pairs(campfire:GetChildren()) do
-                    if part.Name == 'FirePlayerPart' then
+                    if part.Name == "FirePlayerPart" then
                     part.Size = Vector3.new(10, 10, 10)
                     firePlayerPart = part
                         break
@@ -161,7 +161,7 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
                 firePlayerPart.Size = Vector3.new(1,1,1)
                 wait(0.3)
                 firePlayerPart.Size = Vector3.new(10, 10, 10)
-                local bodyPosition = Instance.new('BodyPosition')
+                local bodyPosition = Instance.new("BodyPosition")
                 bodyPosition.Parent = campfire.Main
                 bodyPosition.Position = playerCharacter.Head.Position + Vector3.new(0, 600, 0)
                 while true do
@@ -179,14 +179,14 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     local function grabHandler(grabType)
         while true do
             local success, err = pcall(function()
-                local child = workspace:FindFirstChild('GrabParts')
-                if child and child.Name == 'GrabParts' then
-                    local grabPart = child:FindFirstChild('GrabPart')
-                    local grabbedPart = grabPart:FindFirstChild('WeldConstraint').Part1
-                    local head = grabbedPart.Parent:FindFirstChild('Head')
+                local child = workspace:FindFirstChild("GrabParts")
+                if child and child.Name == "GrabParts" then
+                    local grabPart = child:FindFirstChild("GrabPart")
+                    local grabbedPart = grabPart:FindFirstChild("WeldConstraint").Part1
+                    local head = grabbedPart.Parent:FindFirstChild("Head")
                     if head then
-                        while workspace:FindFirstChild('GrabParts') do
-                            local partsTable = grabType == 'poison' and PoisonHurtParts or PaintPlayerParts
+                        while workspace:FindFirstChild("GrabParts") do
+                            local partsTable = grabType == "poison" and PoisonHurtParts or PaintPlayerParts
                             for _, part in pairs(partsTable) do
                                 part.Size = Vector3.new(2, 2, 2)
                                 part.Transparency = 1
@@ -208,11 +208,11 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     end
 
     local function burn(part)
-        if not toysFolder:FindFirstChild('Campfire') then
-            spawnItem('Campfire', Vector3.new(-72.9304581, -5.96906614, -265.543732))
+        if not toysFolder:FindFirstChild("Campfire") then
+            spawnItem("Campfire", Vector3.new(-72.9304581, -5.96906614, -265.543732))
         end
-        local campfire = toysFolder:FindFirstChild('Campfire')
-        burnPart = campfire:FindFirstChild('FirePlayerPart') or campfire.FirePlayerPart
+        local campfire = toysFolder:FindFirstChild("Campfire")
+        burnPart = campfire:FindFirstChild("FirePlayerPart") or campfire.FirePlayerPart
         burnPart.Size = Vector3.new(7, 7, 7)
         burnPart.Position = part.Position
         task.wait(0.3)
@@ -222,11 +222,11 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     local function burnGrab()
         while true do
             local success, err = pcall(function()
-                local child = workspace:FindFirstChild('GrabParts')
-                if child and child.Name == 'GrabParts' then
-                    local grabPart = child:FindFirstChild('GrabPart')
-                    local grabbedPart = grabPart:FindFirstChild('WeldConstraint').Part1
-                    local head = grabbedPart.Parent:FindFirstChild('Head')
+                local child = workspace:FindFirstChild("GrabParts")
+                if child and child.Name == "GrabParts" then
+                    local grabPart = child:FindFirstChild("GrabPart")
+                    local grabbedPart = grabPart:FindFirstChild("WeldConstraint").Part1
+                    local head = grabbedPart.Parent:FindFirstChild("Head")
                     if head then
                         burn(head)
                     end
@@ -239,10 +239,10 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     local function killGrab()
         while true do
             pcall(function()
-                local child = workspace:FindFirstChild('GrabParts')
-                if child and child.Name == 'GrabParts' then
-                    local grabPart = child:FindFirstChild('GrabPart')
-                    local grabbedPart = grabPart:FindFirstChild('WeldConstraint').Part1
+                local child = workspace:FindFirstChild("GrabParts")
+                if child and child.Name == "GrabParts" then
+                    local grabPart = child:FindFirstChild("GrabPart")
+                    local grabbedPart = grabPart:FindFirstChild("WeldConstraint").Part1
                     local trgtCHR = grabbedPart.Parent
                     local trgt = trgtCHR.Parent
                     if grabbedPart.Parent then wait(0.4) trgtCHR.Humanoid.Health = 0 end
@@ -260,14 +260,14 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
         while pCHR.Humanoid.Health ~= 0 do
             a.HumanoidRootPart.CFrame = pHRP.CFrame - Vector3.new(0, 10, 0)
             local args = {
-                [1] = game:GetService('Players'):FindFirstChild(p).Character.HumanoidRootPart,
+                [1] = game:GetService("Players"):FindFirstChild(p).Character.HumanoidRootPart,
                 [2] = CFrame.new(pHRP.Position) * CFrame.Angles(-0, 0, -0)
             }
             SetNetworkOwner:FireServer(unpack(args))
             for _, part in pairs(PoisonHurtParts) do
                 part.Size = Vector3.new(1.5,1.5,1.5)
                 part.Transparency = 1
-                part.Position = pCHR:FindFirstChild('Head').Position
+                part.Position = pCHR:FindFirstChild("Head").Position
             end
             wait()
             for _, part in pairs(PoisonHurtParts) do
@@ -281,7 +281,7 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     end
 
     local function TargetPlayersDropdown()
-        local players = game:GetService('Players'):GetPlayers()
+        local players = game:GetService("Players"):GetPlayers()
         local playerNames = {}
 
         for _, player in ipairs(players) do
@@ -293,10 +293,10 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
 
     local function bringLeft(k)
         for _, v in pairs(workspace:GetDescendants()) do
-            if v.Name == 'CreatureBlobman' then
+            if v.Name == "CreatureBlobman" then
                 local args = {
                     [1] = v.LeftDetector,
-                    [2] = game:GetService('Players'):FindFirstChild(k).Character.HumanoidRootPart,
+                    [2] = game:GetService("Players"):FindFirstChild(k).Character.HumanoidRootPart,
                     [3] = v.LeftDetector.LeftWeld
                 }
         
@@ -306,10 +306,10 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     end
     local function bringRight(k)
         for _, v in pairs(workspace:GetDescendants()) do
-            if v.Name == 'CreatureBlobman' then
+            if v.Name == "CreatureBlobman" then
                 local args = {
                     [1] = v.RightDetector,
-                    [2] = game:GetService('Players'):FindFirstChild(k).Character.HumanoidRootPart,
+                    [2] = game:GetService("Players"):FindFirstChild(k).Character.HumanoidRootPart,
                     [3] = v.RightDetector.RightWeld
                 }
         
@@ -319,7 +319,7 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     end
 
     local function LeftBlobPlayersDropdown()
-        local players = game:GetService('Players'):GetPlayers()
+        local players = game:GetService("Players"):GetPlayers()
         local playerNames = {}
         
         for _, player in ipairs(players) do
@@ -330,7 +330,7 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     end
 
     local function RightBlobPlayersDropdown()
-        local players = game:GetService('Players'):GetPlayers()
+        local players = game:GetService("Players"):GetPlayers()
         local playerNames = {}
         
         for _, player in ipairs(players) do
@@ -341,7 +341,7 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     end
 
     local function DuoBlobPlayersDropdown()
-        local players = game:GetService('Players'):GetPlayers()
+        local players = game:GetService("Players"):GetPlayers()
         local playerNames = {}
         
         for _, player in ipairs(players) do
@@ -352,7 +352,7 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     end
 
     local function TeleportToPlayersDropdown()
-        local players = game:GetService('Players'):GetPlayers()
+        local players = game:GetService("Players"):GetPlayers()
         local playerNames = {}
         
         for _, player in ipairs(players) do
@@ -363,7 +363,7 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     end
 
     local function ExplodePlayerDropdown()
-        local players = game:GetService('Players'):GetPlayers()
+        local players = game:GetService("Players"):GetPlayers()
         local playerNames = {}
         
         for _, player in ipairs(players) do
@@ -374,7 +374,7 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     end
 
     local function WhitelistPlayerDropdown()
-        local players = game:GetService('Players'):GetPlayers()
+        local players = game:GetService("Players"):GetPlayers()
         local playerNames = {}
         
         for _, player in ipairs(players) do
@@ -385,7 +385,7 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     end
 
     local function applyActionToPlayer(player)
-        local torso = player.Character and player.Character:FindFirstChild('Torso')
+        local torso = player.Character and player.Character:FindFirstChild("Torso")
         if torso then
             local args = {
                 torso,
@@ -428,39 +428,40 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
 
 
     --GUI
-    local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
-    local Window = OrionLib:MakeWindow({Name = HubName, HidePremium = false, SaveConfig = False, ConfigFolder = 'OrionTest', IntroEnabled = false})
+    local OrionLib = loadstring(game:HttpGet(("https://raw.githubusercontent.com/shlexware/Orion/main/source")))()
+    local Window = OrionLib:MakeWindow({Name = HubName, HidePremium = false, SaveConfig = False, ConfigFolder = "OrionTest", IntroEnabled = false})
 
     --Tabs
-    local MainTab = Window:MakeTab({Name = 'Line', Icon = '', PremiumOnly = false})
-    local CharTab = Window:MakeTab({Name = 'Character', Icon = '', PremiumOnly = false})
-    local AuraTab = Window:MakeTab({Name = 'Aura', Icon = '', PremiumOnly = false})
-    local Tab = Window:MakeTab({Name = 'Anti-all', Icon = '', PremiumOnly = false})
-    local FunTab = Window:MakeTab({Name = 'Fun', Icon = '', PremiumOnly = false})
-    local BombTab = Window:MakeTab({Name = 'Bomb', Icon = '', PremiumOnly = false})
-    local BlobTab = Window:MakeTab({Name = 'Blob', Icon = '', PremiumOnly = false})
-    local TargetTab = Window:MakeTab({Name = 'Target', Icon = '', PremiumOnly = false})
-    local TPTab = Window:MakeTab({Name = 'Teleport', Icon = '', PremiumOnly = false})
-    local AutoPianoTab = Window:MakeTab({Name = 'Auto piano', Icon = '', PremiumOnly = false})
-    local VisualTab = Window:MakeTab({Name = 'Visual', Icon = '', PremiumOnly = false})
-    local BindTab = Window:MakeTab({Name = 'Keybinds', Icon = '', PremiumOnly = false})
-    local WhitelistTab = Window:MakeTab({Name = 'Whitelist (скоро)', Icon = '', PremiumOnly = false})
-    local ServerInfoTab = Window:MakeTab({Name = 'ServerInfo', Icon = '', PremiumOnly = false})
+    local MainTab = Window:MakeTab({Name = "Line", Icon = "", PremiumOnly = false})
+    local CharTab = Window:MakeTab({Name = "Character", Icon = "", PremiumOnly = false})
+    local AuraTab = Window:MakeTab({Name = "Aura", Icon = "", PremiumOnly = false})
+    local Tab = Window:MakeTab({Name = "Anti-all", Icon = "", PremiumOnly = false})
+    local FunTab = Window:MakeTab({Name = "Fun", Icon = "", PremiumOnly = false})
+    local BombTab = Window:MakeTab({Name = "Bomb", Icon = "", PremiumOnly = false})
+    local BlobTab = Window:MakeTab({Name = "Blob", Icon = "", PremiumOnly = false})
+    local TargetTab = Window:MakeTab({Name = "Target", Icon = "", PremiumOnly = false})
+    local TPTab = Window:MakeTab({Name = "Teleport", Icon = "", PremiumOnly = false})
+    local AutoPianoTab = Window:MakeTab({Name = "Auto piano", Icon = "", PremiumOnly = false})
+    local VisualTab = Window:MakeTab({Name = "Visual", Icon = "", PremiumOnly = false})
+    local BindTab = Window:MakeTab({Name = "Keybinds", Icon = "", PremiumOnly = false})
+    local WhitelistTab = Window:MakeTab({Name = "Whitelist (скоро)", Icon = "", PremiumOnly = false})
+    local ServerInfoTab = Window:MakeTab({Name = "ServerInfo", Icon = "", PremiumOnly = false})
+    local ScriptTab = Window:MakeTab({Name = "Scripts", Icon = "", PremiumOnly = false})
 
 
     MainTab:AddToggle({
-        Name = 'More Strength',
+        Name = "More Strength",
         Default = false,
         Save = true,
-        Flag = 'StrengthToggle',
+        Flag = "StrengthToggle",
         Callback = function(Value)
             if Value then
                 strengthConnection = workspace.ChildAdded:Connect(function(model)
-                    if model.Name == 'GrabParts' then
+                    if model.Name == "GrabParts" then
                         local partToFling = model.GrabPart.WeldConstraint.Part1
                         if partToFling then
-                            local velocityObj = Instance.new('BodyVelocity', partToFling)
-                            model:GetPropertyChangedSignal('Parent'):Connect(function()
+                            local velocityObj = Instance.new("BodyVelocity", partToFling)
+                            model:GetPropertyChangedSignal("Parent"):Connect(function()
                                 if not model.Parent then
                                     if UserInputService:GetLastInputType() == Enum.UserInputType.MouseButton2 then
                                         velocityObj.MaxForce = Vector3.new(math.huge, math.huge, math.huge)
@@ -481,10 +482,10 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     })
 
     MainTab:AddSlider({
-        Name = 'Strength',
+        Name = "Strength",
         Min = 100,
         Max = 10000,
-        ValueName = '',
+        ValueName = "",
         Increment = 50,
         Default = strength,
         Callback = function(Value)
@@ -492,14 +493,14 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
         end
     })
 
-    local Section = MainTab:AddSection({Name = 'Grabs'})
+    local Section = MainTab:AddSection({Name = "Grabs"})
 
     MainTab:AddToggle({
-        Name = 'Poison Grab',
+        Name = "Poison Grab",
         Default = false,
         Callback = function(Value)
             if Value then
-                PoisonGrabCoroutine = coroutine.create(function() grabHandler('poison') end)
+                PoisonGrabCoroutine = coroutine.create(function() grabHandler("poison") end)
                 coroutine.resume(PoisonGrabCoroutine)
             else
                 if PoisonGrabCoroutine then
@@ -514,11 +515,11 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     })
 
     MainTab:AddToggle({
-        Name = 'Radiactive Grab',
+        Name = "Radiactive Grab",
         Default = false,
         Callback = function(Value)
             if Value then
-                RadiactiveGrabCoroutine = coroutine.create(function() grabHandler('radioctive') end)
+                RadiactiveGrabCoroutine = coroutine.create(function() grabHandler("radioctive") end)
                 coroutine.resume(RadiactiveGrabCoroutine)
             else
                 if RadiactiveGrabCoroutine then
@@ -533,7 +534,7 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     })
 
     MainTab:AddToggle({
-        Name = 'Burn grab',
+        Name = "Burn grab",
         Default = false,
         Callback = function(Value)
             if Value then
@@ -549,7 +550,7 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     })
 
     MainTab:AddToggle({
-        Name = 'Kill grab',
+        Name = "Kill grab",
         Default = false,
         Callback = function(Value)
             if Value then
@@ -565,22 +566,22 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     })
 
     MainTab:AddToggle({
-        Name = 'Heaven grab',
+        Name = "Heaven grab",
         Default = false,
         Callback = function(Value)
             if Value then
                 heavenGrabCoroutine = coroutine.create(function()
                     while true do
                         pcall(function()
-                            local child = workspace:FindFirstChild('GrabParts')
-                            if child and child.Name == 'GrabParts' then
-                                local grabPart = child:FindFirstChild('GrabPart')
-                                local grabbedPart = grabPart:FindFirstChild('WeldConstraint').Part1
+                            local child = workspace:FindFirstChild("GrabParts")
+                            if child and child.Name == "GrabParts" then
+                                local grabPart = child:FindFirstChild("GrabPart")
+                                local grabbedPart = grabPart:FindFirstChild("WeldConstraint").Part1
                                 local trgtCHR = grabbedPart.Parent
                                 local target = trgtCHR.Torso
                                 if trgtCHR then
-                                    local velocity = target:FindFirstChild('heavenG') or Instance.new('BodyVelocity')
-                                    velocity.Name = 'heavenG'
+                                    local velocity = target:FindFirstChild("heavenG") or Instance.new("BodyVelocity")
+                                    velocity.Name = "heavenG"
                                     velocity.Parent = target
                                     velocity.Velocity = Vector3.new(0,9999999,0)
                                     velocity.MaxForce = Vector3.new(math.huge, math.huge, math.huge)
@@ -600,7 +601,7 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
                         local a = v.Torso
                         if a then
                             for _, i in pairs(a:GetChildren()) do
-                                if i.Name == 'heavenG' and i:IsA('BodyVelocuty') then i:Destroy() end
+                                if i.Name == "heavenG" and i:IsA("BodyVelocuty") then i:Destroy() end
                             end
                         end
                     end
@@ -610,24 +611,24 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     })
 
     MainTab:AddToggle({
-        Name = 'Teleport grab',
+        Name = "Teleport grab",
         Default = false,
         Callback = function(Value)
             if Value then
                 CrazyGrabCoroutine = coroutine.create(function()
                     while true do
                         pcall(function()
-                            local child = workspace:FindFirstChild('GrabParts')
-                            if child and child.Name == 'GrabParts' then
-                                local grabPart = child:FindFirstChild('GrabPart')
-                                local grabbedPart = grabPart:FindFirstChild('WeldConstraint').Part1
+                            local child = workspace:FindFirstChild("GrabParts")
+                            if child and child.Name == "GrabParts" then
+                                local grabPart = child:FindFirstChild("GrabPart")
+                                local grabbedPart = grabPart:FindFirstChild("WeldConstraint").Part1
                                 local trgtCHR = grabbedPart.Parent
                                 local target = trgtCHR.Torso
                                 if trgtCHR then
-                                    if TPgrabOption == 'TP to spawn' then
+                                    if TPgrabOption == "TP to spawn" then
                                         trgtCHR.HumanoidRootPart.CFrame = CFrame.new(-1, -7, -9)
                                         wait()
-                                    elseif TPgrabOption == 'Crazy teleport' then
+                                    elseif TPgrabOption == "Crazy teleport" then
                                         trgtCHR.HumanoidRootPart.CFrame = CFrame.new(-17, 421, 50)
                                         wait(0.1)
                                         trgtCHR.HumanoidRootPart.CFrame = CFrame.new(145, 397, -126)
@@ -658,37 +659,37 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     })
 
     MainTab:AddDropdown({
-        Name = 'Teleport grab',
-        Default = 'TP to spawn',
-        Options = {'TP to spawn', 'Crazy teleport'},
+        Name = "Teleport grab",
+        Default = "TP to spawn",
+        Options = {"TP to spawn", "Crazy teleport"},
         Callback = function(Value)
             TPgrabOption = Value
         end    
     })
 
     local Section = CharTab:AddSection({
-	Name = 'Default'
+	Name = "Default"
     })
 
     CharTab:AddSlider({
-    	Name = 'Walk speed',
+    	Name = "Walk speed",
     	Min = 0,
     	Max = 200,
     	Default = 16,
     	Color = Color3.fromRGB(255,255,255),
     	Increment = 1,
-    	ValueName = 'Speed',
+    	ValueName = "Speed",
     	Callback = function(Speed)
     		walkSpd = Speed
     	end    
     })
 
     CharTab:AddToggle({
-        Name = 'Speed toggle',
+        Name = "Speed toggle",
         Default = false,
         Callback = function(Value)
             if Value == true then
-                while game:GetService('RunService').RenderSteped:Wait() do
+                while game:GetService("RunService").RenderSteped:Wait() do
                     walkSpd = Speed
                 end
             elseif Value == false then
@@ -704,14 +705,14 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     	Default = 28,
     	Color = Color3.fromRGB(255,255,255),
     	Increment = 1,
-    	ValueName = 'Jump',
+    	ValueName = "Jump",
     	Callback = function(Jump)
     		jumpPwr = Jump
     	end    
     })
 
     CharTab:AddToggle({
-        Name = 'Jump toggle',
+        Name = "Jump toggle",
         Default = false,
         Callback = function(Value)
             if Value == true then
@@ -723,20 +724,20 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     })
 
     CharTab:AddSlider({
-    	Name = 'Gravity toggle',
+    	Name = "Gravity",
     	Min = 0,
     	Max = 500,
     	Default = 200,
     	Color = Color3.fromRGB(255,255,255),
     	Increment = 1,
-    	ValueName = 'Gravity',
+    	ValueName = "Gravity",
     	Callback = function(Grav)
     		gravity = Grav
     	end    
     })
 
     CharTab:AddToggle({
-        Name = 'Gravity',
+        Name = "Gravity toggle",
         Default = false,
         Callback = function(Value)
             if Value == true then
@@ -748,46 +749,46 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     })
 
     local Section = CharTab:AddSection({
-	Name = 'Advanced'
+	Name = "Advanced"
     })
 
     CharTab:AddToggle({
-        Name = 'More jumps (скоро)',
+        Name = "More jumps (скоро)",
         Default = false,
         Callback = function(Value)
             if Value then
-                print('скоро')
+                print("скоро")
                 wait()
             end
         end
     })
 
     CharTab:AddSlider({
-    	Name = 'Jumps (скоро)',
+    	Name = "Jumps (скоро)",
     	Min = 0,
     	Max = 100,
     	Default = 28,
     	Color = Color3.fromRGB(255,255,255),
     	Increment = 1,
-    	ValueName = 'Jump',
+    	ValueName = "Jump",
     	Callback = function(Value)
     		print(Value)
     	end    
     })
 
     CharTab:AddToggle({
-        Name = 'Infinite jumps (скоро)',
+        Name = "Infinite jumps (скоро)",
         Default = false,
         Callback = function(Value)
             if Value then
-                print('скоро')
+                print("скоро")
                 wait()
             end
         end
     })
     
     AuraTab:AddToggle({
-        Name = 'Grab aura',
+        Name = "Grab aura",
         Default = false,
         Callback = function(Value)
             if Value then
@@ -795,15 +796,15 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
                     while Value do
                         pcall(function()
                             local character = LocalCharacter
-                            if character and character:FindFirstChild('HumanoidRootPart') then
+                            if character and character:FindFirstChild("HumanoidRootPart") then
                                 local humanoidRootPart = character.HumanoidRootPart
 
                                 for _, player in pairs(Players:GetPlayers()) do
                                     if player ~= LocalPlayer and player.Character then
                                         local playerCharacter = player.Character
-                                        local playerHRP = playerCharacter:FindFirstChild('HumanoidRootPart')
+                                        local playerHRP = playerCharacter:FindFirstChild("HumanoidRootPart")
                                         if playerHRP then
-                                            if (LocalPlayer.Character.HumanoidRootPart.Position - playerCharacter.HumanoidRootPart.Position).Magnitude <= (LocalPlayer:FindFirstChild('DefaultReach').Value - 5) then
+                                            if (LocalPlayer.Character.HumanoidRootPart.Position - playerCharacter.HumanoidRootPart.Position).Magnitude <= (LocalPlayer:FindFirstChild("DefaultReach").Value - 5) then
                                                 if playerHRP then
                                                     if not whiteListEnabled or not game.Players.LocalPlayer:IsFriendsWith(player.UserId) then
                                                         SetNetworkOwner:FireServer(playerCharacter.HumanoidRootPart, playerCharacter.HumanoidRootPart.CFrame)
@@ -827,7 +828,7 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     })
 
     AuraTab:AddToggle({
-        Name = 'Poison Aura',
+        Name = "Poison Aura",
         Default = false,
         Save = true,
         Callback = function(Value)
@@ -836,17 +837,17 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
                     while Value do
                         pcall(function()
                             local character = LocalCharacter
-                            if character and character:FindFirstChild('HumanoidRootPart') then
+                            if character and character:FindFirstChild("HumanoidRootPart") then
                                 local humanoidRootPart = character.HumanoidRootPart
 
                                 for _, player in pairs(Players:GetPlayers()) do
                                     if player ~= LocalPlayer and player.Character then
                                         local playerCharacter = player.Character
-                                        local playerHRP = playerCharacter:FindFirstChild('HumanoidRootPart')
+                                        local playerHRP = playerCharacter:FindFirstChild("HumanoidRootPart")
                                         if playerHRP then
-                                            if (LocalPlayer.Character.HumanoidRootPart.Position - playerCharacter.HumanoidRootPart.Position).Magnitude <= (LocalPlayer:FindFirstChild('DefaultReach').Value - 5) then
-                                                local head = playerCharacter:FindFirstChild('Head')
-                                                while (LocalPlayer.Character.HumanoidRootPart.Position - playerCharacter.HumanoidRootPart.Position).Magnitude <= (LocalPlayer:FindFirstChild('DefaultReach').Value - 5) and playerCharacter.Humanoid.Health ~= 0 do
+                                            if (LocalPlayer.Character.HumanoidRootPart.Position - playerCharacter.HumanoidRootPart.Position).Magnitude <= (LocalPlayer:FindFirstChild("DefaultReach").Value - 5) then
+                                                local head = playerCharacter:FindFirstChild("Head")
+                                                while (LocalPlayer.Character.HumanoidRootPart.Position - playerCharacter.HumanoidRootPart.Position).Magnitude <= (LocalPlayer:FindFirstChild("DefaultReach").Value - 5) and playerCharacter.Humanoid.Health ~= 0 do
                                                     if playerHRP then
                                                         if not whiteListEnabled or not game.Players.LocalPlayer:IsFriendsWith(player.UserId) then
                                                             SetNetworkOwner:FireServer(playerCharacter.HumanoidRootPart, playerCharacter.HumanoidRootPart.CFrame)
@@ -886,7 +887,7 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     })
 
     AuraTab:AddToggle({
-        Name = 'Delete aura',
+        Name = "Delete aura",
         Default = false,
         Callback = function(Value)
             if Value then
@@ -894,23 +895,23 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
                     while Value do
                         pcall(function()
                             local character = LocalCharacter
-                            if character and character:FindFirstChild('HumanoidRootPart') then
+                            if character and character:FindFirstChild("HumanoidRootPart") then
                                 local humanoidRootPart = character.HumanoidRootPart
                                 for _, player in pairs(Players:GetPlayers()) do
                                     if player ~= LocalPlayer and player.Character then
                                         local playerCharacter = player.Character
-                                        local playerHRP = playerCharacter:FindFirstChild('HumanoidRootPart')
+                                        local playerHRP = playerCharacter:FindFirstChild("HumanoidRootPart")
                                         if playerHRP then
-                                            if (LocalPlayer.Character.HumanoidRootPart.Position - playerCharacter.HumanoidRootPart.Position).Magnitude <= (LocalPlayer:FindFirstChild('DefaultReach').Value - 5) then
-                                                while (LocalPlayer.Character.HumanoidRootPart.Position - playerCharacter.HumanoidRootPart.Position).Magnitude <= (LocalPlayer:FindFirstChild('DefaultReach').Value - 5) and playerCharacter.Humanoid.Health ~= 0 do
+                                            if (LocalPlayer.Character.HumanoidRootPart.Position - playerCharacter.HumanoidRootPart.Position).Magnitude <= (LocalPlayer:FindFirstChild("DefaultReach").Value - 5) then
+                                                while (LocalPlayer.Character.HumanoidRootPart.Position - playerCharacter.HumanoidRootPart.Position).Magnitude <= (LocalPlayer:FindFirstChild("DefaultReach").Value - 5) and playerCharacter.Humanoid.Health ~= 0 do
                                                     if playerHRP then
                                                         if not whiteListEnabled or not game.Players.LocalPlayer:IsFriendsWith(player.UserId) then
                                                             SetNetworkOwner:FireServer(playerCharacter.Torso, playerCharacter.HumanoidRootPart.CFrame)
                                                             local trgtCHR = playerCharacter
                                                             local target = trgtCHR.Torso
                                                             if trgtCHR then
-                                                                local velocity = target:FindFirstChild('heavenG') or Instance.new('BodyVelocity')
-                                                                velocity.Name = 'heavenG'
+                                                                local velocity = target:FindFirstChild("heavenG") or Instance.new("BodyVelocity")
+                                                                velocity.Name = "heavenG"
                                                                 velocity.Parent = target
                                                                 velocity.Velocity = Vector3.new(0,9999999,0)
                                                                 velocity.MaxForce = Vector3.new(math.huge, math.huge, math.huge)
@@ -937,7 +938,7 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
                     local a = v.Torso
                     if a then
                         for _, i in pairs(a:GetChildren()) do
-                            if i.Name == 'heavenG' and i:IsA('BodyVelocuty') then i:Destroy() end
+                            if i.Name == "heavenG" and i:IsA("BodyVelocuty") then i:Destroy() end
                         end
                     end
                 end
@@ -947,19 +948,19 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
 
     
 
-    local Section = AuraTab:AddSection({Name = 'Whitelist'})
+    local Section = AuraTab:AddSection({Name = "Whitelist"})
 
     AuraTab:AddToggle({
-        Name = 'Friends Whitelist',
+        Name = "Friends Whitelist",
         Default = false,
         Callback = function(Value)
             whiteListEnabled = Value
             if whiteListEnabled == true then 
                 OrionLib:MakeNotification(
                     {
-                        Name = 'whitelist enabled',
-                        Content = 'ur aura cant grab ur frends',
-                        Image = 'rbxassetid://7734053281',
+                        Name = "whitelist enabled",
+                        Content = "ur aura cant grab ur frends",
+                        Image = "rbxassetid://7734053281",
                         Time = 5
                     }
                 )
@@ -968,19 +969,19 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     })
 
     Tab:AddButton({
-        Name = 'Super anti grab (needs ragdoll and blob)',
+        Name = "Super anti grab (needs ragdoll and blob)",
         Callback = function()
             for _, v in pairs(workspace:GetDescendants()) do
-                if v.Name == 'CreatureBlobman' then
+                if v.Name == "CreatureBlobman" then
                     local args = {
                         [1] = v.RightDetector,
-                        [2] = game:GetService('Players').LocalPlayer.Character.HumanoidRootPart,
+                        [2] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
                         [3] = v.RightDetector.RightWeld
                     }
             
                     v.BlobmanSeatAndOwnerScript.CreatureGrab:FireServer(unpack(args))
                     local args = {
-                        [1] = game:GetService('Players').LocalPlayer.Character.HumanoidRootPart,
+                        [1] = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart,
                         [2] = CFrame.new(v.RightDetector.Position) * CFrame.Angles(-0, 0, -0)
                     }
             
@@ -991,21 +992,21 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     })
 
     Tab:AddToggle({
-        Name = 'Anti grab',
+        Name = "Anti grab",
         Default = false,
         Callback = function(Value)     
             if Value then
                 antiGrabCoroutine = RunService.Heartbeat:Connect(function()
                     local character = LocalPlayer.Character
-                    if character and character:FindFirstChild('Head') then
+                    if character and character:FindFirstChild("Head") then
                         local head = character.Head
-                        local partOwner = head:FindFirstChild('PartOwner')
+                        local partOwner = head:FindFirstChild("PartOwner")
                         if partOwner then
                             Struggle:FireServer()
                             RagdollRemote:FireServer(character.HumanoidRootPart, 0)
                             ReplicatedStorage.GameCorrectionEvents.StopAllVelocity:FireServer()
                             for _, part in pairs(character:GetChildren()) do
-                                if part:IsA('BasePart') then
+                                if part:IsA("BasePart") then
                                     part.Anchored = true
                                 end
                             end
@@ -1013,7 +1014,7 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
                                 wait()
                             end
                             for _, part in pairs(character:GetChildren()) do
-                                if part:IsA('BasePart') then
+                                if part:IsA("BasePart") then
                                     part.Anchored = false
                                 end
                             end
@@ -1030,7 +1031,7 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     })
 
     Tab:AddToggle({
-        Name = 'Anti lag',
+        Name = "Anti lag",
         Default = false,
         Callback = function(Value)
             local a = game.Players.LocalPlayer.Name
@@ -1043,45 +1044,45 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     })
 
     Tab:AddToggle({
-        Name = 'Anti bring',
+        Name = "Anti bring",
         Default = false,
         Callback = function(Value)
-            local a = game.Players.LocalPlayer.Name..'SpawnedInToys'
+            local a = game.Players.LocalPlayer.Name.."SpawnedInToys"
             hui = Value
             if hui == true then
                 for _, v in pairs(workspace:GetDescendants()) do
-                    if v.Name == 'LeftWeld' then
+                    if v.Name == "LeftWeld" then
                         if v.Parent.Parent.Parent ~= workspace:FindFirstChild(a) then
                             v.Enabled = false
                         end
-                    elseif v.Name == 'LeftAlignOrientation' then
+                    elseif v.Name == "LeftAlignOrientation" then
                         if v.Parent.Parent.Parent ~= workspace:FindFirstChild(a) then
                             v.Enabled = false
                         end
-                    elseif v.Name == 'RightWeld' then
+                    elseif v.Name == "RightWeld" then
                         if v.Parent.Parent.Parent ~= workspace:FindFirstChild(a) then
                             v.Enabled = false
                         end
-                    elseif v.Name == 'RightAlignOrientation' then
+                    elseif v.Name == "RightAlignOrientation" then
                         if v.Parent.Parent.Parent ~= workspace:FindFirstChild(a) then
                             v.Enabled = false
                         end
                     end
                 end
                 workspace.DescendantAdded:Connect(function(v)
-                    if v.Name == 'LeftWeld' then
+                    if v.Name == "LeftWeld" then
                         if v.Parent.Parent.Parent ~= workspace:FindFirstChild(a) then
                             v.Enabled = false
                         end
-                    elseif v.Name == 'LeftAlignOrientation' then
+                    elseif v.Name == "LeftAlignOrientation" then
                         if v.Parent.Parent.Parent ~= workspace:FindFirstChild(a) then
                             v.Enabled = false
                         end
-                    elseif v.Name == 'RightWeld' then
+                    elseif v.Name == "RightWeld" then
                         if v.Parent.Parent.Parent ~= workspace:FindFirstChild(a) then
                             v.Enabled = false
                         end
-                    elseif v.Name == 'RightAlignOrientation' then
+                    elseif v.Name == "RightAlignOrientation" then
                         if v.Parent.Parent.Parent ~= workspace:FindFirstChild(a) then
                             v.Enabled = false
                         end
@@ -1090,19 +1091,19 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
             end
             if hui == false then
                 for _, v in pairs(workspace:GetDescendants()) do
-                    if v.Name == 'LeftWeld' then
+                    if v.Name == "LeftWeld" then
                         if v.Parent.Parent.Parent ~= workspace:FindFirstChild(a) then
                             v.Enabled = true
                         end
-                    elseif v.Name == 'LeftAlignOrientation' then
+                    elseif v.Name == "LeftAlignOrientation" then
                         if v.Parent.Parent.Parent ~= workspace:FindFirstChild(a) then
                             v.Enabled = true
                         end
-                    elseif v.Name == 'RightWeld' then
+                    elseif v.Name == "RightWeld" then
                         if v.Parent.Parent.Parent ~= workspace:FindFirstChild(a) then
                             v.Enabled = true
                         end
-                    elseif v.Name == 'RightAlignOrientation' then
+                    elseif v.Name == "RightAlignOrientation" then
                         if v.Parent.Parent.Parent ~= workspace:FindFirstChild(a) then
                             v.Enabled = true
                         end
@@ -1113,77 +1114,67 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     })
 
     Tab:AddButton({
-        Name = 'Anti kick (не работает)',
+        Name = "Anti kick (не работает)",
         Callback = function(Value)
-            local args = {
-                [1] = "NinjaKunai",
-                [2] = CFrame.new(pos),
-                [3] = Vector3.new(0, -0, 0)
-            }
-            game:GetService("ReplicatedStorage").MenuToys.SpawnToyRemoteFunction:InvokeServer(unpack(args))
-            local args = {
-                [1] = workspace:FindFirstChild(SpawnedInToys).NinjaKunai.SoundPart,
-                [2] = CFrame.new(pos)
-            }
-            game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
-            workspace:FindFirstChild(SpawnedInToys).NinjaKunai.SoundPart.CFrame = CFrane.new(pos)
+            local ninKunai
+            ninKunai = Value
         end    
     })
-    Tab:AddParagraph('Note','Super anti-grab do BIG ping (for all), reset and turn off "Ragdoll" and server get small ping')
+    Tab:AddParagraph("Note","Super anti-grab do BIG ping (for all), reset and turn off 'Ragdoll' and server get small ping")
 
-    local Section = Tab:AddSection({Name = 'Rinnegan'})
+    local Section = Tab:AddSection({Name = "Rinnegan"})
 
     Tab:AddDropdown({
-        Name = 'Rinnegan type',
-        Default = 'Throw',
-        Options = {'Throw', 'Kill', 'Delete'},
+        Name = "Rinnegan type",
+        Default = "Throw",
+        Options = {"Throw", "Kill", "Delete"},
         Callback = function(Value)
             defenseType = Value
         end    
     })
 
     Tab:AddToggle({
-        Name = 'Rinnegan',
+        Name = "Rinnegan",
         Default = false,
         Callback = function(Value)
             defenseToggle = Value
             if defenseToggle then
                 defenseCoroutine = coroutine.create(function()
                     while true do
-                        if defenseType == 'Throw' then
+                        if defenseType == "Throw" then
                             local attacker
                             local character = LocalPlayer.Character
-                            if character and character:FindFirstChild('Head') then
+                            if character and character:FindFirstChild("Head") then
                                 local head = character.Head
-                                local partOwner = head:FindFirstChild('PartOwner')
+                                local partOwner = head:FindFirstChild("PartOwner")
                                 if partOwner then
                                     attacker = Players:FindFirstChild(partOwner.Value)
                                     if attacker and attacker.Character then
                                         SetNetworkOwner:FireServer(attacker.Character.Torso, attacker.Character.HumanoidRootPart.CFrame)
                                         task.wait(0.1)
-                                        local target = attacker.Character:FindFirstChild('Torso')
+                                        local target = attacker.Character:FindFirstChild("Torso")
                                         if target then
-                                            local velocity = target:FindFirstChild('Fling') or Instance.new('BodyVelocity')
+                                            local velocity = target:FindFirstChild("Fling") or Instance.new("BodyVelocity")
                                             local lookVector = attacker.Character.HumanoidRootPart.CFrame.LookVector
                                             local offset = Vector3.new(-lookVector.X, 0, -lookVector.Z) * defenseStrength
-                                            velocity.Name = 'Fling'
+                                            velocity.Name = "Fling"
                                             velocity.Parent = target
                                             velocity.Velocity = offset + Vector3.new(0,7.5,0)
                                             velocity.MaxForce = Vector3.new(math.huge, math.huge, math.huge)
                                             Debris:AddItem(velocity, 100)
                                             wait(0.2)                     
-                                            local velocity = attacker.Character.Torso:FindFirstChild('Fling')
+                                            local velocity = attacker.Character.Torso:FindFirstChild("Fling")
                                             velocity:Destroy()
                                             DestroyGrabLine:FireServer(attacker.Character.Torso)
                                         end
                                     end
                                 end
                             end
-                        elseif defenseType == 'Kill' then
+                        elseif defenseType == "Kill" then
                             local character = LocalPlayer.Character
-                            if character and character:FindFirstChild('Head') then
+                            if character and character:FindFirstChild("Head") then
                                 local head = character.Head
-                                local partOwner = head:FindFirstChild('PartOwner')
+                                local partOwner = head:FindFirstChild("PartOwner")
                                 if partOwner then
                                     local attacker = Players:FindFirstChild(partOwner.Value)
                                     if attacker and attacker.Character then
@@ -1210,20 +1201,20 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
                                     end
                                 end
                             end
-                        elseif defenseType == 'Delete' then
+                        elseif defenseType == "Delete" then
                             local character = LocalPlayer.Character
-                            if character and character:FindFirstChild('Head') then
+                            if character and character:FindFirstChild("Head") then
                                 local head = character.Head
-                                local partOwner = head:FindFirstChild('PartOwner')
+                                local partOwner = head:FindFirstChild("PartOwner")
                                 if partOwner then
                                     local attacker = Players:FindFirstChild(partOwner.Value)
                                     if attacker and attacker.Character then
                                         SetNetworkOwner:FireServer(attacker.Character.Head or attacker.Character.Torso, attacker.Character.HumanoidRootPart.CFrame)
                                         task.wait(0.1)
-                                        local target = attacker.Character:FindFirstChild('Torso')
+                                        local target = attacker.Character:FindFirstChild("Torso")
                                         if target then
-                                            local velocity = target:FindFirstChild('heavenD') or Instance.new('BodyVelocity')
-                                            velocity.Name = 'heavenD'
+                                            local velocity = target:FindFirstChild("heavenD") or Instance.new("BodyVelocity")
+                                            velocity.Name = "heavenD"
                                             velocity.Parent = target
                                             velocity.Velocity = Vector3.new(0,9999999,0)
                                             velocity.MaxForce = Vector3.new(0, math.huge, 0)
@@ -1244,7 +1235,7 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
                         local a = v.Torso
                         if a then
                             for _, i in pairs(a:GetChildren()) do
-                                if i.Name == 'heavenG' or 'heavenD' or 'Fling' and i:IsA('BodyVelocuty') then i:Destroy() end
+                                if i.Name == "heavenG" or "heavenD" or "Fling" and i:IsA("BodyVelocuty") then i:Destroy() end
                             end
                         end
                     end
@@ -1255,10 +1246,10 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     })
 
     Tab:AddSlider({
-        Name = 'Throw strength',
+        Name = "Throw strength",
         Min = 25,
         Max = 200,
-        ValueName = '',
+        ValueName = "",
         Increment = 1,
         Default = defenseStrength,
         Callback = function(Value)
@@ -1267,15 +1258,15 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     })
 
     FunTab:AddToggle({
-        Name = 'Ragdoll (enable for super anti-grab)',
+        Name = "Ragdoll (enable for super anti-grab)",
         Default = false,
         Callback = function(Value)
             ragdoll = Value
             if ragdoll then
                 spawn(function()
                     while ragdoll do
-                        local character = game:GetService('Players').LocalPlayer.Character
-                        if character and character:FindFirstChild('HumanoidRootPart') then
+                        local character = game:GetService("Players").LocalPlayer.Character
+                        if character and character:FindFirstChild("HumanoidRootPart") then
                             local args = {
                                 [1] = character.HumanoidRootPart,
                                 [2] = 0
@@ -1289,43 +1280,21 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
         end
     })
 
-    local Section = BombTab:AddSection({Name = 'All'})
+    local Section = BombTab:AddSection({Name = "All"})
 
     BombTab:AddToggle({
-        Name = 'Explode all (не работает)',
+        Name = "Explode all (не работает)",
         Default = false,
         Callback = function(Value)
             explodeAll = Value
-            if explodeAll then
-                for i, plrs in ipairs(game.Players:GetPlayers()) do
-                    plrsPoses = plrs.Character.HumanoidRootPart.Position
-                end
-                while explodeAll do
-                    wait()
-                    local args = {
-                        [1] = "BombMissile",
-                        [2] = CFrame.new(pos),
-                        [3] = Vector3.new(0, -0, 0)
-                    }
-                    game:GetService("ReplicatedStorage").MenuToys.SpawnToyRemoteFunction:InvokeServer(unpack(args))
-                    wait()
-                    local args = {
-                        [1] = workspace:FindFirstChild(SpawnedInToys).BombMissile.Body,
-                        [2] = CFrame.new(pos)
-                    }
-                    game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
-                    wait(0.2)
-                    game.Workspace:FindFirstChild(SpawnedInToys).BombMissile.Body.CFrame = CFrane.new(plrPoses)
-                end
-            end
         end
     })
 
-    local Section = BombTab:AddSection({Name = 'Player'})
+    local Section = BombTab:AddSection({Name = "Player"})
 
     local ExplodePlayerDrop = BombTab:AddDropdown({
-        Name = 'Explode player',
-        Default = '',
+        Name = "Explode player",
+        Default = "",
         Options = ExplodePlayerDropdown(),
         Callback = function(Value)
             ExplodePlayer = Value
@@ -1333,44 +1302,25 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     })
 
     BombTab:AddToggle({
-        Name = 'Explode (не работает)',
+        Name = "Explode (не работает)",
         Default = false,
         Callback = function(Value)
             explodePlr = Value
-            if explodeAll then
-                while explodeAll do
-                    wait()
-                    local args = {
-                        [1] = "BombMissile",
-                        [2] = CFrame.new(pos),
-                        [3] = Vector3.new(0, -0, 0)
-                    }
-                    game:GetService("ReplicatedStorage").MenuToys.SpawnToyRemoteFunction:InvokeServer(unpack(args))
-                    wait()
-                    local args = {
-                        [1] = workspace:FindFirstChild(SpawnedInToys).BombMissile.Body,
-                        [2] = CFrame.new(pos)
-                    }
-                    game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
-                    wait(0.2)
-                    game.Workspace:FindFirstChild(SpawnedInToys).BombMissile.Body.Position = plrsPoses
-                end
-            end
         end
     })
 
-    local Section = BlobTab:AddSection({Name = 'Left bring'})
+    local Section = BlobTab:AddSection({Name = "Left bring"})
 
     local LeftBlobDrop = BlobTab:AddDropdown({
-        Name = 'Left player',
-        Default = '',
+        Name = "Left player",
+        Default = "",
         Options = LeftBlobPlayersDropdown(),
         Callback = function(Value)
             LeftBlobSelected = Value
         end    
     })
     BlobTab:AddButton({
-        Name = 'Left bring',
+        Name = "Left bring",
         Callback = function()
             if LeftBlobSelected then
                 bringLeft(LeftBlobSelected)
@@ -1378,7 +1328,7 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
         end    
     })
     BlobTab:AddToggle({
-        Name = 'Loop left bring (bugged)',
+        Name = "Loop left bring (bugged)",
         Default = false,
         Callback = function(Value)
             if LeftBlobSelected then
@@ -1392,24 +1342,24 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
             end
         end    
     })
-    local Section = BlobTab:AddSection({Name = 'Right bring'})
+    local Section = BlobTab:AddSection({Name = "Right bring"})
 
     local RightBlobDrop = BlobTab:AddDropdown({
-        Name = 'Right player',
-        Default = '',
+        Name = "Right player",
+        Default = "",
         Options = RightBlobPlayersDropdown(),
         Callback = function(Value)
             RightBlobSelected = Value
         end    
     })
     BlobTab:AddButton({
-        Name = 'Right bring',
+        Name = "Right bring",
         Callback = function()
             bringRight(RightBlobSelected)
         end    
     })
     BlobTab:AddToggle({
-        Name = 'Loop right bring (bugged)',
+        Name = "Loop right bring (bugged)",
         Default = false,
         Callback = function(Value)
             if RightBlobSelected then
@@ -1423,11 +1373,11 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
             end
         end    
     })
-    local Section = BlobTab:AddSection({Name = 'Duo bring'})
+    local Section = BlobTab:AddSection({Name = "Duo bring"})
 
     local DuoBlobDrop = BlobTab:AddDropdown({
-        Name = 'Two hands player',
-        Default = '',
+        Name = "Two hands player",
+        Default = "",
         Options = DuoBlobPlayersDropdown(),
         Callback = function(Value)
             DuoBlobSelected = Value
@@ -1435,7 +1385,7 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     })
 
     BlobTab:AddButton({
-        Name = 'Two hands bring',
+        Name = "Two hands bring",
         Callback = function()
             if DuoBlobSelected then
                 bringRight(DuoBlobSelected)
@@ -1445,7 +1395,7 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     })
 
     BlobTab:AddToggle({
-        Name = 'Loop two hands bring',
+        Name = "Loop two hands bring",
         Default = false,
         Callback = function(Value)
             if DuoBlobSelected then
@@ -1461,10 +1411,10 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
         end    
     })
 
-    local Section = BlobTab:AddSection({Name = 'Destroy server'})
+    local Section = BlobTab:AddSection({Name = "Destroy server"})
 
     BlobTab:AddButton({
-        Name = 'Bring all',
+        Name = "Bring all",
         Callback = function()
             for _, player in pairs(Players:GetPlayers()) do
                 if player.Name ~= LocalPlayer.Name then
@@ -1476,17 +1426,17 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     })
 
     BlobTab:AddToggle({
-        Name = 'Destroy server',
+        Name = "Destroy server",
         Default = false,
         Callback = function(Value)
             ServerBreak = Value
             local playerName = game.Players.LocalPlayer.Name
-            local Vex2ySpawnedInToys = playerName..'SpawnedInToys'
+            local Vex2ySpawnedInToys = playerName.."SpawnedInToys"
 
             local function handlePlayer(player, detector, weld)
-                if player.Character and player.Character:FindFirstChild('HumanoidRootPart') then
+                if player.Character and player.Character:FindFirstChild("HumanoidRootPart") then
                     for _, v in pairs(workspace:GetDescendants()) do
-                        if v.Name == 'CreatureBlobman' then
+                        if v.Name == "CreatureBlobman" then
                             local creatureBlobman = v
                             local args = {
                                 [1] = detector,
@@ -1501,13 +1451,13 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
             end
 
             while ServerBreak do
-                for _, player in pairs(game:GetService('Players'):GetPlayers()) do
+                for _, player in pairs(game:GetService("Players"):GetPlayers()) do
                     if player ~= LocalPlayer then
                         for _, v in pairs(workspace:GetDescendants()) do
-                            if v.Name == 'CreatureBlobman' then
+                            if v.Name == "CreatureBlobman" then
                                 if not whiteListEnabled or not game.Players.LocalPlayer:IsFriendsWith(player.UserId) then
                                     local creatureBlobman = v.Parent
-                                    if creatureBlobman and creatureBlobman:FindFirstChild('CreatureBlobman') then
+                                    if creatureBlobman and creatureBlobman:FindFirstChild("CreatureBlobman") then
                                         handlePlayer(
                                             player,
                                             v.LeftDetector,
@@ -1530,16 +1480,16 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     })
 
     BlobTab:AddToggle({
-        Name = 'Friends Whitelist',
+        Name = "Friends Whitelist",
         Default = false,
         Callback = function(Value)
             whiteListEnabled = Value
             if whiteListEnabled == true then 
                 OrionLib:MakeNotification(
                     {
-                        Name = 'whitelist enabled',
-                        Content = 'ur blob cant grab ur frends',
-                        Image = 'rbxassetid://7734053281',
+                        Name = "whitelist enabled",
+                        Content = "ur blob cant grab ur frends",
+                        Image = "rbxassetid://7734053281",
                         Time = 5
                     }
                 )
@@ -1548,28 +1498,28 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     })
 
     local TargetDrop = TargetTab:AddDropdown({
-        Name = 'Select player',
-        Default = '',
+        Name = "Select player",
+        Default = "",
         Options = TargetPlayersDropdown(),
         Callback = function(Value)
             TargetSelected = Value
         end    
     })
     TargetTab:AddButton({
-        Name = 'Kill',
+        Name = "Kill",
         Callback = function()
             kill(TargetSelected)
         end   
     })
     TargetTab:AddButton({
-        Name = 'Burn',
+        Name = "Burn",
         Callback = function()
             firePlayer(TargetSelected)
         end   
     })
 
     TargetTab:AddToggle({
-        Name = 'Loop burn',
+        Name = "Loop burn",
         Default = false,
         Callback = function(Value)
             if Value then
@@ -1585,7 +1535,7 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     })
 
     VisualTab:AddToggle({
-        Name = 'Unblur (disable blur)',
+        Name = "Unblur (disable blur)",
         Default = false,
         Callback = function(Value)
             if Value == true then
@@ -1597,53 +1547,53 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     })
 
     VisualTab:AddButton({
-        Name = 'Delete clouds',
+        Name = "Delete clouds",
         Callback = function()
             workspace.Terrain.Clouds:Destroy()
         end 
     })
 
-    local Section = VisualTab:AddSection({Name = 'Custom time'})
+    local Section = VisualTab:AddSection({Name = "Custom time"})
 
     VisualTab:AddButton({
-        Name = 'Day (default)',
+        Name = "Day (default)",
         Callback = function()
             game.Lighting.ClockTime = 10
         end 
     })
 
     VisualTab:AddButton({
-        Name = 'Night',
+        Name = "Night",
         Callback = function()
             game.Lighting.ClockTime = 0
         end 
     })
 
     VisualTab:AddButton({
-        Name = 'Morning',
+        Name = "Morning",
         Callback = function()
             game.Lighting.ClockTime = 6
         end 
     })
 
     VisualTab:AddButton({
-        Name = 'Evening',
+        Name = "Evening",
         Callback = function()
             game.Lighting.ClockTime = 18
         end 
     })
 
     BindTab:AddToggle({
-        Name = 'Burn',
+        Name = "Burn",
         Default = false,
         Callback = function(Value)
             clickBurn = Value
-            spawnItem('Campfire')
+            spawnItem("Campfire")
         end
     })
 
     BindTab:AddBind({
-        Name = 'Bind burn',
+        Name = "Bind burn",
         Default = nil,
         Hold = false,
         Callback = function()
@@ -1652,12 +1602,12 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
                 local Mouse = Player:GetMouse()
                 local target = Mouse.Target
                 if target and target.Parent then
-                    local targetHumanoid = target.Parent:FindFirstChildOfClass('Humanoid')
+                    local targetHumanoid = target.Parent:FindFirstChildOfClass("Humanoid")
                     local targetPlayer = Players:GetPlayerFromCharacter(target.Parent)
                     if targetHumanoid and targetPlayer and targetPlayer ~= Player then
-                        burnBindCoroutine = coroutine.create(function() burn(targetPlayer.Character:FindFirstChild('Head')) end)
+                        burnBindCoroutine = coroutine.create(function() burn(targetPlayer.Character:FindFirstChild("Head")) end)
                         if (Player.Character.HumanoidRootPart.Position - target.Position).Magnitude <= 20 then
-                            if workspace:FindFirstChild('GrabParts') then
+                            if workspace:FindFirstChild("GrabParts") then
                                 coroutine.resume(burnBindCoroutine)
                             else
                                 SetNetworkOwner:FireServer(targetPlayer.Character.HumanoidRootPart, targetPlayer.Character.HumanoidRootPart.CFrame)
@@ -1672,7 +1622,7 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     })
 
     BindTab:AddToggle({
-        Name = 'Kill',
+        Name = "Kill",
         Default = false,
         Callback = function(Value)
             clickKill = Value
@@ -1680,7 +1630,7 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     })
 
     BindTab:AddBind({
-        Name = 'Bind kill',
+        Name = "Bind kill",
         Default = nil,
         Hold = false,
         Callback = function()
@@ -1689,7 +1639,7 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
                 local Mouse = Player:GetMouse()
                 local target = Mouse.Target
                 if target and target.Parent then
-                    local targetHumanoid = target.Parent:FindFirstChildOfClass('Humanoid')
+                    local targetHumanoid = target.Parent:FindFirstChildOfClass("Humanoid")
                     local targetPlayer = Players:GetPlayerFromCharacter(target.Parent)
                     if targetHumanoid and targetPlayer and targetPlayer ~= Player then
                         if (Player.Character.HumanoidRootPart.Position - target.Position).Magnitude <= 20 then
@@ -1702,7 +1652,7 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
                                 for _, part in pairs(PoisonHurtParts) do
                                     part.Size = Vector3.new(1.5,1.5,1.5)
                                     part.Transparency = 1
-                                    part.Position = targetPlayer.Character:FindFirstChild('Head').Position
+                                    part.Position = targetPlayer.Character:FindFirstChild("Head").Position
                                 end
                                 wait()
                                 for _, part in pairs(PoisonHurtParts) do
@@ -1717,15 +1667,15 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
                 end
             end
         end
-    })z
+    })
 
     local Section = TPTab:AddSection({
-        Name = 'Players'
+        Name = "Players"
     })
 
     local TPDrop = TPTab:AddDropdown({
-        Name = 'Select player',
-        Default = '',
+        Name = "Select player",
+        Default = "",
         Options = TeleportToPlayersDropdown(),
         Callback = function(plrname)
             TpToPlayer = game.Players:FindFirstChild(plrname)
@@ -1734,7 +1684,7 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     })
 
     TPTab:AddButton({
-        Name = 'Teleport',
+        Name = "Teleport",
         Callback = function()
             if TpTrgtPos then
                 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(TpTrgtPos)
@@ -1743,133 +1693,133 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     })
 
     local Section = TPTab:AddSection({
-        Name = 'Spawn'
+        Name = "Spawn"
     })
 
     TPTab:AddButton({
-        Name = 'Teleport',
+        Name = "Teleport",
         Callback = function()
             game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2, -7, -4)
         end
     })
 
     local Section = TPTab:AddSection({
-        Name = 'Houses'
+        Name = "Houses"
     })
 
     TPTab:AddDropdown({
-        Name = 'Select house',
-        Default = 'Not selected',
-        Options = {'Yellow house', 'Green house', 'Purple house', 'China house', 'Blue house'},
+        Name = "Select house",
+        Default = "Not selected",
+        Options = {"Yellow house", "Green house", "Purple house", "China house", "Blue house"},
         Callback = function(Value)
             houseSelected = Value
         end
     })
 
     TPTab:AddButton({
-        Name = 'Teleport',
+        Name = "Teleport",
         Callback = function()
-            if houseSelected == 'Yellow house' then
+            if houseSelected == "Yellow house" then
                 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-492, -7, -164)
-            elseif houseSelected == 'Green house' then
+            elseif houseSelected == "Green house" then
                 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-532, -7, 95)
-            elseif houseSelected == 'Purple house' then
+            elseif houseSelected == "Purple house" then
                 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(255, -7, 465)
-            elseif houseSelected == 'China house' then
+            elseif houseSelected == "China house" then
                 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(558, 123, -76)
-            elseif houseSelected == 'Blue house' then
+            elseif houseSelected == "Blue house" then
                 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(511, 83, -344)
             end
         end    
     })
 
     local Section = TPTab:AddSection({
-        Name = 'Other builds'
+        Name = "Other builds"
     })
 
     TPTab:AddDropdown({
-        Name = 'Select build',
-        Default = 'Not selected',
-        Options = {'Big house', 'Farm', 'Snow mountain', 'Default mountain', 'Flying island'},
+        Name = "Select build",
+        Default = "Not selected",
+        Options = {"Big house", "Farm", "Snow mountain", "Default mountain", "Flying island"},
         Callback = function(Value)
             buildSelected = Value
         end
     })
 
     TPTab:AddButton({
-        Name = 'Teleport',
+        Name = "Teleport",
         Callback = function()
-            if buildSelected == 'Big house' then
+            if buildSelected == "Big house" then
                 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-244, 80, 293)
-            elseif buildSelected == 'Farm' then
+            elseif buildSelected == "Farm" then
                 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-197, 59, -285)
-            elseif buildSelected == 'Snow mountain' then
+            elseif buildSelected == "Snow mountain" then
                 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-433, 230, 516)
-            elseif buildSelected == 'Default mountain' then
+            elseif buildSelected == "Default mountain" then
                 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(394, 163, 278)
-            elseif buildSelected == 'Flying island' then
+            elseif buildSelected == "Flying island" then
                 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(71, 346, 330)
             end
         end    
     })
 
     local Section = TPTab:AddSection({
-        Name = 'Secrets'
+        Name = "Secrets"
     })
 
     TPTab:AddDropdown({
-        Name = 'Select secret',
-        Default = 'Not selected',
-        Options = {'Big secret exit 1', 'Big secret exit 2', 'Small secret', 'Big secret in the cave', 'Flying island secret', 'Mountain secret'},
+        Name = "Select secret",
+        Default = "Not selected",
+        Options = {"Big secret exit 1", "Big secret exit 2", "Small secret", "Big secret in the cave", "Flying island secret", "Mountain secret"},
         Callback = function(Value)
             secretSelected = Value
         end
     })
 
     TPTab:AddButton({
-        Name = 'Teleport',
+        Name = "Teleport",
         Callback = function()
-            if secretSelected == 'Big secret exit 1' then
+            if secretSelected == "Big secret exit 1" then
                 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(59, 37, 485)
-            elseif secretSelected == 'Big secret exit 2' then
+            elseif secretSelected == "Big secret exit 2" then
                 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-321, 20, 466)
-            elseif secretSelected == 'Small secret' then
+            elseif secretSelected == "Small secret" then
                 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-9, 32, -259)
-            elseif secretSelected == 'Big secret in the cave' then
+            elseif secretSelected == "Big secret in the cave" then
                 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(588, 83, -181)
-            elseif secretSelected == 'Flying island secret' then
+            elseif secretSelected == "Flying island secret" then
                 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(116, 296, 335)
-            elseif secretSelected == 'Mountain secret' then
+            elseif secretSelected == "Mountain secret" then
                 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-362, -7, -344)
             end
         end    
     })
 
     local Section = TPTab:AddSection({
-        Name = 'Slots'
+        Name = "Slots"
     })
 
     TPTab:AddDropdown({
-        Name = 'Slot selected',
-        Default = 'Not selected',
-        Options = {'Slot 1 (spawn)', 'Slot 2 (yellow and green houses)', 'Slot 3 (big house)', 'Slot 4 (purple house)', 'Slot 5 (blue house)'},
+        Name = "Slot selected",
+        Default = "Not selected",
+        Options = {"Slot 1 (spawn)", "Slot 2 (yellow and green houses)", "Slot 3 (big house)", "Slot 4 (purple house)", "Slot 5 (blue house)"},
         Callback = function(Value)
             slotSelected = Value
         end
     })
 
     TPTab:AddButton({
-        Name = 'Teleport',
+        Name = "Teleport",
         Callback = function()
-            if slotSelected == 'Slot 1 (spawn)' then
+            if slotSelected == "Slot 1 (spawn)" then
                 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(66, -7, -110)
-            elseif slotSelected == 'Slot 2 (yellow and green houses)' then
+            elseif slotSelected == "Slot 2 (yellow and green houses)" then
                 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-531, -7, -48)
-            elseif slotSelected == 'Slot 3 (big house)' then
+            elseif slotSelected == "Slot 3 (big house)" then
                 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-227, 83, 418)
-            elseif slotSelected == 'Slot 4 (purple house)' then
+            elseif slotSelected == "Slot 4 (purple house)" then
                 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(169, -7, 513)
-            elseif slotSelected == 'Slot 5 (blue house)' then
+            elseif slotSelected == "Slot 5 (blue house)" then
                 game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(554, 83, -229)
             end
         end    
@@ -1878,192 +1828,192 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     AmountOfPlayers = #Players:GetPlayers()
     allPlrs = #Players:GetPlayers()
 
-    local CounOfPlayersLbl = ServerInfoTab:AddLabel('Count of players: '..AmountOfPlayers..'')
-    local AllPlayersLbl = ServerInfoTab:AddLabel('All players: '..allPlrs..'')
+    local CounOfPlayersLbl = ServerInfoTab:AddLabel("Count of players: "..AmountOfPlayers.."")
+    local AllPlayersLbl = ServerInfoTab:AddLabel("All players: "..allPlrs.."")
 
     local Section = AutoPianoTab:AddSection({
-        Name = 'Play'
+        Name = "Play"
     })
 
     AutoPianoTab:AddDropdown({
-        Name = 'Choose a song',
-        Default = 'Happy birthday',
-        Options = {'Happy birthday', 'Jingle bells (soon)', 'Was wollen wir trinken (soon)',},
+        Name = "Choose a song",
+        Default = "Happy birthday",
+        Options = {"Happy birthday", "Jingle bells (soon)", "Was wollen wir trinken (soon)"},
         Callback = function(Value)
             songSelected = Value
         end    
     })
 
     AutoPianoTab:AddButton({
-        Name = 'Play',
+        Name = "Play",
         Callback = function()
-            if songSelected == 'Happy birthday' then
+            if songSelected == "Happy birthday" then
                 local args = {
                     [1] = workspace:FindFirstChild(SpawnedInToys).MusicKeyboard.Key1F,
                     [2] = CFrame.new(pos) * CFrame.Angles(-0, 0, -0)
                 }
-                game:GetService('ReplicatedStorage').GrabEvents.SetNetworkOwner:FireServer(unpack(args))
+                game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
                 wait(0.8)
                 local args = {
                     [1] = workspace:FindFirstChild(SpawnedInToys).MusicKeyboard.Key1F,
                     [2] = CFrame.new(pos) * CFrame.Angles(-0, 0,-0)
                 }
-                game:GetService('ReplicatedStorage').GrabEvents.SetNetworkOwner:FireServer(unpack(args))
+                game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
                 wait(0.5)
                 local args = {
                     [1] = workspace:FindFirstChild(SpawnedInToys).MusicKeyboard.Key1G,
                     [2] = CFrame.new(pos) * CFrame.Angles(-0, 0, -0)
                 }
-                game:GetService('ReplicatedStorage').GrabEvents.SetNetworkOwner:FireServer(unpack(args))
+                game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
                 wait(0.8)
                 local args = {
                     [1] = workspace:FindFirstChild(SpawnedInToys).MusicKeyboard.Key1F,
                     [2] = CFrame.new(pos) * CFrame.Angles(-0, 0, -0)
                 }
-                game:GetService('ReplicatedStorage').GrabEvents.SetNetworkOwner:FireServer(unpack(args))
+                game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
                 wait(0.8)
                 local args = {
                     [1] = workspace:FindFirstChild(SpawnedInToys).MusicKeyboard.Key2A,
                     [2] = CFrame.new(pos) * CFrame.Angles(-0, 0, -0)
                 }
-                game:GetService('ReplicatedStorage').GrabEvents.SetNetworkOwner:FireServer(unpack(args))
+                game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
                 wait(0.7)
                 local args = {
                     [1] = workspace:FindFirstChild(SpawnedInToys).MusicKeyboard.Key1G,
                     [2] = CFrame.new(pos) * CFrame.Angles(-0, 0, -0)
                 }
-                game:GetService('ReplicatedStorage').GrabEvents.SetNetworkOwner:FireServer(unpack(args))
+                game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
                 wait(1)
                 local args = {
                     [1] = workspace:FindFirstChild(SpawnedInToys).MusicKeyboard.Key1F,
                     [2] = CFrame.new(pos) * CFrame.Angles(-0, 0, -0)
                 }
-                game:GetService('ReplicatedStorage').GrabEvents.SetNetworkOwner:FireServer(unpack(args))
+                game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
                 wait(0.5)
                 local args = {
                     [1] = workspace:FindFirstChild(SpawnedInToys).MusicKeyboard.Key1F,
                     [2] = CFrame.new(pos) * CFrame.Angles(-0, 0, -0)
                 }
-                game:GetService('ReplicatedStorage').GrabEvents.SetNetworkOwner:FireServer(unpack(args))
+                game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
                 wait(0.7)
                 local args = {
                     [1] = workspace:FindFirstChild(SpawnedInToys).MusicKeyboard.Key1G,
                     [2] = CFrame.new(pos) * CFrame.Angles(-0, 0, -0)
                 }
-                game:GetService('ReplicatedStorage').GrabEvents.SetNetworkOwner:FireServer(unpack(args))
+                game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
                 wait(0.7)
                 local args = {
                     [1] = workspace:FindFirstChild(SpawnedInToys).MusicKeyboard.Key1F,
                     [2] = CFrame.new(pos) * CFrame.Angles(-0, 0, -0)
                 }
-                game:GetService('ReplicatedStorage').GrabEvents.SetNetworkOwner:FireServer(unpack(args))
+                game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
                 wait(0.7)
                 local args = {
                     [1] = workspace:FindFirstChild(SpawnedInToys).MusicKeyboard.Key2B,
                     [2] = CFrame.new(pos) * CFrame.Angles(-0, 0, -0)
                 }
-                game:GetService('ReplicatedStorage').GrabEvents.SetNetworkOwner:FireServer(unpack(args))
+                game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
                 wait(0.7)
                 local args = {
                     [1] = workspace:FindFirstChild(SpawnedInToys).MusicKeyboard.Key2A,
                     [2] = CFrame.new(pos) * CFrame.Angles(-0, 0, -0)
                 }
-                game:GetService('ReplicatedStorage').GrabEvents.SetNetworkOwner:FireServer(unpack(args))
+                game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
                 wait(0.9)
                 local args = {
                     [1] = workspace:FindFirstChild(SpawnedInToys).MusicKeyboard.Key1F,
                     [2] = CFrame.new(pos) * CFrame.Angles(-0, 0, -0)
                 }
-                game:GetService('ReplicatedStorage').GrabEvents.SetNetworkOwner:FireServer(unpack(args))
+                game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
                 wait(0.8)
                 local args = {
                     [1] = workspace:FindFirstChild(SpawnedInToys).MusicKeyboard.Key1F,
                     [2] = CFrame.new(pos) * CFrame.Angles(-0, 0, -0)
                 }
-                game:GetService('ReplicatedStorage').GrabEvents.SetNetworkOwner:FireServer(unpack(args))
+                game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
                 wait(0.7)
                 local args = {
                     [1] = workspace:FindFirstChild(SpawnedInToys).MusicKeyboard.Key2C,
                     [2] = CFrame.new(pos) * CFrame.Angles(-0, 0, -0)
                 }
-                game:GetService('ReplicatedStorage').GrabEvents.SetNetworkOwner:FireServer(unpack(args))
+                game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
                 wait(0.5)
                 local args = {
                     [1] = workspace:FindFirstChild(SpawnedInToys).MusicKeyboard.Key2B,
                     [2] = CFrame.new(pos) * CFrame.Angles(-0, 0, -0)
                 }
-                game:GetService('ReplicatedStorage').GrabEvents.SetNetworkOwner:FireServer(unpack(args))
+                game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
                 wait(0.5)
                 local args = {
                     [1] = workspace:FindFirstChild(SpawnedInToys).MusicKeyboard.Key2B,
                     [2] = CFrame.new(pos) * CFrame.Angles(-0, 0, -0)
                 }
-                game:GetService('ReplicatedStorage').GrabEvents.SetNetworkOwner:FireServer(unpack(args))
+                game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
                 wait(0.5)
                 local args = {
                     [1] = workspace:FindFirstChild(SpawnedInToys).MusicKeyboard.Key2A,
                     [2] = CFrame.new(pos) * CFrame.Angles(-0, 0, -0)
                 }
-                game:GetService('ReplicatedStorage').GrabEvents.SetNetworkOwner:FireServer(unpack(args))
+                game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
                 wait(0.5)
                 local args = {
                     [1] = workspace:FindFirstChild(SpawnedInToys).MusicKeyboard.Key1G,
                     [2] = CFrame.new(pos) * CFrame.Angles(-0, 0, -0)
                 }
-                game:GetService('ReplicatedStorage').GrabEvents.SetNetworkOwner:FireServer(unpack(args))
+                game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
                 wait(0.8)
                 local args = {
                     [1] = workspace:FindFirstChild(SpawnedInToys).MusicKeyboard.Key1F,
                     [2] = CFrame.new(pos) * CFrame.Angles(-0, 0, -0)
                 }
-                game:GetService('ReplicatedStorage').GrabEvents.SetNetworkOwner:FireServer(unpack(args))
+                game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
                 wait(0.8)
                 local args = {
                     [1] = workspace:FindFirstChild(SpawnedInToys).MusicKeyboard.Key2C,
                     [2] = CFrame.new(pos) * CFrame.Angles(-0, 0, -0)
                 }
-                game:GetService('ReplicatedStorage').GrabEvents.SetNetworkOwner:FireServer(unpack(args))
+                game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
                 wait(0.5)
                 local args = {
                     [1] = workspace:FindFirstChild(SpawnedInToys).MusicKeyboard.Key2C,
                     [2] = CFrame.new(pos) * CFrame.Angles(-0, 0, -0)
                 }
-                game:GetService('ReplicatedStorage').GrabEvents.SetNetworkOwner:FireServer(unpack(args))
+                game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
                 wait(0.5)
                 local args = {
                     [1] = workspace:FindFirstChild(SpawnedInToys).MusicKeyboard.Key2C,
                     [2] = CFrame.new(pos) * CFrame.Angles(-0, 0, -0)
                 }
-                game:GetService('ReplicatedStorage').GrabEvents.SetNetworkOwner:FireServer(unpack(args))
+                game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
                 wait(0.8)
                 local args = {
                     [1] = workspace:FindFirstChild(SpawnedInToys).MusicKeyboard.Key2B,
                     [2] = CFrame.new(pos) * CFrame.Angles(-0, 0, -0)
                 }
-                game:GetService('ReplicatedStorage').GrabEvents.SetNetworkOwner:FireServer(unpack(args))
+                game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
                 wait(0.8)
                 local args = {
                     [1] = workspace:FindFirstChild(SpawnedInToys).MusicKeyboard.Key2A,
                     [2] = CFrame.new(pos) * CFrame.Angles(-0, 0, -0)
                 }
-                game:GetService('ReplicatedStorage').GrabEvents.SetNetworkOwner:FireServer(unpack(args))
+                game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
                 wait(0.7)
                 local args = {
                     [1] = workspace:FindFirstChild(SpawnedInToys).MusicKeyboard.Key2B,
                     [2] = CFrame.new(pos) * CFrame.Angles(-0, 0, -0)
                 }
-                game:GetService('ReplicatedStorage').GrabEvents.SetNetworkOwner:FireServer(unpack(args))
+                game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
                 wait(0.9)
                 local args = {
                     [1] = workspace:FindFirstChild(SpawnedInToys).MusicKeyboard.Key1G,
                     [2] = CFrame.new(pos) * CFrame.Angles(-0, 0, -0)
                 }
-                game:GetService('ReplicatedStorage').GrabEvents.SetNetworkOwner:FireServer(unpack(args))
-            elseif songSelected == 'Jingle bells (soon)' then
+                game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
+            elseif songSelected == "Jingle bells (soon)" then
                 OrionLib:MakeNotification({
-                    Name = 'This song has not been released yet',
-                    Content = 'Wait until the next update',
-                    Image = 'rbxassetid://4483345998',
+                    Name = "This song has not been released yet",
+                    Content = "Wait until the next update",
+                    Image = "rbxassetid://4483345998",
                     Time = 5
                 })
             end
@@ -2071,7 +2021,7 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     })
 
     AutoPianoTab:AddToggle({
-        Name = 'Spam',
+        Name = "Spam",
         Default = false,
         Callback = function(Value)
             SpamToggle = Value
@@ -2081,97 +2031,97 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
                         [1] = workspace:FindFirstChild(SpawnedInToys).MusicKeyboard.Key1C,
                         [2] = CFrame.new(pos) * CFrame.Angles(-0, 0, -0)
                     }
-                    game:GetService('ReplicatedStorage').GrabEvents.SetNetworkOwner:FireServer(unpack(args))
+                    game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
                     wait()
                     local args = {
                         [1] = workspace:FindFirstChild(SpawnedInToys).MusicKeyboard.Key1D,
                         [2] = CFrame.new(pos) * CFrame.Angles(-0, 0, -0)
                     }
-                    game:GetService('ReplicatedStorage').GrabEvents.SetNetworkOwner:FireServer(unpack(args))
+                    game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
                     wait()
                     local args = {
                         [1] = workspace:FindFirstChild(SpawnedInToys).MusicKeyboard.Key1E,
                         [2] = CFrame.new(pos) * CFrame.Angles(-0, 0, -0)
                     }
-                    game:GetService('ReplicatedStorage').GrabEvents.SetNetworkOwner:FireServer(unpack(args))
+                    game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
                     wait()
                     local args = {
                         [1] = workspace:FindFirstChild(SpawnedInToys).MusicKeyboard.Key1F,
                         [2] = CFrame.new(pos) * CFrame.Angles(-0, 0, -0)
                     }
-                    game:GetService('ReplicatedStorage').GrabEvents.SetNetworkOwner:FireServer(unpack(args))
+                    game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
                     wait()
                     local args = {
                         [1] = workspace:FindFirstChild(SpawnedInToys).MusicKeyboard.Key1G,
                         [2] = CFrame.new(pos) * CFrame.Angles(-0, 0, -0)
                     }
-                    game:GetService('ReplicatedStorage').GrabEvents.SetNetworkOwner:FireServer(unpack(args))
+                    game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
                     wait()
                     local args = {
                         [1] = workspace:FindFirstChild(SpawnedInToys).MusicKeyboard.Key2A,
                         [2] = CFrame.new(pos) * CFrame.Angles(-0, 0, -0)
                     }
-                    game:GetService('ReplicatedStorage').GrabEvents.SetNetworkOwner:FireServer(unpack(args))
+                    game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
                     wait()
                     local args = {
                         [1] = workspace:FindFirstChild(SpawnedInToys).MusicKeyboard.Key2B,
                         [2] = CFrame.new(pos) * CFrame.Angles(-0, 0, -0)
                     }
-                    game:GetService('ReplicatedStorage').GrabEvents.SetNetworkOwner:FireServer(unpack(args))
+                    game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
                     wait()
                     local args = {
                         [1] = workspace:FindFirstChild(SpawnedInToys).MusicKeyboard.Key2B,
                         [2] = CFrame.new(pos) * CFrame.Angles(-0, 0, -0)
                     }
-                    game:GetService('ReplicatedStorage').GrabEvents.SetNetworkOwner:FireServer(unpack(args))
+                    game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
                     wait()
                     local args = {
                         [1] = workspace:FindFirstChild(SpawnedInToys).MusicKeyboard.Key2C,
                         [2] = CFrame.new(pos) * CFrame.Angles(-0, 0, -0)
                     }
-                    game:GetService('ReplicatedStorage').GrabEvents.SetNetworkOwner:FireServer(unpack(args))
+                    game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
                     wait()
                     local args = {
                         [1] = workspace:FindFirstChild(SpawnedInToys).MusicKeyboard.Key2D,
                         [2] = CFrame.new(pos) * CFrame.Angles(-0, 0, -0)
                     }
-                    game:GetService('ReplicatedStorage').GrabEvents.SetNetworkOwner:FireServer(unpack(args))
+                    game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
                     wait()
                     local args = {
                         [1] = workspace:FindFirstChild(SpawnedInToys).MusicKeyboard.Key2E,
                         [2] = CFrame.new(pos) * CFrame.Angles(-0, 0, -0)
                     }
-                    game:GetService('ReplicatedStorage').GrabEvents.SetNetworkOwner:FireServer(unpack(args))
+                    game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
                     wait()
                     local args = {
                         [1] = workspace:FindFirstChild(SpawnedInToys).MusicKeyboard.Key2F,
                         [2] = CFrame.new(pos) * CFrame.Angles(-0, 0, -0)
                     }
-                    game:GetService('ReplicatedStorage').GrabEvents.SetNetworkOwner:FireServer(unpack(args))
+                    game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
                     wait()
                     local args = {
                         [1] = workspace:FindFirstChild(SpawnedInToys).MusicKeyboard.Key2G,
                         [2] = CFrame.new(pos) * CFrame.Angles(-0, 0, -0)
                     }
-                    game:GetService('ReplicatedStorage').GrabEvents.SetNetworkOwner:FireServer(unpack(args))
+                    game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
                     wait()
                     local args = {
                         [1] = workspace:FindFirstChild(SpawnedInToys).MusicKeyboard.Key3A,
                         [2] = CFrame.new(pos) * CFrame.Angles(-0, 0, -0)
                     }
-                    game:GetService('ReplicatedStorage').GrabEvents.SetNetworkOwner:FireServer(unpack(args))
+                    game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
                     wait()
                     local args = {
                         [1] = workspace:FindFirstChild(SpawnedInToys).MusicKeyboard.Key3B,
                         [2] = CFrame.new(pos) * CFrame.Angles(-0, 0, -0)
                     }
-                    game:GetService('ReplicatedStorage').GrabEvents.SetNetworkOwner:FireServer(unpack(args))
+                    game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
                     wait()
                     local args = {
                         [1] = workspace:FindFirstChild(SpawnedInToys).MusicKeyboard.Key3C,
                         [2] = CFrame.new(pos) * CFrame.Angles(-0, 0, -0)
                     }
-                    game:GetService('ReplicatedStorage').GrabEvents.SetNetworkOwner:FireServer(unpack(args))
+                    game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
                     wait()
                 end
             end
@@ -2179,26 +2129,65 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
     })
 
     local Section = AutoPianoTab:AddSection({
-        Name = 'Spawn'
+        Name = "Spawn"
     })
 
     AutoPianoTab:AddButton({
-        Name = 'Spawn piano',
+        Name = "Spawn piano",
         Callback = function()
             local args = {
-                [1] = 'MusicKeyboard',
+                [1] = "MusicKeyboard",
                 [2] = CFrame.new(pos) * CFrame.Angles(-0, 0, -0),
                 [3] = Vector3.new(0, -0, 0)
             }
-            game:GetService('ReplicatedStorage').MenuToys.SpawnToyRemoteFunction:InvokeServer(unpack(args))
+            game:GetService("ReplicatedStorage").MenuToys.SpawnToyRemoteFunction:InvokeServer(unpack(args))
             wait()
             local args = {
                 [1] = workspace:FindFirstChild(SpawnedInToys).MusicKeyboard.Part,
                 [2] = CFrame.new(pos) * CFrame.Angles(-0, 0, -0)
             }
-            game:GetService('ReplicatedStorage').GrabEvents.SetNetworkOwner:FireServer(unpack(args))
+            game:GetService("ReplicatedStorage").GrabEvents.SetNetworkOwner:FireServer(unpack(args))
         end    
     })
+
+    local Section = ScriptTab:AddSection({Name = "Default"})
+
+    ScriptTab:AddButton({
+        Name = "Infinite yield",
+        Callback = function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
+        end    
+    })
+
+    ScriptTab:AddButton({
+        Name = "SystemBroken",
+        Callback = function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/H20CalibreYT/SystemBroken/main/script"))()
+        end    
+    })
+
+    ScriptTab:AddButton({
+        Name = "Float",
+        Callback = function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/GhostPlayer352/Test4/main/Float"))("https://t.me/arceusxscripts")
+        end    
+    })
+
+    ScriptTab:AddButton({
+        Name = "Shaders",
+        Callback = function()
+            loadstring(game:HttpGet(("https://pastefy.app/xXkUxA0P/raw"),true))("t.me/arceusxscripts")
+        end    
+    })
+
+    ScriptTab:AddButton({
+        Name = "Dex Explorer v2",
+        Callback = function()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/MariyaFurmanova/Library/main/dex2.0", true))()
+          end    
+    })
+
+    local Section = ScriptTab:AddSection({Name = "By that script's dev"})
 
     Players.PlayerAdded:Connect(function()
         TPDrop:Refresh(TeleportToPlayersDropdown(), true)
@@ -2209,9 +2198,9 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
         ExplodePlayerDrop:Refresh(ExplodePlayerDropdown(), true)
         WhitelistPlayerDrop:Refresh(WhitelistPlayerDropdown(), true)
         AmountOfPlayers = AmountOfPlayers + 1
-        CounOfPlayersLbl:Set('Count of players: '..AmountOfPlayers..'')
+        CounOfPlayersLbl:Set("Count of players: "..AmountOfPlayers.."")
         allPlrs = allPlrs + 1
-        AllPlayersLbl:Set('Count of players: '..allPlrs..'')
+        AllPlayersLbl:Set("Count of players: "..allPlrs.."")
     end)
     Players.PlayerRemoving:Connect(function()
         TPDrop:Refresh(TeleportToPlayersDropdown(), true)
@@ -2222,27 +2211,27 @@ if game.Players.LocalPlayer.Name == 'bebra7658' or 'asqw_zv' or 'Yaros1979' or '
         ExplodePlayerDrop:Refresh(ExplodePlayerDropdown(), true)
         WhitelistPlayerDrop:Refresh(WhitelistPlayerDropdown(), true)
         AmountOfPlayers = AmountOfPlayers - 1
-        CounOfPlayersLbl:Set('Count of players: '..AmountOfPlayers..'')
+        CounOfPlayersLbl:Set("Count of players: "..AmountOfPlayers.."")
     end)
 
     OrionLib:MakeNotification({
-        Name = HubName..' loaded',
-        Content = 'completely',
-        Image = '',
+        Name = HubName.." loaded",
+        Content = "completely",
+        Image = "",
         Time = 5
     })
     OrionLib:MakeNotification({
-        Name = '',
-        Content = 'Roblox: Yaros1979',
-        Image = '',
+        Name = "",
+        Content = "Roblox: Yaros1979",
+        Image = "",
         Time = 8
     })
     OrionLib:MakeNotification({
-        Name = '',
-        Content = 'Discord: m1kpee',
-        Image = '',
+        Name = "",
+        Content = "Discord: m1kpee",
+        Image = "",
         Time = 8
     })
 else
-    game.Players.LocalPlayer:Kick('do not user this script lol')
+    game.Players.LocalPlayer:Kick("do not use this script")
 end
