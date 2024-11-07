@@ -20,6 +20,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     local DestroyToy = MenuToys:WaitForChild("DestroyToy")
     local RagdollRemote = CharacterEvents:WaitForChild("RagdollRemote")
     --Variables
+    local humanoid = game.Players.LocalPlayer.Character.Humanoid
     local burnPart
     local strength = 400
     local strengthConnection
@@ -59,6 +60,8 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     local walkSpd = game.Players.LocalPlayer.Character.Humanoid.WalkSpeed
     local jumpPwr = game.Players.LocalPlayer.Character.Humanoid.JumpPower
     local gravity = game.Workspace.Gravity
+    local infJump = false
+    local jumpCount = 0
     --Coroutines
     local PoisonGrabCoroutine
     local poisonAuraCoroutine
@@ -428,7 +431,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
 
 
     --GUI
-    local OrionLib = loadstring(game:HttpGet(("https://raw.githubusercontent.com/shlexware/Orion/main/source")))()
+    local OrionLib = loadstring(game:HttpGet(("https://raw.githubusercontent.com/m1kpe02/libraries/refs/heads/main/m1kpe0_orion_lib.lua")))()
     local Window = OrionLib:MakeWindow({Name = HubName, HidePremium = false, SaveConfig = False, ConfigFolder = "OrionTest", IntroEnabled = false})
 
     --Tabs
@@ -450,7 +453,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
 
 
     MainTab:AddToggle({
-        Name = "More Strength",
+        Name = "More strength",
         Default = false,
         Save = true,
         Flag = "StrengthToggle",
@@ -485,6 +488,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
         Name = "Strength",
         Min = 100,
         Max = 10000,
+        Color = Color3.fromRGB(102, 0, 102),
         ValueName = "",
         Increment = 50,
         Default = strength,
@@ -496,7 +500,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     local Section = MainTab:AddSection({Name = "Grabs"})
 
     MainTab:AddToggle({
-        Name = "Poison Grab",
+        Name = "Poison grab",
         Default = false,
         Callback = function(Value)
             if Value then
@@ -515,7 +519,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     })
 
     MainTab:AddToggle({
-        Name = "Radiactive Grab",
+        Name = "Radiactive grab",
         Default = false,
         Callback = function(Value)
             if Value then
@@ -676,7 +680,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     	Min = 0,
     	Max = 200,
     	Default = 16,
-    	Color = Color3.fromRGB(255,255,255),
+    	Color = Color3.fromRGB(102, 0, 102),
     	Increment = 1,
     	ValueName = "Speed",
     	Callback = function(Speed)
@@ -703,7 +707,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     	Min = 0,
     	Max = 500,
     	Default = 28,
-    	Color = Color3.fromRGB(255,255,255),
+    	Color = Color3.fromRGB(102, 0, 102),
     	Increment = 1,
     	ValueName = "Jump",
     	Callback = function(Jump)
@@ -728,7 +732,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     	Min = 0,
     	Max = 500,
     	Default = 200,
-    	Color = Color3.fromRGB(255,255,255),
+    	Color = Color3.fromRGB(102, 0, 102),
     	Increment = 1,
     	ValueName = "Gravity",
     	Callback = function(Grav)
@@ -753,36 +757,18 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     })
 
     CharTab:AddToggle({
-        Name = "More jumps (скоро)",
+        Name = "Infinite jumps",
         Default = false,
         Callback = function(Value)
             if Value then
-                print("скоро")
-                wait()
-            end
-        end
-    })
-
-    CharTab:AddSlider({
-    	Name = "Jumps (скоро)",
-    	Min = 0,
-    	Max = 100,
-    	Default = 28,
-    	Color = Color3.fromRGB(255,255,255),
-    	Increment = 1,
-    	ValueName = "Jump",
-    	Callback = function(Value)
-    		print(Value)
-    	end    
-    })
-
-    CharTab:AddToggle({
-        Name = "Infinite jumps (скоро)",
-        Default = false,
-        Callback = function(Value)
-            if Value then
-                print("скоро")
-                wait()
+                infJump = true
+                game:GetService("UserInputService").JumpRequest:Connect(function()
+                    if infJump then
+                        game:GetService("Players").LocalPlayer.Character:FindFirstChildOfClass("Humanoid"):ChangeState("Jumping")
+                    end
+                end)
+            else
+                infJump = false
             end
         end
     })
@@ -1249,6 +1235,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
         Name = "Throw strength",
         Min = 25,
         Max = 200,
+        Color = Color3.fromRGB(102, 0, 102),
         ValueName = "",
         Increment = 1,
         Default = defenseStrength,
@@ -2219,18 +2206,6 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
         Content = "completely",
         Image = "",
         Time = 5
-    })
-    OrionLib:MakeNotification({
-        Name = "",
-        Content = "Roblox: Yaros1979",
-        Image = "",
-        Time = 8
-    })
-    OrionLib:MakeNotification({
-        Name = "",
-        Content = "Discord: m1kpee",
-        Image = "",
-        Time = 8
     })
 else
     game.Players.LocalPlayer:Kick("do not use this script")
