@@ -61,7 +61,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     local jumpPwr = game.Players.LocalPlayer.Character.Humanoid.JumpPower
     local gravity = game.Workspace.Gravity
     local infJump = false
-    local jumpCount = 0
+    local FlnPrtsDstrHght = game:GetService('Workspace').FallenPartsDestroyHeight
     --Coroutines
     local PoisonGrabCoroutine
     local poisonAuraCoroutine
@@ -77,6 +77,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     local defenseCoroutine
     local heavenGrabCoroutine
     local CrazyGrabCoroutine
+    local RadioactiveAuraCoroutine
 
     local function getDescendantParts(descendantName)
         local parts = {}
@@ -252,6 +253,29 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
                 end
             end)
             wait()
+        end
+    end
+
+    local function setupAntiExplosion(character)
+        local partOwner = character:WaitForChild("Humanoid"):FindFirstChild("Ragdolled")
+        if partOwner then
+            local partOwnerChangedConn
+            partOwnerChangedConn = partOwner:GetPropertyChangedSignal("Value"):Connect(function()
+                if partOwner.Value then
+                    for _, part in ipairs(character:GetChildren()) do
+                        if part:IsA("BasePart") then
+                            part.Anchored = true
+                        end
+                    end
+                else
+                    for _, part in ipairs(character:GetChildren()) do
+                        if part:IsA("BasePart") then
+                            part.Anchored = false
+                        end
+                    end
+                end
+            end)
+            antiExplosionConnection = partOwnerChangedConn
         end
     end
 
@@ -440,7 +464,6 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     local AuraTab = Window:MakeTab({Name = "Aura", Icon = "", PremiumOnly = false})
     local Tab = Window:MakeTab({Name = "Anti-all", Icon = "", PremiumOnly = false})
     local FunTab = Window:MakeTab({Name = "Fun", Icon = "", PremiumOnly = false})
-    local BombTab = Window:MakeTab({Name = "Bomb", Icon = "", PremiumOnly = false})
     local BlobTab = Window:MakeTab({Name = "Blob", Icon = "", PremiumOnly = false})
     local TargetTab = Window:MakeTab({Name = "Target", Icon = "", PremiumOnly = false})
     local TPTab = Window:MakeTab({Name = "Teleport", Icon = "", PremiumOnly = false})
@@ -456,6 +479,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
         Name = "More strength",
         Default = false,
         Save = true,
+        Color = Color3.fromRGB(102, 0, 102),
         Flag = "StrengthToggle",
         Callback = function(Value)
             if Value then
@@ -502,6 +526,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     MainTab:AddToggle({
         Name = "Poison grab",
         Default = false,
+        Color = Color3.fromRGB(102, 0, 102),
         Callback = function(Value)
             if Value then
                 PoisonGrabCoroutine = coroutine.create(function() grabHandler("poison") end)
@@ -521,6 +546,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     MainTab:AddToggle({
         Name = "Radiactive grab",
         Default = false,
+        Color = Color3.fromRGB(102, 0, 102),
         Callback = function(Value)
             if Value then
                 RadiactiveGrabCoroutine = coroutine.create(function() grabHandler("radioctive") end)
@@ -540,6 +566,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     MainTab:AddToggle({
         Name = "Burn grab",
         Default = false,
+        Color = Color3.fromRGB(102, 0, 102),
         Callback = function(Value)
             if Value then
                 burnGrabCoroutine = coroutine.create(burnGrab)
@@ -556,6 +583,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     MainTab:AddToggle({
         Name = "Kill grab",
         Default = false,
+        Color = Color3.fromRGB(102, 0, 102),
         Callback = function(Value)
             if Value then
                 killGrabCoroutine = coroutine.create(killGrab)
@@ -572,6 +600,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     MainTab:AddToggle({
         Name = "Heaven grab",
         Default = false,
+        Color = Color3.fromRGB(102, 0, 102),
         Callback = function(Value)
             if Value then
                 heavenGrabCoroutine = coroutine.create(function()
@@ -617,6 +646,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     MainTab:AddToggle({
         Name = "Teleport grab",
         Default = false,
+        Color = Color3.fromRGB(102, 0, 102),
         Callback = function(Value)
             if Value then
                 CrazyGrabCoroutine = coroutine.create(function()
@@ -691,6 +721,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     CharTab:AddToggle({
         Name = "Speed toggle",
         Default = false,
+        Color = Color3.fromRGB(102, 0, 102),
         Callback = function(Value)
             if Value == true then
                 while game:GetService("RunService").RenderSteped:Wait() do
@@ -718,6 +749,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     CharTab:AddToggle({
         Name = "Jump toggle",
         Default = false,
+        Color = Color3.fromRGB(102, 0, 102),
         Callback = function(Value)
             if Value == true then
                 jumpPwr = Jump
@@ -743,6 +775,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     CharTab:AddToggle({
         Name = "Gravity toggle",
         Default = false,
+        Color = Color3.fromRGB(102, 0, 102),
         Callback = function(Value)
             if Value == true then
                 gravity = Grav
@@ -759,6 +792,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     CharTab:AddToggle({
         Name = "Infinite jumps",
         Default = false,
+        Color = Color3.fromRGB(102, 0, 102),
         Callback = function(Value)
             if Value then
                 infJump = true
@@ -776,6 +810,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     AuraTab:AddToggle({
         Name = "Grab aura",
         Default = false,
+        Color = Color3.fromRGB(102, 0, 102),
         Callback = function(Value)
             if Value then
                 grabAuraCoroutine = coroutine.create(function()
@@ -817,6 +852,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
         Name = "Poison Aura",
         Default = false,
         Save = true,
+        Color = Color3.fromRGB(102, 0, 102),
         Callback = function(Value)
             if Value then
                 poisonAuraCoroutine = coroutine.create(function()
@@ -875,6 +911,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     AuraTab:AddToggle({
         Name = "Delete aura",
         Default = false,
+        Color = Color3.fromRGB(102, 0, 102),
         Callback = function(Value)
             if Value then
                 tpToSkyAuraCoroutine = coroutine.create(function()
@@ -939,6 +976,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     AuraTab:AddToggle({
         Name = "Friends Whitelist",
         Default = false,
+        Color = Color3.fromRGB(102, 0, 102),
         Callback = function(Value)
             whiteListEnabled = Value
             if whiteListEnabled == true then 
@@ -980,6 +1018,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     Tab:AddToggle({
         Name = "Anti grab",
         Default = false,
+        Color = Color3.fromRGB(102, 0, 102),
         Callback = function(Value)     
             if Value then
                 antiGrabCoroutine = RunService.Heartbeat:Connect(function()
@@ -1017,8 +1056,41 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     })
 
     Tab:AddToggle({
+        Name = "Anti explosion",
+        Default = false,
+        Color = Color3.fromRGB(102, 0, 102),
+        Save = true,
+        Flag = "AntiExplosion",
+        Callback = function(enabled)
+            local localPlayer = game.Players.LocalPlayer
+    
+            if enabled then
+                if localPlayer.Character then
+                    setupAntiExplosion(localPlayer.Character)
+                end
+                characterAddedConn = localPlayer.CharacterAdded:Connect(function(character)
+                    if antiExplosionConnection then
+                        antiExplosionConnection:Disconnect()
+                    end
+                    setupAntiExplosion(character)
+                end)
+            else
+                if antiExplosionConnection then
+                    antiExplosionConnection:Disconnect()
+                    antiExplosionConnection = nil
+                end
+                if characterAddedConn then
+                    characterAddedConn:Disconnect()
+                    characterAddedConn = nil
+                end
+            end
+        end
+    })
+
+    Tab:AddToggle({
         Name = "Anti lag",
         Default = false,
+        Color = Color3.fromRGB(102, 0, 102),
         Callback = function(Value)
             local a = game.Players.LocalPlayer.Name
             if Value == true then
@@ -1032,6 +1104,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     Tab:AddToggle({
         Name = "Anti bring",
         Default = false,
+        Color = Color3.fromRGB(102, 0, 102),
         Callback = function(Value)
             local a = game.Players.LocalPlayer.Name.."SpawnedInToys"
             hui = Value
@@ -1099,13 +1172,41 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
         end
     })
 
-    Tab:AddButton({
-        Name = "Anti kick (не работает)",
+    Tab:AddToggle({
+        Name = "Anti void",
+        Default = false,
+        Color = Color3.fromRGB(102, 0, 102),
         Callback = function(Value)
-            local ninKunai
-            ninKunai = Value
+            if Value then
+                game:GetService('Workspace').FallenPartsDestroyHeight = -100000
+                while Value do
+                    if game.Players.LocalPlayer.Character.HumanoidRootPart and game.Players.LocalPlayer.Character.HumanoidRootPart.Position.Y < -500 then
+                        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2, -7, -4)
+                        OrionLib:MakeNotification({
+                            Name = "Theres a staarmaan waiting in the sky",
+                            Content = "i will save you next time:3",
+                            Image = "rbxassetid://18624604880",
+                            Time = 5
+                        })
+                    end
+                    wait()
+                end
+            else
+                game:GetService('Workspace').FallenPartsDestroyHeight = -100
+            end
         end    
     })
+
+    Tab:AddButton({
+        Name = "Anti bang (нажми если включили банг)",
+        Callback = function(Value)
+            local positionOld
+            game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(Vector3.new(0, FlnPrtsDstrHght - 40, 0))
+            wait(0.3)
+            game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(positionOld)
+        end    
+    })
+
     Tab:AddParagraph("Note","Super anti-grab do BIG ping (for all), reset and turn off 'Ragdoll' and server get small ping")
 
     local Section = Tab:AddSection({Name = "Rinnegan"})
@@ -1122,6 +1223,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     Tab:AddToggle({
         Name = "Rinnegan",
         Default = false,
+        Color = Color3.fromRGB(102, 0, 102),
         Callback = function(Value)
             defenseToggle = Value
             if defenseToggle then
@@ -1247,6 +1349,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     FunTab:AddToggle({
         Name = "Ragdoll (enable for super anti-grab)",
         Default = false,
+        Color = Color3.fromRGB(102, 0, 102),
         Callback = function(Value)
             ragdoll = Value
             if ragdoll then
@@ -1264,35 +1367,6 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
                     end
                 end)
             end
-        end
-    })
-
-    local Section = BombTab:AddSection({Name = "All"})
-
-    BombTab:AddToggle({
-        Name = "Explode all (не работает)",
-        Default = false,
-        Callback = function(Value)
-            explodeAll = Value
-        end
-    })
-
-    local Section = BombTab:AddSection({Name = "Player"})
-
-    local ExplodePlayerDrop = BombTab:AddDropdown({
-        Name = "Explode player",
-        Default = "",
-        Options = ExplodePlayerDropdown(),
-        Callback = function(Value)
-            ExplodePlayer = Value
-        end    
-    })
-
-    BombTab:AddToggle({
-        Name = "Explode (не работает)",
-        Default = false,
-        Callback = function(Value)
-            explodePlr = Value
         end
     })
 
@@ -1317,6 +1391,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     BlobTab:AddToggle({
         Name = "Loop left bring (bugged)",
         Default = false,
+        Color = Color3.fromRGB(102, 0, 102),
         Callback = function(Value)
             if LeftBlobSelected then
                 hui = Value
@@ -1348,6 +1423,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     BlobTab:AddToggle({
         Name = "Loop right bring (bugged)",
         Default = false,
+        Color = Color3.fromRGB(102, 0, 102),
         Callback = function(Value)
             if RightBlobSelected then
                 hui = Value
@@ -1384,6 +1460,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     BlobTab:AddToggle({
         Name = "Loop two hands bring",
         Default = false,
+        Color = Color3.fromRGB(102, 0, 102),
         Callback = function(Value)
             if DuoBlobSelected then
                 hui = Value
@@ -1415,6 +1492,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     BlobTab:AddToggle({
         Name = "Destroy server",
         Default = false,
+        Color = Color3.fromRGB(102, 0, 102),
         Callback = function(Value)
             ServerBreak = Value
             local playerName = game.Players.LocalPlayer.Name
@@ -1469,6 +1547,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     BlobTab:AddToggle({
         Name = "Friends Whitelist",
         Default = false,
+        Color = Color3.fromRGB(102, 0, 102),
         Callback = function(Value)
             whiteListEnabled = Value
             if whiteListEnabled == true then 
@@ -1508,6 +1587,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     TargetTab:AddToggle({
         Name = "Loop burn",
         Default = false,
+        Color = Color3.fromRGB(102, 0, 102),
         Callback = function(Value)
             if Value then
                 loopFirePlayerCoroutine = coroutine.create(function() loopFirePlayer(TargetSelected) end)
@@ -1524,6 +1604,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     VisualTab:AddToggle({
         Name = "Unblur (disable blur)",
         Default = false,
+        Color = Color3.fromRGB(102, 0, 102),
         Callback = function(Value)
             if Value == true then
                 workspace.Camera.Blur.Enabled = false
@@ -1573,6 +1654,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     BindTab:AddToggle({
         Name = "Burn",
         Default = false,
+        Color = Color3.fromRGB(102, 0, 102),
         Callback = function(Value)
             clickBurn = Value
             spawnItem("Campfire")
@@ -1611,6 +1693,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     BindTab:AddToggle({
         Name = "Kill",
         Default = false,
+        Color = Color3.fromRGB(102, 0, 102),
         Callback = function(Value)
             clickKill = Value
         end
@@ -2010,6 +2093,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     AutoPianoTab:AddToggle({
         Name = "Spam",
         Default = false,
+        Color = Color3.fromRGB(102, 0, 102),
         Callback = function(Value)
             SpamToggle = Value
             if Value then
