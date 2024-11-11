@@ -1193,6 +1193,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
                 end
             else
                 game:GetService('Workspace').FallenPartsDestroyHeight = -100
+                Value = false
             end
         end    
     })
@@ -1200,10 +1201,12 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     Tab:AddButton({
         Name = "Anti bang (нажми если включили банг)",
         Callback = function(Value)
-            local positionOld
-            game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(Vector3.new(0, FlnPrtsDstrHght - 40, 0))
-            wait(0.3)
-            game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(positionOld)
+            local positionOld = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+		    game:GetService('Workspace').FallenPartsDestroyHeight = -100000
+		    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(Vector3.new(0, game:GetService('Workspace').FallenPartsDestroyHeight + 3000, 0))
+		    wait(1)
+		    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(positionOld)
+		    game:GetService('Workspace').FallenPartsDestroyHeight = -100
         end    
     })
 
