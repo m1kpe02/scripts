@@ -62,6 +62,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     local gravity = game.Workspace.Gravity
     local infJump = false
     local FlnPrtsDstrHght = game:GetService('Workspace').FallenPartsDestroyHeight
+    local antiVoidEnabled = false
     --Coroutines
     local PoisonGrabCoroutine
     local poisonAuraCoroutine
@@ -1180,7 +1181,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
             if Value then
                 game:GetService('Workspace').FallenPartsDestroyHeight = -100000
                 while Value do
-                    if game.Players.LocalPlayer.Character.HumanoidRootPart and game.Players.LocalPlayer.Character.HumanoidRootPart.Position.Y < -500 then
+                    while game.Players.LocalPlayer.Character.HumanoidRootPart and game.Players.LocalPlayer.Character.HumanoidRootPart.Position.Y < -500 and antiVoidEnabled do
                         game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2, -7, -4)
                         OrionLib:MakeNotification({
                             Name = "Theres a staarmaan waiting in the sky",
@@ -1188,12 +1189,13 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
                             Image = "rbxassetid://18624604880",
                             Time = 5
                         })
+                        wait()
                     end
                     wait()
                 end
             else
                 game:GetService('Workspace').FallenPartsDestroyHeight = -100
-                Value = false
+                antiVoidEnabled = false
             end
         end    
     })
@@ -1201,12 +1203,12 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     Tab:AddButton({
         Name = "Anti bang (нажми если включили банг)",
         Callback = function(Value)
-            local positionOld = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+            local positionOld = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
 		    game:GetService('Workspace').FallenPartsDestroyHeight = -100000
 		    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(Vector3.new(0, game:GetService('Workspace').FallenPartsDestroyHeight + 3000, 0))
 		    wait(1)
 		    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(positionOld)
-		    game:GetService('Workspace').FallenPartsDestroyHeight = -100
+            game:GetService('Workspace').FallenPartsDestroyHeight = -100
         end    
     })
 
