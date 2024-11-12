@@ -1204,11 +1204,11 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
         Name = "Anti bang (нажми если включили банг)",
         Callback = function(Value)
             local positionOld = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
-		    game:GetService('Workspace').FallenPartsDestroyHeight = -100000
-		    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(Vector3.new(0, game:GetService('Workspace').FallenPartsDestroyHeight + 3000, 0))
+		    game:GetService('Workspace').FallenPartsDestroyHeight = -1000
+		    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(Vector3.new(0, -500, 0))
 		    wait(1)
 		    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(positionOld)
-            game:GetService('Workspace').FallenPartsDestroyHeight = -100
+            game:GetService('Workspace').FallenPartsDestroyHeight = -500
         end    
     })
 
