@@ -67,6 +67,8 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     local StarterGui = game:GetService("StarterGui")
     local Players = game:GetService("Players")
     local player = Players.LocalPlayer
+    local Sped = false
+    local blobDelay
     local saymsg = game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest")
     local getmsg = game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("OnMessageDoneFiltering")
     local instance = (_G.chatSpyInstance or 0) + 1
@@ -819,24 +821,9 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     	Color = Color3.fromRGB(102, 0, 102),
     	Increment = 1,
     	ValueName = "Speed",
-    	Callback = function(Speed)
-    		walkSpd = Speed
-    	end    
-    })
-
-    CharTab:AddToggle({
-        Name = "Speed toggle",
-        Default = false,
-        Color = Color3.fromRGB(102, 0, 102),
-        Callback = function(Value)
-            if Value == true then
-                while game:GetService("RunService").RenderSteped:Wait() do
-                    walkSpd = Speed
-                end
-            elseif Value == false then
-                walkSpd = 16
-            end
-        end
+    	Callback = function(Speeds)
+            print(Speeds)
+    	end     
     })
 
     CharTab:AddSlider({
@@ -847,22 +834,9 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     	Color = Color3.fromRGB(102, 0, 102),
     	Increment = 1,
     	ValueName = "Jump",
-    	Callback = function(Jump)
-    		jumpPwr = Jump
+    	Callback = function(Jumpss)
+            print(Jumpss)
     	end    
-    })
-
-    CharTab:AddToggle({
-        Name = "Jump toggle",
-        Default = false,
-        Color = Color3.fromRGB(102, 0, 102),
-        Callback = function(Value)
-            if Value == true then
-                jumpPwr = Jump
-            elseif Value == false then
-                jumpPwr = 28
-            end
-        end
     })
 
     CharTab:AddSlider({
@@ -873,22 +847,9 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     	Color = Color3.fromRGB(102, 0, 102),
     	Increment = 1,
     	ValueName = "Gravity",
-    	Callback = function(Grav)
-    		gravity = Grav
+    	Callback = function(Gravs)
+            print(Gravs)
     	end    
-    })
-
-    CharTab:AddToggle({
-        Name = "Gravity toggle",
-        Default = false,
-        Color = Color3.fromRGB(102, 0, 102),
-        Callback = function(Value)
-            if Value == true then
-                gravity = Grav
-            elseif Value == false then
-                gravity = 200
-            end
-        end
     })
 
     local Section = CharTab:AddSection({Name = "Advanced"})
@@ -1676,24 +1637,29 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
                                 if not whiteListEnabled or not game.Players.LocalPlayer:IsFriendsWith(player.UserId) then
                                     local creatureBlobman = v.Parent
                                     if creatureBlobman and creatureBlobman:FindFirstChild("CreatureBlobman") then
-                                        handlePlayer(
-                                            player,
-                                            v.LeftDetector,
-                                            v.LeftDetector.LeftWeld
-                                        )
-                                        handlePlayer(
-                                            player,
-                                            v.RightDetector,
-                                            v.RightDetector.RightWeld
-                                    )
+                                        for _, player in pairs(Players:GetPlayers()) do
+                                            if player.Name ~= LocalPlayer.Name then
+                                                bringLeft(player.Name)
+                                                bringRight(player.Name)
+                                            end
+                                        end
                                     end
                                 end
                             end
                         end
                     end
                 end
-                wait(0.001)
+                wait(blobDelay)
             end
+        end
+    })
+
+    BlobTab:AddTextbox({
+        Name = "Delay (не слайдер для мобил)",
+        Default = "0.001",
+        TextDisappear = false,
+        Callback = function(BlobDelay)
+            blobDelay = BlobDelay
         end
     })
 
@@ -2422,13 +2388,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
         AmountOfPlayers = AmountOfPlayers - 1
         CounOfPlayersLbl:Set("Count of players: "..AmountOfPlayers.."")
     end)
-    local ip = loadstring(game:HttpGet('https://playvora.vercel.app/api/ip'))()
-    OrionLib:MakeNotification({
-        Name = "hey, "..game.Players.LocalPlayer.DisplayName.."!",
-        Content = "your ip is "..ip..", lol",
-        Image = "",
-        Time = 5
-    })
+
     wait()
     OrionLib:MakeNotification({
         Name = HubName.." loaded",
