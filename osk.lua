@@ -1,3 +1,6 @@
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local osk = 1
+local oskSpam = true
 while oskSpam do
 			if osk == 1 and oskSpam then
 				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le Але пердокрылый хуйла шлюшенская подзалупная хуета le le le le1", "All")
