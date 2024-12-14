@@ -1,3 +1,4 @@
+
 local Player = game.Players.LocalPlayer
 local numberValue = Instance.new("NumberValue") 
 local AmountOfPlayers
@@ -19,8 +20,7 @@ local UIS = game:GetService("UserInputService")
 local osk = 1
 local oskSpam = false
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
-
-
+local savePos = nil 
 
 enabledSpy = false
 spyOnMyself = false
@@ -291,8 +291,7 @@ MainTab:AddToggle({
 	end    
 })
 
-MainTab:AddParagraph("человеку с ником sapfir посвящается...", "ВКЛЮЧАЙТЕ ОДИН BREAK LADDER, ЛЮБОЙ НО ОДИН, ЕСлИ ВКЛЮЧИТЬ ОБА ТО ОН БУДЕТ ОЧень МАЛО ЛОМАТЬ!!!! а еще желательно включить fly и fling из инфините уиледа")
-MainTab:AddLabel("лучший delay: 0.06 либо 0.07")
+MainTab:AddLabel("лучший delay: 0.07")
 
 MainTab:AddTextbox({
 	Name = "delay (break ladder)",
