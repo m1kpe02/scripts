@@ -504,11 +504,11 @@ ChatTab:AddToggle({
 				wait(5)
 				osk = 41
 			elseif osk == 41 and oskSpam then
-				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le Инфантильная шлюха ебало свое закрой и начни впитывать миллионы фактов в свое продырявленное моим хуем ебало le le le le", "All")
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le Инфантильная шлюха ебало свое закрой и начни впитывать миллионы фактов в свое продырявленное моим хуем ебало le le le le", "All")
 				wait(5)
 				osk = 42
 			elseif osk == 42 and oskSpam then
-				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Я же тебе щас яйцами все твои глаза выбью дочь куртизанской грязной свиноты жирной 300 килотонн бля le le le le le le le", "All")
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le leЯ же тебе щас яйцами все твои глаза выбью дочь куртизанской грязной свиноты жирной 300 килотонн бля le le le le le le le", "All")
 				wait(5)
 				osk = 43
 			elseif osk == 43 and oskSpam then
@@ -516,31 +516,31 @@ ChatTab:AddToggle({
 				wait(5)
 				osk = 44
 			elseif osk == 44 and oskSpam then
-				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Ты че у тя бабку твою пузатую сиротку на колесо камаза намотало и 30 раз переебашило в блендере le le le le le le", "All")
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le Ты че у тя бабку твою пузатую сиротку на колесо камаза намотало и 30 раз переебашило в блендере le le le le le le", "All")
 				wait(5)
 				osk = 45
 			elseif osk == 45 and oskSpam then
-				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Твой батек спермобак ща пойдет тебе свой фимозный хуек сувать в твою ротовую полость где нет языка он в остался в анале твоего прадеда le le le le le le le", "All")
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le Твой батек спермобак ща пойдет тебе свой фимозный хуек сувать в твою ротовую полость где нет языка он в остался в анале твоего прадеда le le le le le le le", "All")
 				wait(5)
 				osk = 46
 			elseif osk == 46 and oskSpam then
-				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Ты че беззубая мусорница я же тебя ща за волосы возьму начну по всему твоему шалашу раскручивать нахуй le le le le le le le le", "All")
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le Ты че беззубая мусорница я же тебя ща за волосы возьму начну по всему твоему шалашу раскручивать нахуй le le le le le le le le", "All")
 				wait(5)
 				osk = 47
 			elseif osk == 47 and oskSpam then
-				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Ау пидорасница я ща пойду твой череп испепелять лазером из головки моего хуя le le le le le", "All")
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le Ау пидорасница я ща пойду твой череп испепелять лазером из головки моего хуя le le le le le", "All")
 				wait(5)
 				osk = 48
 			elseif osk == 48 and oskSpam then
-				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Потаскуха нахуй за пивом мне метнулась быстро я те этой банкой ща пропасть сделаю в твоем пустом черепе le le le le le", "All")
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le Потаскуха нахуй за пивом мне метнулась быстро я те этой банкой ща пропасть сделаю в твоем пустом черепе le le le le le", "All")
 				wait(5)
 				osk = 49
 			elseif osk == 49 and oskSpam then
-				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Ты че бля я ща приду твою матушку вросшую в диван возьму за ебало и начну его выкручивать нахуй le le le le le", "All")
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le Ты че бля я ща приду твою матушку вросшую в диван возьму за ебало и начну его выкручивать нахуй le le le le le", "All")
 				wait(5)
 				osk = 50
 			elseif osk == 50 and oskSpam then
-				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("паскудница я тебе говорю ща тя просто в землю втоптаю ты там будешь червей жрать выдра ебанутая стремная le le le le le le le", "All")
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le паскудница я тебе говорю ща тя просто в землю втоптаю ты там будешь червей жрать выдра ебанутая стремная le le le le le le le", "All")
 				wait(5)
 				osk = 51
 			elseif osk == 51 and oskSpam then
@@ -548,7 +548,7 @@ ChatTab:AddToggle({
 				wait(5)
 				osk = 52
 			elseif osk == 52 and oskSpam then
-				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Или я все не как не пойму давай ка я те тута щас скважину вьебу во лбу и ты нахуй будешь туда говнеца принимать покуда во рту места нет le le le le le le le le", "All")
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le Или я все не как не пойму давай ка я те тута щас скважину вьебу во лбу и ты нахуй будешь туда говнеца принимать покуда во рту места нет le le le le le le le le", "All")
 				wait(5)
 				osk = 53
 			elseif osk == 52 and oskSpam then
@@ -556,7 +556,7 @@ ChatTab:AddToggle({
 				wait(5)
 				osk = 53
 			elseif osk == 53 and oskSpam then
-				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("естественно от тебя ничего не остаётся тут ты поняла нет мышцы напряги свои и начни выдавать отпор какой либо пока тебе пизда тут окончательно не пришла le le le le le le le le", "All")
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le естественно от тебя ничего не остаётся тут ты поняла нет мышцы напряги свои и начни выдавать отпор какой либо пока тебе пизда тут окончательно не пришла le le le le le le le le", "All")
 				wait(5)
 				osk = 54
 			elseif osk == 54 and oskSpam then
@@ -564,11 +564,11 @@ ChatTab:AddToggle({
 				wait(5)
 				osk = 55
 			elseif osk == 55 and oskSpam then
-				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("я те тута щас ряд еблище раскрою Ты чё мне тут начинаешь пиздеть дочь шлюхи я же тебя разъебашу мне даже не придется силы тратить le le le le le ", "All")
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le я те тута щас ряд еблище раскрою Ты чё мне тут начинаешь пиздеть дочь шлюхи я же тебя разъебашу мне даже не придется силы тратить le le le le le ", "All")
 				wait(5)
 				osk = 56
 			elseif osk == 56 and oskSpam then
-				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("ты же ебанутая девчонка которая думает что сможет вывезти меня ты очень сильно ошибаешься le le le le le le le", "All")
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le ты же ебанутая девчонка которая думает что сможет вывезти меня ты очень сильно ошибаешься le le le le le le le", "All")
 				wait(5)
 				osk = 57
 			elseif osk == 57 and oskSpam then
@@ -580,31 +580,31 @@ ChatTab:AddToggle({
 				wait(5)
 				osk = 59
 			elseif osk == 59 and oskSpam then
-				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("но ты ты ошибаешься так как ты дочь шлюхи которая ебётся каждый раз le le le le le le le", "All")
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le но ты ты ошибаешься так как ты дочь шлюхи которая ебётся каждый раз le le le le le le le", "All")
 				wait(5)
 				osk = 60
 			elseif osk == 60 and oskSpam then
-				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("при рождении она уж ебалась с отчимом которые ебашил в ней струек спермы le le le le le le le", "All")
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le le при рождении она уж ебалась с отчимом которые ебашил в ней струек спермы le le le le le le le", "All")
 				wait(5)
 				osk = 61
 			elseif osk == 61 and oskSpam then
-				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("тут же ты нахуй отлетишь от хуя моего и тебе даже не кто не поможет ты же думаешь что тебе помогут le le le le le leele le", "All")
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le тут же ты нахуй отлетишь от хуя моего и тебе даже не кто не поможет ты же думаешь что тебе помогут le le le le le leele le", "All")
 				wait(5)
 				osk = 62
 			elseif osk == 62 and oskSpam then
-				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("ты же максимум позовешь своих подружек на мой хуй le le le le", "All")
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le ты же максимум позовешь своих подружек на мой хуй le le le le", "All")
 				wait(5)
 				osk = 63
 			elseif osk == 63 and oskSpam then
-				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le твои подружки подсосы которые в силах отсосать у меня членок и пойти спать в свой сарай где уж бомжы твою мамашу ебашут le le le le", "All")
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le твои подружки подсосы которые в силах отсосать у меня членок и пойти спать в свой сарай где уж бомжы твою мамашу ебашут le le le le", "All")
 				wait(5)
 				osk = 64
 			elseif osk == 64 and oskSpam then
-				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le даже не надо объяснить что я тут сильный а ты слабак которые возомнил себя царем ты такой смешной однако le le le le", "All")
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le даже не надо объяснить что я тут сильный а ты слабак которые возомнил себя царем ты такой смешной однако le le le le", "All")
 				wait(4)
 				osk = 65
 			elseif osk == 65 and oskSpam then
-				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("внутри тебя сперма моих дружков давай щас бел глупостей ты отсосешь мне по классике как ты обычно умеешь le le le le le le le", "All")
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le внутри тебя сперма моих дружков давай щас бел глупостей ты отсосешь мне по классике как ты обычно умеешь le le le le le le le", "All")
 				wait(5)
 				osk = 66
 			elseif osk == 66 and oskSpam then
@@ -612,7 +612,7 @@ ChatTab:AddToggle({
 				wait(5)
 				osk = 67
 			elseif osk == 67 and oskSpam then
-				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le да кстати ты уж сожрал мое говно я тебе дал свой кал жрать а ты его так доел сильно что ты просила добавки ты же даже в жизни не знаешь le le le le le le", "All")
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le le да кстати ты уж сожрал мое говно я тебе дал свой кал жрать а ты его так доел сильно что ты просила добавки ты же даже в жизни не знаешь le le le le le le", "All")
 				wait(5)
 				osk = 68
 			elseif osk == 68 and oskSpam then
@@ -620,35 +620,191 @@ ChatTab:AddToggle({
 				wait(5)
 				osk = 69
 			elseif osk == 69 and oskSpam then
-				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("ты же слабая трансуха мне похуй кто ты я тебя ебал слабая дочурка хуеты я же тя об столб заебашил я тя с небоскреба кидал в тя тор молниями ебашил под 100000 вольт le le le le le le le le", "All")
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le ты же слабая трансуха мне похуй кто ты я тебя ебал слабая дочурка хуеты я же тя об столб заебашил я тя с небоскреба кидал в тя тор молниями ебашил под 100000 вольт le le le le le le le le", "All")
 				wait(5)
 				osk = 70
 			elseif osk == 70 and oskSpam then
-				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("я тя яйцами душил ты от моего хуя получала удары что ты увидела спутник с которого я твоей матери сперму спустил le le le le le", "All")
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le e le le le le le я тя яйцами душил ты от моего хуя получала удары что ты увидела спутник с которого я твоей матери сперму спустил le le le le le", "All")
 				wait(5)
 				osk = 71
 			elseif osk == 71 and oskSpam then
-				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le А ну-ка ты нахуй ебасос хуеплетный я же ща начну пулять тебя в стратосферу ебаный пиздоблядский лохматый чмырь le le le le le", "All")
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le А ну-ка ты нахуй ебасос хуеплетный я же ща начну пулять тебя в стратосферу ебаный пиздоблядский лохматый чмырь le le le le le", "All")
 				wait(5)
 				osk = 72
 			elseif osk == 72 and oskSpam then
-				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("яш щас буду ебашить тебя шваль тухлодырая le le le le le", "All")
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le яш щас буду ебашить тебя шваль тухлодырая le le le le le", "All")
 				wait(5)
 				osk = 73
 			elseif osk == 73 and oskSpam then
-				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("А ну-ка свой еблет всосала дочура щлюхи я те нахуй все кости вы ломаю наизнанку le le le le le le le le le", "All")
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le А ну-ка свой еблет всосала дочура щлюхи я те нахуй все кости вы ломаю наизнанку le le le le le le le le le", "All")
 				wait(5)
 				osk = 74
 			elseif osk == 74 and oskSpam then
-				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("я твоей матери палками по её уродливому лобку ебашил ну ну бля попизди в хуй пиздохуесоска le le le le le le le", "All")
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le я твоей матери палками по её уродливому лобку ебашил ну ну бля попизди в хуй пиздохуесоска le le le le le le le", "All")
 				wait(5)
 				osk = 75
 			elseif osk == 75 and oskSpam then
-				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Я тя нахуй как рыбу буду вскрывать я тя об тумбу уебал шлюхоподобная свиноте мразота le le le le le le le le", "All")
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le Я тя нахуй как рыбу буду вскрывать я тя об тумбу уебал шлюхоподобная свиноте мразота le le le le le le le le", "All")
 				wait(5)
 				osk = 76
 			elseif osk == 76 and oskSpam then
 				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le я те меч в жопу сувал ща поминутно начну ебать тя ты своим спермоприемником будешь лизать мне хуй хуераспиздяйка у ты блять выродка залупы le le le le le le", "All")
+				wait(5)
+				osk = 77
+			elseif osk == 77 and oskSpam then
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le внутри тебя сперма моих дружков давай щас бел глупостей ты отсосешь мне по классике как ты обычно умеешь le le le le le le le", "All")
+				wait(5)
+				osk = 78
+			elseif osk == 78 and oskSpam then
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le и я забью на тебя хуй и перестану трогать и ты будешь выгоде и ты всегда будешь радоваться тому моменту когда я свой пенис буду пихать к твоим губам le le le le le le", "All")
+				wait(5)
+				osk = 79
+			elseif osk == 79 and oskSpam then
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le да кстати ты уж сожрал мое говно я тебе дал свой кал жрать а ты его так доел сильно что ты просила добавки ты же даже в жизни не знаешь le le le le le le", "All")
+				wait(5)
+				osk = 80
+			elseif osk == 80 and oskSpam then
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le Слушай сюда пиздонаркогейша я же начну тебя ебать по всем фронтам также как твоего хуесоса отца на сво le le le", "All")
+				wait(5)
+				osk = 81
+			elseif osk == 81 and oskSpam then
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le ты же слабая трансуха мне похуй кто ты я тебя ебал слабая дочурка хуеты я же тя об столб заебашил я тя с небоскреба кидал в тя тор молниями ебашил под 100000 вольт le le le le le le le le", "All")
+				wait(5)
+				osk = 82
+			elseif osk == 82 and oskSpam then
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le я тя яйцами душил ты от моего хуя получала удары что ты увидела спутник с которого я твоей матери сперму спустил le le le le le", "All")
+				wait(5)
+				osk = 83
+			elseif osk == 83 and oskSpam then
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le А ну-ка ты нахуй ебасос хуеплетный я же ща начну пулять тебя в стратосферу ебаный пиздоблядский лохматый чмырь le le le le le", "All")
+				wait(5)
+				osk = 84
+			elseif osk == 84 and oskSpam then
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le я в тя комочками из спермой пулял ты же слабая подсоска хуя моего ты никому не известная детя шлюхи медленная хуета ща хуем те ебало скрою le le le le le le le le", "All")
+				wait(5)
+				osk = 85
+			elseif osk == 85 and oskSpam then
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le Ты еще поклониться моему волшебному дилдаку будешь le le le le le le le", "All")
+				wait(5)
+				osk = 86
+			elseif osk == 86 and oskSpam then
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le Ебаная шлюха щя начну ебать тя камнями по еблету залупой на Марс к Илону Маску запущу он тя выебет пиздохарактерную подзалупную ебаподсоску le le le le le le le le", "All")
+				wait(5)
+				osk = 87
+			elseif osk == 87 and oskSpam then
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le Ты же нахуй поеботна блядопиздеща я же нахуй твоего отца заебаширую своими сильными ногами маленькая хуебродопиздатая чмырила, прыщявая залупень le le le le le", "All")
+				wait(5)
+				osk = 88
+			elseif osk == 88 and oskSpam then
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le Ты нахуй как мармелад под огнем превратилась в черную поганку от моей спермы ты вместо воды будешь пить мою спермоту le le le le le", "All")
+				wait(5)
+				osk = 89
+			elseif osk == 89 and oskSpam then
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le ты детишка алконаркоцигана со своими собутыльниками отсосали хуи по размеру к их гнилозубому рту le le le le le le le", "All")
+				wait(5)
+				osk = 90
+			elseif osk == 90 and oskSpam then
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le ты же нахуц пиздец какая слабая и даже не пизди что ты мою мать ебал потому что даже женщина заебашит такую слабую хуетень как ты le le le le le le", "All")
+				wait(5)
+				osk = 91
+			elseif osk == 91 and oskSpam then
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le Ты де уже от пота выявленным моим хуем задыхаешься ты просто черножопая грязная своей жизнью хуеглотное дерьмо le le le le le ", "All")
+				wait(5)
+				osk = 92
+			elseif osk == 92 and oskSpam then
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le вскройся также как это сделал твой бухой узбек отец на сво le le le le le", "All")
+				wait(5)
+				osk = 93
+			elseif osk == 93 and oskSpam then
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le ну ты же нахуй цель для буллинга все сильнее заглатываешь мой хуй le le le le le le le", "All")
+				wait(5)
+				osk = 94
+			elseif osk == 94 and oskSpam then
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le я своим металлическим членом достал до твоего желудочного сока но место него там была моя сперма le le le le le ", "All")
+				wait(3)
+				osk = 95
+			elseif osk == 95 and oskSpam then
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le которая появилась из за твоего тупого отца яйцебродного которого заебашить даже букашке не составит особого труда le le le le le", "All")
+				wait(5)
+				osk = 96
+			elseif osk == 96 and oskSpam then
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le Я тебе в натуре буду пробивать в твое обосанное ебло каждые 5 секунд потому что я буду доводить тебя до смерти старенькая коза le le le le le", "All")
+				wait(5)
+				osk = 97
+			elseif osk == 97 and oskSpam then
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le Ты же нахуй понимаешь что я буду ебать тебя до смерти без секунды отдыха просто нахуй скажи уже что ты слабость которая насасывает мне хуй le le le le le", "All")
+				wait(5)
+				osk = 98
+			elseif osk == 98 and oskSpam then
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le Такая мразотина яж твою колясочницу бабушку выбросил в окно и она прилетела в твой ничтожный еблет осла ебаного le le le le le", "All")
+				wait(5)
+				osk = 99
+			elseif osk == 99 and oskSpam then
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le ну уже просто втопи свое еблище в могилу твоей матери, твоец матери краном уебали в ебло ты же нахуй не по смеешь даже высрать 1 слово le le le le le le", "All")
+				wait(5)
+				osk = 100
+			elseif osk == 100 and oskSpam then
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le против такого могущественого как я который холодно кровно заебашировал всю твою семью ты же нахуй слабая шлюхидзе скунсиха от которой за километр пахнет моей спермой просто нахуй le le le le le le", "All")
+				wait(5)
+				osk = 101
+			elseif osk == 101 and oskSpam then
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le лузани шалавка ебаная le le le le", "All")
+				wait(5)
+				osk = 102
+			elseif osk == 102 and oskSpam then
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le Анука але вафлепиздище вафлехуильное анука соси мой обконченный дилдак который выебал в анал твою бездарную шлюшенскую le le le le", "All")
+				wait(5)
+				osk = 103
+			elseif osk == 103 and oskSpam then
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le шлюхо мамашу прошмандовку але утребье я щя буду ебашить твою мандохвостого отца камнями по голове я со спутника спущю le le le le le", "All")
+				wait(5)
+				osk = 104
+			elseif osk == 104 and oskSpam then
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le же сам блядоблядинская проблядная чернохуеплитическая мандорылая чернорылая пиздорылая фуфловое мразеебированная млепопитающая le le le le le", "All")
+				wait(5)
+				osk = 105
+			elseif osk == 105 and oskSpam then
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le особь огурец в пизду твоей мертвой бездарной губке матери я же здал эту чушку на мясо комбинат к таким же свиноподобным le le le le le", "All")
+				wait(5)
+				osk = 106
+			elseif osk == 106 and oskSpam then
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le свинорылым свиньям которые бяли такими же паскуда и прошмандовками как и твоя шлюхидза потаскуха матушка ты знал что я вырезал le le le le le", "All")
+				wait(5)
+				osk = 107
+			elseif osk == 107 and oskSpam then
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le ее древнегреческий клитор выкопанный племеним древних ацтеков ножницами и с моей сперомой скормил твоему козлоссаному ничтожеству блядотворенскуму копропидору жирному небритому отчима le le le le le", "All")
+				wait(5)
+				osk = 108
+			elseif osk == 108 and oskSpam then
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le он ебет тебя стручком в 3 см всю ночь а ты ахаешь будто увидел как я режу сиськи твоей проблядоблядухе мертвой шаболде атери которая делала мне минет 3 месяца за пачку сухариков с котлетой le le le le le", "All")
+				wait(5)
+				osk = 109
+			elseif osk == 109 and oskSpam then
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le она будет получать тотальные проблемы от моего члена перейдем на твою старую потаскуху шлюхо бабушку я же ей выбивал ее вставную челусть купленные на последние гроши le le le le le", "All")
+				wait(5)
+				osk = 110
+			elseif osk == 110 and oskSpam then
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le потому что она такая же мудоногая кривозубая гнилозубая мандохвостная жирная блядуха ей пора в гроб я лично на кончаю ей на могилку поставлю ей там ф как твоей матери le le le le le", "All")
+				wait(5)
+				osk = 111
+			elseif osk == 111 and oskSpam then
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le хорошая женщина была всегда мне давала как только я попрощу ее спермоприемник уже выглядед как белый экран жаль что они все здохли le le le le le", "All")
+				wait(5)
+				osk = 112
+			elseif osk == 112 and oskSpam then
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le пока что кроме тебя чушкохуила я же распелю тебя бензопилой пополам а потом выложу как расчлененку я посмотрю как ты будешь хрюкать le le le le le", "All")
+				wait(5)
+				osk = 113
+			elseif osk == 113 and oskSpam then
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le когда я буду резать тебе твою глотку ты же просто свинорылый козлоссаный свиняра подсоска моего хуя le le le le le", "All")
+				wait(5)
+				osk = 114
+			elseif osk == 114 and oskSpam then
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le ты же просто хитроебированный сынок жирной мертвой шлюхидзы шлюхоблядиной прошмандоки которую наркоманы хуярили по пузу пока же я говорил le le le le le", "All")
+				wait(5)
+				osk = 115
+			elseif osk == 115 and oskSpam then
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le ты уже здох от ебейшего напора моей спермы бездарное утребье ебаный пасынок жирной шаболды le le le le le", "All")
 				wait(5)
 				osk = 1
 			end
@@ -1018,16 +1174,17 @@ while true do
 		TimeOfExecutedLB = 0
 		wait()
 	end
-	if minutesOfExecutedLB >= 60 then
-		for i = 1, 10 do
-			OrionLib:MakeNotification({
-				Name = "пора заканчивать",
-				Content = ""..Player.DisplayName..", ты тут больше часа!!1!",
-				Image = "rbxassetid://4483345998",
-				Time = 10
-			})
-			wait()
-		end
+end
+
+if minutesOfExecutedLB >= 60 then
+	for i = 1, 10 do
+		OrionLib:MakeNotification({
+			Name = "пора заканчивать",
+			Content = ""..Player.DisplayName..", ты тут больше часа!!1!",
+			Image = "rbxassetid://4483345998",
+			Time = 10
+		})
+		wait()
 	end
 end
 
