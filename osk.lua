@@ -333,7 +333,7 @@ ChatTab:AddToggle({
 ChatTab:AddSection({Name = "оскорбления (сделано не полностью)"})
 osk = 1
 ChatTab:AddToggle({
-	Name = "спам-оск (скорее всего без бана)",
+	Name = "спам-оск (без бана)",
 	Default = false,
 	Color = Color3.fromRGB(102, 0, 102),
 	Callback = function(Value)
@@ -833,6 +833,20 @@ ChatTab:AddToggle({
 	Callback = function(Value)
 		lelele = Value
 	end    
+})
+
+ChatTab:AddButton({
+	Name = "послать жестко нахуй",
+	Callback = function()
+        ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le съебись нахуй пиздоблядина ебаная я твоей шлюхоматери обе гнилых дыры своим богоподобным хуем драил le le le le le le", "All")
+  	end    
+})
+
+ChatTab:AddButton({
+	Name = "послать еще раз",
+	Callback = function()
+        ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le я тебе сказал блять съебался в страхе отсюда хуесосина ато пизда тебе аутисту le le le le le le", "All")
+  	end    
 })
 
 TPTab:AddButton({
