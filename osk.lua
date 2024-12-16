@@ -1082,6 +1082,19 @@ PlayerTab:AddTextbox({
 	end	  
 })
 
+PlayerTab:AddToggle({
+	Name = "infinite zoom distance",
+	Default = false,
+	Color = Color3.fromRGB(102, 0, 102),
+	Callback = function(Value)
+		if Value then
+			game.Players.LocalPlayer.CameraMaxZoomDistance = math.huge
+		else
+			game.Players.LocalPlayer.CameraMaxZoomDistance = 150
+		end
+	end
+})
+
 PlayerTab:AddButton({
 	Name = "sit",
 	Callback = function()
