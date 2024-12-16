@@ -21,6 +21,9 @@ local osk = 1
 local oskSpam = false
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local savePos = nil 
+local plr = game.Players.LocalPlayer
+local Animate = game.Players.LocalPlayer.Character.Animate
+
 
 enabledSpy = false
 spyOnMyself = false
@@ -217,6 +220,14 @@ local function brkldrfull()
 	end
 end
 
+local function StopAnim()
+	game.Players.LocalPlayer.Character.Animate.Disabled = false
+    local animtrack = game.Players.LocalPlayer.Character.Humanoid:GetPlayingAnimationTracks()
+    for i, track in pairs (animtrack) do
+        track:Stop()
+    end
+end
+
 local function onChatted(p,msg)
 	if _G.chatSpyInstance == instance then
 		if p==player and msg:lower():sub(1,4)=="/spy" then
@@ -330,7 +341,7 @@ ChatTab:AddToggle({
 	end    
 })
 
-ChatTab:AddSection({Name = "оскорбления (сделано не полностью)"})
+ChatTab:AddSection({Name = "advanced"})
 osk = 1
 ChatTab:AddToggle({
 	Name = "спам-оск (без бана)",
@@ -997,6 +1008,25 @@ DefenseTab:AddToggle({
 		end
 	end    
 })
+local SavedCheckpoint
+
+DefenseTab:AddButton({
+	Name = "save checkpoint",
+	Callback = function()
+		SavedCheckpoint = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+		game.Players.LocalPlayer.CharacterAdded:Connect(function()
+			wait(0.2)
+			game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(SavedCheckpoint + Vector3.new(0, 3, 0))
+		end)
+  	end    
+})
+
+DefenseTab:AddButton({
+	Name = "delete checkpoint",
+	Callback = function()
+		SavedCheckpoint = nil
+  	end    
+})
 
 PlayerTab:AddTextbox({
 	Name = "speed",
@@ -1149,12 +1179,7 @@ ClockTab:AddTextbox({
 	end	  
 })
 
-Ctab:AddParagraph("v3.4","deleted: ??? (5 seconds); added: webhook(discord), anti-admin tab, tp to bottom of the stairs; renamed: changelog tab, script; cleared: source, changelog tab ")
-Ctab:AddParagraph("v3.5, no more updates (maybe)","added working breaking ladder script, glitch. shhhh...")
-Ctab:AddParagraph("v3.6", "i remember the script lol. added server tab")
-Ctab:AddParagraph("v3.7", "translated again - english; added: infinite jump; changed: color of the gui")
-Ctab:AddParagraph("v3.8", "added: infinite jumps, anti-void, chat spy, public chat spy, anti sit, sit button; changed: renamed anti-admin tab to defense tab")
-Ctab:AddParagraph("v3.9", "fixed break ladder and teleport after reset")
+Ctab:AddParagraph("PREMIUM", "онли я и друзья, обновы пишу тем, у кого есть прем (сейчас: partyrnak, я)")
 
 AmountOfPlayers = #Players:GetPlayers()
 AllPlayers = #Players:GetPlayers()
@@ -1163,8 +1188,8 @@ local plrsSection = Servertab:AddSection({Name = "players (max 50)"})
 local CounOfPlayersLbl = Servertab:AddLabel("count of players: "..AmountOfPlayers.."")
 local AllPlayersLbl = Servertab:AddLabel("all players: "..AmountOfPlayers.."")
 Servertab:AddSection({Name = "you"})
-Servertab:AddLabel("you: "..Player.Name.."("..Player.DisplayName..")")
-local ExecutedLBbl = Servertab:AddLabel("script executed: "..minutesOfExecutedLB.." min "..TimeOfExecutedLB.." sec")
+Servertab:AddLabel("you: "..Player.DisplayName.."("..Player.Name..")")
+local ExecutedLBbl = Servertab:AddLabel("йоу")
 
 Players.PlayerAdded:Connect(function(plr)
     AmountOfPlayers = AmountOfPlayers + 1
@@ -1177,21 +1202,27 @@ Players.PlayerRemoving:Connect(function()
     AmountOfPlayers = AmountOfPlayers - 1
     CounOfPlayersLbl:Set("count of players: "..AmountOfPlayers.."")
 end)
-
+local hourOfExecutedLB = 0
 while true do
 	wait(1)
 	TimeOfExecutedLB = TimeOfExecutedLB + 1
 	wait()
-	ExecutedLBbl:Set("script executed: "..minutesOfExecutedLB.." min "..TimeOfExecutedLB.." sec")
-	if TimeOfExecutedLB == 60 then
+	ExecutedLBbl:Set("script executed: "..hourOfExecutedLB.." hour, "..minutesOfExecutedLB.." min, "..TimeOfExecutedLB.." sec")
+	if TimeOfExecutedLB == 59 then
 		minutesOfExecutedLB = minutesOfExecutedLB + 1
+		TimeOfExecutedLB = 0
+		wait()
+	end
+	if minutesOfExecutedLB == 59 and TimeOfExecutedLB == 59 then
+		hourOfExecutedLB = hourOfExecutedLB + 1
+		minutesOfExecutedLB = 0
 		TimeOfExecutedLB = 0
 		wait()
 	end
 end
 
 if minutesOfExecutedLB >= 60 then
-	for i = 1, 10 do
+	for i = 1, 5 do
 		OrionLib:MakeNotification({
 			Name = "пора заканчивать",
 			Content = ""..Player.DisplayName..", ты тут больше часа!!1!",
