@@ -361,6 +361,19 @@
 	})
 
 	ChatTab:AddToggle({
+		Name = "spy on myself",
+		Default = false,
+		Color = Color3.fromRGB(102, 0, 102),
+		Callback = function(Value)
+			if Value == true then
+				spyOnMyself = true
+			else
+				spyOnMyself = false
+			end
+		end    
+	})
+
+	ChatTab:AddToggle({
 		Name = "anti chat spy",
 		Default = false,
 		Color = Color3.fromRGB(102, 0, 102),
@@ -1039,7 +1052,7 @@
 			chatBypass()
 		end    
 	})
-
+	local raidSymbol = "👹"
 	ChatTab:AddToggle({
 		Name = "chat raid (spam без бана)",
 		Default = false,
@@ -1047,11 +1060,42 @@
 		Callback = function(Value)
 		spamen = Value
 			if spamen then
-				repeat
-					wait(3)
-					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍", "All")
-				until spamen == false
+				if raidSymbol == "👹" then
+					repeat
+						wait(3)
+						ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹", "All")
+					until spamen == false
+				elseif raidSymbol == "👍" then
+					repeat
+						wait(3)
+						ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍", "All")
+					until spamen == false
+				elseif raidSymbol == "🥵" then
+					repeat
+						wait(3)
+						ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵", "All")
+					until spamen == false
+				elseif raidSymbol == "😈" then
+					repeat
+						wait(3)
+						ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈", "All")
+					until spamen == false
+				elseif raidSymbol == "👺" then
+					repeat
+						wait(3)
+						ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺", "All")
+					until spamen == false
+				end
 			end
+		end    
+	})
+
+	ChatTab:AddDropdown({
+		Name = "raid symbol",
+		Default = "👹",
+		Options = {"👹", "👍", "🥵", "😈", "👺"},
+		Callback = function(Value)
+			raidSymbol = Value
 		end    
 	})
 
@@ -1175,13 +1219,11 @@
 		Flag = "AntiSitToggle",
 		Callback = function(Value)
 			antiSitEnabled = Value
-			if antiSitEnabled then
-				while antiSitEnabled do
-					if game.Players.LocalPlayer.Character:FindFirstChild("Humanoid").Sit == true then
-						game.Players.LocalPlayer.Character:FindFirstChild("Humanoid").Sit = false
-					end
-				wait()
+			while antiSitEnabled do
+				if game.Players.LocalPlayer.Character:FindFirstChild("Humanoid").Sit == true then
+					game.Players.LocalPlayer.Character:FindFirstChild("Humanoid").Sit = false
 				end
+			wait()
 			end
 		end    
 	})
@@ -1193,7 +1235,8 @@
 		Flag = "AntiWarpToggle",
 		Callback = function(Value)
 			antiWarpEnabled = Value
-			if antiWarpEnabled then
+			while antiWarpEnabled do
+				wait()
 				if game.Workspace.Camera.FieldOfView < 70 or game.Workspace.Camera.FieldOfView > 70 then
 					game.Workspace.Camera.FieldOfView = 70
 				end
@@ -1201,19 +1244,21 @@
 		end    
 	})
 
-	DefenseTab:AddToggle({
-		Name = "delete dolce milk (inventory)",
-		Default = false,
-		Color = Color3.fromRGB(102, 0, 102),
-		Flag = "deleteDolceToggle",
-		Callback = function(Value)
-			while Value do
-				if game.Players.LocalPlayer.Backpack:FindFirstChild("Dolce Milk") and Value then
-					game.Players.LocalPlayer.Backpack:FindFirstChild("Dolce Milk").Parent = game.Workspace
-				end
-				wait()
+	DefenseTab:AddButton({
+		Name = "drop dolce milk (inventory)",
+		Callback = function()
+			local tool = game.Players.LocalPlayer.Character:FindFirstChildWhichIsA("Tool")
+			if tool then
+				tool.Parent = workspace
+			else
+				OrionLib:MakeNotification({
+					Name = "возьми дольче милк",
+					Content = "в руки",
+					Image = "rbxassetid://18624604880",
+					Time = 5
+				})
 			end
-		end    
+		end
 	})
 
 	local SavedCheckpoint
@@ -1223,7 +1268,7 @@
 		Callback = function()
 			SavedCheckpoint = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
 			game.Players.LocalPlayer.CharacterAdded:Connect(function()
-				wait(0.1)
+				wait(0.15)
 				game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(SavedCheckpoint + Vector3.new(0, 3, 0))
 			end)
 		end    
