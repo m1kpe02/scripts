@@ -23,6 +23,11 @@
 	local savePos = nil 
 	local plr = game.Players.LocalPlayer
 	local Animate = game.Players.LocalPlayer.Character.Animate
+	local antispy
+	local chatBypassEn
+	local csc1 = 160
+	local csc2 = 0
+	local csc3 = 160
 
 
 	enabledSpy = false
@@ -31,7 +36,7 @@
 	publicItalics = true
 
 	privateProperties = {
-		Color = Color3.fromRGB(132,0,132); 
+		Color = Color3.fromRGB(csc1, csc2, csc3); 
 		Font = Enum.Font.SourceSansBold;
 		TextSize = 18;
 	}
@@ -256,6 +261,20 @@
 			end
 		end
 	end
+
+	local function antiChatSpy()
+		while antispy do
+			game:GetService("Players"):Chat("ЙОУ ВЫРУБИ ЧЯТ СПАЙ Э")
+			wait(0.1)
+		end
+	end
+
+	local function chatBypass()
+		while chatBypassEn do
+			game:GetService("Players"):Chat("le le le le le le le")
+			wait(1)
+		end
+	end
 	
 	for _,p in ipairs(Players:GetPlayers()) do
 		p.Chatted:Connect(function(msg) onChatted(p,msg) end)
@@ -281,15 +300,6 @@
 	local ClockTab = Window:MakeTab({Name = "time", Image = "", PremiumOnly = false})
 	local Ctab = Window:MakeTab({Name = "changelog", Image = "", PremiumOnly = false})
 	local Servertab = Window:MakeTab({Name = "server", Image = "", PremiumOnly = false})
-	--[[
-	CMDs[#CMDs + 1] = {NAME = 'breakladder / bl', DESC = 'Breaking ladder'}
-	CMDs[#CMDs + 1] = {NAME = 'breakladdermore / blm', DESC = 'Breaking ladder (more)'}
-	CMDs[#CMDs + 1] = {NAME = 'setdelay [num]', DESC = 'Setting delay (break ladder)'}
-	CMDs[#CMDs + 1] = {NAME = 'antisit', DESC = 'Anti sit'}
-	CMDs[#CMDs + 1] = {NAME = 'deleteblur', DESC = 'Delete blur'}
-	CMDs[#CMDs + 1] = {NAME = 'antiwarp', DESC = 'Anti warp'}
-	CMDs[#CMDs + 1] = {NAME = 'infinityzoom / infzoom', DESC = 'Infinity zoom'}
-	]]
 
 	MainTab:AddToggle({
 		Name = "break ladder",
@@ -329,7 +339,7 @@
 		Callback = function(Value)
 			if Value == true then
 				enabledSpy = true
-				spyOnMyself = false
+				spyOnMyself = true
 			else
 				enabledSpy = false
 				spyOnMyself = false
@@ -347,6 +357,16 @@
 			else
 				public = false
 			end
+		end    
+	})
+
+	ChatTab:AddToggle({
+		Name = "anti chat spy",
+		Default = false,
+		Color = Color3.fromRGB(102, 0, 102),
+		Callback = function(Value)
+			antispy = Value
+			antiChatSpy()
 		end    
 	})
 
@@ -1002,28 +1022,24 @@
 	})
 	local lelele
 	ChatTab:AddTextbox({
-		Name = "chat bypass (пиши сюда - бана не будет)",
+		Name = "chat (пиши сюда - бана не будет)",
 		Default = "",
 		TextDisappear = true,
 		Callback = function(messageToSay)
-			if lelele then
-				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(messageToSay.." le le le le le le le", "All")
-			else
-				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(messageToSay, "All")
-			end
+			ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(messageToSay, "All")
 		end	  
 	})
 
 	ChatTab:AddToggle({
-		Name = "chat bypass - добавлять le le le к сообщениям",
+		Name = "chat bypass",
 		Default = false,
 		Color = Color3.fromRGB(102, 0, 102),
 		Callback = function(Value)
-			lelele = Value
+			chatBypassEn = Value
+			chatBypass()
 		end    
 	})
 
-	local spamen = false
 	ChatTab:AddToggle({
 		Name = "chat raid (spam без бана)",
 		Default = false,
