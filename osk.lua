@@ -273,6 +273,12 @@
 		while chatBypassEn do
 			game:GetService("Players"):Chat("le le le le le le le")
 			wait(1)
+			game:GetService("Players"):Chat("le le le le le le")
+			wait(1)
+			game:GetService("Players"):Chat("le le le le le le le le")
+			wait(1)
+			game:GetService("Players"):Chat("le le le le le")
+			wait(1)
 		end
 	end
 	
