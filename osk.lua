@@ -339,7 +339,7 @@
 		Callback = function(Value)
 			if Value == true then
 				enabledSpy = true
-				spyOnMyself = true
+				spyOnMyself = false
 			else
 				enabledSpy = false
 				spyOnMyself = false
