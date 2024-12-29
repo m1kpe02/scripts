@@ -1395,13 +1395,6 @@
 	})
 
 	ScriptTab:AddButton({
-		Name = "shaders",
-		Callback = function()
-			loadstring(game:HttpGet(('https://pastefy.app/xXkUxA0P/raw'),true))("t.me/arceusxscripts")
-		end    
-	})
-
-	ScriptTab:AddButton({
 		Name = "dex Explorer v2",
 		Callback = function()
 			loadstring(game:HttpGet("https://raw.githubusercontent.com/MariyaFurmanova/Library/main/dex2.0", true))()
