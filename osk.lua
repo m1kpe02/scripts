@@ -25,6 +25,7 @@ local plr = game.Players.LocalPlayer
 local Animate = game.Players.LocalPlayer.Character.Animate
 local antispy
 local chatBypassEn
+local chatBypassEn2
 local csc1 = 160
 local csc2 = 0
 local csc3 = 160
@@ -278,6 +279,15 @@ local function chatBypass()
 	end
 end
 
+local function chatBypassLe()
+	while chatBypassEn2 do
+		game:GetService("Players"):Chat("le le le le le le le")
+		wait(1)
+		game:GetService("Players"):Chat("le le le le le le le le le le le")
+		wait(1)
+	end
+end
+
 for _,p in ipairs(Players:GetPlayers()) do
 	p.Chatted:Connect(function(msg) onChatted(p,msg) end)
 end
@@ -291,7 +301,6 @@ chatFrame.ChatBarParentFrame.Position = chatFrame.ChatChannelParentFrame.Positio
 
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/m1kp0/libraries/refs/heads/main/m1kpe0_orion_lib.lua')))()
 local Window = OrionLib:MakeWindow({Name = "Ladder Breaker | Premium", HidePremium = false, IntroEnabled = false, IntroText = "Loading..", SaveConfig = true, ConfigFolder = "OrionTest"})
-
 
 local MainTab = Window:MakeTab({Name = "main", Icon = "", PremiumOnly = false})
 local ChatTab = Window:MakeTab({Name = "chat", Image = "", PremiumOnly = false})
@@ -1214,12 +1223,22 @@ ChatTab:AddTextbox({
 })
 
 ChatTab:AddToggle({
-	Name = "chat bypass",
+	Name = "chat bypass - спам Е",
 	Default = false,
 	Color = Color3.fromRGB(102, 0, 102),
 	Callback = function(Value)
 		chatBypassEn = Value
 		chatBypass()
+	end    
+})
+
+ChatTab:AddToggle({
+	Name = "chat bypass - спам le",
+	Default = false,
+	Color = Color3.fromRGB(102, 0, 102),
+	Callback = function(Value)
+		chatBypassEn2 = Value
+		chatBypassLe()
 	end    
 })
 
