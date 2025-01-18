@@ -16,6 +16,7 @@ local osk = 1
 local savePos = nil 
 local breakingSpeed
 local SavedCheckpoint
+local ladderBreaks = 0
 
 --toggle variables
 local breakFullLadderEnabled
@@ -27,6 +28,7 @@ local chatBypassEnabled2
 local antiVoidenabled
 local antiSitEnabled
 local antiWarpEnabled
+local ladderTrigger
 enabledSpy = false
 spyOnMyself = false
 public = false
@@ -106,6 +108,8 @@ local function brkLdr()
 		wait(breakingSpeed)
 		Player.Character.HumanoidRootPart.CFrame = CFrame.new(113, 95, -265)
 		wait(breakingSpeed)
+		ladderBreaks = ladderBreaks + 1
+
 	end
 end
 
@@ -219,6 +223,7 @@ local function brkldrfull()
 		wait(breakingSpeed)
 		Player.Character.HumanoidRootPart.CFrame = CFrame.new(118, 50, -228)
 		wait(breakingSpeed)
+		ladderBreaks = ladderBreaks + 1
 	end
 end
 
@@ -332,6 +337,25 @@ MainTab:AddTextbox({
 	Callback = function(Value)
 		breakingSpeed = Value
 	end	  
+})
+
+local breaksCounter = MainTab:AddLabel("счетчик ломаний лестницы выключен")
+
+MainTab:AddToggle({
+	Name = "breaks counter",
+	Default = false,
+	Color = Color3.fromRGB(102, 0, 102),
+	Callback = function(Value)
+		ladderTrigger = Value
+		while ladderTrigger do
+			wait(0.1)
+			if ladderTrigger then
+				breaksCounter:Set("вы сломaли лестницу "..ladderBreaks.." раз(а)")
+			else
+				breaksCounter:Set("счетчик ломаний лестницы выключен")
+			end
+		end
+	end    
 })
 
 --chat tab
@@ -1664,7 +1688,14 @@ end)
 
 local hourOfExecutedLB = 0
 
-while wait(1) do
+OrionLib:MakeNotification({
+	Name = "Ladder Breaker loaded",
+	Content = "completely",
+	Image = "rbxassetid://4483345998",
+	Time = 3
+})
+
+while wait(0.1) do
 	TimeOfExecutedLB = TimeOfExecutedLB + 1
 	executedLB_label:Set("script executed: "..hourOfExecutedLB.." hour, "..minutesOfExecutedLB.." min, "..TimeOfExecutedLB.." sec")
 
@@ -1681,12 +1712,5 @@ while wait(1) do
 		wait()
 	end
 end
-
-OrionLib:MakeNotification({
-	Name = "Ladder Breaker loaded",
-	Content = "completely",
-	Image = "rbxassetid://4483345998",
-	Time = 3
-})
 
 OrionLib:Init()
