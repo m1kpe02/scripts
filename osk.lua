@@ -16,7 +16,7 @@ local osk = 1
 local savePos = nil 
 local breakingSpeed
 local SavedCheckpoint
-local ladderBreaks = 0
+local posit = Player.Character.HumanoidRootPart.Position.Y
 
 --toggle variables
 local breakFullLadderEnabled
@@ -28,7 +28,6 @@ local chatBypassEnabled2
 local antiVoidenabled
 local antiSitEnabled
 local antiWarpEnabled
-local ladderTrigger
 enabledSpy = false
 spyOnMyself = false
 public = false
@@ -108,8 +107,6 @@ local function brkLdr()
 		wait(breakingSpeed)
 		Player.Character.HumanoidRootPart.CFrame = CFrame.new(113, 95, -265)
 		wait(breakingSpeed)
-		ladderBreaks = ladderBreaks + 1
-
 	end
 end
 
@@ -223,7 +220,6 @@ local function brkldrfull()
 		wait(breakingSpeed)
 		Player.Character.HumanoidRootPart.CFrame = CFrame.new(118, 50, -228)
 		wait(breakingSpeed)
-		ladderBreaks = ladderBreaks + 1
 	end
 end
 
@@ -339,20 +335,30 @@ MainTab:AddTextbox({
 	end	  
 })
 
-local breaksCounter = MainTab:AddLabel("счетчик ломаний лестницы выключен")
-
 MainTab:AddToggle({
-	Name = "breaks counter",
+	Name = "create my ladder",
 	Default = false,
 	Color = Color3.fromRGB(102, 0, 102),
 	Callback = function(Value)
-		ladderTrigger = Value
-		while ladderTrigger do
-			wait(0.1)
-			if ladderTrigger then
-				breaksCounter:Set("вы сломaли лестницу "..ladderBreaks.." раз(а)")
-			else
-				breaksCounter:Set("счетчик ломаний лестницы выключен")
+		if Value then
+			for i, p in pairs(workspace.Stairs:GetDescendants()) do
+				if p:IsA("Part") then
+					local k = Instance.new("Part", workspace)
+					k.Position = p.Position
+					k.Anchored = true
+					k.CFrame = p.CFrame
+					k.Size = p.Size
+					k.Name = "LB-Ladder"
+					k.Color = p.Color
+					k.BrickColor = p.BrickColor
+					k.Transparency = 0.5
+				end
+			end
+		else
+			for i, p in pairs(workspace:GetDescendants()) do
+				if p.Name == "LB-Ladder" then
+					p:Destroy()
+				end
 			end
 		end
 	end    
@@ -1398,29 +1404,18 @@ DefenseTab:AddButton({
 
 DefenseTab:AddToggle({
 	Name = "anti void",
-	Default = false,
+	Default = true,
 	Color = Color3.fromRGB(102, 0, 102),
 	Callback = function(Value)
 		if Value then
-			antiVoidenabled = true
-			workspace.FallenPartsDestroyHeight = -1000
-			while Value do
-				while Player.Character.HumanoidRootPart.Position.Y < -500 and antiVoidenabled do
-					Player.Character.HumanoidRootPart.CFrame = CFrame.new(80, 147, -247)
-					OrionLib:MakeNotification({
-						Name = "Theres a staarmaan waiting in the sky",
-						Content = "i will save you next time:3",
-						Image = "rbxassetid://18624604880",
-						Time = 5
-					})
-					Player.Character.HumanoidRootPart.CFrame = CFrame.new(80, 147, -247)
-					wait()
-				end
-				wait()
-			end
+			local voidPart = Instance.new("Part", workspace)
+			voidPart.Anchored = true
+			voidPart.Position = Vector3.new(0, 0, 0)
+			voidPart.Transparency = 1
+			voidPart.Size = Vector3.new(999999999999999999, 1, 999999999999999999999)
+			voidPart.Name = "VoidPart"
 		else
-			antiVoidenabled = false
-			workspace.FallenPartsDestroyHeight = -100
+			workspace.VoidPart:Destroy()
 		end
 	end    
 })
