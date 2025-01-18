@@ -1404,18 +1404,29 @@ DefenseTab:AddButton({
 
 DefenseTab:AddToggle({
 	Name = "anti void",
-	Default = true,
+	Default = false,
 	Color = Color3.fromRGB(102, 0, 102),
 	Callback = function(Value)
 		if Value then
-			local voidPart = Instance.new("Part", workspace)
-			voidPart.Anchored = true
-			voidPart.Position = Vector3.new(0, 0, 0)
-			voidPart.Transparency = 1
-			voidPart.Size = Vector3.new(999999999999999999, 1, 999999999999999999999)
-			voidPart.Name = "VoidPart"
+			antiVoidenabled = true
+			game:GetService('Workspace').FallenPartsDestroyHeight = -100000
+			while Value do
+				while game.Players.LocalPlayer.Character.HumanoidRootPart and game.Players.LocalPlayer.Character.HumanoidRootPart.Position.Y < -500 and antiVoidenabled do
+					game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(80, 147, -247)
+					OrionLib:MakeNotification({
+						Name = "Theres a staarmaan waiting in the sky",
+						Content = "i will save you next time:3",
+						Image = "rbxassetid://18624604880",
+						Time = 5
+					})
+					game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(80, 147, -247)
+					wait()
+				end
+				wait()
+			end
 		else
-			workspace.VoidPart:Destroy()
+			antiVoidenabled = false
+			game:GetService('Workspace').FallenPartsDestroyHeight = -100
 		end
 	end    
 })
