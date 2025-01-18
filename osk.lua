@@ -1395,38 +1395,41 @@ TPTab:AddButton({
 })
 
 --defense tab
+DefenseTab:AddSection({Name = "anti-admin"})
+
 DefenseTab:AddButton({
 	Name = "delete blur",
 	Callback = function()
-		workspace.Camera.Blur:Destroy()
+        workspace.Camera.Blur:Destroy()
+  	end    
+})
+
+
+DefenseTab:AddButton({
+	Name = "anti kill-parts",
+	Callback = function()
+		for i, p in pairs(workspace.Damage:GetDescendants()) do
+			if p.Name == "TouchInterest" then
+				p:Destroy()
+			end
+		end
 	end    
 })
 
 DefenseTab:AddToggle({
-	Name = "anti void",
+	Name = "anti warp",
 	Default = false,
 	Color = Color3.fromRGB(102, 0, 102),
+	Flag = "AntiWarpToggle",
 	Callback = function(Value)
-		if Value then
-			antiVoidenabled = true
-			game:GetService('Workspace').FallenPartsDestroyHeight = -100000
-			while Value do
-				while game.Players.LocalPlayer.Character.HumanoidRootPart and game.Players.LocalPlayer.Character.HumanoidRootPart.Position.Y < -500 and antiVoidenabled do
-					game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(80, 147, -247)
-					OrionLib:MakeNotification({
-						Name = "Theres a staarmaan waiting in the sky",
-						Content = "i will save you next time:3",
-						Image = "rbxassetid://18624604880",
-						Time = 5
-					})
-					game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(80, 147, -247)
-					wait()
+		antiWarpEnabled = Value
+		if antiWarpEnabled then
+			while antiWarpEnabled do
+				if workspace.Camera.FieldOfView < 70 or workspace.Camera.FieldOfView > 70 then
+					workspace.Camera.FieldOfView = 70
 				end
-				wait()
+			wait()
 			end
-		else
-			antiVoidenabled = false
-			game:GetService('Workspace').FallenPartsDestroyHeight = -100
 		end
 	end    
 })
@@ -1438,26 +1441,96 @@ DefenseTab:AddToggle({
 	Flag = "AntiSitToggle",
 	Callback = function(Value)
 		antiSitEnabled = Value
-		while antiSitEnabled do
-			if Player.Character:FindFirstChild("Humanoid").Sit and antiSitEnabled then
-				Player.Character:FindFirstChild("Humanoid").Sit = false
+		if antiSitEnabled then
+			while antiSitEnabled do
+				if Player.Character:FindFirstChild("Humanoid").Sit == true then
+					Player.Character:FindFirstChild("Humanoid").Sit = false
+				end
+				if workspace.Sit.TouchInterest then
+					workspace.Sit.TouchInterest:Destroy()
+				end
+			wait()
 			end
-		wait()
 		end
 	end    
 })
 
+DefenseTab:AddSection({Name = "advanced"})
+
 DefenseTab:AddToggle({
-	Name = "anti warp",
+	Name = "anti void",
 	Default = false,
 	Color = Color3.fromRGB(102, 0, 102),
 	Callback = function(Value)
-		antiWarpEnabled = Value
-		while antiWarpEnabled do
-			wait()
-			workspace.Camera.FieldOfView = 70
+		if Value then
+			antiVoidEnabled = true
+			workspace.FallenPartsDestroyHeight = -100000
+			while Value do
+				while Player.Character.HumanoidRootPart and Player.Character.HumanoidRootPart.Position.Y < -500 and antiVoidEnabled do
+					Player.Character.HumanoidRootPart.CFrame = CFrame.new(80, 147, -247)
+					OrionLib:MakeNotification({
+						Name = "Theres a staarmaan waiting in the sky",
+						Content = "i will save you next time:3",
+						Image = "rbxassetid://18624604880",
+						Time = 5
+					})
+					Player.Character.HumanoidRootPart.CFrame = CFrame.new(80, 147, -247)
+					wait()
+				end
+				wait()
+			end
+		else
+			antiVoidEnabled = false
+			workspace.FallenPartsDestroyHeight = -100
 		end
 	end    
+})
+
+MainTab:AddToggle({
+	Name = "create my ladder",
+	Default = false,
+	Color = Color3.fromRGB(102, 0, 102),
+	Callback = function(Value)
+		if Value then
+			for i, p in pairs(workspace.Stairs:GetDescendants()) do
+				if p:IsA("Part") then
+					local k = Instance.new("Part", workspace)
+					k.Position = p.Position
+					k.Anchored = true
+					k.CFrame = p.CFrame
+					k.Size = p.Size
+					k.Name = "LB-Ladder"
+					k.Color = p.Color
+					k.BrickColor = p.BrickColor
+					k.Transparency = 0.5
+				end
+			end
+		else
+			for i, p in pairs(workspace:GetDescendants()) do
+				if p.Name == "LB-Ladder" then
+					p:Destroy()
+				end
+			end
+		end
+	end    
+})
+
+DefenseTab:AddButton({
+	Name = "save checkpoint",
+	Callback = function()
+		SavedCheckpoint = Player.Character.HumanoidRootPart.Position
+		Player.CharacterAdded:Connect(function()
+			wait(0.2)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(SavedCheckpoint + Vector3.new(0, 3, 0))
+		end)
+  	end    
+})
+
+DefenseTab:AddButton({
+	Name = "delete checkpoint",
+	Callback = function()
+		SavedCheckpoint = nil
+  	end    
 })
 
 DefenseTab:AddButton({
@@ -1476,25 +1549,6 @@ DefenseTab:AddButton({
 		end
 	end
 })
-
-DefenseTab:AddButton({
-	Name = "save checkpoint",
-	Callback = function()
-		SavedCheckpoint = Player.Character.HumanoidRootPart.Position
-		Player.CharacterAdded:Connect(function()
-			wait(0.15)
-			Player.Character.HumanoidRootPart.CFrame = CFrame.new(SavedCheckpoint + Vector3.new(0, 3, 0))
-		end)
-	end    
-})
-
-DefenseTab:AddButton({
-	Name = "delete checkpoint",
-	Callback = function()
-		SavedCheckpoint = nil
-	end    
-})
-
 --character settings tab
 PlayerTab:AddTextbox({
 	Name = "speed",
