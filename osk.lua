@@ -1211,7 +1211,11 @@ ChatTab:AddTextbox({
 	Default = "",
 	TextDisappear = true,
 	Callback = function(messageToSay)
-		ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(messageToSay, "All")
+		if _what then
+			ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("                                                                                                                                                             "..messageToSay, "All")
+		else
+			ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(messageToSay, "All")
+		end
 	end	  
 })
 
@@ -1232,6 +1236,15 @@ ChatTab:AddToggle({
 	Callback = function(Value)
 	 chatBypassEnabled2 = Value
 		chatBypassLe()
+	end    
+})
+
+ChatTab:AddToggle({
+	Name = "???",
+	Default = false,
+	Color = Color3.fromRGB(102, 0, 102),
+	Callback = function(Value)
+		_what = Value
 	end    
 })
 
@@ -1726,7 +1739,7 @@ OrionLib:MakeNotification({
 	Time = 3
 })
 
-while wait(0.1) do
+while wait(1) do
 	TimeOfExecutedLB = TimeOfExecutedLB + 1
 	executedLB_label:Set("script executed: "..hourOfExecutedLB.." hour, "..minutesOfExecutedLB.." min, "..TimeOfExecutedLB.." sec")
 
