@@ -1212,7 +1212,7 @@ ChatTab:AddTextbox({
 	TextDisappear = true,
 	Callback = function(messageToSay)
 		if _what then
-			ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("                                                                                                              "..messageToSay, "All")
+			ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("                                                                                                                             "..messageToSay, "All")
 		else
 			ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(messageToSay, "All")
 		end
