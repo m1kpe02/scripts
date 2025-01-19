@@ -1234,13 +1234,13 @@ ChatTab:AddToggle({
 	Default = false,
 	Color = Color3.fromRGB(102, 0, 102),
 	Callback = function(Value)
-	 chatBypassEnabled2 = Value
+	 	chatBypassEnabled2 = Value
 		chatBypassLe()
 	end    
 })
 
 ChatTab:AddToggle({
-	Name = "???",
+	Name = "mega message",
 	Default = false,
 	Color = Color3.fromRGB(102, 0, 102),
 	Callback = function(Value)
