@@ -1,5 +1,5 @@
 --server
-local Players = game:GetService('Players')
+local Players = game:GetService("Players")
 local Player = Players.LocalPlayer
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local saymsg = ReplicatedStorage:WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest")
@@ -28,6 +28,7 @@ local chatBypassEnabled2
 local antiVoidenabled
 local antiSitEnabled
 local antiWarpEnabled
+local autoDropDolce
 enabledSpy = false
 spyOnMyself = false
 public = false
@@ -290,7 +291,7 @@ chatFrame.ChatChannelParentFrame.Visible = true
 chatFrame.ChatBarParentFrame.Position = chatFrame.ChatChannelParentFrame.Position+UDim2.new(UDim.new(),chatFrame.ChatChannelParentFrame.Size.Y)
 
 --library
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/m1kp0/libraries/refs/heads/main/m1kpe0_orion_lib.lua')))()
+local OrionLib = loadstring(game:HttpGet(("https://raw.githubusercontent.com/m1kp0/libraries/refs/heads/main/m1kpe0_orion_lib.lua")))()
 local Window = OrionLib:MakeWindow({Name = "Ladder Breaker | Premium", HidePremium = false, IntroEnabled = false, IntroText = "Loading..", SaveConfig = true, ConfigFolder = "OrionTest"})
 
 local MainTab = Window:MakeTab({Name = "main", Icon = "", PremiumOnly = false})
@@ -1533,6 +1534,22 @@ DefenseTab:AddButton({
 		end
 	end
 })
+
+DefenseTab:AddToggle({
+	Name = "auto drop dolce milk",
+	Default = false,
+	Color = Color3.fromRGB(102, 0, 102),
+	Callback = function(Value)
+		autoDropDolce = Value
+		while autoDropDolce do
+			wait()
+			local tool = game.Players.LocalPlayer.Character:FindFirstChild("Dolce Milk")
+			if tool and autoDropDolce then
+				tool.Parent = workspace
+			end
+		end
+	end    
+})
 --character settings tab
 PlayerTab:AddTextbox({
 	Name = "speed",
@@ -1637,7 +1654,7 @@ PlayerTab:AddParagraph("defaults","| speed - 16 | jump power - 50 | gravity - 19
 ScriptTab:AddButton({
 	Name = "infinite yield",
 	Callback = function()
-		loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
 	end    
 })
 
@@ -1651,7 +1668,7 @@ ScriptTab:AddButton({
 ScriptTab:AddButton({
 	Name = "float",
 	Callback = function()
-		loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/main/Float'))("https://t.me/arceusxscripts")
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/GhostPlayer352/Test4/main/Float"))("https://t.me/arceusxscripts")
 	end    
 })
 
