@@ -1556,7 +1556,7 @@ DefenseTab:AddToggle({
 		while autoDropDolce do
 			wait()
 			local tool = game.Players.LocalPlayer.Character:FindFirstChild("Dolce Milk")
-			if tool and autoDropDolce then
+			if tool and autoDropDolce and not autoGrabDolce then
 				tool.Parent = workspace
 			end
 		end
@@ -1564,13 +1564,13 @@ DefenseTab:AddToggle({
 })
 
 DefenseTab:AddToggle({
-	Name = "auto grab dolce milk (needs noclip)",
+	Name = "auto grab dolce milk",
 	Default = false,
 	Color = Color3.fromRGB(102, 0, 102),
 	Callback = function(Value)
 		autoGrabDolce = Value
-		while autoGrabDolce do
-			wait()
+		while autoGrabDolce and not autoDropDolce do
+			wait(0.1)
 			for i, d in pairs(workspace:GetDescendants()) do
 				if d.Name == "Dolce Milk" and d.Parent == workspace then
 					d.Handle.CFrame = CFrame.new(game.Players.LocalPlayer.Character.RightLowerArm.CFrame.Position + Vector3.new(-1, -1, 0))
