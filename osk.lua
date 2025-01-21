@@ -30,6 +30,7 @@ local antiSitEnabled
 local antiWarpEnabled
 local autoDropDolce
 local autoGrabDolce
+local ladderTransparency = 0.5
 enabledSpy = false
 spyOnMyself = false
 public = false
@@ -1472,6 +1473,15 @@ DefenseTab:AddToggle({
 	end    
 })
 
+DefenseTab:AddTextbox({
+	Name = "ladder transparency",
+	Default = "0.5",
+	TextDisappear = true,
+	Callback = function(Value)
+		ladderTransparency = Value
+	end	  
+})
+
 DefenseTab:AddToggle({
 	Name = "create my ladder",
 	Default = false,
@@ -1488,7 +1498,8 @@ DefenseTab:AddToggle({
 					k.Name = "LB-Ladder"
 					k.Color = p.Color
 					k.BrickColor = p.BrickColor
-					k.Transparency = 0.5
+					k.Transparency = ladderTransparency
+					k.Material = "SmoothPlastic"
 				end
 			end
 		else
@@ -1542,7 +1553,7 @@ DefenseTab:AddToggle({
 	Color = Color3.fromRGB(102, 0, 102),
 	Callback = function(Value)
 		autoDropDolce = Value
-		while autoDropDolce doф
+		while autoDropDolce do
 			wait()
 			local tool = game.Players.LocalPlayer.Character:FindFirstChild("Dolce Milk")
 			if tool and autoDropDolce then
