@@ -29,6 +29,7 @@ local antiVoidenabled
 local antiSitEnabled
 local antiWarpEnabled
 local autoDropDolce
+local autoGrabDolce
 enabledSpy = false
 spyOnMyself = false
 public = false
@@ -1541,11 +1542,28 @@ DefenseTab:AddToggle({
 	Color = Color3.fromRGB(102, 0, 102),
 	Callback = function(Value)
 		autoDropDolce = Value
-		while autoDropDolce do
+		while autoDropDolce doф
 			wait()
 			local tool = game.Players.LocalPlayer.Character:FindFirstChild("Dolce Milk")
 			if tool and autoDropDolce then
 				tool.Parent = workspace
+			end
+		end
+	end    
+})
+
+DefenseTab:AddToggle({
+	Name = "auto grab dolce milk (needs noclip)",
+	Default = false,
+	Color = Color3.fromRGB(102, 0, 102),
+	Callback = function(Value)
+		autoGrabDolce = Value
+		while autoGrabDolce do
+			wait()
+			for i, d in pairs(workspace:GetDescendants()) do
+				if d.Name == "Dolce Milk" and d.Parent == workspace then
+					d.Handle.CFrame = CFrame.new(game.Players.LocalPlayer.Character.RightLowerArm.CFrame.Position + Vector3.new(-0.5, -1, 0))
+				end
 			end
 		end
 	end    
@@ -1629,8 +1647,10 @@ PlayerTab:AddButton({
 				Time = 5
 			})
 		else
+			workspace.Gravity = 10
 			Player.Character.Humanoid.Sit = true
-			wait(0.01)
+			wait(1)
+			workspace.Gravity = 192.6
 		end
 	end    
 })
@@ -1775,3 +1795,4 @@ while wait(1) do
 end
 
 OrionLib:Init()
+
