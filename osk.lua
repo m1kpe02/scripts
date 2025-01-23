@@ -264,19 +264,18 @@ end
 
 local function chatBypass()
 	while chatBypassEnabled do
-		game:GetService("Players"):Chat("EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE")
-		wait(1)
-		game:GetService("Players"):Chat("/e ABC")
-		wait(1)
-	end
-end
-
-local function chatBypassLe()
-	while chatBypassEnabled2 do
-		game:GetService("Players"):Chat("le le le le le le le")
-		wait(1)
-		game:GetService("Players"):Chat("le le le le le le le le le le le")
-		wait(1)
+		Players:Chat'le le le le le'
+        wait(0.5)
+        Players:Chat'EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE'
+        wait(0.5)
+        Players:Chat'/e ABC'
+        wait()
+        Players:Chat'/e CHATBYPASS'
+        wait(0.5)
+        Players:Chat'le le le le le le le le le'
+        wait(0.5)
+        Players:Chat'le le le le le le le'
+        wait(0.5)
 	end
 end
 
@@ -1223,22 +1222,12 @@ ChatTab:AddTextbox({
 })
 
 ChatTab:AddToggle({
-	Name = "chat bypass - спам E",
+	Name = "chat bypass",
 	Default = false,
 	Color = Color3.fromRGB(102, 0, 102),
 	Callback = function(Value)
 	 chatBypassEnabled = Value
 		chatBypass()
-	end    
-})
-
-ChatTab:AddToggle({
-	Name = "chat bypass - спам le",
-	Default = false,
-	Color = Color3.fromRGB(102, 0, 102),
-	Callback = function(Value)
-	 	chatBypassEnabled2 = Value
-		chatBypassLe()
 	end    
 })
 
@@ -1699,15 +1688,29 @@ ScriptTab:AddButton({
 ScriptTab:AddButton({
 	Name = "float",
 	Callback = function()
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/GhostPlayer352/Test4/main/Float"))("https://t.me/arceusxscripts")
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/GhostPlayer352/Test4/main/Float"))()
 	end    
 })
 
 ScriptTab:AddButton({
-	Name = "dex Explorer v2",
+	Name = "dex explorer v2",
 	Callback = function()
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/MariyaFurmanova/Library/main/dex2.0", true))()
 	end    
+})
+
+ScriptTab:AddButton({
+	Name = "path & float",
+	Callback = function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/m1kp0/universal_scripts/refs/heads/main/ONLY-PC_pathing"))()
+	end    
+})
+
+ScriptTab:AddButton({
+	Name = "jerk off",
+	Callback = function()
+        loadstring(game:HttpGet("https://pastefy.app/wa3v2Vgm/raw"))()
+  	end    
 })
 
 --clocktime tab
