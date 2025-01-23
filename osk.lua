@@ -17,6 +17,7 @@ local savePos = nil
 local breakingSpeed
 local SavedCheckpoint
 local posit = Player.Character.HumanoidRootPart.Position.Y
+local bangDefense
 
 --toggle variables
 local breakFullLadderEnabled
@@ -1382,11 +1383,20 @@ DefenseTab:AddButton({
 
 
 DefenseTab:AddButton({
-	Name = "anti kill-parts",
+	Name = "anti kill/kick part",
 	Callback = function()
 		for i, p in pairs(workspace.Damage:GetDescendants()) do
 			if p.Name == "TouchInterest" then
 				p:Destroy()
+			end
+		end
+		for i, v in pairs(workspace:GetDescendants()) do
+			if v.Name == "TeleportPart" then
+				for i, p in pairs(v:GetDescendants()) do
+					if p.Name == "TouchInterest" then
+						p:Destroy()
+					end
+				end
 			end
 		end
 	end    
@@ -1432,6 +1442,57 @@ DefenseTab:AddToggle({
 })
 
 DefenseTab:AddSection({Name = "advanced"})
+
+DefenseTab:AddButton({
+	Name = "kill/kick facebang",
+	Callback = function()
+		if bangDefense == "kill" then
+			local p =  Player.Character.HumanoidRootPart.Position
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(65, 89, -404)
+			wait(0.3)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(65, 89, -404)
+			wait(0.3)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(p)
+		else
+			local p =  Player.Character.HumanoidRootPart.Position
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(-244, 265, -2826)
+			wait(0.3)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(-244, 265, -2826)
+			wait(0.3)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(p)
+		end
+  	end    
+})
+
+DefenseTab:AddButton({
+	Name = "kill/kick bang",
+	Callback = function()
+		if bangDefense == "kill" then
+			local p = Player.Character.HumanoidRootPart.Position
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(65, 96, -407)
+			wait(0.3)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(65, 96, -407)
+			wait(0.3)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(p)
+		else
+			local p = Player.Character.HumanoidRootPart.Position
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(-245, 265, -2828)
+			wait(0.3)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(-245, 265, -2828)
+			wait(0.3)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(p)
+		end
+  	end    
+})
+
+DefenseTab:AddDropdown({
+	Name = "bang-defense",
+	Default = "kill",
+	Options = {"kill", "kick"},
+	Callback = function(Value)
+		bangDefense = Value
+	end    
+})
 
 DefenseTab:AddToggle({
 	Name = "anti void",
