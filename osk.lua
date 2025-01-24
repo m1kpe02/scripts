@@ -1774,6 +1774,13 @@ ScriptTab:AddButton({
   	end    
 })
 
+ScriptTab:AddButton({
+	Name = "отдельный chat bypass",
+	Callback = function()
+        loadstring(game:HttpGet'https://raw.githubusercontent.com/m1kp0/universal_scripts/refs/heads/main/chat_bypass.lua')()
+  	end    
+})
+
 --clocktime tab
 ClockTab:AddButton({
 	Name = "night",
