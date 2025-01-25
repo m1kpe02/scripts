@@ -292,6 +292,15 @@ local chatFrame = Player.PlayerGui.Chat.Frame
 chatFrame.ChatChannelParentFrame.Visible = true
 chatFrame.ChatBarParentFrame.Position = chatFrame.ChatChannelParentFrame.Position+UDim2.new(UDim.new(),chatFrame.ChatChannelParentFrame.Size.Y)
 
+local function x()
+	local length = math.random(1,5)
+	local array = {}
+	for i = 1, length do
+		array[i] = string.char(math.random(32, 126))
+	end
+	return table.concat(array)
+end
+
 --library
 local OrionLib = loadstring(game:HttpGet(("https://raw.githubusercontent.com/m1kp0/libraries/refs/heads/main/m1kpe0_orion_lib.lua")))()
 local Window = OrionLib:MakeWindow({Name = "Ladder Breaker | Premium", HidePremium = false, IntroEnabled = false, IntroText = "Loading..", SaveConfig = true, ConfigFolder = "OrionTest"})
@@ -1227,8 +1236,15 @@ ChatTab:AddToggle({
 	Default = false,
 	Color = Color3.fromRGB(102, 0, 102),
 	Callback = function(Value)
-	 chatBypassEnabled = Value
-		chatBypass()
+		chatBypassEn = Value
+		if chatBypassEn then
+			game.Players.LocalPlayer.PlayerGui.HDAdminGUIs.Enabled = false
+		else
+			game.Players.LocalPlayer.PlayerGui.HDAdminGUIs.Enabled = true
+		end
+		repeat task.wait()
+			Players:Chat(x())
+		until chatBypassEn == false
 	end    
 })
 
