@@ -265,18 +265,14 @@ end
 
 local function chatBypass()
 	while chatBypassEnabled do
-		Players:Chat'le le le le le'
-        wait(0.5)
-        Players:Chat'EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE'
-        wait(0.5)
-        Players:Chat'/e ABC'
-        wait()
-        Players:Chat'/e CHATBYPASS'
-        wait(0.5)
-        Players:Chat'le le le le le le le le le'
-        wait(0.5)
-        Players:Chat'le le le le le le le'
-        wait(0.5)
+		Players:Chat("EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE")
+        wait(0.2)
+        Players:Chat("/e ABC")
+        wait(0.2)
+        Players:Chat("le le le le le le le")
+        wait(0.2)
+        Players:Chat("le le le le le")
+        wait(0.2)
 	end
 end
 
@@ -291,15 +287,6 @@ StarterGui:SetCore("ChatMakeSystemMessage",privateProperties)
 local chatFrame = Player.PlayerGui.Chat.Frame
 chatFrame.ChatChannelParentFrame.Visible = true
 chatFrame.ChatBarParentFrame.Position = chatFrame.ChatChannelParentFrame.Position+UDim2.new(UDim.new(),chatFrame.ChatChannelParentFrame.Size.Y)
-
-local function x()
-	local length = math.random(1,5)
-	local array = {}
-	for i = 1, length do
-		array[i] = string.char(math.random(32, 126))
-	end
-	return table.concat(array)
-end
 
 --library
 local OrionLib = loadstring(game:HttpGet(("https://raw.githubusercontent.com/m1kp0/libraries/refs/heads/main/m1kpe0_orion_lib.lua")))()
@@ -1243,7 +1230,7 @@ ChatTab:AddToggle({
 			game.Players.LocalPlayer.PlayerGui.HDAdminGUIs.Enabled = true
 		end
 		repeat task.wait()
-			Players:Chat(x())
+			chatBypass()
 		until chatBypassEn == false
 	end    
 })
