@@ -6,6 +6,8 @@ local saymsg = ReplicatedStorage:WaitForChild("DefaultChatSystemChatEvents"):Wai
 local getmsg = ReplicatedStorage:WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("OnMessageDoneFiltering")
 local StarterGui = game:GetService("StarterGui")
 local instance = (_G.chatSpyInstance or 0) + 1
+local TweenService = game:GetService("TweenService")
+local RunService = game:GetService("RunService")
 
 --counter variables
 local AmountOfPlayers
@@ -49,6 +51,10 @@ privateProperties = {
 }
 
 --functions
+local function ChangeFov(Fov, Time)
+	TweenService:Create(workspace.Camera, TweenInfo.new(Time), {FieldOfView = Fov}):Play()
+end
+
 local function brkLdr()
 	while breakLadderEnabled == true do
 		Player.Character.HumanoidRootPart.CFrame = CFrame.new(88, 141, -237)
@@ -1223,15 +1229,8 @@ ChatTab:AddToggle({
 	Default = false,
 	Color = Color3.fromRGB(102, 0, 102),
 	Callback = function(Value)
-		chatBypassEn = Value
-		if chatBypassEn then
-			game.Players.LocalPlayer.PlayerGui.HDAdminGUIs.Enabled = false
-		else
-			game.Players.LocalPlayer.PlayerGui.HDAdminGUIs.Enabled = true
-		end
-		repeat task.wait()
-			chatBypass()
-		until chatBypassEn == false
+		chatBypassEnabled = Value
+		chatBypass()
 	end    
 })
 
@@ -1412,13 +1411,8 @@ DefenseTab:AddToggle({
 	Flag = "AntiWarpToggle",
 	Callback = function(Value)
 		antiWarpEnabled = Value
-		if antiWarpEnabled then
-			while antiWarpEnabled do
-				if workspace.Camera.FieldOfView < 70 or workspace.Camera.FieldOfView > 70 then
-					workspace.Camera.FieldOfView = 70
-				end
-			wait()
-			end
+		while RunService.RenderStepped:Wait() and antiWarpEnabled do
+			ChangeFov(70, 0.0000001)
 		end
 	end    
 })
@@ -1430,17 +1424,13 @@ DefenseTab:AddToggle({
 	Flag = "AntiSitToggle",
 	Callback = function(Value)
 		antiSitEnabled = Value
-		if antiSitEnabled then
-			while antiSitEnabled do
-				if Player.Character:FindFirstChild("Humanoid").Sit == true then
-					Player.Character:FindFirstChild("Humanoid").Sit = false
-				end
-				if workspace.Sit.TouchInterest then
-					workspace.Sit.TouchInterest:Destroy()
-				end
-			wait()
+		Player.Character.Humanoid.Seated:Connect(function()
+			if antiSitEnabled then
+				Player.Character.Humanoid.Sit = false
+			else
+				antiSitEnabled = false
 			end
-		end
+		end)
 	end    
 })
 
@@ -1586,7 +1576,7 @@ DefenseTab:AddButton({
 DefenseTab:AddButton({
 	Name = "drop dolce milk (inventory)",
 	Callback = function()
-		local tool = Player.Character:FindFirstChildWhichIsA("Tool")
+		local tool = Player.Character:FindFirstChild("Dolce Milk")
 		if tool then
 			tool.Parent = workspace
 		else
@@ -1608,7 +1598,7 @@ DefenseTab:AddToggle({
 		autoDropDolce = Value
 		while autoDropDolce do
 			wait()
-			local tool = game.Players.LocalPlayer.Character:FindFirstChild("Dolce Milk")
+			local tool = Player.Character:FindFirstChild("Dolce Milk")
 			if tool and autoDropDolce and not autoGrabDolce then
 				tool.Parent = workspace
 			end
@@ -1626,7 +1616,7 @@ DefenseTab:AddToggle({
 			wait(0.1)
 			for i, d in pairs(workspace:GetDescendants()) do
 				if d.Name == "Dolce Milk" and d.Parent == workspace then
-					d.Handle.CFrame = CFrame.new(game.Players.LocalPlayer.Character.RightLowerArm.CFrame.Position + Vector3.new(-1, -1, 0))
+					d.Handle.CFrame = CFrame.new(Player.Character.RightLowerArm.CFrame.Position + Vector3.new(-1, -1, 0))
 				end
 			end
 		end
