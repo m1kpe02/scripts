@@ -1259,6 +1259,14 @@ ChatTab:AddTextbox({
 	Default = "",
 	TextDisappear = true,
 	Callback = function(messageToSay)
+		Players:Chat("EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE")
+        wait()
+        Players:Chat("/e ABC")
+        wait()
+        Players:Chat("le le le le le le le")
+        wait()
+        Players:Chat("le le le le le")
+        wait()
 		if _what then
 			ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("                                                                                                                                       "..messageToSay, "All")
 		else
