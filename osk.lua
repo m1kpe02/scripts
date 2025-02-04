@@ -34,6 +34,7 @@ local antiWarpEnabled
 local autoDropDolce
 local autoGrabDolce
 local ladderTransparency = 0.5
+local cmds
 enabledSpy = false
 spyOnMyself = false
 public = false
@@ -264,21 +265,25 @@ end
 
 local function antiChatSpy()
 	while antiSpyEnabled do
-		game:GetService("Players"):Chat("ЙОУ ВЫРУБИ ЧЯТ СПАЙ Э")
+		Players:Chat("ЙОУ ВЫРУБИ ЧЯТ СПАЙ Э")
 		wait(0.1)
 	end
 end
 
 local function chatBypass()
 	while chatBypassEnabled do
-		Players:Chat("EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE")
-        wait(0.2)
-        Players:Chat("/e ABC")
-        wait(0.2)
-        Players:Chat("le le le le le le le")
-        wait(0.2)
-        Players:Chat("le le le le le")
-        wait(0.2)
+		wait(1)
+		Players:Chat("[m1kp chatbypass]: ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890abcdefghijklmnopqrstuvwxyz0987654321ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890abcdefghijklmnopqrstuvwxyz0987654321ABCDEFGHIJKLMNOPQRSTUVWXYZ true false", "All")
+		wait()
+		Players:Chat("[m1kp chatbypass]: ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890abcdefghijklmnopqrstuvwxyz0987654321ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890abcdefghijklmnopqrstuvwxyz0987654321ABCDEFGHIJKLMNOPQRSTUVWXYZ true false", "All")
+		wait()
+		Players:Chat("[m1kp chatbypass]: ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890abcdefghijklmnopqrstuvwxyz0987654321ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890abcdefghijklmnopqrstuvwxyz0987654321ABCDEFGHIJKLMNOPQRSTUVWXYZ true false", "All")
+		wait()
+		Players:Chat("/e ABC")
+		wait()
+		Players:Chat("le le le le le le le")
+		wait() 
+		Players:Chat("le le le le le")
 	end
 end
 
@@ -313,6 +318,7 @@ MainTab:AddToggle({
 	Name = "break ladder",
 	Default = false,
 	Color = Color3.fromRGB(102, 0, 102),
+	Flag = "break",
 	Callback = function(Value)
 		breakLadderEnabled = Value
 		brkLdr()
@@ -338,6 +344,47 @@ MainTab:AddTextbox({
 	Callback = function(Value)
 		breakingSpeed = Value
 	end	  
+})
+
+--OrionLib.Flags["AntiSitToggle"].Value == true
+MainTab:AddToggle({
+	Name = "commands",
+	Default = false,
+	Color = Color3.fromRGB(102, 0, 102),
+	Flag = "commandstoggle",
+	Callback = function(Value)
+		cmds = Value
+		Player.Chatted:Connect(function(msg)
+			if msg:lower() == ";a" and cmds then
+				player.Character.Humanoid.Sit = true
+				wait()
+			elseif msg:lower() == ";break" and cmds then
+				breakFullLadderEnabled = true
+				brkldrfull()
+			elseif msg:lower() == ";unbreak" or ";stopbreak" then
+				breakFullLadderEnabled = false
+			elseif msg:lower() == ";antisit" then
+				local antisiiitttt = Player.Character.Humanoid.Seated:Connect(function()
+					if antiSitEnabled then
+						Player.Character.Humanoid.Sit = false
+					else
+						antiSitEnabled = false
+					end
+				end)
+			elseif msg:lower() == ";unantisit" or ";noantisit" or ";cansit" then
+				antisiiitttt:Disconnect()
+			elseif msg:lower() == ";spy" or ";cspy" or ";chatspy" then
+				enabledSpy = true
+				spyOnMyself = false
+			elseif msg:lower() == ";unspy" or ";nospy" or ";uncspy" or ";nocspy" or ";unchatspy" or ";nochatspy" then
+				enabledSpy = false
+				spyOnMyself = false
+			elseif msg:lower() == ";pspy" or ";publicspy" or ";publicchatspy" then
+				public = true
+			elseif msg:lower() == ""
+			end
+		end)
+	end    
 })
 
 --chat tab
