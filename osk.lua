@@ -272,18 +272,14 @@ end
 
 local function chatBypass()
 	while chatBypassEnabled do
-		wait(1)
-		Players:Chat("[m1kp chatbypass]: ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890abcdefghijklmnopqrstuvwxyz0987654321ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890abcdefghijklmnopqrstuvwxyz0987654321ABCDEFGHIJKLMNOPQRSTUVWXYZ true false", "All")
-		wait()
-		Players:Chat("[m1kp chatbypass]: ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890abcdefghijklmnopqrstuvwxyz0987654321ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890abcdefghijklmnopqrstuvwxyz0987654321ABCDEFGHIJKLMNOPQRSTUVWXYZ true false", "All")
-		wait()
-		Players:Chat("[m1kp chatbypass]: ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890abcdefghijklmnopqrstuvwxyz0987654321ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890abcdefghijklmnopqrstuvwxyz0987654321ABCDEFGHIJKLMNOPQRSTUVWXYZ true false", "All")
-		wait()
-		Players:Chat("/e ABC")
-		wait()
-		Players:Chat("le le le le le le le")
-		wait() 
-		Players:Chat("le le le le le")
+		Players:Chat("EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE")
+        wait()
+        Players:Chat("/e ABC")
+        wait()
+        Players:Chat("le le le le le le le")
+        wait()
+        Players:Chat("le le le le le")
+        wait()
 	end
 end
 
@@ -346,7 +342,7 @@ MainTab:AddTextbox({
 	end	  
 })
 
---OrionLib.Flags["AntiSitToggle"].Value == true
+--[[OrionLib.Flags["AntiSitToggle"].Value == true
 MainTab:AddToggle({
 	Name = "commands",
 	Default = false,
@@ -385,7 +381,7 @@ MainTab:AddToggle({
 			end
 		end)
 	end    
-})
+})]]
 
 --chat tab
 ChatTab:AddToggle({
