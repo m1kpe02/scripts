@@ -1942,17 +1942,10 @@ OrionLib:MakeNotification({
 
 while wait(1) do
 	TimeOfExecutedLB = TimeOfExecutedLB + 1
-	executedLB_label:Set("script executed: "..hourOfExecutedLB.." hour, "..minutesOfExecutedLB.." min, "..TimeOfExecutedLB.." sec")
+	executedLB_label:Set("script executed: "..minutesOfExecutedLB.." min, "..TimeOfExecutedLB.." sec")
 
 	if TimeOfExecutedLB == 59 then
 		minutesOfExecutedLB = minutesOfExecutedLB + 1
-		TimeOfExecutedLB = 0
-		wait()
-	end
-
-	if minutesOfExecutedLB == 59 and TimeOfExecutedLB == 59 then
-		hourOfExecutedLB = hourOfExecutedLB + 1
-		minutesOfExecutedLB = 0
 		TimeOfExecutedLB = 0
 		wait()
 	end
