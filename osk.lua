@@ -1,3 +1,5 @@
+local allowed = {"LYBLY_COCATb6969", "Yaros1979", "abororoumn"}
+local name = game.Players.LocalPlayer.Name
 --server
 local Players = game:GetService("Players")
 local Player = Players.LocalPlayer
@@ -20,6 +22,8 @@ local breakingSpeed = 0.07
 local SavedCheckpoint
 local posit = Player.Character.HumanoidRootPart.Position.Y
 local bangDefense
+local speed
+local repeattimes
 
 --toggle variables
 local breakFullLadderEnabled
@@ -38,6 +42,7 @@ local cmds
 local enabledNoc
 local Clip = false
 local fn
+local repeatmsg
 enabledSpy = false
 spyOnMyself = false
 public = false
@@ -80,6 +85,7 @@ local function brkldrfull()
 				noclipping:Disconnect()
 			end
 		end
+		local lastpos = Player.Character.HumanoidRootPart.Position
 		Player.Character.HumanoidRootPart.Size = Vector3.new(1.5,1.5,1.5)
 		Player.Character.HumanoidRootPart.CFrame = CFrame.new(90.2871323, 142.19899, -241.016586, 0.216689184, -4.79452353e-08, -0.976240635, -6.84476973e-08, 1, -6.4304956e-08, 0.976240635, 8.0755612e-08, 0.216689184)
 		wait(breakingSpeed)
@@ -209,6 +215,7 @@ local function brkldrfull()
 		wait(breakingSpeed)
 		Player.Character.HumanoidRootPart.CFrame = CFrame.new(89.7181473, 74.3009949, -246.990936, -0.123625994, -9.58061293e-08, -0.992328882, 5.18873868e-08, 1, -1.03010962e-07, 0.992328882, -6.42241886e-08, -0.123625994)
 		wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(lastpos)
 		wait(0.3)
 	end
 end
@@ -306,6 +313,7 @@ local Window = OrionLib:MakeWindow({Name = "Ladder Breaker | Premium", HidePremi
 local MainTab = Window:MakeTab({Name = "main", Icon = "", PremiumOnly = false})
 local ChatTab = Window:MakeTab({Name = "chat", Image = "", PremiumOnly = false})
 local TPTab = Window:MakeTab({Name = "teleport", Image = "", PremiumOnly = false})
+local AdminTab = Window:MakeTab({Name = "admin", Image = "", PremiumOnly = false})
 local DefenseTab = Window:MakeTab({Name = "defense", Image = "", PremiumOnly = false})
 local PlayerTab = Window:MakeTab({Name = "character", Image = "", PremiumOnly = false})
 local ScriptTab = Window:MakeTab({Name = "scripts", Image = "", PremiumOnly = false})
@@ -337,6 +345,24 @@ MainTab:AddToggle({
 				noclipping:Disconnect()
 			end
 		end
+		Player.Character.Humanoid.Died:Connect(function()
+			OrionLib:MakeNotification({
+				Name = "died",
+				Content = "your character is",
+				Image = "rbxassetid://18624604880",
+				Time = 5
+			})
+			wait(1)
+		end)
+		Player.CharacterAdded:Connect(function()
+			OrionLib:MakeNotification({
+				Name = "respawned",
+				Content = "your character is",
+				Image = "rbxassetid://18624604880",
+				Time = 5
+			})
+			wait(1)
+		end)
 		brkldrfull()
 	end    
 })
@@ -351,47 +377,6 @@ MainTab:AddTextbox({
 		breakingSpeed = Value
 	end	  
 })
-
---[[OrionLib.Flags["AntiSitToggle"].Value == true
-MainTab:AddToggle({
-	Name = "commands",
-	Default = false,
-	Color = Color3.fromRGB(102, 0, 102),
-	Flag = "commandstoggle",
-	Callback = function(Value)
-		cmds = Value
-		Player.Chatted:Connect(function(msg)
-			if msg:lower() == ";a" and cmds then
-				player.Character.Humanoid.Sit = true
-				wait()
-			elseif msg:lower() == ";break" and cmds then
-				breakFullLadderEnabled = true
-				brkldrfull()
-			elseif msg:lower() == ";unbreak" or ";stopbreak" then
-				breakFullLadderEnabled = false
-			elseif msg:lower() == ";antisit" then
-				local antisiiitttt = Player.Character.Humanoid.Seated:Connect(function()
-					if antiSitEnabled then
-						Player.Character.Humanoid.Sit = false
-					else
-						antiSitEnabled = false
-					end
-				end)
-			elseif msg:lower() == ";unantisit" or ";noantisit" or ";cansit" then
-				antisiiitttt:Disconnect()
-			elseif msg:lower() == ";spy" or ";cspy" or ";chatspy" then
-				enabledSpy = true
-				spyOnMyself = false
-			elseif msg:lower() == ";unspy" or ";nospy" or ";uncspy" or ";nocspy" or ";unchatspy" or ";nochatspy" then
-				enabledSpy = false
-				spyOnMyself = false
-			elseif msg:lower() == ";pspy" or ";publicspy" or ";publicchatspy" then
-				public = true
-			elseif msg:lower() == ""
-			end
-		end)
-	end    
-})]]
 
 --chat tab
 ChatTab:AddToggle({
@@ -1267,7 +1252,7 @@ ChatTab:AddToggle({
 ChatTab:AddTextbox({
 	Name = "chat (не забанят)",
 	Default = "",
-	TextDisappear = false,
+	TextDisappear = true,
 	Callback = function(messageToSay)
 		Players:Chat("EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE")
         wait()
@@ -1277,8 +1262,16 @@ ChatTab:AddTextbox({
         wait()
         Players:Chat("le le le le le")
         wait()
-		if _what then
+		if repeatmsg and _what then
+			for i = 1, repeattimes do
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("                                                                                                                                       "..messageToSay, "All")
+			end
+		elseif _what then
 			ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("                                                                                                                                       "..messageToSay, "All")
+		elseif repeatmsg then
+			for i = 1, repeattimes do
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(messageToSay, "All")
+			end
 		else
 			ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(messageToSay, "All")
 		end
@@ -1302,6 +1295,24 @@ ChatTab:AddToggle({
 	Callback = function(Value)
 		_what = Value
 	end    
+})
+
+ChatTab:AddToggle({
+	Name = "repeat message",
+	Default = false,
+	Color = Color3.fromRGB(102, 0, 102),
+	Callback = function(Value)
+		repeatmsg = Value
+	end    
+})
+
+ChatTab:AddTextbox({
+	Name = "repeat value",
+	Default = "4",
+	TextDisappear = false,
+	Callback = function(Value)
+		repeattimes = Value
+	end	  
 })
 
 local raidSymbol = "👹"
@@ -1439,6 +1450,116 @@ TPTab:AddButton({
 	end    
 })
 
+--[[AdminTab:AddToggle({
+	Name = "commands",
+	Default = false,
+	Color = Color3.fromRGB(102, 0, 102),
+	Callback = function(Value)
+		Player.Character.Humanoid.Seated:Connect(function()
+			if antiSitEnabled then
+				Player.Character.Humanoid.Sit = false
+			else
+				antiSitEnabled = false
+			end
+		end)
+		cmds = Value
+		Player.Chatted:Connect(function(msg)
+			local m = msg:lower()
+			if m == ";sit" and cmds then
+				Player.Character.Humanoid.Sit = true
+				wait()
+			elseif m == ";break" and cmds then
+				breakFullLadderEnabled = true
+				enabledNoc = true
+				stairs()
+				noclipping = RunService.Stepped:Connect(noclip)
+				brkldrfull()
+			elseif m == ";unbreak" or ";stopbreak" then
+				breakFullLadderEnabled = false
+				for i, v in pairs(workspace:GetDescendants()) do
+					if v.Name == "LB_STAIR" then
+						v:Destroy()
+					end
+				end
+				if noclipping then
+					noclipping:Disconnect()
+				end
+			elseif m == ";antisit" and cmds then
+				warn'antisit enabled'
+			elseif m == ";unantisit" then
+				antiSitEnabled = false
+			elseif m == ";spy" or ";chatspy" then
+				enabledSpy = true
+				spyOnMyself = false
+			elseif m == ";unspy" or ";unchatspy" then
+				enabledSpy = false
+				spyOnMyself = false
+			elseif m == ";publicspy" or ";publicchatspy" then
+				public = true
+			elseif m == ";spyonmyself" or ";som" then
+				spyOnMyself = true
+			elseif m == ";unspyonmyself" or ";unsom" then
+				spyOnMyself = false
+			elseif m == ";antispy" or ";antichatspy" then
+				antiSpyEnabled = true
+				antiChatSpy()
+			elseif m == ";unantispy" or ";unantichatspy" then
+				antiSpyEnabled = false
+			elseif m == ";godmode" or ";antikillpart" then
+				for i, p in pairs(workspace.Damage:GetDescendants()) do
+					if p.Name == "TouchInterest" then
+						p:Destroy()
+					end
+				end
+				for i, v in pairs(workspace:GetDescendants()) do
+					if v.Name == "TeleportPart" then
+						for i, p in pairs(v:GetDescendants()) do
+							if p.Name == "TouchInterest" then
+								p:Destroy()
+							end
+						end
+					end
+				end
+			elseif m == ";antiwarp" then
+				antiWarpEnabled = Value
+				while RunService.RenderStepped:Wait() and antiWarpEnabled do
+					ChangeFov(70, 0.0000001)
+				end
+			elseif m == ";unantiwarp" then
+				antiWarpEnabled = Value
+			elseif m == ";killbang" then
+				local p = Player.Character.HumanoidRootPart.Position
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(65, 96, -407)
+				wait(0.3)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(65, 96, -407)
+				wait(0.3)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(p)
+			elseif m == ";kickbang" then
+				local p = Player.Character.HumanoidRootPart.Position
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(-245, 265, -2828)
+				wait(0.3)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(-245, 265, -2828)
+				wait(0.3)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(p)
+			elseif m == ";killfacebang" then
+				local p =  Player.Character.HumanoidRootPart.Position
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(65, 89, -404)
+				wait(0.3)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(65, 89, -404)
+				wait(0.3)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(p)
+			elseif m == ";kickfacebang" then
+				local p =  Player.Character.HumanoidRootPart.Position
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(-244, 265, -2826)
+				wait(0.3)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(-244, 265, -2826)
+				wait(0.3)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(p)
+			end
+		end)
+	end    
+})]]
+
 --defense tab
 DefenseTab:AddSection({Name = "anti-admin"})
 
@@ -1449,9 +1570,13 @@ DefenseTab:AddToggle({
 	Flag = "AntiSitToggle",
 	Callback = function(Value)
 		if Value then
-			workspace.Camera.Blur.Enabled = false
+			if workspace.Camera.Blur then
+				workspace.Camera.Blur.Enabled = false
+			end
 		else
-			workspace.Camera.Blur.Enabled = true
+			if workspace.Camera.Blur then
+				workspace.Camera.Blur.Enabled = true
+			end
 		end
 	end    
 })
@@ -1695,6 +1820,7 @@ DefenseTab:AddToggle({
 		end
 	end    
 })
+
 --character settings tab
 PlayerTab:AddTextbox({
 	Name = "speed",
@@ -1702,6 +1828,7 @@ PlayerTab:AddTextbox({
 	TextDisappear = false,
 	Callback = function(Value)
 		Player.Character.Humanoid.WalkSpeed = Value
+		speed = Value
 	end	  
 })
 
@@ -1901,6 +2028,23 @@ ClockTab:AddTextbox({
 	end	  
 })
 
+ClockTab:AddToggle({
+	Name = "real time",
+	Default = false,
+	Flag = "clocktimeflag",
+	Color = Color3.fromRGB(102, 0, 102),
+	Callback = function(Value)
+		while Value do
+			wait(1)
+			local niggga = os.time()
+			local sex = "%H"
+			local gay = os.date(sex, niggga)
+			wait()
+			game.Lighting.ClockTime = gay
+		end
+	end
+})
+
 --changelog tab
 Ctab:AddParagraph("PREMIUM", "онли я и друзья")
 
@@ -1915,9 +2059,9 @@ local allPlayersLabel = Servertab:AddLabel("all players: "..AmountOfPlayers.."")
 
 Servertab:AddSection({Name = "you"})
 
-Servertab:AddLabel("you: "..Player.DisplayName.."("..Player.Name..")")
-
+Servertab:AddLabel("you: "..Player.DisplayName.." ("..Player.Name..")")
 local executedLB_label = Servertab:AddLabel("йоу")
+local RealTimeLbl = Servertab:AddLabel("REAL TIME")
 
 Players.PlayerAdded:Connect(function(plr)
 	AmountOfPlayers = AmountOfPlayers + 1
@@ -1949,6 +2093,11 @@ while wait(1) do
 		TimeOfExecutedLB = 0
 		wait()
 	end
+	local time = os.time()
+	local format = "%H:%M"
+	local realTime = os.date(format, time)
+	wait()
+	RealTimeLbl:Set("real time: "..realTime.."")
 end
 
 OrionLib:Init()
