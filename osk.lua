@@ -23,7 +23,7 @@ local SavedCheckpoint
 local posit = Player.Character.HumanoidRootPart.Position.Y
 local bangDefense
 local speed
-local repeattimes
+local repeattimes = 4
 
 --toggle variables
 local breakFullLadderEnabled
@@ -1989,6 +1989,34 @@ ScriptTab:AddButton({
         loadstring(game:HttpGet'https://raw.githubusercontent.com/m1kp0/universal_scripts/refs/heads/main/chat_bypass.lua')()
   	end    
 })
+
+--[[
+PlayerTab:AddButton({
+	Name = "сделать хуй из дольче милка",
+	Callback = function()
+		OrionLib:MakeNotification({
+			Name = "поверни своего персонажа к началу паркура пж",
+			Content = "по другому никак, такой уж роблокс",
+			Image = "rbxassetid://18624604880",
+			Time = 1
+		})
+		local TweenService = game:GetService'TweenService'
+		local RunService = game:GetService'RunService'
+		local d = game.Players.LocalPlayer.Character:FindFirstChild('Dolce Milk').Handle
+
+		local function ChangeFov(Fov, Time)
+			TweenService:Create(d, TweenInfo.new(Time), {Position = Fov}):Play()
+		end
+		local function ChangeRotation(Fov, Time)
+			TweenService:Create(d, TweenInfo.new(Time), {Rotation = Fov}):Play()
+		end
+
+		while RunService.RenderStepped:Wait() do
+			ChangeFov(game.Players.LocalPlayer.Character.HumanoidRootPart.Position + Vector3.new(0, -1, -1), 0.0000001)
+			ChangeRotation(Vector3.new(0, 90, 0), 0.00000001)
+		end
+	end    
+})]]
 
 --clocktime tab
 ClockTab:AddButton({
