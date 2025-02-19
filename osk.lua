@@ -107,18 +107,11 @@ end
 fn = random()
 
 local function brkldrfull()
-	pcall(function()
-		while breakFullLadderEnabled == true do
+	while breakFullLadderEnabled == true do
+		pcall(function()
 			local Player = game.Players.LocalPlayer
 			local breakingSpeed = 0.05
-			if enabledNoc then
-				noclipping = RunService.Stepped:Connect(noclip)
-			else
-				if noclipping then
-					noclipping:Disconnect()
-				end
-			end
-			local lastpos = Player.Character.HumanoidRootPart.Position
+			noclipping = RunService.Stepped:Connect(noclip)
 			Player.Character.HumanoidRootPart.Size = Vector3.new(1.5,1.5,1.5)
 			Player.Character.HumanoidRootPart.CFrame = CFrame.new(90.2871323, 142.19899, -241.016586, 0.216689184, -4.79452353e-08, -0.976240635, -6.84476973e-08, 1, -6.4304956e-08, 0.976240635, 8.0755612e-08, 0.216689184)
 			wait(breakingSpeed)
@@ -248,10 +241,13 @@ local function brkldrfull()
 			wait(breakingSpeed)
 			Player.Character.HumanoidRootPart.CFrame = CFrame.new(89.7181473, 74.3009949, -246.990936, -0.123625994, -9.58061293e-08, -0.992328882, 5.18873868e-08, 1, -1.03010962e-07, 0.992328882, -6.42241886e-08, -0.123625994)
 			wait(breakingSpeed)
-			Player.Character.HumanoidRootPart.CFrame = CFrame.new(lastpos)
 			wait(0.3)
-		end
-	end)
+			breakingCount = breakingCount + 1
+			task.wait()
+			noclipping:Disconnect()
+			task.wait()
+		end)
+	end
 end
 
 local function noclip()
