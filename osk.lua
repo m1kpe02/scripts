@@ -1,5 +1,6 @@
-local allowed = {"LYBLY_COCATb6969", "Yaros1979", "abororoumn"}
-local name = game.Players.LocalPlayer.Name
+print(
+	"LOADING"
+)
 --server
 local Players = game:GetService("Players")
 local Player = Players.LocalPlayer
@@ -23,11 +24,12 @@ local SavedCheckpoint
 local posit = Player.Character.HumanoidRootPart.Position.Y
 local bangDefense
 local speed
-local repeattimes = 4
+local repeattimes = 3
 
 --toggle variables
 local breakFullLadderEnabled
 local breakLadderEnabled
+local invisBreakingEnabled
 local oskSpamEnabled
 local antiSpyEnabled
 local chatBypassEnabled
@@ -43,6 +45,36 @@ local enabledNoc
 local Clip = false
 local fn
 local repeatmsg
+local detected
+local cheaterAlerts = {
+	"ЧИТЕР",
+	"ХАКЕР",
+	"читер",
+	"хакер",
+	"читы",
+	"эксплоитер",
+	"эксплоит",
+	"скрипт"
+	"скрипты",
+	"СКРИПТ",
+	"СКРИПТЫ,
+	"ЭКСПЛОИТ",
+	"ЭКСПЛОИТЕР",
+	"ДЕЛЬТА",
+	"дельта",
+	"ФУ ЧИТЕР",
+	"фу читер",
+	"читер вымри",
+	"ЭТО ЧИТЕР",
+	"РЕБЯТА ЭТО ЧИТЕР",
+	"РЕПОРТ",
+	"репорт"
+	"ребята это читер",
+	"ЧИТЕР ВЫМРИ",
+	"РЕПОРТАЖ",
+	"БАН КИНУ",
+	"КИДАЕМ РЕПОРТЫ"
+}
 enabledSpy = false
 spyOnMyself = false
 public = false
@@ -75,149 +107,151 @@ end
 fn = random()
 
 local function brkldrfull()
-	while breakFullLadderEnabled == true do
-		local Player = game.Players.LocalPlayer
-		local breakingSpeed = 0.05
-		if enabledNoc then
-			noclipping = RunService.Stepped:Connect(noclip)
-		else
-			if noclipping then
-				noclipping:Disconnect()
+	pcall(function()
+		while breakFullLadderEnabled == true do
+			local Player = game.Players.LocalPlayer
+			local breakingSpeed = 0.05
+			if enabledNoc then
+				noclipping = RunService.Stepped:Connect(noclip)
+			else
+				if noclipping then
+					noclipping:Disconnect()
+				end
 			end
+			local lastpos = Player.Character.HumanoidRootPart.Position
+			Player.Character.HumanoidRootPart.Size = Vector3.new(1.5,1.5,1.5)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(90.2871323, 142.19899, -241.016586, 0.216689184, -4.79452353e-08, -0.976240635, -6.84476973e-08, 1, -6.4304956e-08, 0.976240635, 8.0755612e-08, 0.216689184)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(91.0978851, 140.298981, -238.744034, 0.451353669, -9.80752262e-08, -0.89234513, 3.78280376e-08, 1, -9.07736251e-08, 0.89234513, 7.21534521e-09, 0.451353669)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(91.6046371, 139.298996, -237.295547, 0.44760713, 5.99268688e-08, -0.894230306, -2.39691129e-08, 1, 5.5017285e-08, 0.894230306, -3.19222071e-09, 0.44760713)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(92.9826508, 138.298996, -236.002441, 0.560875833, 2.02255208e-08, -0.827899933, 1.60691194e-08, 1, 3.53162264e-08, 0.827899933, -3.31116397e-08, 0.560875833)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(94.6445465, 136.298996, -233.878571, 0.678971052, 2.75740355e-08, -0.734165013, 2.43300722e-08, 1, 6.0059314e-08, 0.734165013, -5.86408255e-08, 0.678971052)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(96.3649826, 135.298996, -232.799728, 0.737124205, -7.15544459e-08, -0.675757289, 4.51176092e-08, 1, -5.66729561e-08, 0.675757289, 1.12864544e-08, 0.737124205)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(98.2008362, 133.298996, -231.302521, 0.832671225, -7.37861754e-08, -0.553767622, 5.41573719e-08, 1, -5.18103427e-08, 0.553767622, 1.31503812e-08, 0.832671225)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(100.045044, 132.298996, -230.338242, 0.898028553, -1.85680875e-08, -0.439937174, 4.47176696e-08, 1, 4.90744121e-08, 0.439937174, -6.37431867e-08, 0.898028553)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(102.621155, 130.298996, -229.510193, 0.975852668, -9.59031183e-08, -0.218429893, 1.01547307e-07, 1, 1.4613792e-08, 0.218429893, -3.64418753e-08, 0.975852668)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(104.224251, 129.298996, -229.041656, 0.989499152, -4.17768646e-08, -0.144538477, 4.8952419e-08, 1, 4.60881751e-08, 0.144538477, -5.26797201e-08, 0.989499152)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(105.747269, 128.298965, -228.67215, 0.990291774, 2.31010642e-08, -0.139004305, -2.69731437e-08, 1, -2.59719943e-08, 0.139004305, 2.94692359e-08, 0.990291774)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(107.090187, 127.301003, -228.880722, 0.998178422, 1.11795488e-08, 0.0603306815, -1.04699032e-08, 1, -1.20787185e-08, -0.0603306815, 1.142506e-08, 0.998178422)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(108.413338, 126.298996, -228.716553, 0.999167681, -6.68114719e-09, 0.0407914072, 2.30229569e-09, 1, 1.07394378e-07, -0.0407914072, -1.07211072e-07, 0.999167681)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(109.961189, 125.298996, -229.40242, 0.978919268, 9.81815962e-09, 0.204247564, 2.64855471e-09, 1, -6.07639095e-08, -0.204247564, 6.00239218e-08, 0.978919268)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(111.531853, 124.298996, -229.330017, 0.958375871, 2.94830205e-08, 0.285509497, -7.94839583e-10, 1, -1.0059653e-07, -0.285509497, 9.61823545e-08, 0.958375871)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(113.806046, 122.298996, -230.324554, 0.921631157, -2.16754015e-09, 0.388066947, 1.21990595e-09, 1, 2.68829048e-09, -0.388066947, -2.00420724e-09, 0.921631157)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(115.568855, 121.299004, -231.170425, 0.896044672, -4.62760319e-08, 0.443963975, 4.74952131e-08, 1, 8.37500735e-09, -0.443963975, 1.35817819e-08, 0.896044672)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(116.907997, 120.299004, -232.019852, 0.785785735, 9.36495752e-08, 0.618498802, -1.09982103e-07, 1, -1.16850796e-08, -0.618498802, -5.8841831e-08, 0.785785735)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(117.750374, 119.299004, -232.964508, 0.766403079, -5.49552901e-08, 0.642359972, 3.03970005e-08, 1, 4.92853474e-08, -0.642359972, -1.82466255e-08, 0.766403079)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(118.971375, 118.299004, -233.847092, 0.680802226, 5.91350862e-08, 0.732467234, 1.54345638e-08, 1, -9.5079983e-08, -0.732467234, 7.6035974e-08, 0.680802226)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(119.779747, 117.299004, -235.016525, 0.620363712, 4.14338537e-08, 0.784314275, -1.25519701e-08, 1, -4.28999805e-08, -0.784314275, 1.67689027e-08, 0.620363712)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(120.715286, 116.299004, -236.171967, 0.604902804, -6.95124882e-08, 0.796299279, 1.30869937e-08, 1, 7.73529862e-08, -0.796299279, -3.6369876e-08, 0.604902804)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(121.504257, 115.299004, -237.414734, 0.532548904, -5.04965456e-08, 0.846399248, -2.90271629e-08, 1, 7.79241347e-08, -0.846399248, -6.60669812e-08, 0.532548904)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(122.117371, 114.299004, -238.541702, 0.42217344, 9.86871118e-09, 0.906515062, 7.67946595e-09, 1, -1.44628345e-08, -0.906515062, 1.30673765e-08, 0.42217344)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(123.046234, 112.299004, -241.616653, 0.274375856, 2.04904804e-08, 0.961622536, -2.82256245e-08, 1, -1.32547333e-08, -0.961622536, -2.3505617e-08, 0.274375856)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(123.593735, 111.299004, -242.749542, 0.229756922, 4.71209738e-08, 0.973248065, -1.40535565e-08, 1, -4.50985489e-08, -0.973248065, -3.31589267e-09, 0.229756922)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(123.748993, 110.299004, -244.383392, 0.119748861, -4.74855621e-09, 0.992804229, -3.66719299e-09, 1, 5.22529886e-09, -0.992804229, -4.26652802e-09, 0.119748861)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(123.89962, 110.299995, -246.38942, 0.0361889414, 7.96216e-08, 0.999344945, 4.05463432e-08, 1, -8.11420762e-08, -0.999344945, 4.34562288e-08, 0.0361889414)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(123.635635, 108.299004, -248.081543, -0.0769171864, -8.11551217e-08, 0.99703747, -3.16514637e-09, 1, 8.11520806e-08, -0.99703747, 3.08622039e-09, -0.0769171864)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(123.577309, 107.299004, -249.108566, -0.0518187359, -4.53069084e-08, 0.998656511, -5.51531354e-09, 1, 4.50816771e-08, -0.998656511, -3.17182836e-09, -0.0518187359)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(123.393623, 106.299004, -250.494919, -0.231385753, 1.13640709e-07, 0.972862065, -2.45591263e-08, 1, -1.22651855e-07, -0.972862065, -5.22725365e-08, -0.231385753)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(122.710434, 105.299004, -251.976761, -0.37035495, -1.64589515e-08, 0.928890288, 9.04863739e-10, 1, 1.80797155e-08, -0.928890288, 7.53643103e-09, -0.37035495)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(122.158119, 104.299988, -252.889267, -0.42040509, 4.45564652e-09, 0.907336533, -8.9301827e-10, 1, -5.32445865e-09, -0.907336533, -3.04869774e-09, -0.42040509)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(121.294701, 103.301003, -254.337387, -0.535623789, 7.37801074e-08, 0.844456732, -2.1261263e-08, 1, -1.00855551e-07, -0.844456732, -7.19748456e-08, -0.535623789)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(120.681671, 102.301003, -255.877136, -0.642682076, -1.67137824e-08, 0.76613301, -9.52543489e-10, 1, 2.10167173e-08, -0.76613301, 1.27772921e-08, -0.642682076)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(119.662415, 101.301003, -256.994781, -0.632999241, 7.13252604e-08, 0.774152458, 1.55037903e-08, 1, -7.9456413e-08, -0.774152458, -3.82935497e-08, -0.632999241)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(118.77874, 100.301003, -257.984833, -0.716385543, -1.71869772e-08, 0.697704613, -6.95620761e-09, 1, 1.74911428e-08, -0.697704613, 7.67702435e-09, -0.716385543)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(117.64502, 99.3009949, -259.123322, -0.800759912, -3.11203081e-08, 0.598985434, -1.72060801e-08, 1, 2.89529076e-08, -0.598985434, 1.28781359e-08, -0.800759912)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(117.64502, 99.3009949, -259.123322, -0.800759912, -3.11203081e-08, 0.598985434, -1.72060801e-08, 1, 2.89529076e-08, -0.598985434, 1.28781359e-08, -0.800759912)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(115.316833, 97.3010025, -260.57663, -0.82039547, 3.2885076e-08, 0.571796536, -1.97802628e-08, 1, -8.58919407e-08, -0.571796536, -8.17756458e-08, -0.82039547)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(113.726326, 96.3009949, -261.376984, -0.909036577, -2.97304226e-08, 0.416716367, 2.12505196e-08, 1, 1.17700978e-07, -0.416716367, 1.15849929e-07, -0.909036577)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(112.365425, 95.3010025, -261.610168, -0.927964509, 4.85544689e-08, 0.372668564, 1.68661192e-08, 1, -8.8291074e-08, -0.372668564, -7.56455094e-08, -0.927964509)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(110.901733, 94.3010025, -262.06958, -0.987205684, 9.71211875e-08, 0.159452155, 8.6838071e-08, 1, -7.14581248e-08, -0.159452155, -5.66973455e-08, -0.987205684)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(109.692291, 93.3010025, -262.383759, -0.980488539, -3.64462593e-08, 0.196576193, -2.91028233e-08, 1, 4.02453324e-08, -0.196576193, 3.37391626e-08, -0.980488539)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(108.489365, 92.3010025, -262.534027, -0.986067474, -5.87416409e-08, 0.166345671, -6.76184087e-08, 1, -4.76999169e-08, -0.166345671, -5.82833692e-08, -0.986067474)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(106.537674, 91.3010025, -262.720703, -0.999931037, -2.24309482e-09, -0.0117414938, -2.20549312e-09, 1, -3.21542015e-09, 0.0117414938, -3.1893026e-09, -0.999931037)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(104.887077, 90.3010025, -262.596161, -0.995300889, 5.40037242e-08, -0.0968301743, 4.66026435e-08, 1, 7.86952157e-08, 0.0968301743, 7.38128776e-08, -0.995300889)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(103.820724, 89.3010025, -262.438812, -0.987907588, 3.34804504e-08, -0.155043945, 2.65912661e-08, 1, 4.6507715e-08, 0.155043945, 4.18225063e-08, -0.987907588)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(102.105492, 88.3010025, -262.006592, -0.968392909, -7.10715824e-08, -0.249429628, -4.31664198e-08, 1, -1.17345841e-07, 0.249429628, -1.02869897e-07, -0.968392909)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(100.995506, 87.3010025, -261.777893, -0.952094436, 1.24691383e-07, -0.305804104, 1.16673007e-07, 1, 4.44979555e-08, 0.305804104, 6.68717082e-09, -0.952094436)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(99.2935104, 86.3010025, -261.273956, -0.929972231, 6.24183443e-08, -0.367629796, 5.68595304e-08, 1, 2.59515431e-08, 0.367629796, 3.23095661e-09, -0.929972231)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(98.2667007, 85.3010025, -260.794861, -0.897156298, -4.42727313e-08, -0.441713184, -4.57311806e-08, 1, -7.34574401e-09, 0.441713184, 1.36097853e-08, -0.897156298)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(97.1793594, 84.3010025, -259.237549, -0.834665418, -7.94021702e-08, -0.550757349, -7.1248671e-08, 1, -3.6192656e-08, 0.550757349, 9.03196895e-09, -0.834665418)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(95.887558, 83.3010025, -258.414917, -0.805086672, 1.28317652e-07, -0.593157232, 1.10091491e-07, 1, 6.69037732e-08, 0.593157232, -1.14382317e-08, -0.805086672)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(94.8851013, 82.3010025, -257.492767, -0.723361731, 1.1667273e-07, -0.690469325, 9.37954212e-08, 1, 7.07123604e-08, 0.690469325, -1.36122464e-08, -0.723361731)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(93.9190674, 81.3010025, -256.479492, -0.641820073, 9.16277614e-08, -0.76685524, 6.77392435e-08, 1, 6.27906687e-08, 0.76685524, -1.16458834e-08, -0.641820073)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(93.1807861, 80.3010025, -255.430206, -0.617946088, -7.19211712e-08, -0.786220491, -5.26583044e-08, 1, -5.00892341e-08, 0.786220491, 1.04485922e-08, -0.617946088)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(92.3184738, 79.3010025, -254.313919, -0.522809267, -4.44631958e-08, -0.852449715, 5.04990183e-08, 1, -8.31304803e-08, 0.852449715, -8.65092531e-08, -0.522809267)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(91.3926468, 78.3010025, -252.766205, -0.457059085, 3.93542399e-09, -0.889436364, -2.19847376e-10, 1, 4.53760096e-09, 0.889436364, 2.26949193e-09, -0.457059085)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(90.8795319, 77.3010025, -251.461411, -0.356288821, -1.12123402e-07, -0.934375882, 1.88049931e-08, 1, -1.27168747e-07, 0.934375882, -6.28797352e-08, -0.356288821)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(90.5267105, 76.3010025, -250.176254, -0.263333082, 1.13872396e-07, -0.96470499, -2.37062618e-08, 1, 1.24509612e-07, 0.96470499, 5.5657047e-08, -0.263333082)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(90.1674194, 75.3010025, -248.859985, -0.270067543, 4.81445603e-08, -0.962841392, -8.44487946e-09, 1, 5.23712949e-08, 0.962841392, 2.22748664e-08, -0.270067543)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(89.7181473, 74.3009949, -246.990936, -0.123625994, -9.58061293e-08, -0.992328882, 5.18873868e-08, 1, -1.03010962e-07, 0.992328882, -6.42241886e-08, -0.123625994)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(89.7181473, 74.3009949, -246.990936, -0.123625994, -9.58061293e-08, -0.992328882, 5.18873868e-08, 1, -1.03010962e-07, 0.992328882, -6.42241886e-08, -0.123625994)
+			wait(breakingSpeed)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(lastpos)
+			wait(0.3)
 		end
-		local lastpos = Player.Character.HumanoidRootPart.Position
-		Player.Character.HumanoidRootPart.Size = Vector3.new(1.5,1.5,1.5)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(90.2871323, 142.19899, -241.016586, 0.216689184, -4.79452353e-08, -0.976240635, -6.84476973e-08, 1, -6.4304956e-08, 0.976240635, 8.0755612e-08, 0.216689184)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(91.0978851, 140.298981, -238.744034, 0.451353669, -9.80752262e-08, -0.89234513, 3.78280376e-08, 1, -9.07736251e-08, 0.89234513, 7.21534521e-09, 0.451353669)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(91.6046371, 139.298996, -237.295547, 0.44760713, 5.99268688e-08, -0.894230306, -2.39691129e-08, 1, 5.5017285e-08, 0.894230306, -3.19222071e-09, 0.44760713)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(92.9826508, 138.298996, -236.002441, 0.560875833, 2.02255208e-08, -0.827899933, 1.60691194e-08, 1, 3.53162264e-08, 0.827899933, -3.31116397e-08, 0.560875833)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(94.6445465, 136.298996, -233.878571, 0.678971052, 2.75740355e-08, -0.734165013, 2.43300722e-08, 1, 6.0059314e-08, 0.734165013, -5.86408255e-08, 0.678971052)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(96.3649826, 135.298996, -232.799728, 0.737124205, -7.15544459e-08, -0.675757289, 4.51176092e-08, 1, -5.66729561e-08, 0.675757289, 1.12864544e-08, 0.737124205)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(98.2008362, 133.298996, -231.302521, 0.832671225, -7.37861754e-08, -0.553767622, 5.41573719e-08, 1, -5.18103427e-08, 0.553767622, 1.31503812e-08, 0.832671225)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(100.045044, 132.298996, -230.338242, 0.898028553, -1.85680875e-08, -0.439937174, 4.47176696e-08, 1, 4.90744121e-08, 0.439937174, -6.37431867e-08, 0.898028553)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(102.621155, 130.298996, -229.510193, 0.975852668, -9.59031183e-08, -0.218429893, 1.01547307e-07, 1, 1.4613792e-08, 0.218429893, -3.64418753e-08, 0.975852668)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(104.224251, 129.298996, -229.041656, 0.989499152, -4.17768646e-08, -0.144538477, 4.8952419e-08, 1, 4.60881751e-08, 0.144538477, -5.26797201e-08, 0.989499152)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(105.747269, 128.298965, -228.67215, 0.990291774, 2.31010642e-08, -0.139004305, -2.69731437e-08, 1, -2.59719943e-08, 0.139004305, 2.94692359e-08, 0.990291774)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(107.090187, 127.301003, -228.880722, 0.998178422, 1.11795488e-08, 0.0603306815, -1.04699032e-08, 1, -1.20787185e-08, -0.0603306815, 1.142506e-08, 0.998178422)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(108.413338, 126.298996, -228.716553, 0.999167681, -6.68114719e-09, 0.0407914072, 2.30229569e-09, 1, 1.07394378e-07, -0.0407914072, -1.07211072e-07, 0.999167681)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(109.961189, 125.298996, -229.40242, 0.978919268, 9.81815962e-09, 0.204247564, 2.64855471e-09, 1, -6.07639095e-08, -0.204247564, 6.00239218e-08, 0.978919268)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(111.531853, 124.298996, -229.330017, 0.958375871, 2.94830205e-08, 0.285509497, -7.94839583e-10, 1, -1.0059653e-07, -0.285509497, 9.61823545e-08, 0.958375871)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(113.806046, 122.298996, -230.324554, 0.921631157, -2.16754015e-09, 0.388066947, 1.21990595e-09, 1, 2.68829048e-09, -0.388066947, -2.00420724e-09, 0.921631157)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(115.568855, 121.299004, -231.170425, 0.896044672, -4.62760319e-08, 0.443963975, 4.74952131e-08, 1, 8.37500735e-09, -0.443963975, 1.35817819e-08, 0.896044672)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(116.907997, 120.299004, -232.019852, 0.785785735, 9.36495752e-08, 0.618498802, -1.09982103e-07, 1, -1.16850796e-08, -0.618498802, -5.8841831e-08, 0.785785735)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(117.750374, 119.299004, -232.964508, 0.766403079, -5.49552901e-08, 0.642359972, 3.03970005e-08, 1, 4.92853474e-08, -0.642359972, -1.82466255e-08, 0.766403079)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(118.971375, 118.299004, -233.847092, 0.680802226, 5.91350862e-08, 0.732467234, 1.54345638e-08, 1, -9.5079983e-08, -0.732467234, 7.6035974e-08, 0.680802226)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(119.779747, 117.299004, -235.016525, 0.620363712, 4.14338537e-08, 0.784314275, -1.25519701e-08, 1, -4.28999805e-08, -0.784314275, 1.67689027e-08, 0.620363712)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(120.715286, 116.299004, -236.171967, 0.604902804, -6.95124882e-08, 0.796299279, 1.30869937e-08, 1, 7.73529862e-08, -0.796299279, -3.6369876e-08, 0.604902804)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(121.504257, 115.299004, -237.414734, 0.532548904, -5.04965456e-08, 0.846399248, -2.90271629e-08, 1, 7.79241347e-08, -0.846399248, -6.60669812e-08, 0.532548904)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(122.117371, 114.299004, -238.541702, 0.42217344, 9.86871118e-09, 0.906515062, 7.67946595e-09, 1, -1.44628345e-08, -0.906515062, 1.30673765e-08, 0.42217344)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(123.046234, 112.299004, -241.616653, 0.274375856, 2.04904804e-08, 0.961622536, -2.82256245e-08, 1, -1.32547333e-08, -0.961622536, -2.3505617e-08, 0.274375856)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(123.593735, 111.299004, -242.749542, 0.229756922, 4.71209738e-08, 0.973248065, -1.40535565e-08, 1, -4.50985489e-08, -0.973248065, -3.31589267e-09, 0.229756922)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(123.748993, 110.299004, -244.383392, 0.119748861, -4.74855621e-09, 0.992804229, -3.66719299e-09, 1, 5.22529886e-09, -0.992804229, -4.26652802e-09, 0.119748861)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(123.89962, 110.299995, -246.38942, 0.0361889414, 7.96216e-08, 0.999344945, 4.05463432e-08, 1, -8.11420762e-08, -0.999344945, 4.34562288e-08, 0.0361889414)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(123.635635, 108.299004, -248.081543, -0.0769171864, -8.11551217e-08, 0.99703747, -3.16514637e-09, 1, 8.11520806e-08, -0.99703747, 3.08622039e-09, -0.0769171864)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(123.577309, 107.299004, -249.108566, -0.0518187359, -4.53069084e-08, 0.998656511, -5.51531354e-09, 1, 4.50816771e-08, -0.998656511, -3.17182836e-09, -0.0518187359)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(123.393623, 106.299004, -250.494919, -0.231385753, 1.13640709e-07, 0.972862065, -2.45591263e-08, 1, -1.22651855e-07, -0.972862065, -5.22725365e-08, -0.231385753)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(122.710434, 105.299004, -251.976761, -0.37035495, -1.64589515e-08, 0.928890288, 9.04863739e-10, 1, 1.80797155e-08, -0.928890288, 7.53643103e-09, -0.37035495)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(122.158119, 104.299988, -252.889267, -0.42040509, 4.45564652e-09, 0.907336533, -8.9301827e-10, 1, -5.32445865e-09, -0.907336533, -3.04869774e-09, -0.42040509)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(121.294701, 103.301003, -254.337387, -0.535623789, 7.37801074e-08, 0.844456732, -2.1261263e-08, 1, -1.00855551e-07, -0.844456732, -7.19748456e-08, -0.535623789)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(120.681671, 102.301003, -255.877136, -0.642682076, -1.67137824e-08, 0.76613301, -9.52543489e-10, 1, 2.10167173e-08, -0.76613301, 1.27772921e-08, -0.642682076)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(119.662415, 101.301003, -256.994781, -0.632999241, 7.13252604e-08, 0.774152458, 1.55037903e-08, 1, -7.9456413e-08, -0.774152458, -3.82935497e-08, -0.632999241)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(118.77874, 100.301003, -257.984833, -0.716385543, -1.71869772e-08, 0.697704613, -6.95620761e-09, 1, 1.74911428e-08, -0.697704613, 7.67702435e-09, -0.716385543)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(117.64502, 99.3009949, -259.123322, -0.800759912, -3.11203081e-08, 0.598985434, -1.72060801e-08, 1, 2.89529076e-08, -0.598985434, 1.28781359e-08, -0.800759912)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(117.64502, 99.3009949, -259.123322, -0.800759912, -3.11203081e-08, 0.598985434, -1.72060801e-08, 1, 2.89529076e-08, -0.598985434, 1.28781359e-08, -0.800759912)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(115.316833, 97.3010025, -260.57663, -0.82039547, 3.2885076e-08, 0.571796536, -1.97802628e-08, 1, -8.58919407e-08, -0.571796536, -8.17756458e-08, -0.82039547)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(113.726326, 96.3009949, -261.376984, -0.909036577, -2.97304226e-08, 0.416716367, 2.12505196e-08, 1, 1.17700978e-07, -0.416716367, 1.15849929e-07, -0.909036577)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(112.365425, 95.3010025, -261.610168, -0.927964509, 4.85544689e-08, 0.372668564, 1.68661192e-08, 1, -8.8291074e-08, -0.372668564, -7.56455094e-08, -0.927964509)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(110.901733, 94.3010025, -262.06958, -0.987205684, 9.71211875e-08, 0.159452155, 8.6838071e-08, 1, -7.14581248e-08, -0.159452155, -5.66973455e-08, -0.987205684)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(109.692291, 93.3010025, -262.383759, -0.980488539, -3.64462593e-08, 0.196576193, -2.91028233e-08, 1, 4.02453324e-08, -0.196576193, 3.37391626e-08, -0.980488539)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(108.489365, 92.3010025, -262.534027, -0.986067474, -5.87416409e-08, 0.166345671, -6.76184087e-08, 1, -4.76999169e-08, -0.166345671, -5.82833692e-08, -0.986067474)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(106.537674, 91.3010025, -262.720703, -0.999931037, -2.24309482e-09, -0.0117414938, -2.20549312e-09, 1, -3.21542015e-09, 0.0117414938, -3.1893026e-09, -0.999931037)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(104.887077, 90.3010025, -262.596161, -0.995300889, 5.40037242e-08, -0.0968301743, 4.66026435e-08, 1, 7.86952157e-08, 0.0968301743, 7.38128776e-08, -0.995300889)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(103.820724, 89.3010025, -262.438812, -0.987907588, 3.34804504e-08, -0.155043945, 2.65912661e-08, 1, 4.6507715e-08, 0.155043945, 4.18225063e-08, -0.987907588)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(102.105492, 88.3010025, -262.006592, -0.968392909, -7.10715824e-08, -0.249429628, -4.31664198e-08, 1, -1.17345841e-07, 0.249429628, -1.02869897e-07, -0.968392909)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(100.995506, 87.3010025, -261.777893, -0.952094436, 1.24691383e-07, -0.305804104, 1.16673007e-07, 1, 4.44979555e-08, 0.305804104, 6.68717082e-09, -0.952094436)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(99.2935104, 86.3010025, -261.273956, -0.929972231, 6.24183443e-08, -0.367629796, 5.68595304e-08, 1, 2.59515431e-08, 0.367629796, 3.23095661e-09, -0.929972231)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(98.2667007, 85.3010025, -260.794861, -0.897156298, -4.42727313e-08, -0.441713184, -4.57311806e-08, 1, -7.34574401e-09, 0.441713184, 1.36097853e-08, -0.897156298)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(97.1793594, 84.3010025, -259.237549, -0.834665418, -7.94021702e-08, -0.550757349, -7.1248671e-08, 1, -3.6192656e-08, 0.550757349, 9.03196895e-09, -0.834665418)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(95.887558, 83.3010025, -258.414917, -0.805086672, 1.28317652e-07, -0.593157232, 1.10091491e-07, 1, 6.69037732e-08, 0.593157232, -1.14382317e-08, -0.805086672)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(94.8851013, 82.3010025, -257.492767, -0.723361731, 1.1667273e-07, -0.690469325, 9.37954212e-08, 1, 7.07123604e-08, 0.690469325, -1.36122464e-08, -0.723361731)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(93.9190674, 81.3010025, -256.479492, -0.641820073, 9.16277614e-08, -0.76685524, 6.77392435e-08, 1, 6.27906687e-08, 0.76685524, -1.16458834e-08, -0.641820073)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(93.1807861, 80.3010025, -255.430206, -0.617946088, -7.19211712e-08, -0.786220491, -5.26583044e-08, 1, -5.00892341e-08, 0.786220491, 1.04485922e-08, -0.617946088)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(92.3184738, 79.3010025, -254.313919, -0.522809267, -4.44631958e-08, -0.852449715, 5.04990183e-08, 1, -8.31304803e-08, 0.852449715, -8.65092531e-08, -0.522809267)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(91.3926468, 78.3010025, -252.766205, -0.457059085, 3.93542399e-09, -0.889436364, -2.19847376e-10, 1, 4.53760096e-09, 0.889436364, 2.26949193e-09, -0.457059085)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(90.8795319, 77.3010025, -251.461411, -0.356288821, -1.12123402e-07, -0.934375882, 1.88049931e-08, 1, -1.27168747e-07, 0.934375882, -6.28797352e-08, -0.356288821)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(90.5267105, 76.3010025, -250.176254, -0.263333082, 1.13872396e-07, -0.96470499, -2.37062618e-08, 1, 1.24509612e-07, 0.96470499, 5.5657047e-08, -0.263333082)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(90.1674194, 75.3010025, -248.859985, -0.270067543, 4.81445603e-08, -0.962841392, -8.44487946e-09, 1, 5.23712949e-08, 0.962841392, 2.22748664e-08, -0.270067543)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(89.7181473, 74.3009949, -246.990936, -0.123625994, -9.58061293e-08, -0.992328882, 5.18873868e-08, 1, -1.03010962e-07, 0.992328882, -6.42241886e-08, -0.123625994)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(89.7181473, 74.3009949, -246.990936, -0.123625994, -9.58061293e-08, -0.992328882, 5.18873868e-08, 1, -1.03010962e-07, 0.992328882, -6.42241886e-08, -0.123625994)
-		wait(breakingSpeed)
-		Player.Character.HumanoidRootPart.CFrame = CFrame.new(lastpos)
-		wait(0.3)
-	end
+	end)
 end
 
 local function noclip()
@@ -295,7 +329,23 @@ local function chatBypass()
 end
 
 for _,p in ipairs(Players:GetPlayers()) do
-	p.Chatted:Connect(function(msg) onChatted(p,msg) end)
+	p.Chatted:Connect(function(msg) 
+		onChatted(p,msg) 
+		if detected then
+			for i, m in pairs(cheaterAlerts) do
+				if msg:lower() == cheaterAlerts then
+					if not p.Name == Player.Name then
+						OrionLib:MakeNotification({
+							Name = "detected",
+							Content = ""..p.DisplayName.." считает вас читером!! (или не вас)",
+							Image = "rbxassetid://18624604880",
+							Time = 5
+						})
+					end
+				end
+			end
+		end
+	end)
 end
 Players.PlayerAdded:Connect(function(p)
 	p.Chatted:Connect(function(msg) onChatted(p,msg) end)
@@ -315,7 +365,7 @@ local ChatTab = Window:MakeTab({Name = "chat", Image = "", PremiumOnly = false})
 local TPTab = Window:MakeTab({Name = "teleport", Image = "", PremiumOnly = false})
 local AdminTab = Window:MakeTab({Name = "admin", Image = "", PremiumOnly = false})
 local DefenseTab = Window:MakeTab({Name = "defense", Image = "", PremiumOnly = false})
-local PlayerTab = Window:MakeTab({Name = "character", Image = "", PremiumOnly = false})
+local PlayerTab = Window:MakeTab({Name = "Player.Character", Image = "", PremiumOnly = false})
 local ScriptTab = Window:MakeTab({Name = "scripts", Image = "", PremiumOnly = false})
 local ClockTab = Window:MakeTab({Name = "time", Image = "", PremiumOnly = false})
 local Ctab = Window:MakeTab({Name = "changelog", Image = "", PremiumOnly = false})
@@ -323,7 +373,7 @@ local Servertab = Window:MakeTab({Name = "server", Image = "", PremiumOnly = fal
 
 --main tab
 MainTab:AddToggle({
-	Name = "BREAK LADDER | BETA",
+	Name = "BREAK LADDER | THE BEST",
 	Default = false,
 	Color = Color3.fromRGB(102, 0, 102),
 	Callback = function(Value)
@@ -345,37 +395,8 @@ MainTab:AddToggle({
 				noclipping:Disconnect()
 			end
 		end
-		Player.Character.Humanoid.Died:Connect(function()
-			OrionLib:MakeNotification({
-				Name = "died",
-				Content = "your character is",
-				Image = "rbxassetid://18624604880",
-				Time = 5
-			})
-			wait(1)
-		end)
-		Player.CharacterAdded:Connect(function()
-			OrionLib:MakeNotification({
-				Name = "respawned",
-				Content = "your character is",
-				Image = "rbxassetid://18624604880",
-				Time = 5
-			})
-			wait(1)
-		end)
 		brkldrfull()
 	end    
-})
-
-MainTab:AddLabel("лучший delay: 0.05")
-
-MainTab:AddTextbox({
-	Name = "delay (break ladder)",
-	Default = "0.05",
-	TextDisappear = false,
-	Callback = function(Value)
-		breakingSpeed = Value
-	end	  
 })
 
 --chat tab
@@ -431,6 +452,7 @@ ChatTab:AddToggle({
 })
 
 ChatTab:AddSection({Name = "advanced"})
+--[[
 osk = 1
 ChatTab:AddToggle({
 	Name = "спам-оск (без бана)",
@@ -1248,6 +1270,7 @@ ChatTab:AddToggle({
 		end
 	end    
 })
+]]
 
 ChatTab:AddTextbox({
 	Name = "chat (не забанят)",
@@ -1308,7 +1331,7 @@ ChatTab:AddToggle({
 
 ChatTab:AddTextbox({
 	Name = "repeat value",
-	Default = "4",
+	Default = "3",
 	TextDisappear = false,
 	Callback = function(Value)
 		repeattimes = Value
@@ -1569,15 +1592,17 @@ DefenseTab:AddToggle({
 	Color = Color3.fromRGB(102, 0, 102),
 	Flag = "AntiSitToggle",
 	Callback = function(Value)
-		if Value then
-			if workspace.Camera.Blur then
-				workspace.Camera.Blur.Enabled = false
+		pcall(function()
+			if Value then
+				if workspace.Camera.Blur then
+					workspace.Camera.Blur.Enabled = false
+				end
+			else
+				if workspace.Camera.Blur then
+					workspace.Camera.Blur.Enabled = true
+				end
 			end
-		else
-			if workspace.Camera.Blur then
-				workspace.Camera.Blur.Enabled = true
-			end
-		end
+		end)
 	end    
 })
 
@@ -1714,6 +1739,19 @@ DefenseTab:AddToggle({
 	end    
 })
 
+DefenseTab:AddToggle({
+	Name = "hacker detector",
+	Default = false,
+	Color = Color3.fromRGB(102, 0, 102),
+	Callback = function(Value)
+		if Value == true then
+			detected = true
+		else
+			detected = false
+		end
+	end    
+})
+
 DefenseTab:AddTextbox({
 	Name = "ladder transparency",
 	Default = "0.5",
@@ -1774,16 +1812,10 @@ DefenseTab:AddButton({
 DefenseTab:AddButton({
 	Name = "drop dolce milk (inventory)",
 	Callback = function()
-		local tool = Player.Character:FindFirstChild("Dolce Milk")
-		if tool then
-			tool.Parent = workspace
-		else
-			OrionLib:MakeNotification({
-				Name = "возьми дольче милк",
-				Content = "в руки",
-				Image = "rbxassetid://18624604880",
-				Time = 5
-			})
+		for i, v in pairs(game.Players.LocalPlayer.Backpack:FindFirstChild('Dolce Milk')) do
+			v.Parent = game.Players.LocalPlayer.Character
+			wait(breakingSpeed)
+			v.Parent = workspace
 		end
 	end
 })
@@ -1796,9 +1828,16 @@ DefenseTab:AddToggle({
 		autoDropDolce = Value
 		while autoDropDolce do
 			wait()
-			local tool = Player.Character:FindFirstChild("Dolce Milk")
-			if tool and autoDropDolce and not autoGrabDolce then
-				tool.Parent = workspace
+			for i, tool in pairs(Player.Backpack:GetChildren()) do
+				if tool.Parent == Player.Backpack and autoDropDolce then
+					tool.Parent = Player.Character
+					task.wait()
+					tool.Parent = workspace
+				end
+				if tool.Parent == Player.Character and autoDropDolce then
+					tool.Parent = workspace
+					task.wait()
+				end
 			end
 		end
 	end    
@@ -1821,7 +1860,7 @@ DefenseTab:AddToggle({
 	end    
 })
 
---character settings tab
+--Player.Character settings tab
 PlayerTab:AddTextbox({
 	Name = "speed",
 	Default = "",
@@ -1990,16 +2029,16 @@ ScriptTab:AddButton({
   	end    
 })
 
---[[
 PlayerTab:AddButton({
 	Name = "сделать хуй из дольче милка",
 	Callback = function()
 		OrionLib:MakeNotification({
-			Name = "поверни своего персонажа к началу паркура пж",
-			Content = "по другому никак, такой уж роблокс",
+			Name = "не двигайся!",
+			Content = "!!!!",
 			Image = "rbxassetid://18624604880",
 			Time = 1
 		})
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(91.0236282, 3.59999943, -14.0724182, -0.99893707, -8.52158522e-08, 0.0460949726, -8.59663842e-08, 1, -1.42999506e-08, -0.0460949726, -1.82473681e-08, -0.99893707)
 		local TweenService = game:GetService'TweenService'
 		local RunService = game:GetService'RunService'
 		local d = game.Players.LocalPlayer.Character:FindFirstChild('Dolce Milk').Handle
@@ -2011,12 +2050,10 @@ PlayerTab:AddButton({
 			TweenService:Create(d, TweenInfo.new(Time), {Rotation = Fov}):Play()
 		end
 
-		while RunService.RenderStepped:Wait() do
-			ChangeFov(game.Players.LocalPlayer.Character.HumanoidRootPart.Position + Vector3.new(0, -1, -1), 0.0000001)
-			ChangeRotation(Vector3.new(0, 90, 0), 0.00000001)
-		end
+		ChangeFov(game.Players.LocalPlayer.Character.HumanoidRootPart.Position + Vector3.new(0, -1, -1), 0.0000001)
+		ChangeRotation(Vector3.new(0, 90, 0), 0.00000001)
 	end    
-})]]
+})
 
 --clocktime tab
 ClockTab:AddButton({
@@ -2111,6 +2148,26 @@ OrionLib:MakeNotification({
 	Image = "rbxassetid://4483345998",
 	Time = 3
 })
+
+Player.Character.Humanoid.Died:Connect(function()
+	OrionLib:MakeNotification({
+		Name = "died",
+		Content = "you are",
+		Image = "rbxassetid://18624604880",
+		Time = 5
+	})
+	wait(1)
+end)
+Player.CharacterAdded:Connect(function()
+	OrionLib:MakeNotification({
+		Name = "respawned",
+		Content = "real",
+		Image = "rbxassetid://18624604880",
+		Time = 5
+	})
+	wait(1)
+	brkldrfull()
+end)
 
 while wait(1) do
 	TimeOfExecutedLB = TimeOfExecutedLB + 1
