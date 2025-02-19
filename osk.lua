@@ -1,6 +1,4 @@
-print(
-	"LOADING"
-)
+print("LOADING")
 --server
 local Players = game:GetService("Players")
 local Player = Players.LocalPlayer
