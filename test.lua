@@ -545,7 +545,7 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
 
 
     --GUI
-    local OrionLib = loadstring(game:HttpGet(("https://raw.githubusercontent.com/m1kpe02/libraries/refs/heads/main/m1kpe0_orion_lib.lua")))()
+    local OrionLib = loadstring(game:HttpGet(("https://raw.githubusercontent.com/m1kp0/libraries/refs/heads/main/m1kpe0_orion_lib.lua")))()
     local Window = OrionLib:MakeWindow({Name = HubName, HidePremium = false, SaveConfig = False, ConfigFolder = "OrionTest", IntroEnabled = false})
 
     --Tabs
