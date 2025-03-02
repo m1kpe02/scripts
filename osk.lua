@@ -1,5 +1,4 @@
---ladder breaker | sss is pidor (premium)
-local premium_users = {"Yaros1979", "abororoumn", "LYBLY_COCATb6969", "poedatelxyevnazavt11"}
+local premium_users = {"Yaros1979", "abororoumn", "LYBLY_COCATb6969", "poedatelxyevnazavt11", "DragonSosu"}
 local name = game.Players.LocalPlayer.Name
 
 --check premium
@@ -2016,6 +2015,7 @@ if checkprem(name) then
 	PlayerTab:AddButton({
 		Name = "большой хуй из долче милка",
 		Callback = function()
+			local Player = game.Players.LocalPlayer
 			local character = Player.Character
 			local backpack = Player.Backpack
 			local items = {}
@@ -2038,7 +2038,7 @@ if checkprem(name) then
 			items[1].Grip = CFrame.new(1.4, 0.5, 1.25, 1, 0, -0, 0, 0, -1, 0, 1, -0)
 			items[2].Grip = CFrame.new(1.4, -1.5, 1.25, 1, 0, -0, 0, 0, -1, 0, 1, -0)
 			items[3].Grip = CFrame.new(1.4, -3.5, 1.25, 1, 0, -0, 0, 0, -1, 0, 1, -0)
-			task.task.wait(0.25)
+			task.wait(0.25)
 
 			for _,tool in ipairs(items) do
 				tool.Parent = character
