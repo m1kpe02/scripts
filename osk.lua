@@ -1,2 +1,3294 @@
---ladder breaker premium not dmo lelelelelelll
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _CMoJxSElm_IU = a; end)); return(function(t,...)local g;local s;local o;local n;local e;local d;local r=24915;local b=0;local u={};while b<803 do b=b+1;while b<0x37f and r%0x1dfc<0xefe do b=b+1 r=(r-629)%22427 local l=b+r if(r%0x138a)>=0x9c5 then r=(r+0x355)%0x4cbd while b<0xb0 and r%0x17a0<0xbd0 do b=b+1 r=(r-1017)%31388 local e=b+r if(r%0x37fc)<0x1bfe then r=(r+0x197)%0x970e local r=69889 if not u[r]then u[r]=0x1 g=(not g)and _ENV or g;end elseif r%2~=0 then r=(r*0x31)%0x4f01 local r=74894 if not u[r]then u[r]=0x1 end else r=(r-0x27f)%0x6f4c b=b+1 local r=56456 if not u[r]then u[r]=0x1 g=getfenv and getfenv();end end end elseif r%2~=0 then r=(r*0x81)%0x7585 while b<0x262 and r%0x364a<0x1b25 do b=b+1 r=(r-307)%43317 local g=b+r if(r%0x252e)>=0x1297 then r=(r+0x396)%0x3d22 local r=36004 if not u[r]then u[r]=0x1 n=string;end elseif r%2~=0 then r=(r+0xcf)%0x5419 local r=32195 if not u[r]then u[r]=0x1 s={};end else r=(r*0x33f)%0xadda b=b+1 local r=76360 if not u[r]then u[r]=0x1 d="\4\8\116\111\110\117\109\98\101\114\80\107\67\76\102\81\116\112\0\6\115\116\114\105\110\103\4\99\104\97\114\108\102\67\117\110\112\69\86\0\6\115\116\114\105\110\103\3\115\117\98\109\106\102\103\115\97\72\107\0\6\115\116\114\105\110\103\4\98\121\116\101\118\116\70\68\114\87\68\113\0\5\116\97\98\108\101\6\99\111\110\99\97\116\110\71\90\100\80\97\101\81\0\5\116\97\98\108\101\6\105\110\115\101\114\116\90\81\81\110\85\115\73\70\5";end end end else r=(r-0x3d8)%0x9f42 b=b+1 while b<0x1b7 and r%0x1efa<0xf7d do b=b+1 r=(r-196)%30413 local d=b+r if(r%0x2d24)>=0x1692 then r=(r-0x310)%0x78d1 local r=31556 if not u[r]then u[r]=0x1 o=tonumber;end elseif r%2~=0 then r=(r+0x34)%0x86e0 local r=78724 if not u[r]then u[r]=0x1 end else r=(r+0x313)%0x21b3 b=b+1 local r=98374 if not u[r]then u[r]=0x1 e=function(u)local r=0x01 local function b(b)r=r+b return u:sub(r-b,r-0x01)end while true do local u=b(0x01)if(u=="\5")then break end local r=n.byte(b(0x01))local r=b(r)if u=="\2"then r=s.PkCLfQtp(r)elseif u=="\3"then r=r~="\0"elseif u=="\6"then g[r]=function(r,b)return t(8,nil,t,b,r)end elseif u=="\4"then r=g[r]elseif u=="\0"then r=g[r][b(n.byte(b(0x01)))];end local b=b(0x08)s[b]=r end end end end end end end r=(r*676)%31680 end e(d);local b={};for r=0x0,0xff do local u=s.lfCunpEV(r);b[r]=u;b[u]=r;end local function l(r)return b[r];end local f=(function(d,n)local t,u=0x01,0x10 local b={{},{},{}}local g=-0x01 local r=0x01 local e=d while true do b[0x03][s.mjfgsaHk(n,r,(function()r=t+r return r-0x01 end)())]=(function()g=g+0x01 return g end)()if g==(0x0f)then g=""u=0x000 break end end local g=#n while r<g+0x01 do b[0x02][u]=s.mjfgsaHk(n,r,(function()r=t+r return r-0x01 end)())u=u+0x01 if u%0x02==0x00 then u=0x00 s.ZQQnUsIF(b[0x01],(l((((b[0x03][b[0x02][0x00]]or 0x00)*0x10)+(b[0x03][b[0x02][0x01]]or 0x00)+e)%0x100)));e=d+e;end end return s.nGZdPaeQ(b[0x01])end);e(f(173,"lAqIi:up4X1N=c_t::11q=4icWqp1__X:pNu_AIA4icuctIANIqcuN_IiApNNXI4Xqp0=qi:=>^N:X1ctcpc=ttAfA::cpq44,ttiANN_.qNpt?uq_I44=Aiu4N1A=uN=cINpi_=quuNut=iiiXX_Xiwc+qIp===F1uIX4_ttXiccIqApIcXIANI__it4utI::I<4iop:p1tI:X1N4Aq4q=Iqcp:upNNIcX:_ipI1qJtuiXNo=i:4NX_tqpI=:A44GcNq1p4tcqqpt==c:q11_r::i1:IX4=c2IpuNci%X4q:tNIIp4ccXup=XRuu:1pc=icNuXu_1u==eA:4=cci:p4=iI1XXc_=cqI1qtpipX=tu:cNiAc4I=:tNi1Xc11t_ptc:q1XiAII4N1.=i11stp_AI:N1O_:tc!iNX1NcAXup_m/uA4u__tItXu_pI_=_t_:41IApipNuAIt:iXcqqApIUAi44ic1ItX=t8q1q=4#Di:11cI4uC_qqp:c1tq14puINpIXXI_iiA=utNI11Ngqu:1XX1t8ut=AA:uXN1iiXp_Xq)X?tAqXXnpp=Ni_1ptqu4cN/:p:1ptXp_Xc1_-q44cXI&=q_x:cXN_cIqN0tc_:INNNAAu4N4HXpi=IA:p1c1ENup=u=qApXp_1i:4tt=uX=pAN::NX_c:Ai=1Wq:p==NI_1=tt:I4qtqq1444Icp:4NAY74=_XIY:_c:Au44=_N1*_4t_pI:1NqiI_NctiI=XXn_tAiu=cANut=II31i_=A_1AcXAiu4pNc{:E11t:i_=:WN:NNAq=pq11t=K::X_qq=4q_c:NN4AII141_:::I=XYAXuNNcq=pu=uiqp?tWqIu:pI=Xi11qtAipX4tc:_1t0i:p1Xt=uq:}1iq4ppcIiiX1t4:i41cXicpc4pcNuI1tyXX4=1Apu4c_q_uX_qN_AiXi_uINXq_u:TNpDcI=NctuiuXNXN_tpp=uAp1ptiqAp1cAqqXc_Icqqu11tNic_:AX:1N_h=p:cIq4rX:c_qIi4:Ai:q=i<A:41c_cI1iBXuA:p8=A?_uq_pqYu1cqAupA_1ANAcuttiuNNit_pi1cjppA1i1_bo4u_uI_NNA I4XN9_IAItXAA:1ucqqXXI_Niu1w=:cmqq1XAqu*=Iq_4I1=qI:quANIIN=ptiu=NXA4iiNc_7tqiu=4A_pqtuiu1qdai1X=cAAuqXp=tt:x=1SNp1cNIuu:ciA1!cu*_iIuc?qhuuNu_1:4XXt_tAii=pAX1q_qIX1pcNI_p1cAc:q41=tcu4ccI:XA=:Apuq1=NX)_4t_KIp4cqIpAX:tIiiNp_ii:iu"));e(f(94,"p.8d3?/OI4bWhk^Bb83b?4Bh4hd?khOOW/WI/W ?bbd^BIOB,3k4O/(BIhB:4dbAd?k?I883hI/h}.b4dW^IOId8/W...^h8?Wm8bb8Bk3?B.Ibb34^WI4^I4c4B38^8OW88WkBkgO4k?8^dIbd/hB??BO443.B3IOk3ObI?.WkU//b?b^3I^Wb&dbbk?k;ObI?d+W4O3dIm8bddhOOI.dbk?^^kb8d.k3It.Wb?/4.NW/8b^b4h.//h..M8Wd?dR/bd3IbW/haOk8/^QWbk3Ik98^k-^?O..WhI??x3433kk344!dkF-Ib4Idd4^kI834^kIId_k.{vb/W3?.BO4bdbkdOb.?443/R4IWdkh^4/Md/*HO.IbO3bB/4.k3^?Ic83WO?WU?I.34^BI/d8Wk3B.W?gB3H?bi33kOOW8?k8OI^IWddvBd4Id8Ol.d8!h3?k23bh3d^3/48bh?O.S4bOBD43b8dB^?II8Ih./IPdIz8kh?O?8BkW?WGl?3B?G8b/dB^/I^8thk/^1kb4?Bk3O4k(O3Id.OhK?WBWb^d3h^I4e^h?3O^4W8^h484kdd^IO^Wkhf/IekbB?3B34/Skbk?35Ob?dW44"));fHrmPyoDMjFtOAi=function(r)r((-s.iQlxPMML+(function()local g,b=s.WBgrYDpw,s.YQLMJwvE;(function(b,r)r(b(r,r),r(b,r))end)(function(u,r)if g>s.aPwIABvK then return r end g=g+s.YQLMJwvE b=(b-s.GCRmSx_Q)%s.qqwt_eGK if(b%s.CHw_mQkz)>=s.hzELiWnc then return r(r(r,r),u(r,r))else return r end return u end,function(u,r)if g>s.oKegKiOB then return u end g=g+s.YQLMJwvE b=(b+s.EMIDvHRL)%s.tteyZpRx if(b%s.kzdp_A_u)>=s.YWlLEhtf then return r(r(r and r,u and r)and r(r,r),r(u and r,u)and r(r,u))else return r end return u end)return b;end)()))end;iAOtFjMDoyPmrHf={s.ITuUeTzE,s.ihKjcmc_};local r=(-s.MQgziLHH+(function()local n,b=s.WBgrYDpw,s.YQLMJwvE;(function(u,r,b,g)r(b(b,u and b,r,r),g(u,r,b,g),r(r,u,b,r),b(g,r and u,r,b)and b(r and r,b and r,b,b))end)(function(r,u,e,g)if n>s.MyKzydgk then return g end n=n+s.YQLMJwvE b=(b+s.RzvFOJpC)%s.sPWOpMis if(b%s.ocLOaklS)>=s.oDseHGoy then b=(b-s.AsUA_csd)%s.ggfJguZn return e else return u(e(r,u,g and e,g),r(u,u,g,r and r),r(u,g,g,u),r(r,r,r,u))end return r(e(e and u,u,u,u)and g(r,g,r,u),r(r and g,u,g,u),r(u,u,r,e),r(r,u,u,r))end,function(e,r,u,g)if n>s.TtKhGFxD then return u end n=n+s.YQLMJwvE b=(b-s.wBlWVHsm)%s.LHGYfDMY if(b%s.JdopWhIZ)<=s.UppqMjOZ then return g else return g(g(r and u,r,e,u and u),g(r,g,r,g and u),r(r,u,g,e),e(r,u,r,r))end return g(r(g and e,u,u,g),u(r and u,u,r and e,e and r),r(u and e,g,u,r),g(r,r,r,e))end,function(g,r,u,e)if n>s.lvjEiWvi then return g end n=n+s.YQLMJwvE b=(b-s.TzAmQFPr)%s.OpeDtYAB if(b%s.ZMJMuhML)<s.KfpxLIQn then b=(b-s.SJGpKxXG)%s.GUSUUTTg return r else return e(u(r,u,g,g)and r(r,e,u,u),r(r,u,g,g and u),g(u and r,g,u and e,g),e(e,r,u,e))end return e(g(e,g,u,u),r(r and e,e,r,e),g(g,r,g and r,r and e),u(r,r,r,u)and u(u,u,e,r))end,function(u,e,g,r)if n>s.WZenQMnK then return u end n=n+s.YQLMJwvE b=(b-s.tSMKnkSy)%s.OcfBpVSU if(b%s.oiCIMKsf)<=s.vWEVQgrt then b=(b+s.nYxbfhUO)%s.dJAVGOuS return r(r(e,r and u,g,g and r),e(g and g,r,e,u),r(g,u,u,g and u)and e(r and e,e,u,u),u(r,g,g,r))else return e end return r end)return b;end)())local er=(getfenv)or(function()return _ENV end);local l=s.vzHqLmph or s.EkodnWGq;local e=s.WMDgMTkK;local d=s.AFprGWwG;local z=s.YQLMJwvE;local g=s.pIMdiqxJ;local function gr(k,...)local h=f(r,"3+Ygxvr/&u6Wb%1.bx/gYW1xu%r+O.b&&+g&^&b6/rg?.g6vv%Bv%Wu%Y%._u.v&++b&6vv+Hrb6g/xx.Y6.rN,xbY/rY.1&u.r%YW%%6ug1U/WmruYY%uW/v1Yb%xx&xx YW&r.gS116rvu+/%rr1Yx%%urx.z&b+&Y/g1.6vv1+/%)&uYYr6.xr%Yr%.u&v+:6%Y/bgv116v&{gv1g6.v6+b%&&b.&OxW1rxY6%u/1xs.:6urY+u1v6+rb+z%r&xg../ubv1M1b/&Ig/{gbu&&gr6rWYr+YvW6&RYb1vu1vvu+.u9Y6O/x+b1r&%vub+bWgvWb&vY11/68v/YWWb&gr+1bburv+v.uWbxbYY1cr.xr1u6uvW+xb%&x%bx&+1?/&xxruvv.m/bf/ugd..Wv/.g+6bW+vr+rb.&Wxb61b+r.Y/%//Wg%1%6rv.+r.v6urrYX%/&/xv./ubvY#Wbx/%gr1.6&r++6%&&bxv.1YW%+&Wx1(Svx+Wbr/.g&1.b%&bg..u6grx%AbWuxx6..WY/xi.%W&+g6.g66v&gr1&WxgW+g%%/xg1R&Wx/rgvb(6vx%+Ybgr&Ye%buYxWIxW%/rY.1&1+v6+.bb&vg1.vbg&+gg..rxv.Y.%.&uvx<%6g/&+vb1&/g11%b/&+gveYWY/g.W%u&Wv/1.b1&+gW1v6rgv+gbvu++Wwv6%r.Y11r/bxY116/rR+/vY1.bxrYgr%66u+%+W&v&bYv/1x/.26urY+uvx1+brvY&&.+&+rg1x%vr=x/bvWuxY6W/v+%%r&.xrY+%r&xvv.6bG/61G6+u.xb+b/%xW..W+u+vWKgWb/vYb1g6uxWD1%xuggZ.v6YvuYv1b/ugv1W6///gx1u6YvW//gv1/W+.&Wrr6Yg%bugxxYg%+uNgY.r6xv%+rb%&WrvHW%vu0g6{z&1/vYYbY&ugx1%6rv%+b1rWYr/.Db1u+g&nIWur/+b1r/%x&1.6&r++&vg1ubvvcg/W1.urY.Y%xvvxr%+W&grY6Wg+b1+&1x/p8W/uYvqBrW%/YYxu&6Wvu++b+rvgb%/u:xuT2W/&vx+.6Wx/61+Wb6vv+crbu/bxY6uWYr%+u%6&.vxfv/+/rgY%%uuvgsWW{/1YY%WuxxW&/.b.&uWrW%x%b&xx1.Ybyr/gY%g6vo.+rWx&u.+/6g.1b6vv1+vb16&rrbWbv&uxY.1W.rr+1bg&+gv116/v1gx1W6/rh.%b&r.Y&1+u&r/Y+1+ugvWJv/u/vgg1u6?r++.%/&6x&d/ubrgC1b/&Ug/+vbW&%1%.v6%+&+11gurx+h+Wxv/+Wbu&YgW.YW(//xv1%&xruY+%Y&1xv1/W&vu+YbW&YY..&6xvu+b66&.g%.uWYrbgYWub1YW+&bv/Wi.166rr%Y/%b6+x1-/bV//Y6XxW&/Y+r.+u%v1+g%&&uYv1Wu/v<cub^.brvr%+M1dx&v+.YbgrWgr6FY/1buuvY7WbY/%vYz(%+/rgbbx6jvu+gbW/-gg1YuWvx4W%uu/xu+gWW/rxT16WIx/D/Wu/YYW1YY.6grgr/1u/u.gW)rv+1%/&1r/+/1Y/xgp1ru.v&d.%u/6gb.161r/Yl%/&gv.+&Wu&/x+.%W%v6+/bb&vg1.v%g&Yxr%W6Yx%NrW./rxxOrbYr.gL.Y6dv%O1b&&/gv.xurvve&b+/6g++vbx&g5+6>&ux%.WWxr%Yxr#b%%+r6xg1rWvvgY&up+u1u&Wxx.%Wx&&xr./Wg/+Yv1uugH/+6b&&+g&6x6+v.YY%b&Yx&.rW+vv+Wb/&2gu.kW./uxv6r6x/RY+%ruYx1.6b4v/+&bu&YgW.Yb+/Wgv1%6.r%+&Wb/uY11/62v/Yr%b6%g%8j6.r&Y+%&&br6Yu1Aurgx.1b6/.+x1 &rg..&6./%xYM+Wg/Y%/%.&.=Y_WbEr1g.1x66rx1x&grbYb%1u/v0r.g+1%uux1Bub/+&%b&6xg.bWg&&xb.%WuYYYW1g6xxW++6&W&+6%g&bxg+r%WuxxuMv&vgg1b1&u-v.b.b+/bxp1%WgvuYv%b&/x%./Wb/xgg%%u.v1%+W.&xgWWr6%Y6+%%Wvx*bIYW&r6gg%W6vvvD6%+xrxY116&r11g%v&Wx{.bbxgugZ%%u1vb%rb%x6g%.W6uY%+v%1u6x6;ub+rWg+1/uu+1+v%//bYx16urx.i&W.rWx/T76vr.gu1+6srxDb%x&vYr.+u&v+k6b+/1x6C1bg/uYb1g6.vu++Wuugx/yg6Wr6Y+bv&Wg/.w6urkg%W6v%v/+%%+&1gWk/Wv/xYbb/&bgu.Y6WrYxr1W6WrxYA1+xgvrSxWbrb+Qb1&YgW.x6W/6gT.b6rx%KgWb/vY11/6Hxuv+bW&6g%.r6.rr+6./6xrg+6W1/1gD1u6Yvu1x16u.v%%x&+r6gs%buvx1Pvb/&6xW}.u6/bg&bY6Xv6+rb/rbgY%1u/v9d/1xu(vxEYW/&g1&./uWv.Y+b6r1gr1ouuvYMu1ruYvr4xWu&v16.?6+r&Y+b&&/g11Y6rvx:%br/%xuwgbu&vgW./6%rb+%%//Yx%1xu%vrS%xuWYW6rYYbbvu1xgr%bu/Tgb6v6%v*r.gDu+YW0g6+/v+vg/6<g6+Y6W&xY6.r&.b+6+r6+gbb&vgb26b&/6xr%1Wx/r..%%uWvv.Wb+r.Y6b1ubx?.uWYru6xg6+ruu&&+Y.6&Yrb.7%1rvvC%+bYx%gxWY6rY.u&v/M6bg/bgg.guW/ugrWx&Wx..%Wrr.Yr.YW&//Yv6Y&.xWi%bY&^+W%W&%xr..Wr81/6vwguWr//b/&&gu.Y6WrYgg.&61rvIgW+rvYb1Wu1v/+!b/6zvx#Wbv&6+.%Wu+x60gW6uxv+1/bgvu+YbW&Yx&.YbD/bgv1.Wvg1Y/%g&&xW.1bxr&.1u%u/vW+x%eu+g&.q/++1Yg%.&6xrKxbY/x.xb.&.x+.6Wgr6bYY1zv1%r1Y//WxY1%6rv.+rbY6&r/+vW&&/xW1xW&ruYY1^uYgu1.6&r++6%g&bYvg%W/&uYu1YuWvY+&bYuKxbovW.&v41./6gv&+Wb1uxg&b1r%/YY1%uuvx.</&6rvYg%/uwxunhbqr&xr0gu.rY++b6&gg6+vb/&vgW6uWbr6YY%Y/rgu1&6+v6++%%6grY+y&Ku-gg.%Wxx%L6W./&g+1&&gg6.6b1&bxS.uWYru+%.W6./gG&%b/6gg1b6g/+Y.1+6%+Y%ggx%66rxxr&%+/+xg%bWvx.Y/bHuug.Rb&g/11&x&Y&1/u6vglbbg/xvu<+br//+W%6&%xr..Wrrxxu..WW//>1L.&Ngu.Y6uud1%.u6.v%+rb1xg_uWv/.g%1,.vvYvv+ub6&r1..&WB/++&%1xv-WW/&vgu1Y./vxvx+&b:&1g6.1Wb+b1Y&1v&+ub.&Jg%1x.uvrvv++br&rg/6bWxrx%/1ruYx/+Y/xg61rWrr&++YrWg/bYv%1u/x1&uIg.W/xr%.gY.u&+Wz6&W/bzY11/61j6/vYkWbx/WxbR&W%/%Y16g6WvWb1%%&ug1_uuWvbM%br/.gr11WW/1g+%uu.vuwJW1/YYW1xuWx.YY1/u.g6c.6brv+1%v&v/++/b1uuv+.Wr.vxYY%1u/v++/6#&ugv166%rCYr&%6Y..%bu1vu+g%v&vg1./61rux+.16%/++.%1urg+.66gvb+vbb6/rv7Wb1&xg/6%6ur/+u1vx6vr,bb1v1Y%%<&uxY.ugv6x6rx/+u&g&6Y&.%rvW1Y/bYu6#%_WWd/11r1.uT1+6rvg5bbv/bvr+YW6&NgY1uv%/{+1%r&rY61.ubvvD1bv/bv&RvWb&h+%.Y6)/++r%b/gg/1vu1v/#1xu%uWWgbY%W&u.+%++u6sg%W/vY11/u1%6xYxW1uW%v/g 6/6YRb+g6b%vg.WxW++WYYbu1xx1W%W.rKgYub6gx++r/1s/b6/ugY1W6YrrY/.+6/rx%WubvgG1%16+vJ_ubY/uxvoWb6/&1&1g6rr&+1Wv/vY/1SuuvfY1%uu.vboxb6r+YY%g&bxv.bW%&uxb.W6%/MYYbr&1g&.+66r+g/1166rg%.%x&Wg1..r%r&Y_1ru&g6.%6brv+1%v6gr++g%u&WxYdYW1r.++1V&ggb.v6b1///vu%6bWvrg%WW6.g&/+%6vvxb1FW1xgg0Wu6YYguxv/-rW./&Y.1ubv/vgx1b&Wvv+b%rrWg+%%urx.Xrx+b6Wgg+Yv6%u/+1zuuY/W(rr%YW%.u&v+4&%6&%vY*g6/rb+u%Y&WxY.+b.uYx&.%6W/bG6%ruWxb.KW&rY+W%x&Wg/+%%b&6g+.xW1/v+Y1ru/vP?1bTrxYb%r&.x&..W%uYv+_/W+rb+g%66=v11rbb&Ygg%&uWx6:gWb/gY1AgW+&YY/1%/WrY<.6./EY+%6ugx6.u%g&%x+e1W1/.+x%%&rg..&6.1Wv/v%b&+1&&./.uu6rb%r%%/WvqW&x++rWgrbYv%b6W/YY&1YxWx&_bbY/YY%6+6/vb+&%Sg1...uW//&Yq1Y6+vv++%+g6+6%&&bxv.1Wvrgx+.gW.vx+6br/.g&1.Y6Wxub+.K1u/&q?+.Y/6rx1.vrYrb&&+g6.+u./%Y..W&gr++g%uuYxYsYu.rugg%.6+rH1W%9/&g%11uYvbMxW%/rY%.Wbgr.Yx.pu6R1+x%ugug11b6&r++W1+/&gr166gvb+gu166vvlbWY//Yx%%urx%YW1+6ggY066Y&/g61v6vv&.W%Yr%Yr%.urvbRr%xuRxutgbuvYgW1/ubv.+Y%&/b+YW+Wr/Y+%%uu/vvG//u/uxL1%rWxr+uW&/+Y61+uu/xY%1v&gx1,vW6r/x+.&6&rr+&%%rWxv.uWYrbY1W66rv.+r6%/6+.%&u+x&+.b%&uxY.bbYYugr1%uvvW+ub./uxg1.W+v.Y1W1&YgG1u6Yvu++%16+vx..b6&&g/.WWbx1+rb,/ugY1u6x/uY/.&u%rg.bb&&uxx(xW8r1Y(bY&ggx1%6rv%+/.+61vb+W%gu+Y/+guuvYEWbY.1r/r.Ub1+/.vg./bvv1g&6Y66+1rW%vxYx/WYW&v6/61g&xvv.v+/&(+%.Yuurxs&%/xWxuW&W6v&/b1v&6v/.&bur%gW%16%xru.&G++b6&gg6.ubr&(xg6u6&rxYR%Yxrvr.ubxY6gg116xrYybbg&%g/1.rx/x+.1guG?+1/bY/Wgg%+ubvgbuW&x1YxQ1urx._&W..6uxrb+g%1&Yv+bvbggggx%W6rx&r&%Yg.xx6.Wvv///1e&+vY.Y+x/%+61.urr+kv%xxgxv1g5//_+v1Y&gvx.&brrug&%+Y61bubvvs1bv/&v1I.Wb&Ygb1.6gx&+%W6/gYb1g+1bvu)grfY6r/x+vgr6z+/r+b6rW&b.vuYr&%l%6xvxW1WW1gYgM6/Y+1YugxbQvWbuxx.HWbI/xgY1x&rxr.&W+r6Y+/u1vWW6xY+WrgY.g6xv%+rb%u%r/m.%+&vxg.vu/v6#ubY/WgY%1W6/g+b.i6+v6+&b6r1Y11HuuvY}u1x6Yx&=Wb+/x+6%v&bxv.1WvvgYb1YuWvx2%br/.r6g+66/W+b%v&1xvYYbWu6gb_/bNrWgg1+uvYx%Y&WxusYW./gYb1r6Kv%+rb1u.v%++b6&gg6+bW.&jxx%uurxWJxW%/xgY.%bvv%+gbb&vg1./g>bYrY%Wu.x%(rW./rWYY+YgbxurjXh/6v/61YrWY1%%urx.2rWxuYxxV1Wr/+gW1v6WxY2bWxr%Yr%%uvrYYv%&/6vx+Ybz/rgY1vubr&+r%v&%Y&1uu6vgIbbg/rvW+xbuvugl.&&%xW..W&/+Y&%uWW/ggYb/&6gu.Y6WrYY..YWxv%%+1xuYx6.6u1rY+jbu&YguOWb./Wgx.rr+/xYY%6&6Y1.x6;vu+Ybu(x&+/r.x1&rbv61.bbv/g1W/gU.v6YvW+xbW&rr+i%b1&gx&.uuxrbYg1u/ugW1W6xv%+x1Y6MvY+1&g&.xvQ/u/v&?ubY/WgY9xb&/Rg11661rb.bW%r1Y/1Ku/xvY61YuWxW;Ybbr+Y&%g&bxv.bbrrgYr0+uv/b+*WWuWvvFM6gr&+b1g&1x/QKW/&gx/_lr%/rYW%u66x.+vb.x.11%/6+xu7YWW/YYv<WWbruY.1uubv}./b%&rxx%u6gr%Y&W%&YY.1&6+v&gv%%u1vYb/%guYg.1%WgruPrb6/&g+166+vgY6.Y&6vv+W%&&xg/.YurrW9&b+/6g+rb1.%1v.vGb%bYgWgxWY6rYWr&%+v6xgb+Wvg%Y/61uuYYIWur/%++r.gm1+u6vg}6bv&UYb1%6Yr/+&%xuWxr..W&r.x65&61/+Y/%6/uv%Ugb//%g:.u&.vvs+W6/gY6QYWgr1Y+uuu.v_+/%l//gr1%u+vbdgWb/vYbK6Wg/WYW1W6&D%wW%//%gx..W/r++u6&x/gP.g6YvW+xbWu/v%+bb6g6xu.W61rYT/b6/ugY1W6Yv.LWbf&x++.16bru+6%1uWvfXubY/uxuQWW6v.Yb%+&6xg.6br&bxW.urur%Yx1Uuu+v:6b+/xgv6g6bvrYZ%W/)gM1YuWvx0W%.u.xuo6bb&r+b.Y&1x/HqW//%Y/.vW+r6Yx16/gvbs&W%&ngg.uu%gg%Y%uugv+WrWA/xY%1u66v+ju61/YY0%uuYxu.v%+&6gg.%bu/1Yv1W6%g1..W}ruYY%uu/rYY6WYu/vg..6gr&+vb1&/g1+Wb//bxX6%W6r&Yv%rrxng1bW8v1+/%2&/vv+6%+&%xY.xWbrrYr1b/bgu116/rN+/.W66ru.%bWr.Y&1+u&rvYW1u6YvrI%/u&+g+6xW+v1+x&&&%gW./W_r6gPb/&/gu.Y6WrYu%g.q.Wr&Y1%/xY%1v6/v/+ bu&tY19vbu&Yg+1u6xrvGgb+/vY11/u1x1gP.n6+g%.u6.r&Y+x%l&61)vbx//g>1u67/1gx1YuWvg.&b6r6Yg%bugx6+&%x&%x/<%/xx.g&1xuuvb>.%vgbv+61u//Y+1%.uxvu=66rr1+&%+&66uxxY/%W//vuk&urv&Y1bg66g11ub6+6%1&bxv.1Wvr/g1MruW/:+11.uxv6+x66/v+b%v&1xvwgb6uWY&.ub-/uY_%.urgb#&b%&6gg.6Wxxu<%WW/xY%1xWW//YY%16rr#+/b/&vg/%uu%xWzxW%/xYq.bWvv%Y&%.6uv/+rb1ruY6%Wuxx%SxWYu(xYe1b//+Yu%+&/xo.uWYrWYxx+%rx.jbb+/6ggx1+1%Y/b%g&uxY.WWxr%6rYb%&v++,bg/bgv1b/bv&<g6/&&xxN1Wrr.Y&%.u./rY+uv/Ygx1./u&&gI.rWKv.+1%rx.Y6.xubvv)1bvG#ur/Y.v1xr1vr%1b&xbg6b+6bY%+16u+Ab.&YgW.x6W/bgW./6Yr17gbg/vY11/u1.rrYg&Y+6vY1WYvx/YuYW+%+._r.Wrg9116YvW+xbW&6v&+vbrr6vv%buvx1Hvbuu&v/WWWv/.YWu.6rrN+1&g/%x+.6Wr//+1%rxWv&ob/r&xgW1rv6g.8%bu&Ygb:Y&W/xY_%vu&xW++/&r+gb1&6uv1Yg%xx+Yu1/uWvxe%bx/%xuc1W.rgYr%v&1x/.1Wvu+gb.&Wr/xYr6rv.g6./6brv+1xW7uWur/WW&rY%1ru.vrg+1bubrYFr%Y/bYA.WW+rW+u%.u6x&.%bxv6+6bb&vg1.v6g&&g1.6Wrg0Frb+/&g+166+rv+v%/&/xi.uW9&vgu..W++.Y/%/u=gg.u6vv1+/b16uvg+.bbg%.b6.61r%Yu%x6;gv.%6/r:+u%BkWuv/%2H1./&r+1Y%gvWxv%;W/xW6ur/+W%x&%xx.g%+&rg11gWgvve1b//1g&+k6&/uxU.u6dv.+r61uYx6.6ux/RYb1%u/v%y%bW/%+../u+x65gW6.v/1r/1v%uvgxW1gW%x&Y.6&.+v6.Pbbv/g1bv^ ru.u%Wvbx%%&W.g%g+W6Yg1.uvx1=/W1uxxWm/bpgbg+1&uWvbb6bu/%g&.g6ur+Y/%u/Wxv1%6rv.+rvYb/bgrrgru.6/x.+uW%&WgY.%u1/e%6r++b%g&bxv.bu4/ZYb1YuWvx:Wurv/g&.166rg+b%g60v&+1%-x.g..uWgrWY%1Wurg6o+6brv+1%v6+r/Yr%xxxxn.1Ws/b1+1%6grv.vW.r/YB%uu}bWvxg%WW6.g/Y+6&ug+bcvuM//._1ur&%Wu6x%<rW./rvxC6Wx&gggb1&.xn.uWYrux/.LW&r&Y&1vu%gg++6vv1+/b1uxg18bb&&+gW +&6/g+.%xu/x6+_Wxx61u1v6gvu+7%+&&xr.&r6/&Y.%66-vvK+br//.uWY&%x...W&/+Y&J/W+/+Yg1/u.vW+r6W/++%%r&.xr.x%uu+xY.1Wvx%Y.1vurvN+r6%/v+.%&u+x&+b%6&Wx/ovWu/%Y/uW6%vr0WbW/bY+1/ugxb8vWb/Wv/.1W//u+/1Y6&rv++bx/.Yg11uvx1-/W1u%v+2W/x/bYbu.6bvu!.&g&&gr.Y6WrvYWbY6Wgx1%6rv%uu(g{66&/bYB11&br,a&%Y/uxv6%W/Y+/&1+&/vg1b+v/1Yr.+vurY_u%vxvxr16W&v.Y6b&1bvv.6b/rvg66g6b+r+%bxl.%g&+g6.g66r/xg.vugv1Yx1+&%xy.Wu.r+++b6&gg6.ubg&.xx%b6W/v+uW%/WY.1&6+v&+r1v6.vg./WrruYY%Wn/b+/&Y&1ru&16W&vb+vb1&vv++1%r&6.x.xW&rS+6u+&1vY=&W&/g1/1%6Yv1+rWx/YYr%.u&x.Y1%buux61161rJ+u%Y&u1+x%YgFb&6g6u6v1<bbv/1gv/N.11YvWvx%/brxxg&b+Y61&ubvvR1bvu%x6qWburxgg%r&.x&..6%&Wg%_uuWr&YW%1&vrx+/%+/Wgb%v6rr%Yrb%&bxg1/6bvu+YbW&YY1E6bgvbxg.uWgrPYx1vuvg_116YvW+xbW6+v&QWbbr6xY%buvx1Ivx71/Wg+%Yxb+urgxi&6b/W1.1buYv.%Y%w/YuY&1xb.1b6Y.Y6.666vx+.%&r1Y.1RuuvYdubxuux/+&W%&gg%%guWxv.1W/r1xYXiW+r%YW%.6gx%b+bx&&gu.vW+x/f.Wu/YYW1YuIr1YV16uYx%+/b+&/q.1W6xv1+rWW&GY%1ru.vrYx1.6rr_+xbWg/xx.Y6.r5;xbv/rY.1&u.x%gY166uvg+v%xruY&%Wuxx%zx%.u6x6Z&b/vbY6b1&/xf./bgu#x&.brrrgY61Zu6wgjabx/6Y61vvuv.+x%<&&Yr1uu&v+S6b+r%xu0Yuu&vg%.r66rY.%bgr.Y&1+u&xbY61u6^vr1vb//gY%.#6Yv6..b&/+Y61gu6r%+.%6uWx1+x/W/&gY.66xvWYv%uuvYb11u1v/+kb/Tg/Y/x+v1/v+vubbx6+YWb/vY11vY+&6uYgvKvr%/r+/1&u4vWbvb%xQW1&+gR1u6YvuY/1vu/rgb&%g/Wgb.Auvv/^/bo/ugs..Wu/gY/.x6xrv+%r&/>Yv%16uu+L6bY/W.&1%6rv.+11%&Wxg.bWur1Y&1iu6vYz.vW/%gr1.6br++W%guc%b.1W//*vu1YubvxO%.x&ng&.+66rg+b%v&1gY}nW6/YYW1xu%vrw.gx&+g6.g6brv+.%/WL&/!gWW/xY%1r1gv&Ygu1&gg%.vW1r/Yp%u6x&b=vW./r.g1&6+v6+ur6&vx+./..ruYg%Wuvx%!rx1/&g+166xvb+vb1&/x..uWxrWYr%%u/x.+6b1/6gv1b/bv1+/%cuWx6.WW/r%+6%.u&v+Y6b1/bg&1166r=%6%Yu%vu.%W6r.gu1+u6vgYb%//1gW.*6%rYv/%xu.v+..W%/++11gubvvY1ov&+g1.YW=rxgu%r6+&udYb}/gYf1vu1v/g44/&gx+.xWgrr16%&u+/&txbg/vY11/67vuYxu.&xxv.rW.r&Y+%66vYyEvb///gr1u6YvWYr6+&rxu.&.vr6Yg%buuxuT/b&/uvg1W6vv%+rx/&&x%.6W&rbYv%1u/b&pub./Wg.1%6rv.+&e%&6x..bW/r1Yu1zuuYucWbW/%x+1.Wxr++666&bxb.1bg/Qgx1Yu.uxI%b1/.vg.+6Wrg+bg%&1x.({b+/YYW1x6g.xU.%I&+v..g6%rvYx%/uk%&eYWW/xY.1ru.v&++vu&ggb.vWYr/YE%uuY%6^xW%/rg/1&6+v6+gvW&vg1./WgruYY%Wux%b_rW./&g&166gvb+vv%&/xC.uWgrWYx%%urb/a&b6/6gW1b6vv1+/x&&uxb.WWxr%Yr%.u&&%p6bb/bg/116urZ+ux6&Wxx.%W.r.Y&1+u6..8bbv/1gu.(6urY+W%W&%xr..W&/+Y61g6>1b01b/&O1%.r6brxY.+/uZx&Z+br/gYb1vW1uv++bu&YgW.x.+rrg+1%u+x6{gbW/vY11/WYu6+gbW&xxu.r6.r&x++&uxxbdvW1//xv1uWx/a+xb%&rxY.uW+r6Yg.rurx1M/b+/ugY1WWr/Y+rb.&&b/.6Wgrbg/+.u&vEouru/Wgx1%bbIb+&%+&6/..bWrr1Wg1<u%1u>Wbx/%/Y1.6ur++6gx&bxv.1W&/nYu1Y6%uvT1br/.gW.Y66rgY16u&1x&*R6g/YYW1xu%Yxs.b&&+gb.g6%rvgG+&u+xu<YgY/xY%1rW.ur+Yb6&ggb.v6br/xE+/ugxWMxW%/ru61&b+u&+xb%&vg1./&vrux&1Wuvx1Fryv/&gY161%vb+urv&/xO.u.&rWYv%%u61rL&b+/6/.1b6rv1g%1d&6xg.W.%r%Y/%.Wgv+n1v6/bgv11.=r*+6%Y&.%W.%Wrr./x1+uWvggY/Y/1g&.J.vrY+b%x.Wxrzgx./+Y61g1&vvZ.b/&x%d.Y6Wrx6&%6uex&+g.W/xY11v6+v&+-buuxM..xW!rr/g%&u+x6Gg&6/vgP1/6Yvu+gbWur/1./W+r&u&%6ugxbYvFx/&gY1u6xvWW.b%u&+g.&Wvr6Y+%buvx1M/x%/ugx1W6&v%+&b.6&/..WWrrbY/%15Yv4+WCg/bg&1%+%v.+&%+66&u.%Wur1YW1IxxvY+%u&/%gb1.1&r++6%g&b%Y.1WW/*Y.1Yu%vxY%mb&lg%.+61rgrg%v6I+W^zbL/YxY1xu%vr*.vv&+g..gWgrvYL%/Wf&.#gbO/xgY1r1rv&Ygu1&gxg.v/xr/Yy%uuY%&mxbY/rgr1&6gv6gg+Y&rxx./Wxruru%W6rY+0rb//&x&166gvb+vvW&/xr.uW6rWYr%%Wruv,ub//6gu1b1bv1Yu6x&ux6.Wugr%Yr%.u&+x{6bu/bg%116urHYW%u&WxW.%Y%r.Y&1+W6vxCbbb/1g1.evxrYY%%r&%x...%r/+Y61gubrus1b1&AxY.Y6%rxY.1b&.vkD+16/gYb1vW1/++e%+&Yxg.x.urrYv1uu+vYCgYu/vY.1/6+vu+rrY&xg%.r+br&YY%66vY_7vbr//xn1u6YvWgx+u&rx/.&Wur6r/%b6/&.B&bu/u6u1W6xv%gr+v&ux6.6Wbrb%C%16uYxHub%/WYY1%6rv.+&v1&6xb.bbPr1Yu106WugXbb1/%6%1.6&r+g6+u&%x..1b+/#%x1Y6%Y&t%%Y/.Yu.+66rg+brY&1v+n8bv/YY%1xu%W1p.%g&+xr.g6brvg=6Wu^vr(YbW/xY%1rW+Yb++%&&gxb.v61r/gY6%uYv6-x,+/rY.1&6+bY+g%b&vx1./Wjrugx6.uxv1Dru+/&g+166gbx+v1o&/vY.uWYrWxx+Wu/rYP&bx/6b.1bbvr1+/1g&uvv.Wv%r%xr1vu&rxA6%r/bub11b/rv+u1v&Wv/.%u=r.Y&1bu6r/Lb%6/1g/.mWWrW+W16&%xW..W&/+Y61/ubrbJ11u&ygu.YW%/.+%.u&.u.k+W6/gYbx%u1/W+t11&YgW.x6%&ZYa.1u+x6wgWb/vY1x.6S&U+Y.v&xg%.r6.urYYPvugrY)vW1//xYxY6Y&/+xgu&rg..&bg&AYgcuuvxr;/by/uxx1.6x&W+rr6&&x+.6bv/1Yv_%u/&v9ubY/Wxr.x6r&.+&%u&Wxg.bb//gY/++uu/v)Wbx/%x&Jx6&ug+6Wv&bxv.1bubuYu+vuW/.I%br/.x6.u66u/+b%1&.x/UsbW&/YW+uu%%rK.b&&+xb.16buW+1Wxu=xuQYb%&vY%+%u.Y/++b6&gx1+Z61u.Y{YruYxW7xb.&6Y.Y+6+.b+gbb&vvJvFW_6gYY.guxx%*r%+&bg+Yv6g/v+vb1&/vYt6WY6/Yxv6urx.i&%g&WggYu6vb/+/%,&uvx_WWx6WYr..u&v+E6%vurgvY%6/x!+u%Y&Wvr+xWr6.Y&v/u6vgLb%/vYg/g+6ur%+W%x&%v&%gW&WgY6v5ubvv,1%uvxgugv6W%&+%%r&.v6%vW6W/Ybbbu1v/+S%WvrgWgu6%b&+.%&u+vb%/WbWWY1ug6mvu+YbWgug%Y+6.61Y+%Wugxb+.W.6ggf1u6YvW+x%.uWg.YxW+rWYg%buvx1Y+b+6vgY1W6xv%+r1+u%x+YrWg.;Yv%1u/vkYgbg6/gx1%6rv.+&1gu.xgY&WvDYY/1huuvYYvbv6ugr.T6&r++61v6+xvY6W/+1Yu1YuWrrx1b/6Wg&Y+66rg+b1vWxx/YbWuW1YW1bu%r&1gb&6%g6W%6brv+11urxxuY.WW&xY%1ru.r61vb6W+gbW.61r/YU%ubExbggW%/rY.1W6+rbvxb%Wvg1%=WdruYY.W%Yx1grW.6&g+gW6gvb&%b1W&x4YvWYrWYx%%%uv>g6b+6/gg1b6vv1+&%kWbxYYuWxr%Yr%.6.v+g6bg6.gv.Z6//RY+%YW6xxv%Wru.Y&.gWrvggbbvg1g/.!6u&Y+.%xW%xrY.W&+ Y6RgWgvvg1b/W7gurb6W/xxg%rW1x&67W66gYb+v+1v/g.bu/xgW&66%/&gx%&b*x6%WWb/vY11%g1vux+bWb/g%./6.ruY+%6YYxb!vW1&,gI1u6Yv%u.b%Wrg.YuW+r6Yg%bi%x1g&b26ugY1W6xv%%+b.Wux+.WWgr1Yv%1a.vzgabY6bgx1%6rrvWr%+WWxgY6Wvr.Y/1YuuvYu6bx/%grdr6&r++6%g+Wxv.1W//6Yu1YuWv66WbrW+g&++66rx+b%&&1x/&.Wu/YYWO6u%vrK.b&+-g6.g6br&+1%/u<xuu+WW/xY%j%u.v&++bb-1gbY&616uYt%uuYv+6YW%66Y.+g6+vW+g%Y&vg1&rW5ruYY1guxx%ZrW.A/g+166gv.+vb1&/x9&&WYrWYx1xurx.i&b+>ugg1b6vrx+/%F&uxY&6Wxr%Yr1+u&v+w6bgjWgv116/rv+u%Y&Wx6uWWr6xY&Y%u6vxMbb//1g//.6urY+W1.&%xr..W&o Y61gubv/ 1b/&Kg.uZ6Wu6+%%r&.xu{+Wb/gYb/xu1v/+H1v&YgW.x6%.v+.%&u+xbLgWb/vgx&v6Ku4+Y!/&xg1.rWRr&Y+ruugxbkvb+//gw1uWx6b+xwv&r.x.&W+r6xg16uv&/8/bY/u./1W6x/6+rJ&&&/W.6WgrbYv1bu/&&)ubY/Wr11%66r++&%+&6Y..bWrr1x/+1u6&.KW7d/%..1.b&6/+W+Q&b&Y.1v%/GY.&SuWug,%.6/.gu.+6.rg+brx&1x/^T1%/YYW1xu%1v:.b&&+/r.g6brv+1rruBxu-Y1x/xY%1ru.1/++b6&gr/.v61r/Ymr&uYxWzxb>/rY.1&6+x%+gdu&v/%./W+ruYY1Yux&&wrW./&g+166u.u+vzr&/YY.uWgrWYr%%u61ra&b+/6+v1b6rv1g/^1&6/6.WWrr%vY%.W&u/-W.W/br%11x%rZ+./s&W/1.%.Rr.Yu1+uWvg_bvx/1g/.)%%rY+W%x&%gu...Q/+rx1gu%vvY1A%&+/+.YWYrx%v%r6++bQ+.x/gYr1vu1v/YYL6&g/r.x&vrr+.%&u+g%:g.x/vru1/6+vugY9u&v/v.rWYr&ub%6Wg&6mr.r//r&1uY+vWgx!W&///.&1ur6&Y%bWvvvD&.u/ur61WYvv%xr%r&&/6.6Yxrb1g%1W/roTu.W/Wrb1%Wuv.g&%u&6/%.b1%r16&1)WuvWRW.1/%/Q1.G.r+Yb11&b&-.1Uv/FYu1YWWr1=%V+/./g.+%urgY1C.&1&gRP+Y/YYW1xW%/+<. x&+/r.g%Wrv+11&u^&v?YWb/xY.1rW.rY++?/&g/x.vY.r/x:1WuY&&{x.6/rYY1&b+v.+g!u&v/W./&6ruYY1*ux&&Cr.b/&gg166grW+v!&&//6.u1%rWgx1uur&&l&Y&/6r%1bW/rg+/au&uxv.bWxr%g&g6uu&WQ6x&/bgv116//%+u<W&Wxr.%W/r.g616u6&b0b&b/1g/.DWW/I+WS1&%W%..W&/+x6.1ub&.?1_+&*%/.YW%/x+%+Y&.&ra+W6/gYb.bu1u++><v&YgW.x6%/.+.++u+x6pgW1/vY1.160uY+Ybb&xg..rb.&vY++xug&vivxr//g_+/6gu/+xb%&rxv.&1+16Yg+&uvYgS/&g/urYrW6xuu+r.u&&vv.61g1bYv+6u/vr76%r/Wrxr%6ruW+&tW&6+u.b1vWWY&+buu/6:W&Y/%rrex6&u%+6W.&bW6.1W/&rYu+buWuUL%b&/.v&iv66u1+bc.&16WZ)Wu&/YWY+u%vrN.bW&+r6TY6b6Y+16buGxYeY1W&YY%Ygu.W%++%+&grb/v616xYC/buYv.yxW%W6gjYg6+u/+gb1&vv1I/WK6vYY+vuxW+FrW.uvg+Y&6gvb+v%+&//l.1WY6uYxWYurvYp&.+&1ggY66v6g+/%/&u/Y5.Wx6WYr&Yu&rvV6bgu&gvY66/u1+u%x&WrxxgW/6bY&+Wu6W/?bbv1bg/Y.6urY+W%/&%/r+8W&WVY6W&ubx*=1./u&gug+6W6u+%%%&./&+/W6WYYb&&u1rW+Hbu&6gWg+6%6v+.%6u+r6:/WbWgY1Y+6MW%+YbWugg%gr6.r&Y+%%ug/b&vW1W/g2W16Yug+x.%%gxjg&W+6.Yg1guv/1++bSWugY&16x/++rb.uYx+g&Wg6bYv1Su//h++bYW6gxY/6rbg+&%+&bxgg%Wvr1Y/1guu&YYrbxW1grbx6&&1+6igu%xvg.W/WvYu1uuW&x&%brb<g&ux66//+b%v%Yx&g.WuWgYW1ru%/r+xb&b+g6Y%6bbu+1%/uxxuxxWW/xY%1uu.&&+ub6bvgbb661vRY=juugxWxrW%WWY.1.6+&6Y6bbb/g1u6W_/%YY%W6ux%xrW.W6g+1b6g/bvWb.b&x)ggWYb.Yx%%5xx.xWb+/6gg1.6v&1gs%sbbxY%iWxrgYrh.Wgv+x%bgb+gv.v6/u!g+%Yb1xx6:Wr&gY&1+6rvgx%bvb+g/.Y6u&YYv%xb.xrguW&%vY61gWxvvvYb/&Jgu.v6Wuxu%%r%gx&%rW61rYb+v1Wv&vxbub/gW.W6%urg/%&%vx66rWb&uY11/6xvuvxbWb&g%.&6.&&Y6%6%rxbg.W1%WgC1u6.vWvub%&rg..WW+u6gW%b%6x1%bby1ugY+WW6v%vWb.b%x+Q+Wgub%b%1%bv-6bbY&.gx1%6%v.vW%+b.xg.1Wv&1g119%%vYxrbx+fgr1.6br+rm%g&bxvmYW/6_xa1Y1+vx1Ybr6&g&Y+W%rgrY%vK6x/+xWu&xg%1x1xvr1&b&&+g6+gW&rvrv%/%/xuvgWW&rgr1r1/v&6Wb6&ggb8/bxr/ru%u6YxW-xW%&&g.1&1Wv66%bb&vg1./WYruru%W%1x% &W.&&x&161uvb/vb1b1xE..vsrWrW%%bux.Jub+&5gg1bgxv1+/%#67xY.WWxr%Wv%.u&v+Y.bg/bgv11grrJ+u%YW1xx.%Wrr.W/1+u6vg+rbv/1g/.9g&rY+W%xW.xr..W&/+Wu1gubvvg.b/&?gu:Y.xrvrg%rx1x&x&W6/gxY1v1Yv/vrbu&ggW+xW&rrrg%&b%x6urWb/vgW1/1rvu+YbW&&g%YrWWr&r/%6r&xb6uW16/Wm1u1&vWujb%u6g.Z6.YrWr6%br1x1U/b^uu/P1b1Wv%v%b.%ux+DbWbrbr%%1g+v5DubY&%xv1%1.v.Y&%+&6xgR1b.r1/+17ggvY*Wbx/%gu1.1.r+rx%g&1xv*1bY/!r.1Y.Wvxvxbr&+bg.+.+rgru%v&1x/+K;Y/g/+1xvbvrvrb&&+vx.g.)rvrx%/u+xuYYb./x/+1r%Wv&6xb6&gvr.v.xr/YH%uurxWgxbx/r/v1&/rv6/WbbWvW1./.rruu1%W6&x%+&DP/u/&16/bvb+vb16//1.6.urWrW%%1/x.+6b6/6/W1bg.v1+/%MuWv&.W.%r%gr%.u&v++b%%/b/.11x+r?+u%Y&Wv..%.%r./Y1+ubvg+b%./1/%.:5urYrY%x&.%+..../+r11gubvv+1+#&+/..Yr6rxrx%r&.vb +.1/g/Y1vu.v/gZ%Y&Y/..x1urrWY%&u+vupg*Y/vY11/6xvuxY%Y&x&g.r&xr&x&%6bgbb{v0x//6b1uWrvWYrG1&/&r.&&6r6Yg%bWv&bE&R//u/u1W.vv%Y&%&&&&u.6x%rbYv%16urgIu_W/Wxx1%6rv.Y6%x&6&%.bx.r1Y/1XuurW<WSW/%&z1.66r+Y61M&b&W.1+//O/P1Yu%%.R%<%/./u.+66rgYb+1&.&%JU/&/Y/Y1xu%r/^.Kb&+&>.g6%rvg1%1uh&%;Y.//xbL1ru.v.+++h&ggb.vWYr/vj1vuYu+ZxuY/r+v1&%+%6+g+Y&vW6./bxrugx+buvuxdru&/&g+16bgu6+r+v&/&/.uFgrWgr1ruru/H&vW/6gg1bW//^+/+u&uvY.WWxr%g&1bu&uW-6v%/bgv116/r.+u+u&W&1.%W&r.g&1ru6uumbYv/1/1.o6.BE+W+W&%v...Wu/+Yb1gub1xP1b/&Ivx.Y6Wrx+%rv&.x&T+1./gYb1v616d++V.&Y.6.x.xrr+.1vu+&1zg*Y/vY.1/b<r1+Yj.&x/u.r//r&Y+%1uguY!vW1//g+1u%Y//+x+g&r+x.&W6r6Ygb.uvuYj/hr/ugg1WWrg++r%1&&&v.6WgrbxvYxu&uxJu.1/Wb/1%6r&%+u+/&6xg.bWur1v/rwuuu&nWuu/%&+1.%&1++6+u&bb+.1bW/JgWYgubuW*%u./.g&.+b66++%+b&1&1B<Z6/Yg%1%u%u14.rY&+g6.gW1//+1Y7utvuiYWW/xg..ru.6Y++rx&ggb.v61/uY_YJuYuv7xW./rg.1.6+6Q+gYb&v&v./Wr=/YYYYux/bOrbz/&gx166g1W+vb1&/v6.uWYrWYxrburx.f&%)/6gg1b6v1%+/%2&uxr.WWxr%grY&uuu/T6&Y/b/b116//u+u+r&W&6.%W/r.x&.xu6u/7b2+/111.P6ur/+W+6&%xr..Wb/+v6_FubuWQ1ub&4u/.Y%W1x+%+b&.bxj+b+/gvbrvu1u%+P1&&Y.u.xWg x+.+.u+u6mgW%/vgY1/6!1&+YbW&xg..r6.r&Y+ruugxbUv1r//gi1u6Y16+xb%&rvv.&W+r6YgrWuvx1j/bx/ugY1WWx6r+/+v&& B.6.6rbYv1bu/uxhu5&/Wgv1%br/u+&+v&6/..bx&r1Y/1ruuu&mWbx/%g61.%&r%+6+u&b+6.1b%/TvurYuWu6a%xY/.xb.+Wb6x+%+b&1YhIeWu/YxWYYu1u%f.O.&+&W.gW1r1+1+.uq1g!YWW/xg..xu.6+++%6&ggb.vbTruY:YguY1vUxW%/rY..b6+6++g+r&vxL./bB&vYYY+ux6%drLr/&g/&&6g6g+vm1&/x+.uWxrWYxrburx.-&%%/6gg1b6v1%+/%c&u/&.WWxr%grY&uuu/j6&Y/b/b116//g+u+r&W&6.%W/r.x&1.u6u/ b)+/1b6.X6u/++W+6&%xr..Wb/+v61WubuWi1ub&I1&.Y%W1x+%+b&.bx^+b1/gg1Yru.u1+S6Y&YgW.xb%6xYp+.u+u+FgP%/vxZ.26?6++Yrv&xg%.rb+/+Y+YgugvbZvW1//xY.v6Y6v+xr/&rg..&W+&0YgYguvu&?/bY/uxY116x6g+rY.&&&&.6Wv./YvYvu/rb!ubY/Wxxgr6/6v+&u2&6&6.bWv&6Y/Yxuuu&NWbv/%vr.x6&6v+6s.&b%&.1W/&#YuY&uWvx<%b6/.r&O1666u+b66&1u72>1u.YYWY6u%%Yj.%b&+xbgx6%6b+1W!u}xu_Y%WWYY1Y%u.u.+++W&gx1.1616.YS/guYxW-xb./6Y.g+6+r6+gbb&vv#)rWQWgYY/vuxx%ArW.&6g+g+6g6r+v%C&/v80&WYW+Yxg%ururn&b/+&gggg6vu%+/%+&uxg.WWx.bYr%.u&/uC6bg/bxvg/6&6r+uu+&W&W.%Wr&WY&Yvu6uufbbr/1v/.Y6u6r+W+J&%.%..W&/uY6Yuubvvf1bW&(ru,/6W66+%6W&.uB}+16.gYbYWu1%g+Vv1&YrW/x6%6b+../u+v1HgbY+gY1Y16?&v+Ybb&xg1.r6../Y+%6ugrYcvW1//xt5.6Y6++x&b&r&r.&W+v%YgYzuvux7/b+/uxxW.6x6++r+.&&x+.6%gWYYrYgu/&bzuvv/Wgx+W6/6r+&%+&6x/.b1v11Y/Y/uuY/DWb1/1rrr.6&6&+6x.&bvu.1buW+Y6Y6uWY%t%br/.v&Y.6W6W+b+%&1u&JKbW/WYWY%u%.-a.b&&+xb_u6b6.+11/u}xu(Yb%/WY%g+u..Y++b6&ggb.&616.YwYxuYx%,xb%/6Y.Y.6+W6+g+x&vxxuvWjW+YY+xuxx1Qrb+/&g+/u6gvb+v+Y&/x8.uWY.6Yx%%urvgV&b+/6xggv6r6v+/&.&u&6.WWx/&YrYxu&u&26bx/bvv.z6/6v+uX1&Wg..%Wr/xY&Y&u6vgZbbu/1r/Qx6u6u+W6u&%.p..1&.+Y6Y6ub%+h1+/&8guYl6b6b+%%%&.x&m+bbbbYbY1u16/+8bu&Yx%.&6%Wz+.ruu+x6 gb1//Y1gY6h61+YbW&xx.N-6.WxY+6WugxbIv%z&dg7gr6Yr&+xb%&rv+<6W+W&YgI6uvx1_/%Y&/gYg66xvx+rb.&&x+6.WgWxYvY%u/v+)u%Y6+gxgx6r1u+&+u&6xuu6WvWrY/1%uuvg,Wbv/%gr/16&r++6+/&bxv.1b/WuY6YuuW+gN%Q1/.g&.x666&+b+b&1x&0_%u&gYWYuu%ug?.b%&Yg6A66b6b+1%/udxWIY1W/%Y%Y%u.Y%++WY&gxYug616.Y7Y6uYxbaxW1/rY.//6+v6+gb.&vg1./b)WYYgYYuxEbNrC//&g+.+6g6++v+v&/x+.u%YrbYxYYur&bw&br/Wgga/6v6v+/%8&uxx.W1x&6YrYru&Yra6WY/bgW&b6/6&+u1Y&Wxv.%W/r.Y&/tu6vg!bb&/1g/. Wu6W+b+W&%_v..A8/+Y61uubu6h1O1&>g6.YbW/9+%+W&.&v0+W./xYb1.u1u1+?bu&Yg%.x%%//+.+.u++.Gg/&/vgx&v6L6++Y%1&xg1.rW_r&Y+ruugxbBvb+//gV1uWY6x+v+x&r.1.&.ur6Yg.guvug=/h//ugg1Wbx/x+r+x&&/1.6W&r%Yv1xu/u/jubY/Wgr1%%rrY+&+&&6+&.bvrr1Y%/1uuu6OW%1/%g/1.6ur++6rY&bxv.1W6/!Yu1Y6Wu%^1*%/../.+.Yrg+b1/&1&b<<#U/YYb1xW%rb!.C%&+//.gW+rr+1%&uyu?-YWW/xY.1rb./g++++&g++.v.tr/Yr//uYugBx%W/rg41&6Yv6+gvW&vg1./WgruYY%W6xur,/}r/&.^161Wvb+v1&&/&v.u.urWYv%%WrvW>&Gr/6/h1b66v.+/%&&u&u.WWxr%Y&%.b&vxN6o6/bU611s+r!+./s&W&b.%%+r.Yu1+uWvgFbvx/1g/.06brY+W%xu%&. s../+1u1g1xvv51%=&_/1.Y.Yrx+1%r6.rgQ+../gru1v6gv&+ bb&Y&Y.x6%rrY+%&b+x%wg#g/vVg1/b+vu+&ru&x&v.r%Yr&YY%6uxxbivx%//g=1u6vvW+xb%ur&&.u.&r61Y%b%%x1M/%x/u//1W1Wv%+/b.6&v%.6.&rbrY%1ubv+hub&/W/W1%6rv.+6%+W6x..b.br1.b1<hgvY++rY/%/11.6.r++W%g&%xv.1xr/{Yu1Yu1vxE%br&.&+.Y.+rg%W%v%rx/)(Wb/Y/_1x1xvr+)b&6+x+.g.+rvvW%/uvx65Ybr/x/x1ru.v&+gb6Wgv/.v.vr/.v%u6cxWB6vW/r//1&%bv6+xbb&rg1./g.ruYY%Wu/x%prW.&&/61W16vb%xb1b.x5.uburWru%%%%x.Fub+u6g11b16v1vx%R&1xg.WWvr%r%%.u&v+Abbg6bvi1111rS11%YYWxx*gvxr./?1+b.vgV%bv/.g/.-g&rY+W%xuBxr..W&&+/g1x1gvvb%b/b&gu.YWWrxrY%r%rx&4YW6uggs1v1gv/x%bu&/gb.xWbrrrr%&u+x6svWb6vgx1/1/vu1/bWg/g%.bx%r&ru%66vxb5rW1/&g_1ug+vW+xb%&ug..&W+/6rb%%%bx1brb:b+gY1W61v%vWb.b.x+.WWg&bgr%1%bv9x/bYxggx1%W.v.v.%+&6xg.%Wvu1g+1?1_vY1Hbxbbgr1.uWr+v.%g%gxv..W/uUr.1g1hvxxWbr+Yg&.+%&rxrg%v&1x/ivWu6Y6W1x1xvr1xb&.Eg6YgYbrvrv%/cbxu+rWW&rr11/1/v&16b6&ggb+v1br&r&%u%6xWvvW%&&g&1&16v66%bb&vg1Pub&rurb%W6xx%(rW.&6x/1611vb6.b1&/xf.ubWrWrb%%1+x.i6b+&6x61b1bv1//%h%+xYYWgxr%r%%.Wvv+rNbg/1be111.rZYY%Y&Wxxz%../Er.1+vuvgvxbv/1g..B11rYrY%x&1xr+.b+/+r.1g%6vv+gb&&fxL.Y.Yrx+%%ru+x&g+bb/g/g1v/gv/bxbu&xbr.x.vrrv%%&u+x6+gGv/r/v1/v.vuv6bW&xvr.r.xr&r&%6uxxbYv%,///v1u1:vW6/b%&rvr.&.&r6Yg%bu6x1g/bg/u/u1W/uv%/+b.W&b+.6.6rb6+%16WvF+W9g/b/b1%/.v.+&%+66&+.%.%r1r.1F16vY+%b%/%/.1.xYr++6%gu1v+.1*+/qgu1YuWvx+.%Y/.&g.+xxrg+b%v&1x6L_{+/Y/r1xu.vr+.b6&+&+.g_brvrr%/b,buDY,Y/xx61r+&v&+/r&&g&x.v.xr/Y+%uuvxWCxxb/rY.1&b+v6+gbb&vb%./WSruYb%Wuxx%arx1/&g+16%Yvb+vb1u/&u.6.urW1g%%%1x.k&%p/6/&1b1bv1+&%=6ux1.W.ur%rx%.YWv+w6b1/b/b116/r8+1%YWWv%.%.%r..%1+6xvggbxv/1/1.OYvrYY.%xu.&/PF;{/+Vg1gubvvY1:v&+&+.Y.grxr1%r6+v+X+eg/gbr1vu1v/YYb1&Y&v.xW%rr+.%&6gvrVgF//vb&1/6ivu+Y1r&x&v.r.6r&Yg%66grx^vFv//u*1u16vWxxx%&r&r.&b1r6/u%buW1by/S&/u/%1W6vv%+&b.&&%J.6Wgrbxx%1u/vj;uv+/Wgx1%6uv.+&%+u6&b.%.br11r151+vYmWb&/%/W1.1.r++W%g6bx&.1.b/zr/1Yrgvxs%1w/./..+66rg+%%vW1rgo:M8/YI81x6rvrV.WW&+/..g.grv+.%/WU&.}gP9/xrW1r6xvu++.&&x&g.v61r/YY%ubYbWLxDx/r;x1&&Yv6+ur6&v&r./.vruYg%Wurx%Rrx1/&g+16W/vb+vb1&/b..uWYrWY/%%urx.+&H6/W/61brxv1v.%8&uxb.W.ur%r%%.uuv+Y6b./b/6111vr!+1%g&Wvv.%.%r.Y&1+ubvggb%W/1/1.y/1rY&%%xug1x..nE/+vb1gu%vv+yb/&9b&.Y6Wrxg+%r&.x&?+xu/gYb1v6+v/+tbuuY&x.v.xrr%1%&%ux6Zgb6/v/g1/1/vu+gbW6xxY.r.xr&v.%6&1xbCvb6////1u6YvW+&b%Wrx6.&.&r6.&%b/6x1g/xG/u/u1WYev%gWb.&&r..W.WrbY/%1u/v4+Wur/W/%1%bWv.+&%+ub+/.b..r1Yg19uuvYtW/u/%/11..Yr++W%gubrW.1.1/hWg1Y1gvx+grx/.&*.+Wurg+%%v&.x/NMx&/YYW1xW+vrk.b&u+&g.x.grv%%%/%&xuGY%//x/Y1r1rv&+Yb66gxr.v.gr/v1%uYvxWVxb6/r/r1&6+v6+/bbWvvW././ru./%Wxvx%grg./&/&16+.vbYub1uu&+.6.6rW.%%%urx.Y&../W/W1b1%v1r&%SuWxW.W.%r%b{%.u&v++b%./b/.11W/r_+u%Yu%vY.%#+r.bY1+u6vg8b%%/1/..!.xrY+%%xu%xu..../+&61g1xvv+xrv&C&+.YW+rx+1%ru+x&0+xu/gYb1v6+v/+Gbu&Yb6.x6%rrv&%&u+x6+g=v/r/v1/v.vuv6bW&xx6.r.xr&r&%6uxxbYvbu///v1u1TvW6/b%&rx:.&.&r6Yg%buux1g/bx/u/u1W/uv%+%%AW&b+.6.6rb6+%16Wvi+W,g/b/b1%/.v.+&%+66&+.%.%r1r.1N16vY+%b%/%/.1.xYr++6%gu1v1.12+/*gu1YuWvx+.%Y/.&g.+xxrg+b%v&1vx;>=+/Y/r1xu.vr+.1v&+&+.gEbrvrr%/ur1/wYsg/xgu1r6_v&+Yb6&gbW.v61r/xu%uuYxW+xEr///r1&r<v6vWbb&vvx./.vruru%Wuvx%Yr%x/&/r161+vbbbb1&/v&.u.urWYx%%u6x.g&%W/6/61b/6v1u1%kWubY.W.Wr%6Y%..xv+g6xg/b/b11brr_Y%%Yu+1Y.%.1r.r.1+uWvgh%bv/1br.N6urYg1%x&%xrs.L+/Y/+1gvWvvvrb/&8g6.Y.Hrxrx%ruIx&Y+%g/g/+1v%bv/6gbu&Yxv.x.xrr+.%&uvx6ggbu/v/v1//vvuuxbWWxW%.r.rr&u%%66/xb+/../&/&1u/WvW+xb%6r/%.u.ur6rW%b1rx1+ubu/u/W1Wg1v%+rb.u6xb.6.%rbgv%1u/vV+W%./W/.1%xhv.+&%+&6xx.b.%r1/Y10uWvY+W%+/%/%1.;&r+rY%guY1g.1../Pvr1YubvxZ1br/.b/.+66rgg.%v&1x/+q_Y/g/Y1xvbvrv/b&&+vg.g.+rvrv%/u+xuYY%//x/Y1r%%v&+rbW&gv&.v.vr/YN%uuxxWgx%u/r/r1&/rv6+/bb&W%b./.&rug&%Wuvx%7&W./&bI166gvbY/b1&/x;.ux+rWYx%%uux.a&b+&6/b1%1bv1%r%y%+xY.Wb/r%rW%.%.v+BWbgubg1111br-v/%Yujxv.%b%r.r.1+u6vgX1bv61g&.*.prY.^%xWgxrTvvr/+/Y1gWuvv7.b/&+gu.Yg6rx+%%r6+x&V+W6&g/v1r1vv/b.bub6gW.xb6rrrx%&%&x6=xWbuvg61/1vvuvRbW&ug1.rW%r&r&%6ugxbf/W16/x/1u1uvW1ub%dxg..1x.r6rW%bW/x1w&bw/6gY1Wggv%+rb.uux+.6Wg/br1%.%1vUb&bYbggx1%6uv.v%%+%+xg.%Wv&1g%1J%1vYxubx+Agr1.Wvr+r+%g&bxvOYW/64xx1Y1Yvx1Ybr&gguY+Y6rgrg%v!6x/+xWu&xrb1v1vvr1&b&&+g6+g16rrrr%/%&xuvgWW&rgr1r1&v&6Wb6&ggb*/Wvr/r6%u6YxW0xW%&&g.1&1bv66%bb&vg1./b+rur6%W%.x%T&W.&&gx1616vb/vb1b.xo..vsrWrb%%Wvx.mub+/bgg1bgxv1+/%D66xY.WWxr%Wv%.u&v+^%bg/bgv.1.<r+r:%Yx6xxxvWrr.YW1+%.vgvgbv/.g/+#61rYrF%xbWxruYW&/+gv1g1gvvF1b/&xguYYWrrxrx%rrxx&.rW66g6b1v1vv/&bbuurgW*r11r/r/%&r6x65gWbuvrb1&1&vuv6bW%vg%*&W&r&r6%6Y%xblvW1&ug11u1bvWYxb%&rg.c6Wbr6r1%bY.x1B/bj/uxg1W1bv%r+b.&6x+o6bzrbrb%1./vtv+bY&+%Y1%11v.x.%+&Wxg..Wvr1Wr17uuvYY%bx/%gr1.g/r++6%g6%xv.1W//nW&1YuWvx+)br/.g&A+.grxrg%vx%x/x&Wu/Yxv1x1Yvrvrb&&Yg6+gWurvrg%/b.xuWuWW/xgW1r1rv&++b6&/gbYvW/r/r/%ur/xWbrW%6r6.1&1&v6&.bb&bg1Y/gDruru%WWgx%+6W./1b.161Wvb+&b1&&xS.WWYrWWg%%urx.<Wb+/6gg1bgxv1+/%cu1xY.WWx/%r.1-%.v+bubgbxgv11Wvrwv1%Y%Yxx.1Wr&.xx1+%.vgxWbvgvg/.>b+rYrY%x&%xr;gW&6+Y%1g1gvv1gb/W%guYYYWrxrx%rjWx&p&W66g6b1v1vv/Y.buurgW.6xWrrr/%&%.x6VxWb/rY11/Y.vu+YbW&/g%.r6./&r6%W%6xbbxW1W.g{1uWxvWvub%b%g..uW+&6Y1%b%6x1xrbE_bgY1WWvv%v%b.&&x+.1Wgubg6%1%1vd%1bY/6gx+%Yrv.v.%+_rxg+*Wv&Kr&1+1+vY1xbx/%grB.1rrYrY%g%xxvx.W/&YgY1Y1xvx6/br/.g&MgW%rgrr%vu1x/j7Wu&xgW1x1&vr6ub&&+g6.gWDrvrr%/%WxusxWW&xxg1r1rv&/+b6bWgb.Wxbr/r&%ub&xWfvW%//Y.1&g^v6+gbb&&g1./W(/urW%b%Wx%bvW.bFg+166bvbv6b1b1xK.6WY&Wg-%%%Wx.x/b+g+gg1bW1v1v1%n&uxY..Wxu%Y&%.%.v+%.bgY+gv+1Y/r=rL%Y?/xx xWru.6&1+1+vgYWbvuYg/.YgxrYrg%x&1xr..W&&+/g1x1gvvb%b/b&gu.YW6rxrY%r%rx&yYW6ugx/1v1gv/x.bugugW.xWurrrr%&u+x60/Wb6vg61/1/vu1/bW1/g%YrY.r&r&%6S.xb7bW16/WU1u1uvWggb%u6g..6gbr6rW%bu%x1X/b}&u/W1b1Wv%%vb.%(x+.6brrbr6%1%1vXH6bYuWxb1%1Wv.v/%++%xg.bWrr1r11UuuvYf.bx6%x&1.1.r+1.%gbYxvY1g//E/{1Y+/vxY+bru+/u.Y.Yrg.v%v&1x/YS.//g/g1x1vvrrdb&ugxg.g.vrvW&%/uHxu+xb1/x//1r6.v&++b6uvxx.v.ur/W6%uuYxWCxbY/r//1&1bv6+vbbuvx+././ru&Y%W%bx%8bv%/&/u16b/vb+rb1&&xn.ux+rWYx%%uux.K&b+&6/b1%1bv1%r%2%+xY.WW%r%rW%.%.v+AWbgubx6111br8v&%Yu7xv.%bxr.r.1+u6vgz1bv61g1.c.IrY.E%xW.xr_vvr/+/Y1g66vv-.b/&Ygu.Yg6rx+%%rb&x&Q+W6/gWW1vu1v/+gbu&YgWCx.rr/rr%&v_x6xWWb/vxg1/1vvuvubW&vg%+rber&rr%6%Yxbu&W1//xx1u1uvW+xb%&6g.Y&brr6r6%br6x1_.bh6uWY1W1Wv%uYb.ubx+Ub.xr%r%%1/jv7mubYuW/Y1111v.rh%+%Wxg<1W1r1/?1=ggvYLWbx&.v+1..Yr+Y6%g&bxv+mW1/V/x1Ygvvx>%br/.v+.+.Yrgr/%vuGx/+=%r/Y/Y1x.%vrv/b&&/%&.g.xrvr&%/u+xuygWW/xWb1ru.v&+xb6&ggbRv./r&r/%uv+xWxbW%/rg11&1rv6v6bb&rg1+/bYrur/%W%gx%mWbO/&g11616vb+vb1&uxeYub/rWrW%%rWx.xub+&m%+1b1%v1Yb%K&6xY.bWxr%Wv%.u&v+xgbg/bgv.1b1r rw%Yx6xxxvWrr.Y%1+%.vgvgbv/.g/+sbrrYrE%xbbxrg1W&&gYW1g1gvv+ub&&Qgu)xWYrxrv%r.Nx&5+W6/gxY1v1gv/v&bu&ggW+xWgrrrx%&%Ax6G&W%/vxW1/1/vu+YbW&rg%YrWWr&r&%6r&xbu!W1/%b11u16vW+&b%&/g..bW+r6WY%buvx1x}b4/ugY1Wggv%+rb.WYx+.6WgrbWx%1u/v9EbbY/Wgx1%gvv.+&%+b+xg.bWv/1/21+1 vYb6bxbvgr1.W&r+v.%g%gxv..W/ujg61Y19vxxbbr&xgu.+Wrrgrg%v&1x/*YWu6YxY1x1xvr1xb&/+g6.ux6rvrr%/b%xuhgWW/rY%1rY1v&++b6&rgb.v61r/6.%uuYxWY1W%/rY..&16vWv6bbxxg1g.WGrug6%W%ux%x%W./ug+,661vbv6b1brxV.1WgrWx+%%%%x.H&b+/bgg+bW1v1v1%_v1xY&&Wx/gbx%.12v+vYbg/%gv1.6/rV6&%Y&Wxx;fWrr.Y&.+1gvxvgbvg%g/g&6urYYr%x%YxrxrW&/YY6ng6&vvvgb/b gu./6brx+1%r%rx&c+W6/vYb+v6.v/v/buv/gW1+6%r&66%&%ux6xbWb/vY1./1uv6vubWxgg%g16.r&gg%6%&xbxbW1/&g_IuW%vWvub%brg..%WYr6gr%b%bx1e/b!/WgY+WWbv%v%b.v%x+:bWgr1W}%1%.vwY5bY/Wgx.%1.r!v.%+xuxgxxWvr1xY1{%1vYvYbx/1gr=.W>r+v.%gbbxv4gW&/Jg%1Y1Yvx_%br&+g&Y+W/rgrg%vrgx/%!Wu/xWr1x1vvrx/b&&+g6Qg.vrrrv%/x.xux6WW/xgu1r1xv&v&b6&xgb+vbWr/rv%u%YxWmuW1/rgl1&1&v6+gbb&/g1Y/brruru%Wrux%g%W./6Wb161Wvbg%b1&/x5Lu.WrbrW%%vvx.vhb+/6gv1b16v1v1%T&6xY+Wb%r%rW%.%&v+y.bx/bxg1111rZ+u%Y&%xxY%b%r.r.1+r.vg1&bv&*bY.G.+rYr%%x&%xr(.4+/Y/+1gvWvvvrb/&8x..Y.zrxrx%rupx&Y+bg/g/+1v%1v/+vb6&Yv!.x.xrr+.%&ugx6gg%&/v/v1//vvu1%bW&rb&.r./r&Yg%6ugxb+vK//&//1ur+vWvbb%&rx6.&.rr6r6%burx1Y/%Y/u//1W1xv%+W%d&&v6.6.6rbYv%1uuvZgu%//W/W1%/Wv.+v%+&bb1.b.%r1Yb1fuuvY+Wh%/1/%1.r/r+rY%g&bvv.1.b/4/m1YubvxY%b%/./%.+1WrgY+%r&1x.;=PC/YYW1xu.vrg.1e&+&+.g&+rv/?%/uY%xLYsg/xg11ru.v&Y++g&x&g.vr%r/r&%uuYvbdx>Y/r/r1&6Yv6gg1u&v&g./.+ruY/%buxv.Fr#r/&g+166vvbxv1r&/&/.u&/rWv%%%u&%6t&<u/6g%1b6vv1Y/+u&6&u.W/gr%r1%.u&v6-6I&/b/b116&r2gu1b&W&u.%./r.Y%1Yu6/:eb9b/1g/.a6WrYxW%.&%&%..&%/+W61gu11a01B.&Hv6.Y6WrxY%+.uS&.t+/u/g/x1vu1/K+k91&Y&Y.x61rrg.1Yu+&.Og.%/vgg1&6er++Y+Y&xg%.rW+r&v+1uugugzvug//bY1u6x1r+x+v&rrr.&W+r6ggYvuruv_//./u/61W6xr%+r+x&&&&.6Wxrbxv.6u/uv8uVg/W1W1%6rr/+&+&&6xg.bWur1v/.Wuuuu^Wuu/%g/.!%&1++6+6&bb+.1W1/4vurYuWuW}%1v/.xb.+6b11+b+%&1/cjLWu/YgWY%u1u%q.&/&+&Y.g6br1+1+buPuR7YWb/xx%1%u.u%++=W&gb..v61/WYVY_uYxWAxbY/rv..g6+6++g6+&vxs./1e1uYYYYuxbu<r%g/&r+r66g6g+v1W&//g.ubx6bYvYvurY&7&b+/6vgY66r6r+/+&&uug.Wbr/rYrY&u&1WX6bg/bx/.&6/66+u1Y&Wxx.%b&/WY&Ybu61%)bbv/1g/)b6u66+W+.&%x&..b&&uY6Y6ubWvq1K.&DgW/%6W6b+%.b&.x& +b6uuYbYbu1+r+7++&YgW1/6%6W+.+.u+xWog%bWWY.Yb6TuW+YU6&xx.b66.6.Y+&/ugxbGv%sxWg*g+6Y16+xb%&rg.1WW+6.YgYxuvx.y/1BW.gggj6xv.+rux&&x+grWgW+Yv1<u/vYjubYWggx.&6r6x+&%+&6rgxYWrWgY/1Yuu+/?WbxWugrgx6&rg+6%v&bxvg+W//bYuY/uWvx7%1ru=g&gr666r+bu%&1x/{.WuWuYW1xu%v/o..&&bg6g66bg6+1.+uwxu+YWWWuY%Y%u.vu++16uggbg66166YHz6uYv%-/W%W%Y.Yg6+v6+gbbuxg1g.WE/xYY%Wuxv.O&W.b+g+.+6gvb+vb1ugxyx WYWYYxYrurx.uvb+W.gggg6vrE+/.!b.xgx+WxWRYr+*u&rg%1bgbxgvur6/r:+u%YXgxxxrWr/6Y&1+u6rv1Lbvb&g/./6urY+W%x.6xrx/W&WuY6Y%ubvvuWb/brgug66Wrr+%.r%vxux&W6WrYb6%u1v/g1b6bWgW.x6%r/+.d&++x6xbWbx6Y16Y6nvuovbWbWg%g.6.ruY+.6%ux%xbW1W6ga+66Yr%rbb1b.g.YbW+r6Yg.bW+x1v+bV/bgYrg6xr.+/b.%gx+%1WgrbYv.1W5v*vvbY/1gxbY6r/+YW%+%/xg%.Wvr1Y/1!6:vYvxbxbrgrgb6&r+Y&%g%gxvx/W//+YuLYW+vxvxbrbYg&YY66/vgg%v%/x/W%Wu/YYW1x6Yvrvrb&b6g6.v6b&vrx%&%&xuxvWW6vY%.&/gv&vWb6gvgb.v61r/6%%u%6xWx1W%/&Y.t&%.vWvbbb&/g1YgWn&ur&%b%%x%x.W.+1g+.mx+vbr{b1uWxo.6WYr.Yx%%Yvx.0&b+&vgg1b6vv16r%_&uxY>/Wxr%Yr%.Y/v+A6bgb+gv116/r;6&%Y&WxxxgWrr.Y&1+&%vgvvbvbug/.+6u&Yvu%v%rxr;+W&.6Y6hg1Yvrv/b/buguu&6Wr6WW%r%6x&YWW6/xYb1/u1v/u.bu&YgW..6%rr+.%&Yex6CgWbW6Y11/6Mvu&gbWb%g%x+6.ruY+1b6xxbx1W1&/gh1u6Y/Wg+b%%Ug.g+W+y/Yg%b6vx1vgbJ/ugY1.6x&%Ybb.%xx+b.Wg&1YvT1u%vdvvbY/%gv6/6r&.YM%+%rxgx+WvDvY/+Ru1vYv/bxv:gr.x6&r+Yu%g%rxvx6W//+YumYW+vxv/br&Yg&&%66&gv6%r%&x/x6Wu}PYWlx%Wv/vub&bWg6%+6b&vrx%&%6xuxbWW+6Y%1bg%v&v%b6uWgb.r61r&Ye%uY+xWhxW%6.Y.1&6+v6(rbbb.g1xgWnr6YY.W%Yx1vcW./Wg+166x/bvWb.%+xjxgWY++Yx1ggxx.vxb+66gg1%6vrw+/%(+&xY.WWx6rYr%.u&v+uubg/bgv+.6/rq+u%Y/1xxx/WrWWY&1Yu6rvx%brb&g/.g66rY+W1rr+xrx6W&buY61gubvv%bb/b6gu.x6Wrv+%1&%pxuxWW6!WYb1vu1ru1xbub%gWg&6%rr+.%&b%x6x%Wb//Y11u6Dv.Y1bbb1g%v/WgruY+%Wugv,ubW1//gcx66rvb+x%++%g..&W+.CY/%%uvr1vgbJ&rgY.&6x6++r1.b1xYxxWgWgYv//u/rY%%bYb/gxu%6rv.+&%+2YxgxuWv/bY/1kuurx%.bxbWgrgv6&r++6%gKxxvx%W//%Yu1YuWrr1+brb.g&/x66rg+b%v.Wx/xbWuW1YWgxu%vrSYb&bWg6g.6brr+11urxxuxbWWxEY%1ru.v1/+b6uDgbrgWYr&YNYguYx.uWW%/rY.vr6vvW+g%l+bg1./WK%bYr%buxv.%6W.bYg+Y16gvb+vb1%6xpR/WY/uYxY/urr+%bb+&/gg.b6vv1+/1Yb6xgxvWx!vYr%.u&v+u:bgbrgv1.6/r++u1xbbxvx/WrbYY&1+u6/gx6brb&g/g66uv&+W%xx&xrxuW&/YY61vubr/1Yb/bWguW.6Wrx+%1&%>xux%W6brYb1vu1ru1xbub.gWg/6%rr+.%&%&xWx.Wbb+Y1gx6)vu&6bW%+g%x+6.r&Y+%6eWxbvgW1b+gz1u6YvW6+b%%Yg.xrW+rbYg11%rx.vxbB++gY1W6xv%ubb.%vx+.WWgr%Yv.1xWvOvrbYbggx&r6r/+YM%+%uxgWvWvr1Y/1oWvvYvWbxbugr1.6&/g+.%g%%xv{vW//(Yu1Y6.vxvbbrb1g&xY66rgYx%v%Wx/x.Wu/gYW1&6vvrR.b&%bg1.x6b//.Y%/%bxuv.WW/xY%1r1WvuvWb6Wbgbx+61r/11%u%bxWDrW%//Y.1&6&v6+vbb&vg1./WOr%Wu%Wuxx%W6bg/ug+.b1xv%+/b1&6x+.uWY/%/.%1uux.W1b+/6gg1bWWv1+u%z&WxY.bWx/.gW%.u6v+%+bg/bgv,^WWr-+b%YcYxx.%Wr&.g61+u%vgm.bv+bg/>YW1rYY}%xbWxr..W&/+g+1gu.vv+gb/&<gu.YWvrx+.%r&.x&tgW6/gg61v6cv/++bu&xgW+xWrrrYY%&ugx6&WWb/vvb1&6vvu+YbW&6g%Yr1YruYr%6r&xbb&W1//gW1u6&vW+xb%&rg.{&bur6Y&%bW.x1=%bH/ux&1W66v%+rb.&&x+G6%GrbY6%1u%v+-.bY6Wx+1%6Wv.vY%+rexg.bb%r1Y%1=u6vYcWbx&%vY1.6%r+xY%guYxvY1b//=Y11Y&/vx&Ybr/.x6.+6%rgY+%vuix/YQ../gY.1x6Zvr/gb&&+r&.xWYrv+1%/ugxu+x&./xgx1rbgv&++b6ugrY.vWxr/.v%uuuxWgxg%/rgv1&hrv6+6bb&vv&.&W/ruYY%Wuxx%+r1v/&g/16xrvb+bb1&/b%.uWrrWY6%%u&x.Y&h//Wg&1b6uv1vr%*uW+r.WWWr%.6%.u&v++bu//bg%11/vr,+u%Y&Wg/.%WWr.gc1+uWvgYbwW/.gb.T6%rYYq%v&%/x0>W./+Y61gu1vvYjuW&?x+.Y++rx+%%ru.r1U+b+/gV+1v6rv/+Yvx&Yxg.xW&rr+.%&6+/*5gbg/v1%1/6&vu+YW1&xxY.rWrr&YY%6ug6%_vW1//g+1u6YvW+xY8&rg..&W/r6Yg%buv%. /bC/ug^1TuuvY}Wbx/%gr1.6&r++6%g&bxv.1W//<Yu1YuWvxy%br/.g&.+66rg+b%v&1x/A5Wu/YYW1xu%vrX.b&&+g6.g6brv+1%/uDxujYWW/xY%1ru.v&++b6&ggb.v61r/YX%uuYxWtxW%/rY.1&6+v6+gbb&vg1./WGruYY%Wuxx%erW./&g+166gvb+vb1&/xD.uWYrWYx%%urx.9&b+/6gg1b6vv1+/%L&uxY.WWxr%Yr%.u&v+;6bg/bgv116/rJ+u%Y&Wxx.%Wrr.Y&1+u6vg)bbv/1g/.Wbgr%Yr%.urr%+.ugu&x6W1bg/v1u116N+x+ubWr.g%1+u6vgj61+ug{/{bW1gYg/1uv%rY+x&&&%g.WgW&r6%11guvgu./6Wrx+%%x&Yrd+Y%1/gg+1vu1v/)1.wugvx+&6%r%+.%&u+x&1Y%+xv+.%uug//+YbW&xg%&u6.r&Y+%6ugxbyvbxugg+1u6Yv.+xb1&rxf.&Wv^+Yg%buvvYK/b+/ugr&Y6xv%+r1b&&xY.6Wg..Yv%1u/v+?ubY/Wvxgg6/v.+&%+&6x/.bb/xYY/1YuuvgoWbx/%gr1Y6&r++6%v&bxr.1buW+Y61YuWvu_%br/.g&//66rg+b%r&1x&-=WubYYb1xu%v/m.b&&+v6.%6brv+1%/u<x%(Yb%/%Y%1&u.v1++b6&ggb.%61r/YM%WuYxb8xb./bY.1&6+v.+gbb&vg1++W^ruYY%buxx1KrW.&Wg+166gv%+vb1&/r!.6WYrWYx%%urvgh&%g&.gg116vr++/%9&uxYo.Wxr%Yr1+u&vYs6%vW%gr116/rv+u%Y&Wxx&gWrr.Y&1Yu6vx9bbv++g/.^6urg+W%x&%rrxvWu/+Y61gubvuH1%uvxgu.x6Wrr+%%r&.x&.xW6/gYb1/u1v&+*%Wbggb.x6%rW+.%&u+x6&uWb/vY11&6Jv6+Yb.+Wg%.r6.r&Y+%WugxbrrW1//gi166YvW+xb%&rg..&W+rbYg%buvx1++b,/ugY1ubW/bg&166Wr+JWbr&+Yv1ru/vJ ubX/Yvr.1bb/&gb.6&%xg.bWv&cr&1+u6vYLbbx/%gr..b1r++W%g&1xv.1W//}&61YuWvxm1br/.g&.Y66rg+b%vuYx/)_Wu/Yxb1xu%vr#%1:6vv1+gb.x..%WrW=v6Yv%.&uxgf./%rug+16rYrg!ru+&%NY%.6ur&1g%.&/vr1&6bv6+gbb&gv6+rb+/%xv..WrrrYx%r/&gr166gvb+g1vu&v%G1WY/gYx%%urx%o=1vu1vg1gW6&Y+.%_&uxY<%%gr1Yr%.u6v+_6bg&1ve116&rA+b%Y&Wxx+%%gr.Yu1+uWvg+obvuAv).86brY+b%x&%xr..W1/+YW1gu.vvP1b/&lvv.Y6Wrx+%%ru+x&X+br/gYb1vu.v/++bu&Yv&.x6%rrYp%&u+x62gWb/vY11/6gvu+YbW&xx/.r6.r&+.1+6xr&Y^b+u/xv.1WrvW+%b%&rg..r6u&.xa1%Wgr%Yf%x/ugb1W6xv%+xbY6QvY+bbx/.xu.gWuvrdubY/Wgx&U6rrp+&%+&6xg.b%v6bY&1+uuvgpWb//%vrY%6urY+6%x&bx/.1b/urYu1guWvvE%br/.g&.+66rg+b%r&1x/N2Wu%gYW1xu%v/n.b&&+gW.g6brv+11guexunYWW/bY%1ru.vr2x1u6+ra76bb&WY;.VuYxWMxWW.rubr&UrY6ugg2)v6E//+&1u&vvW.xb%r.xn6uWYYu/xvb+.b1&/xI./6v&ggv..6/rYYb%rubgg.+6vv1+/b1&/vg+&bur%g/%.u&v+M&bB&%v(}g6v/.g%1W6+v%+Fb/ugx+8NW&vg++bv/1g/116%/Wg&1u&%v...W&/+Y&<v61/%+.166gx1+rbx/&4/Wvr1Yu1u6:vv+PbW/1gW.&W+rYgW.u6%rr+.%rrY+W%x&%/vg.1/6svu+fbg6uv6_/b%&/g611uvrWYx1Y//x+SWbrvW+Wb%&rg..r6xrKxv1%WYrgJ6b2/ugY1W6xv%+1q.&&x/.6WgrbYg%/Wxr+Yh%/&Wgx1%6rv.x+%+&6xg.bWvr1Y/5j61vY^Wbx/%gr.x6&r+Yu%g&1xv.1W//xYu+Yu%vx?.br&gg&.g66uggY%vuRx/j+Wu/6YW+xu1vr++b&&%g6.66buvgu%/uYxu;&WW/.Y%1ruYv&++b6&vgb.r61r/Wg%uuYxWPrW%/rY.F&%.vW+gbb&vg1.6W!&urK%buxx%}rW.&+g+461+v%+vb1&/x=MgWYrWYx%%urx.Kub+/6gg1bg&v1+/%E&bxY.WWxr%6b%.u&v+KWbg/%gv11w&r,+u%Y&bxx.%Wrr.Y&1+u6vg+Xbv/1g/.pWxrY+W%x&WrY+1bu&vx%a/W1r1Yb%1&7ug.Y6Wrx+W11WgrbY+%%v%_Wbxb!r&g/6/uuvx+&bv&Wg+.%Wxv.Yvb.uxxbNWWv//gr6uu/vb+g&1&v<Y.vWgYb1x1guvxuq.W//%g/%16Yx1+Wbx&bgb.bWu/+1r1Y&1x&>1&g/vYW1Pubrx%u%^/%g1.b/rrgY+%gu.xg..b./.Yu.x6%Y++&%6/.Y/1&uuvYdWbY/vv6+gb&v&Y../&bx6.1W//qY/.u6b/+YYb1/.g&.+Wb&Y+%%v&1x&EIWu/Yg%.vu%v/>.bb&+g6.gbbr6+1%&u5x6UYW1/xg.zgu.vW++bb&ggb.v61/uY9%6uYx1pxW%/rY.1W6+v6+gbb&vxn./Wf/vYY%Wuxx1TrbS/&g+.u6gvb+vb.&/xf.uWYrWYx%%urr&U&b+/6gg.Y6vv1+/b1&Yv.2bbW&YYr.Wu&v+96b+uvwv+vb0/bgv6Y61vvYgbWg.v+{tW.YgY6%66rvWbSb%/Wg&1u//Yu_YW&/+Y61gubvvr/&/&ggu.Y6Wrx+%Wr.%>&MxW6/gYb1vu1v/Yx#u&Yvx.x6%rr+%b16Yrr+.%+ugY1.&bY/%gvW.uurC+6%+&/x6%Y6&rv+b%ruWgH.g6YvW+xbW/uv/5u%g/WgrmC66/f?/bx/ugY1W6Y/WYW.r&&xr.6WgrbYg%b6&r%+1bY6+gx1%6rv%+b1uu.rv++%&g1g&WFWb/r+b%vu.vg>EWu/.16.6u%v1YY%j&1xDWYWx/Y%%16u/x%b+b%/1xv%vucx/7(Wu/*gx1/u%vrU.b&&+u6vv1br&+1%/u-xu5Y.W.g1%1uu.v&++b6&ggbxu11r/Y/%uuYxWAYWlrbv+.uW1r.+g%x&vg1./61vbx+.uW&rYYx1g/&x6166gvb+g.Ouur&j6%v&1gu#+6.rg.Y62vu+x%x&Wx(.WWrruYr1gubx%Yr.Ou&v+}6b+/uxreuWbv1g&.r6xv6+rbu&Lxb.6Wu/+Gb%r/1g/.J6/v6xo.+u1rx+1%+&vYbeYWW/u(1%&6Yv%.YWvrx+%%r&%r.Y(%b&1x.4v6.r6Yvbu&/gW.x6%rxxr1u66r1_rWb/vY11/6Bbg06&W&xxY.r6.r&+.%16bru+6W1&/gB1u6YvuYv1W66v&.1%4&gg/%+Wgv.+u%b&1xr1W6%v%+rb.&rx++u%r&vxu./Wrr1xWbY/Wgx.gbYrn+&%+&%xg.%Wvr.Y/1xg4vY!Wbx&Pgr.!6&rvW+%g&bxvgWW//+Yu1YWvvv,1br&qg&.+66/vg+%v&.x/+&Wu/YYW.r%1v/+db&uvg6.g6buvu1%/u+xuy&WW&6Y%1bWWvu++b6&%gb.r61r&Y %%YuxW}xW%&9Y.1u6+v166bb&vg1g&WVr6YY%WY/x%i/W./&g+166g/bvgb.&&xs.6WY/YYx.%%xvenub+/Wgg..6vrxgg%+&6xY*WWxr1Yr1(u&vv6+bg/bgv.16/r++u%rYYxx.%Wr6&Y&1Yu6vgu.bv/.g/.*6urY+W.xvYxrTRW&/YY616ub/v+Yb/&+gu.g6W//+%.r6xx&_YW6/xYb.1u1//+&bu&ggW.v6%/++..1u&x6NxWb61Y11&6Err+Yb.+Wg%.r6.6+Y+%Wugv1xrW./&glh+6YvW+x%g%&x .uW+6gYg%%uvx1=/bx+SgY1W6xur+r%t&&x+&%Wgr%Yv%1u/v5<u1YWugv116rro+&%&&6rgg6Wrr.Y/1+uurvwW%rW1g/.+6&/p+6%g&brvgbW&/YYu1xuWvbe%%&&&g&.x66/++b%v&1vuK6Wu/rYW.2u%vrK.%6&Yg6.&6bru+1%/u!xu-%WW/rY%1Wu.v6++%6u1gb.r61/rYc%WuYxWY%W%//Y.1u6+v6+g1b&rg1.&WFr6YY1%uxx%CbW./Wg+166grq+v.16xxU.bWY/xYx1/ur/.+Yb+/%gg.b6vrS+/P#uvxY.1Wxr1Yr.Iu&&++.bg/.gv_v6/rv+u%Y/1xx.1Wr/YY&1Yu6vgWWbv/.g/.p6urY+W.xuuxr_DW&/YY616ub/v+1b/&+gu.g6W//+%1&6bx&,gW6&YYb1vu1//++bu&xgW.r6%r1+.166ox67rWb&gY11/69rW+%bW&&g%HY6.r&Y+1br/xbV6W1/Wgw1u6YvWYYb1&&g..%W+rbYg1b6vx1I&bH&&gY1%6xr.v/%-&ux+_.WgrbYv%1+%vyP6bY/bgx116rrg6.%+&6xg5rWvr.Y/.Y%6vg9bbxuYgr1.6&r+6 %g&%xv..W//+Yu1rgYvx-%br&rg&.Y66r/Wg%v&1x/x+Wu/gYW1xW/v/+_b&&+g6.g6b//gg%/u+xu+6WW/xY%.&1hvu+Yb6u/gb.v61u/69%uugxWD6W%/uY.1&7Yv6+gbb&rg1./Whr6YY%Wuxx%5%W./&g+16Wxvb+vb1&vg&+1b./bxY.b6.rgs61!uuv/1bWr&CgW%L&%xY.WWxrWxx.xW.v++xbg/bgv1bu6/&Y6.xubv/Y+bWu+Y&1&u6vg>bbg/+Y%+YW6/.gt%/&%xr..W&/+b6vx%bv&a1b/&_gu.YYWqS%%%u&.x&i+W6/g6bguv1rY+0bu&YgW6g6%rr+.%&u+x68g%b&YY11/6Tvu+Yb1&xv%.16.r&Y+%6ugx%Ov%-&&gX166Yv.+xb%&rv.+vW+rWYg%%uvvm(/%YuvgY1%6xrx+rb.&&vg_YWgr.Yv1gu/v_<u%xx.gx.+6rrv+&%+&6xg:6Wrr.Y/1xuuvxHW%x&ggr1.6&rv+6%x&bxvv.W//QYu1guWvx#%br/.g&.+66rr+b%v&1x/A/Wu/YYW1Yu r/Yb%%6gxW.gWrrv+1%/&1/,Y+%%&.v_ rW}rWYrb6&.gb.v61rv+r.Y6/r/+&Wb&bgv<+Wr&++/bb&vg12u.+r6Yg%Wurx%(rW.u&r.1W6xvb+rb1&&x(2u%&rWYv%%uux.A&b+/6ux1b6vv1+&%J&uxY.bWxr%Yr%.uuv+Q6bg/bgW116/rK+/.Yu1vv+u%Y/xY&1+u6rvx%br/.g/.+6urY+W%6YWxr +W&/+Y61xubvr71b/}.gu.Y6Wrx+%%r&.x&b.W6/xYb1/u1v&+}bu1ggW.x6%r/+.%&u+xW9xWb/vY11%6#vu+YbW&ug%.r6.rr+g.rW&r1Evbr//gn1u6RvUgY%1u&vWp%bvrWYg%bubx1h/bJ//Yv.bb+/Yg&1p&&xW.6WgrbYgnvWr/YYx1vuWxv(qWWrq+u1&&6xg.bWv2+Y/1JuuvYzWbx/%gbx+6ur++61{&bxr.1W//nY%/uuWvxS%%g/.gu.+Wb6x+%%v&1xbs8Wu/YxWYYu1vr7.b&&+g1.gbb6g+.%/uZxuBYWb/xggg&6=v&++14&gg%.v61r/Yx/_uYxWEx%g/rgp1&WguW+xbb&vxg./W_ruxY+uuvx%*rW./&gv16bgu6+rb1&/x8.uWgrWvxv%urx.V&bg/6gr1b6u.v+/%s&uv&.WWvr%g&Y uuv+p6b&/bgv11b/u1+6%Y&Wxx.%W6r.x&+.uWvgAbbv/1g&.K6.Wx+b%x&%vb..Wu/+Y61g6f1b(1b/&Sx..Y6brxY.+/uQx&)+W./gYb1vW1uv++bu&YgW.xW+rrg.+ruYx6RgWb/vY.1/% %u+YbW&xg..rWvr&Y+gWugxb>vW.//gL1u6YvW+xb%&rxg.&W+r6Yg1ruvx1K/W1rbx1*6W//&+61&6vvr.%WgrbYv%1u/voY%qY/Wgu1%6rv.+r1&uWrB++Wv//Y/1fuuvG0/%%uxx1+gb+/.g+%/&bxv.1buW+Y61YuWv/-%br/.v&Y.6Wrg+b%v&1xW!V1u.YYW1xu%v/D.b6&+g6vx6brv+1%&uRxunYWW/xY%1ru.vb++b6&ggb.%61r/Y*%/&6r.Y&%%r%xxzb6+rv+gbb&vgb+gb./6gr.1W&r.+.%%&.g+gu6gvb+vbbu.rx+%%Y&1n1Wb/v/++u1&v&x6Pvbu/rgb1Y61rv+N%r&Txv.%WbrrY&1/v6x&(%bxg.grWg6rrx%%uvrgYv12/u/vY+%W6++ra&W1/gY../rbrg+N%+&.nu..6%ruYY%b6Yx&9xb%/uY1.+6xr6%.%ru&g%1v6gv/+=bu&NvYVvb6/WY/%&u+x6+v%W/rY11/6Yvu+YbWurxg.rWhr&Yv%6ugxbYvb%//g+1u6gvW+vb%u&vg.&Wxr6Yr%buvx1l/bx/ugg1W6/v%+rb.&&xY.6WgrbYv%1uuvB#u%//Wgx1%6/v.+u%+&6xv.bWvr1Y&1KuuvYaWbx/%gr1.6ur++6%g&%xrJrW//2Yu_&6Wvvi%br&xg&.Y66rx+b%uYvx/)qWu//YW1vu%vrYubu&Yg6.x6brv+1%/usxuegWW/xY%1ru.vb6&b6&ggb.b61r&YT%u6bxb,vW%/rY.1&6+v6+gbb&rg1./W>ruYY%W.vx%*rW./ug+166gv%+vb1&/xR.uWYrWYx%.urx._&b+/6gg1b6vv1+/%7&uxYvbWxr%Yr1Tu&v+>6bx/bgv116//r+u%Y&Wxx+rWrr.Y&%.Wbrvgx%r6+v6fvb%/WY.W1rbYv1P6Nv/Pbb/&Ygv.Y6.r&+u.YWvrx+%%r&%r.YH%b&1x.Ov6.r6Yvbu&&gW.x6%rx+v.x6Yr+YrWb/%Y11/6?v/Sv166Yr+UWb%&bYx%6ugxb*vW1//xxYu6gvb+x%+&rg..&6.r%gbaDu&x1H/b;/ugY1Wuxub+r%%&&x+.6W+v%xgBYW{vgYY1r/.vg5xW%/WY%%xW%/rY.1&6+g6x&%uvY+zbx/%gr1%b./Ygg./&bx..1W//aY/%vWgrvY.%/uYvbZrbbrr+b%v&1x/a#WuurrW1x6gvra.b&/.xP}xb&&6gg%/uvxu}YWW/Yg+..Wbr%++%W&ggb.v6brxg+.x6/xuYg1+&.xv!+WxrWg/1v6xvb./%+ruYY%WuY/rYv1xx&x...W&/T1v.Y6r+lE%bW&1gv1.WYrx%&1vuYx&WbWr/bgW1uvurv+x%&r%YW%.u&v+:&b+&%vYAg6/ru+u%Y&WxY.v%W&bgu..WurbY=bv&xg/.d6urR+x.+u1v%+xW&uxY61gubvgg/1r6vRu)vWb&Yx+6rWYr+Yv&6u6xv=uWrY/Yv1/ugx%+ bY/61.1u6.r1+b&bu&x/JW6;r++YbW&xgW1%%+/ux/.gW//vY+W1//gF1ubxvW+xb%&rg..&W+&6g1%buvx1n/bj/bgY;W6Wv%+rb.&&x+HgWg&bgY%1u/v{:ubY&ugx+g6.v.+&%+u+xg.%Wv/xY/1xgkvY;Wbx&xgr.n6&rvW+%g&bxvE1W//+Yu1YY1vx_%br/.g&.+66&gb.%v&1x/(SWu&YYW1x6mvr++b&&+g6./6buvgu%/uYxu+xWW&vY%+r61v&+gb6&/gby661u/Yr%uuxxW+&W%//Y.+&61v6+vbbuxg1.bWlruY%%Wuxx%S&W./ug+116%vb+vb16YxC.6WY/%rv%1urx.N6b+/6gg+bg%v1+/%au.xYm&Wxr%g/%.u&v+5Wbg/bgv{1bgrB+u%Y&Wxx!uWr&.g+1+u6vghbbvu+g/YHW+rY+W%xuxxrfvW&&gY%1gubvv+ub/&8gukxW1rx+1%ru/x&z+W6/g.61vu1v/+Ybu&ggW^r11r/+.%&ugx6XgWb6v611/6?vuY&bW&1g%.r+Jr&Y+%6uxxb7vW1//gK1u6YvW+xb%&rg..6W+r6Yg%buvx1z/b /ugY1W6xv%//b.&&x+.WWgrbYv%.u/v(oubY&Ygx1%6rrY+&%+&6xg.b+v%jr/14u%vYGWbx/Wvx{xb.rx+6%g&bxv.1W/bxru1vuWvx2%br/.+&v.r6rgYr%v&1x/.16b&6gbVr61rugg%%6gg65x6brv+1%v&&r1+.bbuYxb..Wgv6gj1u6/gbDr%p&WYa1=uYxWCxWWruYvo6WY//Y&%/&vg1./Wa+&YY%Wuxx%crW./&v+.f6gvb+vb1&/xv.u%Y/YYx%%urx.(&b//6xv116vv.+/%/&uxY.W%x&rYr1Au&vYR6bv/bx/:{6/rY+u%v&Wxx.%b&&rY&1xu6vxebbv/1xubx6urr+W%&&%xr..W&/.YW1xubvu71bu&,xut.6Wrx+%%%&.xu*+W6%xYb1vu1v&+_bu&YgW.x6%rr+.%bu+x69gWb/.Y11/6Bv/fv1/6gvC++Wg&+g11.ugvv#vW1//Y11vWW/YYb.+u.v%w.Wxr6Yg%buvx1e/b0/ugY.z6xv%+rb%u.vY+/b&/)Yv%1u/rYx6bg/Wgx.+6rv.+&.+b&xx.bWvr1Y/1Yuu&Y&Wbx/%gr._6&rx+6%g1%xv.1W//+Yu1YuWvxF%br/.g&.&66rg+b%vuvx/L2Wu/P+1%6W.r/Yb%%&xg6.g6brv+1u/.%2u0Ybb/xY%1ru%v:gr1/uxv6+xb//WYY.&W+r.;xb1u&vg1&6Wv6+gbb&gg+H.b+&Wgg11W&rYY&bY/&g+166gvbl//gx/xg.uWYrWYx%%YrW.x&b+/1gg1b6vvbgv1vWNx%.WWxr%Yr&1u&v+k6bg/bgv11b/rx+u%Y&Wxx.%W6r.x&.vu6vgJbbv/1g6.mWW/x+W%v&%x/..W&/+x61%ubvrm1b&&kxn.YW%r6+%%&&.x6#+W6/gg116u1v6+Pb.&YgW.xW.g6+.%bu+x.<gWb/vY1.v6+v6+Yb.&xg..rW./%Y+%6ugx%}vW.//g)x66YvW+xb1&rg..&W+r6Yg%buvvvl/bt/ugY.b6xv%+rb%&{rr+/bx&6xx./6WvYY&1+u.gx.1b&&g+&%W&6xg.bWgr+g..+WWrg+11&uYv&1.6.r++6%g&6g&.x%u&+xr./uWv&>%br/.grX.W.&6+.%v&1x/#HWuWY&YYx67vra.b&&+g6.g+uYvY+%/u2xuIYWW/xgvYr66v&++b6&g1W.v61r/Y5%uuYxWYxbb/rY.1&6+v6+vbb6vv4./W>ruYY%Wuvx%+&%Y/&gY166rvb+vb16/xb.uWgrWYv%%u6x.+6bu/6gv1b66v1+/%<uWvr.WW/r%Y%%.u&v++bu//bgu116%rQ+u%Y&WvY.1W/r.Yb1+ubvg+bb%/1g/.w6brY+b%x&%6/..W&/+YW1gubvv51b/& gu.YWyrx+%%r&.vWs+W6/gY6.&W%/bY11%vYv6A6/%&rgW1uW6v.Yv%.v..1166Qvu+YbW&xg%1r11r&Y+%6ugxbUvbY//g_1u6dv1Yu.+&rx%.&W+r6Y+1%W+r6%/1Juvxg+xWu/.guWuv&vr.6WgrbYv/+u/v+}ubY/Wgx1%br6W+&%Y&6xx.bW/r1Y/1!uuvgqWbx/%gr1.6&.x+6%x&bxr.1W//_xuY1uWvv}%b//.g6.+66rg+b%r&1x&*!Wu/YYW//u%v/d.b6&+g6.gbb6W+.%&u*x6SYW./xg.W6u.vW++bW&ggb.v61.6Y9%%uYxWnxW%/rx+Wb6+v.+gb.&vg1./W5%rYY%1uxvTPrbx/&g+%%6gv%+v%+&/x+.uWY.1Yx%1urvY#&b+/6vggY6rv.+/%+&uxr.Wbrx+Yr1Yu&vrB6bg/bgv&+6/rx+u%g&Wxx.%b&xgY&1ru6vr^bbv/1g/v%6urv+W%/&%xW..W&rxY61xubv&P1b&&zguvg6Wrx+%%/&.x&I+WW/gYb1vu1rx+sbu&YgW.66%rr+.%r&6r/+x%g&6Y11b6:vu+Ybu&&vr+gbxr&Yr%6ugxb^gWb&&x%.16YrT+xb%&rg%+.bY&gx/%b6rx1</bM//Y..bW./Y+x116bv6+Pbb/.grDYW!r.Y/bv/Wgx1%6rv.+&b+buxgTxWvr1Y/%1&b/+Yu1&uYvx+g6&/o+6%g&bxg/1Yr.nu/rY..%x/Wxr1vW&vvY6bW+b+b&1x/mVW/&6x.d&W%/u.u6/rpvbox%g&&g+.u6uruYr%1vYxW.Wbgg/gg%W66+W.6bb&Dxr11Wxr1+v%uvggY.Wbg/ggg.orYxf%%&%v6xA.xW+v1Y6%&u/x.7%&(/Wgg6W&uY+%1&.xb26bv/bgxB&%6/6gg1b6g&,Yu.&u6rv+1buu+g..g&Yg_1u6xrx+W%=&Wxr.uWr/gYb%%Wr/6Y&1+u6v+Y&1x&.xW+gb%&xgx.Y6xxrN/W&/+Y61+ux/ugY1///x1+r6Wru+%%r&.xr+&bWuBx+.vu1v/+Vbu6WgW.x6%rr+.%&u+r6+uWb/vY11/6jv1+YbW&/g%.&6.r&Y+%1ug/b+xW1/ug:1b6Yrg+x.%ugg..6W+/+Yg17uv/1+1bF/WgY1b6xr/+r..u+x+.bWgr1Yv1xu/v).bbY/Wgx1.6rra+&1g6uxx.bWv/uY/1QuurxYvbx/1gr.b6&r++6.gu%xv..W//+Yu11uWrr++br&Yg&.666rg+b%v66x/<+Wu/vYW1xu%vr+1b&&+g6.g6br/+1%/u%xutYWW/vY%1/u.v&+/b6&ggb.r61r/Yh%uuYxWBxW%/WY.1&6+v6Yxbb&vg1.v6&&1g.1bWYrb+.%g/6vqyub/vbYr.#6Wx C&WYrWYx%W&ur/+u1g&Wxr+!W6&pB&1xu%v/P.Wx/rYr%.u&x.i61Yu.x1+Ybs/.g/%Yugxx.%Wrr%+W7_W&/+Y+%&6Yg/.66urY+W%Y&kv1+i%6&Yg%!/W+//+Wb/&?gu.Y;%rx+%%ru x&V+W6ugg/1vu1v/+}bu&/gW+xW%rr+.%&u+x67xWbuvxg1/6?vu+YbW&/g%.rWrr&Y+%6ugxb<vW1//gb1u6YvW+vb%&rg.+&b%r6Yg%buvx1Qubauug61W6xv%+rb.&bx+9Pv+rbY/%1u/v{(6bY/%gx1%+Wv.+&%+&Wxg.bWvr1ub1XuuvY5Wbx/%gr1.uWr++6%g&1xv..W//0&61YuWvx<1br/.g&.+6Wrg+b%vu/x/:AWu/Ygb1xu%vrw%bB6rv/dxb6&xg/1WuYr&Y+%./xg1:&bgvW++b6&ggb.v61r/YA%uu/xW2xW%/xvr.uW6/1+g%p&vg1./61&/g/LYuxvx<rW./&Y.%%uu/1Yr1Wubxg.uWYrWYx%%urv/x&b+&xgg1b6vvb#61&u6rxlbb/u+gWc+uW1W6gvb+vb1&//Au.+u%6&Wxx.%Wx/vg%.xW1/YY16&u+g/.G6u/xvb%v&%xrXYW&/+Y6.v/:vvt.b/&&gu.Y6Wrx1W%r&.x&DgW6/xYb1vg+v/+)bu&YgW.x6%&rv%%uu+x64gWb/bY1E/%1v6+YbW&xg%./6./6rY%Wuxxb:6W1//gScu1Cvb+vb%&/g..bW+r6Wr%bu/x1N&b(/ugY.%1vv1+ub.u+x+.6Wg&brg%.u6vBKbbY/.gx../6v.+b%+&bxg.bWv&h.W15u1vY++bx/%gr{+rxr+Yh%g&1xv.1W//Hg+1Yu1vx+gbr&+g&.+b/rg+1%vuZx/5gWu/YxB1xu1vr++b&&gg62gW/rv+1%/uvxu7gWW/x&11ru.v&+Yb6&ggb.v61r/Y*%uurxW*xW%/rg/1&6+v6++bx6urY+/6//1xr%Wu.x%jrW./rx% uWx/Og&.Y6uvu+/burWYu%%urx.9r%&&Wv?*+6v6r+/%z&uxt+g%&u+xrBY&Yg{1u1v&%vbbbW1/ug%16WEvrYY%u&xx6.xWu/+ge%6ubvWb1Wb&+g&Wg&vY&%.6W&Yxr.b61//Yg%>&x+&.v%x&/x+1W6bg6Yg%u&1x+lg/%/xY+1Y6t+6+/b9&&g&.&WvvY<gWb/vxs#r6+vu+Yb%&xg%.rb+/rY+%Wugx.lvW1//vL./6Yvb+xb1&rx;.&bg/6Yg%.uvvYV/b-/ugYa86xv1+r%Y&&x+.6Wg/vYv%1u/v8>ubx/Wgx.&6rv.+&%Y&6xx.bWv/&Y/1DuuvghWbx/%gr1.6&r++6%1&bxv.1W/&uYu1YuWvYY.%&6/xu+xb%/&xe116Yg+%.u&vg+gb6/.g6.v6&rvYY%W&brvYr%/uJxu<i1xugvYWrWy/6Yrb6&&gb.v61rvYx.Y6.r:w/W%/rY.1&6+v6jg#W&&g1./W-ruYY%W6&&%Irbx/&g+166+v6Yr1WubxH_+WYrWYx%W&ur1Yr1v&.v++m6vrg+/%Z&ux!c.b%&Yg6%.6uv+z6bg/6gY..bY/v+/.+6.v%+gb.&YguOvWg/YY6bv&gg/.:6ur!xY1v6rr6..W1/+Y61gu6x1YW%&u/x1.16Wrx+%%rW&x&N+W6/gYb1vu1//Y/bu&YgW.x6%r.+.%&u.x6tvWb/vY11W6Z&u+gbW&rg%.b6./cY+f66/xba/W1/1gA1W6Y&WYWb%&&g.!gW+rWYgVbubx1(ubE/bgY.G6xv%Tub.&&x+.bWgr%Yv.?%&v+}ubY&vgx1%6r/+1b%+&Wxgo?Wvr1Y/15r/vYoWbx/.gr.:6&r+/W%g&bxv..W//VYu1YuWvxE%br/.g&.+66r/+b%v&1x/7?Wu/YYW1xu%vr:.b&+xg6.x6brr+1%/uexu&&WW/vY%1/u.vu++b61xgb.v61r&Ys%uuYxbpxW%/rY.1.6+v6+gbb&ug1./WGr/x_.?WWvTZrW./&g+16.g%u%v%+&/xL.uWYrW6xY1%rvYR&b+/6gg1b6vW/v/%mugxY.WWxrW+u./6u/g+W%r6dx6+=6/r/+u%Y&WxY.}6bu+gu.16.vg+%bv/1g/116+&/g&1v6Wrv+&bb/gxuXYbLvv+.1u6xxx.Y6Wrx+%&v&.x&P+W6/gYb1vW1vu+lbu&YgW.xWYrrg.1bu+x67gWb/vgv1/WYr%+Ybb&xxg.r6.r&x+.rugx%5vW.//g+1uWxr1+xb.&rxY.&W+r6gv%.uvv+;/bx/ugY1WWrg++r%g&&xg.6WgrbYv1bu&v+Eubr/Wgr1%Wrru+&%+&6xu.bWrr1Y/x+uuvYAWbv/%gr1.6&r++6%g&bxb.1W//!Yu1ruWvxG%bxu%x%+&6%rg+b%v&1x/Dfb+WYYW.vu%vrd.br/uv.+ W%&gg%.86xxWY+%6u&Y%./b+/b+xb6&ggb.v611/&/+uuYvYsxW%/rY%%Wu//bYx1uu6x+./W9ruYY%WYx%.brW.&Yg+166gv6}&1ru&rYQ6bv&.gu..6+x.e&b+/61Y1b6vv1+/%2&uxY+Wbrr%Yr%.u&v+++bgubgW116/rE+u%Y&1xxo.W/r.Yu1+u.vg,bbvu1g..566rY+b%x&1xr++b6/+Yb1gu1vv;1b/uYvr.Y61rxY+%r&.x&+g&1/gg>1v6xv/+<bu&Yxu.v61rrYg%&ugx6+g%r/vY11/6vvu+gbW&xu1.r6.r&YY%6ugxbzvW1//gL1u6gvW+xb%&rxv.&W+r6Y+1WWbrr+&1x/WgY1W6xr.YWb.&&x+.WWgrbYv%1.&v{<ubY/bgx1%6rri+&%+&6xg.bWvr1Y/1YuuvYHWbx/%gr1.6&r++6%g&bxvv.W//IYu1guWvxo%br/.g&.+66r6+b%v&1x/++Wu/YYW1Yuv/WYb%uu.vuibb0r/g%.rWxxu+g%%u&Y%.Nu.v&++b&/rvx;r%_/&gg.%6/r%V/W%/rY.1&6+%6v/Ub&vxv./W0ruYeb1&6r.+/%b&%gx166gvb+vb1W.b&WuWvrWYx%%urx.&&+WW6gg.I6vv1+/b16/v/YYW.r%Yr%.u&tZR6bg/bgv116/rwgu%v&Wxx.%Wrr.Y61+W6v6fbbv/1g/.E66rYY%.+&%x/..Wb/+Y61gWbvuR1b&&?g6.YWYrxY.1g&.x6Z+W%/gYb1vW9rr+dbb&Yx+.x6%rrg+6bu+x1fgb+/vY11/62r/+gbb&xx+.rW+r&g+.rugxb8vbY//g+1u6YWb+xb%&rx5.&W+r6Yg%buvx1I/b&/ugY1W6xrr+rb.&&g.1bbx/.xd.16&rgYxbY&vgx1%6rv%jW1uuWrvC%b&uYgbXYuuvbqWbx/%gx+rb/&ggv.r6bvr++bb/?gv1YuWvxJWW%uxvb1xbY/bg&1uW{vb+1Wu//YW1xu%vxgg%u6xvv.gWYrv+1%/&1ru+g%xurve1r6rv&++b6&+gb9r%i/bg1.%uYvRQxW%/rY%z.WY/gg/.W&vg1./W,ruYY%Wuxx%orW./&g+/%6gv%+vb1&/x).uW&W%Yv%1ur/%F&bY/6gg1b6u.v+/%=&u/d.WWvr%g&YLuuvYl6bW/bgv116/+r+u%g&Wxv.%W/r.g6./u6vxlbbW/1g/.P6urb+W%r&%x/..W&/+x61uubv/L1bu&Rg6.YbW/.+%%&&.x6#+W1/gYb.uu1vu+mbb&YgW.x6%//+.%uu+x6{gW./vgY.16{vu+Y.r&xg1.rb.6rYY1 ugv+Avbv//g>/b6YrY+xb1&rg..&%+6&Yx1guvvvh/b+/ug&.v6vrg+r1b&&xY.6W6rbYu/vu/vQpu%./Wgv1%6r.Y+&%/&6xg.bWvr1Y%gYu6v&zW1+/%g/1.6&r++1r6&bxv.1%x/OY61YuW1/n%bb/.gu.+66rggb+g&.x%Q9W./YY%1x6%/bJ.b%&+x+.gWYrvg;+&u+x.oYbk/xY%1rW.ur+Y%0&gxY.vWrr/Ycv.uYv+dxW1/rge1&WguW+x%Y&vx+./W9rugYI+uxvYTrbr/&g/16bgu6+r%x&/xv.uWurWYx/jurvr!&bY/6gg1bbvub+&%/&uxu.WWrr%Ybg.u&v/:61r/bgr1161r8+%ru&Wxx.%%ur.Yu1+u1162bbv/1rY.i66rY+Wr/&%xb..W&/+Y61g6Y6/e.b%&Vrx.Y6brx+%%rug%._+W6/gv/1vu.v/YYy6&gx+.xW rr+.%&6+/kqgb+/vgv1/6rvuYxGb&vxg.rWxr&Y+%6Wg&6Prbx//gr1u66vW+xvg&rxv.&WYr6Yx%buW1Ww/b+/ug.1W6vv%+&b.&b%&.6WgrbgY%1u&v<?%vu/Wgx1%6/v.+u%+&66x.bWvr1Y&1-uuvYabbx/%gr1.WYr++6%g&bx..1W//pY/%vWgrvY.%/uYvbRrbbrgYW%v&1x/.1Wo&/x.%&WY/uYY%%u.x1:xb6&ux+%/uWxukYWW/YY4./W%xWgj1ru.vvLubgr/Yx%uuYxW7YWruuYA1&66v6+gbb&ggj(&%g/1YY1bWr/+R/W./6g+.H6gvb+vbb6/v++Y%x&1Yx1Yurx.n&W./&xxyuW6v.+&.Y&uxY.WWxsaYr%.u&v+i6bg/bvW.16&ry+u.g&Wxv.%Wbr.Yb/&u6vgcb1r/1g&.B6u.v+W%x&%x/..W&/+x6Y+u%vvG1b/&<g6.Y%+/x+1%r&.vJ_+WW/ggg1v6Y11+9bu&Yxg.x61rrYgr.u+x6Cg%%/vY.1/WYu6+gbW&xxv.r6.r&Y+r%ugx%KvW.//gl1ubYuu+vb1&rxn.&WYr6xgYYurx.m/b+/ugx1W6xrg+/%k&&xg.6WgrbYv+vu/vekubY/Wgr1%66.r+&%+&6rY.bWrr1x/Yru6v/_Wb&/%g61.W6gv+6%6&bx6.1W//GYur.uWvu %b%/.g6.+W_/.+%%6&1vb >W6/YYb1x6+1%Z.b&&+x..g6%rvYYr1uSxulY%6/xY11rW.ur+Yb.&gx>.vW+r/xr&ruYvp)x%r/rgG1&6Wv6+/rg&vg1./buruYg%Wu&1xprW./&va166xvbgv=b&&xv.uWrrWY%%%ur1YS&b//6gv1b6vv1+%%6&6x/.W%Yr%Y/%.u1v+F1v6/bgv11bvrB+6%Y&.%W.%Wrr.x/1+uWvggbxv/1gW.;6brYY+%xug1g..W&/+gu1gu%vv+Kb/&x%*.Y6WrxYb%ruhx&T++W/gYb1vu.v/+Pbu&YgW.x6%rrYg%&u+x6,gbv/vY11/u1vvYW1Yubr+D.b%/.Y+1xugxb vWbr6xb-&Wv/r+&1r6gvx.WW+r6Yg%buvx1+.j*/ug/1W6xv%+x1ruuv1H.W/rbYv%16uu+d6bY/Wg&1%6rv.g&s.&Wxg.bWvr1Y&1Jbu%YSWbx/%g&1.6Wr++6gx&bxv.1W&/sYu1YuWvxO%br/.xg.+66rg+b%%&1x/okW//Yx/.vbrrWg+1W&+x+.g6brv+b%/6+rW+/%uu&Y%.Nu.v&++b&/rvx8r%z/&gg.%6/r%2xbr/rY.1&u.xbYx%.6zv1>&bg&xYY16uxx%KrW%r1x6I&W/vYY1.o66rx1bb6&xxQ.+urvW?&b+/6g+1&bx/+Y&1b&uv1)b%%&Yx&%.u%v+H6bg/6xb..bx/v+u%b&Wxx.%Wxurx/ygWv/rYb%ru+xb.M6.rY+W%x&Wrr+:%+ugx%1g6/vvs1b//1Y%++b///gY6r&br++%%v/gg+1vu1v/G1.cugvx+&bxrr+.%&6g&W4xWb/vg/1/6zvuYxXb&vg1.rWrr&Y+%6Wg&6!rW.//g+1u6gvWgx:W&/x5.&WYr6Yu%bWv&bX&b+/ugg1W6&v%gr+v&uxY.6WxrbY6%16uYxKubv/Wg11%6rv.+&%1&Wxx.bW&r1Y/1juu&uCWbx/%gr1.66r++1r6&bxv.1bW/MY61Y6%uvK1bW/.g..+66rggbg1&1xbemW1/YYb1xW%/+I.b%&+g..gWYrvg11Yufx1TYbK/xgk1r6.v1++b1&gg1.vWgr/gY1&uYv9Gxb&/rY.1&6+/R+g%Y&vg1./WwruYY1/uxvY(rb+/&gY16Wvu%+r%g&/x&.uWYrWgxUgurvgL&bg/6g&1b6W.W+/%7&uxb.WWvr%Y&%.ub1&06bg/bg.116&re+ugg&Wxx.%W/r.Y&1+u6vgFbbv/1g1.G6urY+W%&&%xr..Wr&.g.s6u.vv?1b/&egu16xYYx+%1/&.x&t+W&rWv+#Y6./vY.1Yurg%+gbb&6+.1uWgr17rWb/vY11/6avuxW&W&xxx.r6.r&+.b%&ur1+r%W&bgg1u6YvW+xb%&r6/g&W+/xYg%buvxb.6%&&6vx.bW/&+YW.+ugx+.6Wgrb%x%1u/vn:ubY/WgxB%Wbv.+&%+&6xgEgWv&1Y&1fuuvY(Wbx&Igr}+6%r++W%gu+xv.1W/uAgr1YubvxR1br&9g&}gWbrg+1%vuYx/dUWu&xg11x67vr+vb&&+g6Iv&^rvYY%/uYxuSYWW/xgW1/6pv&+vb6&vgb-vW/r/Ya%uu/xWIvW%/ru 1&6+v6+xbb&vg1./WZruYY%Wu&x%QrW./&x/166gvb+gb+u&v%C1%x/bY+11W1vuY/1qu/Y/Rvb&&YY&11ubv/.1Wxr%Yr%.u&++rb^g/bg6116/r +/16WkvW+YWr/xY&1+u6v+Yu%r6Yx..66urY+W%6%.x/..W&/&Y61xubvvH1bW+/gu.Y6WrW+%%/&.x&uxW6/xYb1vu1v/+l%Wbggb.r6%r6+.%&u+r6x+W%//Y11u6wvb+Y%W66g%./6.ruY+%bugvtubW1//gf.Y6Yvb+xb%+ug..uW+r6Yg%buv/1&/bE/6gY1b6xv.+rb.1ux+.6Wgr%Yv%1u/v+yubY/Wgx.x6rv.+&%+&6xg.bWv/+Y/1tuuvYaWbxr%/v1.6ur++6%g&6x&.1W//zYu1YuWbxx%bu/.g&.+66rg+b%vb1x/GrWu/YYWv/++b&/&gr1&g6.&6brv+1xW.+6Wr1Y}6/Y%1ru.v&6xb6&xgb.v61r/YZ%u>6xWjrW%/rY.1&6+v6x.bb&rg1.uWdrWYYw+6xx1k/W.&xg+1W6grg+v%Y+1xf.uWY//Yx%1urx.uWb+/Wgg1%6vv1+/%cJ+xY.%Wxr%Yr%.u&v/6&bg/.gv116/r++u%x&Wxx&bWrr.Y&1+u6vgNbbv.gg/.p6urx+W%x&%xr.YW&/YY61rubvr01bW+/gu.Y6Wuv+%%/&.x&uxW6/xYb1vu1v/+#bu.6gW.r6%rr+.%&u+x6g.Wb/rY11u6;vW+Y.+uxg1./6.uuY+%WugvY5vbY01gS1u6Y&b+xb1&rg.gBW+rWYg%buvx14/b1%&gY1%6x&1+r%q&&xY.6W/AgYv%1u/&+oubg/Wgx&J6rrC+&%x&6xg.bWvYrY/1YuuvYiWbx/%x&dY6&rx+6%v&bxv.1bu/WYu1ruWvr(%br/.g&.u66rx+b%u&1xu7A%.&%YW1vu%/YI.bu&+g%.gW}.b+1%/uLrv?YWb/xg+/%u.v&++.W&gg%.vbDgWYc%6uYxbMxW%/rx+Wb6+vb+g%+&vg1./Wt6+YY%1uxx%mrW./&xgW16gr;+v%o&/xL.uWrrrYx%.ur/.Z&bY/6ggrx6vrx+/%+&uxY.WWxB-Yr1ru&vv06bg/bgv&+6/r&+u%r&Wxx.%WrqYY&16u6vrjbbv/1g/r&6urb+W%x&%xr..W&1uY611ubv6d1b/&cgur66W/y+%%W&.x&J+W6ZsYb11u1rg+IbW&YgWgW61r1+.1ju+vgUgWbm&Y1.F6wv1+YbW&xg%xu6./=Y+1YugvvUv%1.ggp.+6Yrg+x%+&rg.g.WY/+Yg1guvvr_/b81rgY1b6xrg+r%r&&xvg6Wgr1Yv..u/v+=ubYY/gx116rr++&%+&6xg6&Wvr1Y/1YuuvYNWbx%1gr1.6&rY+6%g&bxr..W//jYu1YuWvxs%bb/.g&.+66vY+b%/&1x/ZaWu/YYW1%u%vu-.bu&+g6.g6b/1+1%Wukx6NYWW/xY%1/u.vW++bb&gg1.v61r&Y-%WuYxWSxb /rY.L+6+v6+gb%&vg1./WYruYY%WuxvrBrW./&g+.g6gvb+vbb&gvu+Cb6&.g%.W6%x.7%b+/6gg16Wur.gW1v&bxY.WWxr%Yr%.&&u5P6br/bgv116v/.gb%Yuvxx.%Wrr%+W.%WurrY/buu/vxNv6urv+W%x&%xx%xWU/+Y.1gubvv<b11u+vY+r6Wru+%%r&.xr+&bWujx+1v6gv/+pbu&dv.z%b6/Wgv%&u+x6{u%&/rY11/6gvu+gbW&vg%.6xrr&Y+%6urxbzrW1/Wb/1u6YvWYub%&/g.G6.YrWYx%bubx1j/by&W..1W6rv%+ub.&&x+.6bWrbYr%1uuv_d6bY&%x/1%6/v.+b%+&6xg+bbur1Y&1{u6vY+xbx/%xx1.6ur++W%g&1xv+A%x/4YW1Y6+vxs%bru+xb.+6%rgY-%v&1x/Y<b%/YY11x6Cvr++b&&+xY.gW2rvYs%/udxu>Ybv/xgY1r6Iv&++b6&gbu.vW+r/Yv%uuxxW+r.1//gg1&6&v6+gbb&vbx./WxruYg%Wuvx%+&-h/ugv166Wvb+vb16//1.6WrrWY&%%u/x.+&1//6g/1b66v1+6%,&%%u.WWxr%Yr%.uuv+B6Yx/bgv116&r>+u%Y&bxx.%Wrr.Yb1+u6vg5bb6/1g/.^6//uYb.+6Yxr:uW&/+Y61+&./+Y%%6uWg%PWb&/uYd%r&.x&e+W6/gv1Yvu1rG+Pbu&Ygu.:br/%g/.b66r&+6b;/vY11/WYu6+gbW&xg1.r6.r&x++&uxxb_vW1//gx1u%Y%W+xb%&rx+.&Wxr6Ygg%uvx1 /b+/ugY1W6xv%+rb.&&xv.6WgrbYv1uu/vd;ubHu/vg.1W6&Ygb.g6gr++gWv/gY/1wuuvsYY%vu6xW1.1rr++6%g&6v%YY%Wu9xbbb/6ggY.%/6r+r{&bg&/gx.66CrbYgb1uxg1ngWW/6Yx1r6v+&prbW&Y.%.q61v.YW%x&6xgbvW+ruYx1v6&vb%xbW/&gu.//+v.+u1vvxxW=%WYv6+Wbb&vg1.v6&&%xr.W&WrYY6b//&g+16Wv/W+rb1&/x+.uWYrWgr1burvBt&bg/6gg1bbv/W+/%+&uxg.WW&r%g&1gu&vxZ6br/bgv116//Y+u%g&Wx/.%Wrr.Y&.bu6vgabbv/1gu.?6ur&+W%x&%x/..Wu/+Y61&ubvvT1b&&7gu.Y6Wrx+%%r&.xW,+W6/gYb16u1v/+Xb/uuxb++bYrrYu%&u+x6X+6.u+x%.6WWv%YW1&uug%..6.r&Y+%&&.rv+b%ruWxuo/Wuv.+xb%&rv+guWYrWYg%%uvx1m/1!W/gg1b6xv1+r%Y&&v+Y)Wgr%Yv1Su/vOIubY%bgx1%6rr)+&%+&6xx.bWvr1Y/1xuuvY{Wbx&+gr1.6&v.+%1&W:xv++W//<Yu1461/ggY1x6g0&+sbngggb.+u./c+v%Wuv+vWxu%vrH.b&&+g%.g6brv+1%/uigux+br/xY%1ru./r+Yb6&ggb.v61r/x5%.uYxW4xW%/rgg1&6+/g+gbb&vg1./WGruYY1guxx%_rbV/&g+16bgrg+vb1&/xe.uWgrWgr1Yurv+)&bg/6gg1b6vru+/%g&uxY.WWxr%g&1Wu&vve6br/bgv116//v+u%x&Wxr.%W6r.Y&1gu6vgPbb//1g&.k6ubg+W%x&%x/..W&/+Y61gubvv?11W&Kgu.Y6W/#+%%r&.xr.v%gurxb^+6.&zX1%6u.v(.xWgrr+.%&&./virWb/1.11&6+vu+ubW&xg%.x6cv6+%b.&//uPvbg//gO1u6E/Yg/.Yu&xY.&W+r6Yg%buvg1xrbg/ugY1W6xv%+r%.b&x+p6WgrbYv%b66r&+61r/1vx+ru./%gW.vuWr+H.b6r1Y.1auuvYeub/uYv61Yb/&gY.%rW./&g+166gvbWv%6vx+Ybr/.g&1.WvggYuW{&1x/XeWu/YYW1&u%vrz.br/Yvr:.6b/Q+1%/u{x/+/%u&vg.{YWxrb+x166bgb.&61r/Y{%/&/xuAxbW/rY.1&u./6g&%16+v/866u&%gg./6%rnYuW./.g+166gv6gv.guuvb+YbvrWgY%%urx.NrbZu&Yr0&W1/ggv.x/1r&+O%Yu+Yr16u&v+;6b+/Yx1+lWbrgY1.xW+vu+.Wr/xY&1+u6v+gg%ru/vW.56brY+W%x&Wvv.rW&/uY61gubvgn+1ru1v/7/W1&&+%%6&.x&y+W&urv+./u1vb+Bbu&Ygu%g%n&rx&%&6/x6KgWb/gY+..W+/%o.%bu.vY.u%&&Wxv1.W xu+61+u6x+5BW/vW+rb%&rg..rr6r6Y&%buvx1XvbWgg1..&6xr.+rb.&&g.+6%v&vxW1.WWrv_u1xu6vx0Yb&&gg+1r6%xgKxWvr1Y/%1bxvvJWb%66jr.66&rg+6%g&bxgb1W//xYu1YuWvYt+W.&Yg&.v66rg+b%guWg+% Wu/&YW1xu%vxYW1/6&x.+v6br6+1%/uyx/fr%nubv+1r6Wv&++b6&+v.+v%/rrg1%rWWr1+u%u&bY..g6+v6+gb6/uv/+6bg&&xZ.u6ur0Y6gW/&g+16Wvu%+r%}&/vv.uWYrWxx+Wu/v+M&bg/6gW1b6v.++/%g&uxY.WWxr%Yb1uuuvgG6g1/bgr1166rR+%ru&Wxx.%g+r.Yu1+u61rObb//1g&.M6urYY+%1&1xr..1Y/+YW1gu1vv+Yv1&Pgu.Y%vrx+1%r6.&10YWb/gY%1vW.v/+T.6&gg%.x6.rrY+%&W+rY;gW1/vgL1/W/vuYx1v&xx+.rWvr&Y+%66vru,vbg//g/1u6YvW+x%/&rx+.&Wrr6Yv%bWWv&8/bY/uxg1W6vv%Y1b.&b%&.6Wgrbgr%1u&v_,%vu/Wgx1%%^v.+u%+ub&x.%W/r1gv1)uuvY!Wbu/1g&1.66r++6%gu1v6.1Wu/Eg/1YuWvx+.-/&pg6.+W1rg+b%v6j+W^7Wb/Ygv1xu%vr_.ur&+gb.g61rv+.%/6Y&6ygW%/xxu1ru.v&Ygu1&gg..vWQr/Y-%u6x&bOvb+/rg%1&6+v6+u1&&rxY./b%ruYg%Wuvx%)6vr/&g+16b<vb+rb1&W%/.uWYrWxx%%u/x.+6uv/6g/1bWxv1+/%B&.v1.bW&r%x/%.uuv+_Wbg&5bb116/rfg6%Y&bxx;.&6r.Yb1+Wuvg(bbvu9MW.f61rY+.%x&%xr..Yv/+Y%1gu.vv+gb/uHv..Y6%rxg.%ruYx&V+x%/gY11v6lv/+-bu6Y&+.v6.rrY+%&u6x6+vuL/vgY1/Wuvu+YbWur/1./Wxr&g%%6ugxbGvW+//gY1u6/vW+vb%&6%r.&W+r6u1%burx1+uU+/6gx1WWYv%+rb.&1v%.WWvrbvg%1u&vLp6bY/.bW1%6rv.xr%+&Wxglnxbr1Y/1K+xvY:bbx&.//.(66r+g%%g&bxvYxb//+YW1Yb%vx)1br&Yg&.vx+rg+b%vbZx/<+Wu/rbY1xu%vrxxb&&Yg6.gg.rvYL%/u+xuDYWW/6&%1ru.v&&bb6&xgb./61rWW/%uuYxW/.W%//Y.s&1/vW+vbb&rg1.bWz/W.r%Wu&x%Y+W./&g+.b//vb+6b1ugxX.uWYrWW+%%u&x.J%b+/bggAb1Wv.+u%5&WxY=pWx/..6%.ubv+Yxbg/bgv4I/Wr;+1%Y6uxx.%Wrr.Wv1+ubvg++bv&;g/+N1.rg+%%x&.xr5xW&&g.11g6wvv+ub/&dguKx/.rxYY%r6%x&4+W6/gWu1v6<v/+vbu&xgW.xYvrrYG%&ugx6hgWb/vx&1&6Yvu+gbW&xg%.rxYr&Yx%6urxbMvW1u/r1166vvW+/b%u&g.+&./rWYr%bu&x1+%b}/.%Z1W6uv%+rb.&ux+..WgrbWx%1u/vjUubY/Wgx1%gvv.+&%+&Wxg.bWvr1ub1RuuvY_.bx/%gr1.+%r++6%g&%xv.1W//,W&1YuWvxk.br/.g&.+g/rg+.%vugx/XYWu&xrb1v6+vrYgb&&+g64v&drvYg%/urxuLYWW/x.W1r6gv&+gb6&xgb+v.xr&Yx%uuvxWY&W%/r.%1&6vv6+vbb&rg1.%bbr6Yx%W1ux%E/W./ug+11g6vb+vb1%bx,.6WYr.WW%%urx.&Yb+/Wgg.11rv.+W%#u/xY.WWx/g/&1tubv+&xbg/%gv116/rxWS%Y&Wxx//Wr/(Y&.g%Wvx+Vbv&.g/.n6ur&g/%vu+xrvWW&/YY61xubvu6vb/&Egux16Wrv+%%6Yrx&5+W61+Yb1ru1v/6gbu&rgW.u6%rr+..&%/xWk/Wb/uY1.66jrWvgbb&6g%Xr6.r&Y+1I1vx%_WW1%bgP166YvW+x%++%g..&W+b.Yg%%uvrd%WbD/.gY./6xv%+r%v%6xY0<Wg%+Yv%.u/vaDubr+Ygx1%6rbx+&%Y&6x/ugWvr1Y/xruuvgUW%rv+gr.v6&r%+6%g&bv/%YW///Yu..uWvx0%1rWggu.u66rg+b%r&1vu+vWu/WYWdxu%vry.b&uWg6.%6brr+1%/uZxu+&WW/6Y%1bu.rY++%b&1gb.b61/xY9%uuYxW++W%/6Y.1.6+vW+g%h&1g1./W)1gYY%buxv.x/b)/bg+,r6gvb+v1VvWxp.1WY&&Yx%%urr.xrbY&Zgg1b6vv.+/1Yv%xYyYWx&%Yr%.u&v+&Ybg&xgv1.6/rm+u%Y.&xxnYWr/xY&1uu6rggYbv&Yg/+Y6ur/+W%xYTxregW&/gY61gub/vvxb&&xgu.r6Wr%+%1&rgx&}/W6&bYb1vu1ruv+b6&ugW+#6%rr+.%&&xx6s/Wb/bY11&6=vu+ubW&rg%.r6.r&Y+%6.xxbEvW1/&g01u6Yv%+vb%&rg.(YW+r6Yg%bubx1,/b{//vY+UWr/uY.1Y&&xv.6WgrbYg<+WbrY5ubr/Wgx1%6xv2gx1%&Wxg.bWbr1Y/1nu/v/Y1%uu.Y.ig6Wr++6%g&bxv.16/6.Yu16uWvx=%bx/bx%+xb%/xgg16&1vxP#Wu/YYu1xWur/g&%%6gg.+rb+&/+/1Wu*x1TYWW/xYW16WxruY1b6&1gb.v61rv+r.WW+r&yx%u&/v&.%bg&Y+gbb&vv1gvW+rWYY%WuxvvDrW.9Wg+1%6gvb+vb1&/rSg/Wgr1Yx1jurvxd&b/%6gg116vrx+/%+&uxv.WW&GxYr%.u&v/T6bx/bgu&v6/r=+u.u&Wxv.%%r6%Yu1gu6vgCbbb/1g/rx6urv+W%v&%xr..%&&/Y61rubv&w1bu&<gu.u6Wru+%%/&.x&y+W6/uYb16u1vb+*bu&YvW.%6%rb+.%&u+v+5gWb/6Y11%6Rv.+YbW&xg%f66.r%Y+%.ugvYAv%1bggS116Yrf+x%g&rg.&vW+r%Yg1+uvvnV/br%ugY1%6x/o+r%)&&xx.6W/*gYv%1u/rg?ubg/Wg&&x6rv.+&.&&6xx.b%W/1Y&1+uur&>Wbv/%gu1.6b.&+6%g&bvW.1W&/aY%/uuWvx4%1W/.gu.+%=/g+%%r&1r1COW6/Ygx1x6+1%L.b&&+r+.g6%rvg +&u+xW;YWb/xY%1rbvdv++bb&gv&.v6.r/Yx%uur1Y)xW%/rxW1&6Yv6+/rg&vg1./%/ruYg%Wux1NFrb+/&gg166gvbgvW&&/xg.uWYrWY1%%urrWw&bg/6gv1b6&v1g/1g&uxx.WWrr%Y.%.u&vbT6br/bg&116/rcgu1&&Wx/.%Wur.g+1+6wr%lbb//1vb.z66rY+1%xu+%%..W&/+x.1gu%vv+Yv1&0gu.Y%Yrx+1%r&.rY{YWb/gYb1vu1v/+tbu&Yg%.xW+rr+.%&u+6WsgWb/vY.1/6!vu+xbW&xg%.r6.r&Y+%6uvxbJvW1//g}1u6YvW+xb%&rg..&+Yr6Yg%burx1s/bF/6gY1W6xv%YWb.&&x+.6bYrbYv%1uvx/+11rr.xu+7Wu/xgr1vuWr+YP%&r1Y%1QuuvYdu1x&1x.++bWr+YY%g&bxv.b6W&vxb_rW%/ggrbr&ug&.+66r+xg.xWPrYYg%u&gg1.uu%vWn.b&&+g&.gW%&/xY%/urxukYWW/YYE0vWW//ggbW&xgb.161r/Y0%/&WruY/1+&/x%.WWrv6+/bb&vg1.v6u&b+g%WuWx%XrW./rgxT1Wx/vg/.+&/x/.uWYrWYY%y&b/++u%1&.gg.v6vv1+/b1&ur++1b%u+g..1Wrv++xbg/bgv1b6gvY.rb1ubv&++bWu+Y&1.u6vg{bbg&+vx?.b&&rgg%x6uv/YY%b&6g%1g6vvvS1b//1Y6+FW1/bgb.&6xvb5+W./gYb1vubv6Yu.gu/gW..6%rr+.%r&grb+bb.uPY+_rWb/&gxbW&ug%.r6.rr+.1WW0r+Hvb///g;1u6Ov&Yv.+uWr+++bY&rYg1*uvx1*/W1u/x/+Y6xr6+rb.&&g..1%v/%xg!+W/r+YW%/uux/+r%6v.+&%+u0v..%Wvr1Y61fu6vYfbbx&+b%1.6&r++%%g&%xv(Yx1/iYu1Yb+vx>1bru+/u.Y6Wrg+1%v&1x/+YYx/YY%1x6+vr<.b&6+v+.g61rvYO%/u6xuYYW./xY.1r6+v&+Yb6&gvr.vW{r/Yg%uuYxWKxbY/rg:1&6+v6+rbb&uvY./W9ruxv%Wuvx%Yr?v/ug/166&vb+1b1uu+x.uW6rWYu%%urx.p&x1/6gu1b6%v1+u%,&.ux.bW6r%xu%.uuv+w6bg&lbb116/rBgb%Y&bxxF..//MY11+6Yvgjbbvu1/v.+6.rYY+%x6+xr++&b/+g+1g6+vvH1b/uY/6.gWgrxY+%r&.x&t+x//ggY1v6rv/+Ybu6Y/u.vWxrrYx%&u%x6+g1Y/vgx1/6bvu+ubWWxW%.rWvr&g:%6u6xbYv.b/&g/1u6/vW+.b%urrv.&W/r6Y1%bubx1Y/.1/6gu1W6uv%Yrb.u&r/.6Wurbgv%1u1v_gu+//bg61%W&v.Yv%+66vx.bWbr1Yb1=u.vY+Wb&/%gb1.61r+Y+%g6bx1.1W1/_Y11Y6bvx+%%u/.g1.+WWrgYg%v&1r+7<bR/YYW1xu%vr+.b.&+x=.gb+rvYv%/b}vrAYb+/xxS1r6%v&+/r/&gg%.vW&r/Y+%uuxxWl&vx/rY.1&6Wv6+xbb&u%v./Weruvv%Wuvx%+&Mp/ugY166vvb+vb1uuu+.uWxrWY&%%urx.Y&bg/6gv1b6/v1+&%O&uvv.WWrr%Yu%.u&v+L6%Y/bgr116/rk+b%Y&.vr.%Wrr.vu1+uWvgYbEg/.g%.-61rYY%%xWgvr9SW1/+vW1gu%vv+Wb/&x%,.Y6Wrxx1%ru_x&Y+Z7/xgY1v6gv/+gbu&YRu.xWgrrY+%&uYx6?uvu/vY.1/bbvu+gbW&rg%.6xrr&Y+%6W.xb^rW1//u+1u6YvW+vb%&rg..uW+r6Yg%bu/x1f/bt/ug&1W6xv%+x1.uWvY+rb.r%Yr1&u/vLUubYw1gx1%6rv.+&%+&6ru6uWvr1Y/1xuuvgsWbr/%g6&r6&r++6%/&bxr.1WW:/Yu1YuWv%n%b//.x6gY6Wrg+b%r&1x/i*W.+HYW1vu%vrO.bu&+gW.g6b%6+1%/uNx69YWW/xY%Wxu.v&++bb&gg%.vWY.1YO%uuYxWtxW1/rY.xu6+v6+gb%&vg1./W;r6YY%Wuxb1)&W./&gxx.g.&./vrrYb+bg&WvQ2r&%g%/1v/W+%W6grrW%v&Wv/rxg1YbW6W/vu.u1x//x+l6g1g6g&xxYr1x/6uY++u%g%Wu7&ug/Yv6v1x%+rWbg/.66urY+W%Y&Ov1+-%6&Yg%N/W+//++b&Y6uu/Y6vu/&v+xuYY+vu1&gg7.Yg.vu/+ggYrxv&%xgrb.&.u&uxr6%vYW%xWvx/n%+u+vr%uvu%ur/W&//W+&urWu}YWY+r1v&6.&uW+/Yur.uxv/.%6+xxu6u&uY/61g.uvWxWug+b+r%x&&x+.6W+u8grq+WYvgWgg.WvvYY guW6v&%x+/YL&+Wx%+u/YW%/vvbr+Yvr%vru.gWuv6%rC&Ygvb./g%1.4v%uv/%6/vrvg&WYv+Wbvb%&WD1bI1/uu&%W+WvWvu6u+%WWW6W6%+xb%%%69vxb%6u6Y6Wgvx%%vW%bg&/u%W%WWrvx%.%b6W++1+%%%^g%xY1+v%YWx10r.%E%&rx+1+%1u/gY6k/1u6bYx%r+v.rqb1v&v.x1bv%&rY1zx1r1.&&+.6W&vurvr+&/W6r+x+16/b1Y1x1Yg/rn+x&gYb%bx.1vrgbuu6g6rgv.*6%.1&1xr6vb+61v%WuY%g1&rv.%YWguY/Y+mWbWr61rY/+ubWYr/Q%v1+r6r/W1g16%L&YgI%%Yrb1&burW.ux/%D6/x.1%ru%rvubY66xgx%.grb16CW+u/WxW%g.Wv11%rW&r&uWrbbggW/rrr.1brjxu2/Yb+6gYr%r.r6Y&%buvx1_vbguYvbGp6/Cbr6b.C&?vrv%1Y6Y&W6b+bg6uxr7x6+YW6u6+vv,%ruur/9f1YbY6r%6&xb6uxgW6&YY%6W1xu&/&xWvbrg1WY1YbY&.x&%r%&.b/8uW}6%g1+u..x1.1xbYugYY1br.x4Y.=16vxu/gg6.Y/C11b++6+.YPxgYg01ubv/6u+gr.g66WgW+6&%r5v.+1Y+%Y6grgYgu6/rWggxxg1YWgrWgu6r61x/xpxY16&W/gxxY1/guWx)6 /^YW&Wv%&6+Wb.vvrx%u%Wugrb1.bq6.&.Yubu1gWW/%_/++..&./br6.WWg&+.1.ru.u&uWgY%WbWu.v+r+6+6grgr6&g%g/.&6urY+W%Yuqr6+x%&u+g../u.v6v.W1&+&+vW;&6xYar.WWgrxVYbb.ub6v6+&1Y%-EbY.66WYrYxYYu11Wr/Ogbvu&r+Yv6gu./Ybxxgbu+uY&6rYx%brUxvbxr/v6%1Y&6vv?W6gY&ruu&vO%6&Yr.1&x&/x/%guruxYu6/1rb/+Wx/&v&rY+YbY&xgr>/vruO.bm6(6W6uR6b+2Y16rxb6Y&6bY6,6uW111u&uWvuIY.6W.vu/bt6W6xr1u16.Yb//Yug.xbY1rvYvg_6%Y&1vb/Y%.Y&Y1gWhY1b%.%vg61PWvx&bgg6.Wx/rWuu+611b+&Wxg=.b+Wrxg+r+u&&+ggW+Y+ru1vux/rbY+6WrgY.vYG&uug+6%&Y%grWg.+/MW1gg1vvu6vW/gx%g2gvuWx++u6uvguWv%+x&1&+r%/u&Yxg&grWIJUxv.r.1Yv61WWW/6WbWU+g&6vr/%gg6g&g/W+v6W&x%%6x.WWWu+gurx&.ubbY.gxg1g66b.&&6gWb1grgvg1WWgW/&&&gbx+xb.Yg1gbxxxxgv.b+x+bW4W.W%+ru.66.%br:.W&x+g1Iu%%O+.1WvG/urb+W.Bg&u/uYTuv.1Y6xYxmrYv6v6Y9Y6&1W1xgb++V/+1x&+(bAr61bvxY+.66/W1Yg1v.W6b/bg6.16.&xxbvg.u&b/xx+Y&brY1x..regvx&bvrxux16xv6Y1WYrb6xr1v+vrWbrYgYb6/xWb/W%%&vgb&gbg/g.b6x&W..rWYxuWWW.xgxbbu&Y&+br6ur/.rW&b%x6&W.%/Gx6v.x&g{x1bW%xuYubxbo/+1xxvwxbWrx%Wgp%Wgg1guvZb%g&1WW%6%vWo.Ybv-x1g%/1g&r1+K1%gb%Yb.Yr/WAYWfbrv.b6vgvOgrvb&1/+bYvgA.%x%+ugtv&bvY&6x!Y.%xvY%ux6b&+g%g,1g6%r%g.%gb6Y.gvWx%WW%/vxrg_.1&/gub&.W1vu%vr&&g+gv&WYgWg6%6vr11+bY6+&+Y.bW.vW%/661uu6+&W%.Wgu%6v&,&W6&%+uvg/W%/vW%ur&x11..6u,r&vYv1v6xurx+ gW1Yxg%Y%.%WbgWbYxWb1&gbv1v1vbug.+6+/%+sb&v+1U%%/ru/Yb+1vY.v%+r+v1vuvg1x.1YWv%WW1+%bu6x1:/b0//xu.bb+/Y+u%g6uu6W6g/#xuxu1u6guruW.+6//&k.uu.+WgWu%+_%u6r1%6ru1ubv%W6g/gbW&1x/gYD+%1Y6.gb/%xuu%6YYGu1&r.gnr+.%%WvO.6++.4W&r/xZnr/WY+v6g6hCYg6uu6J.v%6uWYxY+Yb1rY%Y+166u6{6x6Y+vrx.r&grgv1YY6vYgWb1g/v1vbrv&&6Y&6xb/.&.+&xv+//+%YuYvvjbrY1bvW.WW6Y6&6r&r+1u+1rv/&/u166Y/&g#gru1&1v/v+vYW6&uhvbxx&uuxr.DrYWYu+L%&vv16%Wb.r/6b66vx1uub&6Yz%W6xY1YWb6.6vo6W0&++&1g<6bvb6g.6Y%&x+1Y&6.Y616ubvvJ1bvu1v&Cvb//%g%%ugTWh+./6uvg.xx%1v6+W/&.v.6/r6Yg+v1%W%g&YM1%bur-/g%1Zvbv.rv/ru%_Yx%gv1q%%W%vvb&+%&1W1%vr+v1W&v1&r/.uWg/b%1+%.x16/r6r<xu/bWi1grp%/;1b6r+%g%/vW1x1+1vuru1Ygv/&rxW1rv.Yr%+&6xg.6b/u#gb.+WxrWYu%W/Dvv+xbr&v+%%x+gv.+.%vYr6uYdu1b.y6tv%..gxYk66++.W111xxu..bbv&gYx6_%v61bY&jr%x/Y+YgY+vu{6xxb++6.6+vYv6Y.v.YrvrgWrb%/+6rYgYYWqu.rxr/.xvYYr6x6W+u%%6vWrWRu%Y&YvYY/%x6xvx<v+YB6u6rr++Yvg6v/+%Y+46WY/%Y.u+.r/rYrr+u6W6&.g6vWWb&661+6+YbYu6+..WWr6M1N1<&6%66A+&+.=xWrru{+x6.YW%bxdx%1WYouv&.g>6bbuxe/bbb+g%&&.g9Y61Wubvv?1bv/gv&+ibu/ug0.6uYuxvWbgugW&Wg+++v+g/vv.+g%gYJ6guturux/_W/u+/xxW.u+6u/+vuug1.g+v111..&+uur+/cY&u%xv6&r+%+u+/xr11gVu/+YuWr&+6u&u./&61W&.b/x&&+b+uY&%6Y.g&/6uu&g+1u6W%&r6+%6gWgY&Y+1+Wrx6W+W.uYY.W6x+1ubuuf.6/v%0&Wu+xY++%+6bY16v.WW%Y/&YCu1x/d%zYg.%ob,u&6Y+.xyu6&+Y+Y%&b&rYx6B.g.Xrgr+WxbWr.YxY+/++G/.1Y/%%Y&/6x6Y0rYxugxgYuWba26vYg&gW=Y%&g1vg/+1Y/6xvWurb1xr16v./%6&Yvg6+gv.6v/66Wu.666rg&#r.xxr&vvu+w6WY/%r1WYWr/b1g.YYYW6&xir1/br6rx&1s.6%YuYc.%vur6bY.b6Y6b66+v+xY/aWgg1b+x6.YWg6b.xVbWuu.W//Y16b1%.gNV&%&Y&.y8Y.Y%11&Wg1Y%x&gvYvW+61grQ%.Y7.&W%x+YWgY.u+buY&Y.&xruY6ggW_xvg/%6++1%YuYbgvg+%M_nvrW+71v/ujgrWYrR1x6u+Y%W6.Y6g/gg%Y4Yv&Wg+7vuuvg&WxRggxW6Wg%Y&x+WWugvWbY%6W.rWr.++%guWrg1uu++/&gg&xD&gug/b1bug1v&//Y.ugg6W&16.x./Wux&/&+6W%guxvTW}bvu%++x&%gbW6..M6ugg6+u%YYSW.gWxHbu1xvW%+1vWvbnWb1urw.6g%!vgMW/xng%bvub&+u1+6YguWxYW1/Ygx9rE;Wb+g+gx+g.WR%r1+ n.b.&WWbxbDW1Y%x&&+ugvbgbxvx+u%Y%%b6+%svr6WxrbYYY b/rbgu/W%Y%bvxgxx%e6WbxW.x/gbb/bx.+6xbxYxug+g++b/xvx%vh+rYvruvvW6b&br./W/1Yxrgbb+xxxux/./&&x6b/1brxbYbbb&g/u(vgxugYrvuuxbxuW{vxg.&uuv&Y6Wx1b6uub.%%&61bW6bYx1xW+u6%gW&W1rb%bux1bb%u%WYgb%&1xxb+%zx%1v+gY+:.>uWgW/vYb1%vr.u61%ggv%YY%+x.x/&.WgWoY1x.b&%x%,%8x1%YWSgug.xb%gv+^xu&1r/YW.r6W1%x%Y/+6+./vY6.g&g+%/vgrvvWv6+gg6&xuv%r%x/g6g.uvxW+/6gr%uvvv-Yb&Y/r1WY.NW%u%ruuur&g.rgg&YvYvWv/Dvg/v&/r6r.W1Yv6%&W/r6Y1Wug.v1vxv%vu.v&brg+u&b/%%1vb%6v6Wr.%%u1u%rvgv.vWuYWY/++WvrbYW1r}%bb&Og++v%%1v&W+rDv6+1bb&vg1.v6x&Yxv11WgrWYx%x&Wvv1%&7uWYW/tb6+gv&.Yr1v1&rrar1v%&gr/.Y1.%/ub1gY1g.&+vx.x/5Y&&11bg+gYv61W.g.+suvvu%%YuYvgxb/x/Y&CYv//.Yx&xvxB/r.gx+.%xWWxx_vW16.//xWWs+61vvYYv+r&/&.vx+&/&+.rv1+.r1/6/r+/Y6u%.rgx%..Y/u./W/xxgvv&rvr%1x/W/&vr1!&u/&W+1%br.W.u/xY&,u.u+7+g&+/b/6%br%%6/Wr/1vrb.1.WvY%Yx+ubW/1+rr}=/bv%11rrgbYub_//&7.%&xd+gW/b&a%v&r&X/1.uxvxbW1.61&.6 g..x&&+1vbQ61Yr&/XY&Zu%+xvy6i1/6brg&x.1WW/BYu1Yuu/YYY1%&Yxu/1u&&guY6+.bw/Fg+Wv+++&+v6r&&6&r&xYrjYWWYrN111%uQ/HvWbxvK66v1Y+1r/^6&rurx6Wx6/bY%g&+J6t/Y6vx1grr.v%Wu+V6&&9urv6r:&w&1g&+&bouD%6gWrY6v+xv&+&1&6YWXYbrr%tj&g++}%oW++61xYxbgrx///+^&b/+&vx1Ybu6+./v+5^%%&&Wx&11b.%1Eg++&1vrruv%&1+&Wuhgu+l.b&6Y%+gPg61W/b+xuo.6.6W/.RrK/+&tux++r+/%*uu+S%WYuJuxuY/r6/%bvg...W&W+r+gxgurr%/xgY.bwr+/ux%%6ux.+xg&vWPru/+v/Y%+.x.v.Y/.gD+&urYWbv1%W/v&+ubb+u+/vxYxxbu&x&v.ux+6u&bgg.xm+&+.vgr&ub+u%11W+g%u/1gruxu1u6E%1%r%g6x/+1.6u%+Wxg&/vHubrvb%uuu1ubqvWx6b.bv/6u&%6d+%r1b+xxg%g.&buxYFu1bvrb/gu..+gQpuY++.xr/%+b+..1gv+x6g6cK66+)/r+(/uY&%YxY+/v%+&b +g.&.ub6r6YOb>bbudY/Y&guYYrYgrr%+x+Yg.W+W+uY/6xY&g+P/rx1/Y+.%6/Yv1%ubgubvv&br&.6&6rvYbuu+1r%g.Y+c6WY/v+uK.rx/6.6+I.6W6&d6xYbWY&6Yrw./6WYuv1+Yvv6u6.&/W%6%66x&6/.brWr.+%YuY%YWrb.g%%xW66g+a16.6bvW/2WF1bvgbx6/gqY%bb.bvY6%Z6vg&%gY61v/b1ugY1%K/bYug+Y.v16gv/%lc.+%6FgYW7bvWrWu%qY/Y+Yugvg+rr+6v%W+W/&.bvgvWY1%Y/rYggWW%Yuxgrggg%u/Wu+x&/.W6ugrWx1x/xu/.xvgr1g5gugv1%WgrugrxW.ru%g6Wr.+&u6b.ru&+uY1gug/ug+g/u.&.v&vYvWWW&^/1+W%uux&xgxvWWgu-/+%a6u6YbYxbxgbW66xu+b6g6gxWugYg.gW/Yx9++/b.ObuWxbOWbWbgYb.ub/Y/Qg&x+g%%vpg++...urg6gxYW1bxr+.v..1uu6Y6bgg.r&%&xWW.v%&W6bxYb#v&&rux&Y/b6rYrbvx+&b+1Yg6gW/gWBWxvbYr+u+1/xYu.r&YYb/xgrB&v/b1x66&16rx&bx+6/Q&Wrxbvr+g.x/xvbgxr1/bx1xu6uux&brY/uTg4&/%r%+Wgx6x/..v%WgY&WWY6g/bWb&.1xWbkx&/g6bYbb%xuvuG%//r6&vurxxx%b6&u/wbxY6v1..WYb1xW6r&16&xW/%gv66b1bb&YgW.x6%rr+.%o%Dx%g.1bb.&%u/.+%&v2b1g&WW16&1+1&6Y%%+x.rg+&xx1.1%6/bxvY%d/g%1u.WY1%66g6%vv+ju&%/Y.+ux&/8W%v%Yu1W&%x%YgrY6bu%rvg6Y%1gK/g/.+.W+%r%x1.&x.Y/xv&v.x&%/vv6+..u+.r.6./bvv&%rgrrg1Kgru&16%+v6v/u+W//&W/bWrxxg%W%&Yux+&+v&u1uWY6%Wvu.u&/&6/66xYWb1vb%666vbu%v6+6x/gY%%vWo,/v.v%%1/uYbvr*%bxx/Y;.%b6/rr%rv1v%gY6Yvu+%Y%/rxb1+%16uvb+uW.6 6.%xrYv.%/,Yugv.&6WWbWrx1_%6Y.vBr+WWWYvWrvr+x6<gWb/vY11/xBrv1Y.6%%&b&Yv.gubu1rrg&YW/1u6x%g8v%11&1x/%u1ggYvvu.b%&1&rv/;EY1+xxWx/+bbr61g6%vv*1b//1g++/b&/vgW.v6&vb5g%uuYv71v6./ugxbbY//.+&x%61u6b+%9x%b%p1rAYWY%/xWvvYb1&&bv+%z.b&Wggo%gx.gb/%&+vVgv%&bg%Y%D/%x..gufWXux+Y%gv+xk&+gW/++g.Qg.vv%Yxr&vbgvYrb6gbW%rvggbW+xx/g%Wu/&+%r%xr.&v1++x.u&.vOvuvY+rbx/%gr1%br&9Y%1.6vrv+1%!&1xJ1v+Yb&+.brv+WYx&16rrg.1u1u&&%gY&bbrW1/6v.&+r&&%6u.+1r6r&uvxWv/r&W%x/Wg1W1ub1%YY/r6b6W6%br%r6x.vg6&1WxWgWv%r11W6br%/+1bWbgbrg11rb1xY+6/b1YW%&./r.1%&b%vx/x1.1&./!.(r1u6v/G%d1+/%6.&.+1./xYWg1uK/gYu%v/gr%Y1%.u&v+J&bgu&xr+/Wb&Ygb%vu.WbYxvv&%WYg.%6vr11+bY6+&+YWbW.vW%/.Wg%/+v/&%rxxl%bv&#1rv&Wgu?+1vW+vW%u/&6&.1vuWrg.gu%1v6g.W&&ggbv+ru1rv%%W//&u.Y%Wr%/vv+%1vb%vg,&/W%.rbg%W%.%%+ug6g1g1v6v6bb1+v1ub+Wru%1uNPxvc1Y%.Y.1/6yvu+YbWux1grD6&%x%xY+%Nrxburv1+vx&xx1xYb11xvurrrYvY.&a/JY%ubxW6rv1g1%%&xxrxg,vbr+rrrxr%+&gvrxuYpW%/r/1v%b5%/66vYY/%rUr6rr+.r6rxxvgg61&rru1/Y+uvYWo&vxY.vv16r&Y.zxWuLug%/Wu6rW1u.vr6Yu66bx&&v11br6/bn%6uxWuY+b1Wr%1W.g11brFb6%/Wxbr1rb&b1Wu&x%+r6z1&1.1%&bWb+Yr%b6ugv!.Yr1+b6g6rx.6xbg1u.g1.b%g1ruvGv%1uxr.Y/h.+.u&v.Sx1i6r//x.++g%v6++yu+/YxW/x/Y.ruWvs/YxWxbvv.r.grWbu&vgx%&%&%Y.//x6urbYiWg//_Yb%./.vu.gx1/%vrWYr1..u/r%gu&g++&r+1&%%/W./.G%gJ+u/r%+gWW.W/&1u.xJ6+&b/66.Y.%.u&g.&*/%uvd+r1&.%/6&&vu1+gW%v1b.r...WbY%b}+%W+bWu//&m/bb1b%W/g%x+%+/v&O.%r&Y1+uuW+%xxrYiY/1/g%W&b.1Wxur/&kY..vW6/W6..&&6x/g&Y&wxbrr&Y&51x%&//Jx7+&W<eH.1+v&+1.O&v&Y%6xgvx6Yr1bW16avSgrbb.vv1vu+.Wb1&/&x%r.bv.bxWYug1uk/(vgY6uxg&rx1/uy,{u&rbg/Y&&bru&&u&+&6t/Yo..BYq/xu+%&/a6&&+/b1%&6uu+i*R/&W*uYu%Yg.Y6%ux!/.&b&6+uWu/bb6x%r+/101RW%&/c+.rWbu+g//&1&bx%v+W?&b&+%b%r&.G%6b%bgY&%16/g/)+Y&1b.x+Wx&16g&b/x+Y-.xz%&guWw&+1/uxuYuIurggb/%+WWYb.%uv++%dv%6.++1u1xxbuxuYr&W1uWuYv+rY%+uv+gl&/PY+ugxuYWa%+/uxIu%uu+.xYb%W&.u&+v6&bgvgu&.YgW/6+6ur%%+Z%/+/bb&++6uu+/v.uxv/v&r%bY&%+6u&Yu&gVWuuYv1b;buW+ugGv++xvu1vuWrv+bu6ruu.6%v6Wb&6uYu1+Wrb6..6+WD1xuuY+1ubv./bY6/%/++.%g+.+%+1//1x%%.vW&uv6^u1mFu+.1u.&W;uue6Y+..vu.&xrVbxvuvWYY6Bm1u+b/r*Y+%%Y76gY+Wxb.v.6x.1b/&rYr6Y11+Y1%xgu./1+%YvYg/xh1r/bxg&Yg6xYr6xbW%66x1xr%g+u.6&Yv1x1Yb6YrW&6u6+666rb+.x1gx&g.%1+A6WY//++ggbY/YC16+66W6&d<x%b/6r&ug%Y.6WYu//gg&+16/ru+YM6%66xY/o/1rbrr+M++6.YWv&b//xYWgurg6gW?6bbgv/%%x%+gu1u%W)Y%++bv&Q61/x%gWgWU61bx+b/1Y1+4u.1vg+Y.uvrgbv6.+1vg6&WxWPx.6gg+/+bDbYYWWgg+%>BnvrW+Z1%/uYgrWY%/Yu.6vgbvvvgggvgg&6%.rr+xY6bgY1g/Wxb&W.+W%vY+6r6ug&gvv6ubv.vrx%Ygu1g&Wr+&uV6xur.g+g6gW6g/bbv1WPu&%/+u6/W6W&+1+rbug&r&b/gvgWguux}Y&W%6r+*gggW%W61vvg.b/WhYv%gbg%gWbb6/&%%bxbgW6vx;Wb%v1g+1u%g&++Y+b+g%xgg//u+1bxW66&bAW1%u.xYbW.Wr%/YWbgg.Y+_Yb6mA.uu6WYbYb{x&x&%w1Iu%&uW&bxx+%rYu&.IYYY7YWpbxbYWWu1bbrYg&%1&rxrxg&Cv/b+bgvvvY+6x/bxxur6..Gvgbp+Y/b/xvub.1g6xxx//b6%x6brr&1bYg1/..%+Q1bux/x%16/1&&/Y?gWxxbb&rT1&61,&/xb61YxWxuYk1%.!&6Yg/p6Wbbb6v+/1WW66%r./6rx1xW6b+vWvabvWvrg&x.bb1Ybbvg1bY6cbx/v+x%6&xY6WY19Ympbu%Yb1+r +%Y61.urbg+%gx.v+a?x.i.W+/xWgvx%GW&Wm6g%+/!uggu%vv+bbg%gbW+&/&rQ+vv%Y+rvWb/%g1&grv.vvvg.YYY/&%ggs.uWYv&%xgY1ubuWv/rW&gr%/vvr%v%vWgvvxbx%Y%&%r%b/us%+/{+%YxY%Wv/1.+%YW+u+g/%W.vb%&/v%&1r+&6YbY%gvbvurx.Wrr/uYxb&%=%b%6%uxv+1u6+YW.gr%%vW%b1x/q%Wgu.vvY%.%b1g/.+1u%v6x1v%%.v%*uV+&Y%%%W/6Y61+%1r1.v.&+1&6u1v&r+v..1Y1&x%.gbbvb+rx1>r. .%YY:6gW/%x1xr+/&dbuY>Yb&vgvY1v1Y+vrvrWrg.x%g+nrvrggY/%v&xg6&W%%.1&1xu6vgPbbv/1g/1;1&rv1Wu/u/rrY{uj%u1&1r6/&&JZ6r%+&/rrrur/g+/gb.6&b91r%6161&Y.bxvY7u.x+br+1Wruxx.rvYY6xY61br1b16vu+%v/16.v1+vv1%rWrvWr+rYW.//16Yr11br+g+1uxb&xgg1//Cr%66%66&11%f_vxW.+11%&%%b% .E6%rrr/gr..{bu)W6.v&6.x6/g.Mru6++ug+.&Yggu/g/+urv/u.gY1u.b.x.x.Y+vdWvx.gu.xY1b/r/gxguvWWvx66%%6r/r.xg&vLxr.vY1&vrr.//v6=6+Y#+vuY%11i/&.r&6+6v6./%uW.&Y/u///r%&.Wg/u&16.+.b.&1g1+vv+u.W1%v1.%/uuug+&%%uW&&x%b/1.6uYb{b1WbWr18rg../WW&1&Wr.b%1+gvu/..b//1&1/vbgYg+6b&-/%+.WYvv+%%Wg%1.A-.1W//rWm.1.Wr&rr8g/.b1v6b&&f/xug.W&YzmvxWg6br(6Wx./W&v&+vgrr/1Y+1g.&v/Uv-Y/x%uPg6Yb&uYr/&v&gYYvY6&zgr-6u1r&&>x/vWg2.6xurx1/&_/&vWb+6b66rgu.+/6&uCr.6++.%&rY/u6.r&6&/vurb&xY/1u.1v%&Wa&X.bg411u%vr1r1t%&uv..Yx1=u1gW..b&bN6vgr1..&6:6v1r&}%&WWrp&u6xWY&&u&v&.BbYI//uW&bbrxY/g&.&%%x+6b/r1gWr6&+++O16r%x1Y%2b6.x/r+g&.uvgYbr%iW6SW.Wux+#&uxW/4u+g6u+&.ugu+v/AWW%uY6&rB%%ux+Yr%bvv1ug.x1h0/urugggvbgr+g+/.v^.+&+xragux./v&&.g/&+uuvWr.xW#+v,Y&gH6+&+r6Hg6gxgvEvO6&1uWu/*%b&1r%&.gW6n1+6+&&.ruur/&ggx&/.+Wuuu.gb%P%6bxgv8vu1+6&/g.Y1W6Wg+1rYu%uWYg./u1/W1W/&.%6k+b6.b6v6u..u-Y&+Y+u%xb%YWkgbWW1x.gY5+1W%1%xgu1.WNx&(Ygu.W+t%uuv.xWxx+1YYYEu&r1/pY+6Wx%ubYg6+gur//vrgv%b/7&6rYYb+.+x/6Y..X&&YY/6>rv+YbW&xgW.Yb1/WgY.rugr&+r1/&bvY1ba1b&g/x%uRC/r%r.r%1.ur6/11{Ru11=.s11u/v%vY&.Ya+O1&/Yr./v+Y6rWCu6bW%b/x.J+ggrv/W+1.1.1&.xr1Y.1auuvYwub6uYxu+gb/&g.%%rxgp6W1gr.b1fg/%uv//u611vW/u+%vb+vb%&xuY%v1.ug11.xWvWvuvv&6x/%u6bY/u+%b%6&&g//.uWrb.6g1%%vW.%WY6.Wb%.tW%.%1%brxgWYGg%WuxYxE1+v%&WYb&v+.W6+1%&1Y%1rbg1rv%.&c&/v6rgvb+6b1&/xa./%u/bg%:+uu+6.ggv%u&Y%u/x+%+61Y6.vu/W.6/1uQ+%uWY1+gWu%W+b%.(x6a+bm+%&vv%%Y6*Wu/6+u%rW&1xrg%x%br&+6++1x.+./zg.=YYu&HYgu.b6xrx/+.Yrv6r.YgY*/Y/+vW1+1v/v+u6x6+vrrgWb)+.vWbYY6xYY6666gYxY..1W+66r6ggWru//rvv.xuM%6&Yx+gVYxg xA1Y66/6/6v.Y/br+1vu6/.vg6uYr6g+%/bw/r6b&6Y6u6/r/xW666/%.g1%rY6Y&g&Y+1gr&Yg/W&6YW6rrr+&%+&6x+1.6Wu{g&.%61vvYLvx/g/vY.v+W&v6%rgxg+%xgr%u1/vWvuv/655vux.&v7gugxvW%&gWu%y.+ux.W&%gvbvuSv.%/1%u%//rYrv%gbuvxuFYb%r6Y%1ru.%&++b6&gvbsW61r/Y#%uuY%/>v%%/%Y.1&6+v6+gY/&/vL..WKr6YY/Yuvx% rW.ugg+1b6gvb+vb1&/r_+rWYr%Yx%.ur&1)&1+uYgg116vrM+/&a&uvx+,Wx/+Yr/xu&v+>6bguggv.Z6/rx+u%x&Wvrz/Wr/+Y&r+uWvgKb1v&&g/.Y6urY+W%W&%rrHYW&/gY61vubbWP.%uuYgu.v6Wbv+.%r&.r&OYW6/rYb1&u1r&++%W&bgW.&6%bYY!%&u+vb%/Wb/6Y1xg6+vu+Y%%v&g%.b6.bxYY%6ugxb+gW./6gS1.6Yv%+x%%u%g..6W+uvYg%.uvr1xvb+/WgY1W6xrx+r1.Ygx+.bWgr1Yvvxu&rY+6bY/1gxru6&v.+&.+6rxg..Wv/+Y/.+u6rx+rbx&+grr&6ur++61vu&xv-gW/rrY61YuWrrY6br&vg&Y=6brg+b1/uux/X/Wur%Yb1xu%r&r&b&&ug6%/6brv+11uu/xueWWW1xY%1ru.r6+Wb6&%gbYF6.r/Yt1WuvxWh.W%uYg+1&6+rbY%bbu+g1&xW5ruYY1%6.x%+gW.rggY166gr1+6b1uvxc%xWgrWYx1.gYx.+/b+/vgx1b6vv1Yb%d&bxYh6Wxr.Yr1.u%v+(bbg.&g/.+6//Y+1%Y&%xxr&W&r.Y&1+W+vg(.bv/.g/.l6urYg2%x&.xrI+W&/YY6,gWrvv+=b/&sgu.u6W&xW&%ru+x&HgW61uY%./6&v/+gbu.1g%.x6%&rgu%&uxx62rWb&rY..uW+vu+rbWuug1.r6./6gY%6u&xbYxW.//g .WW.vW+6b%&Wx .&W+/bg%%bubx1r+b+/ugY.%.%v%+1b.r%xY.6Wg/1gb%16nv46gbY/Wgx..Wvv.YY%+1.xx.bWv&Nxx1P6xvYY/br/%grH+66r+Yr%g.gx/.1W/&YY.1Y6&vxuWbr/.g& gb+rgY6%vvYx&PGWu&xb/1x6bvrrubu&+g6.gWgrvY+%/u.xuDxWW&xg&1r6+v&&%bb&rgbE/brr/YY%u.%x% xW%/rg11&6xv6+xbb&vg1./WbruYx%Wurx%M/W.u&x&166vvb+vb1&1xO+ux%rWYr%%u&x./1bY&bgb1b6&v1ug%Y&uxY+WW%r%Yu%.uWv++Wbx&1xg116Wrh^+%Y&Wxx>.%Yr.Y%1+uuvxnbbvu_gb.^6.rY+x%x&%xr++%Y/+g+1gu%vvU1b/uYuY.YWgrxYg%/&.x&+gb//ggv1v&/v/+Rbuuxvv.xW/rr%W%uu+x6+vb%/vgu1/WbvW+YbWurv5.rWWr&x1%6ugxb+/%&//g%1u/xvb+xb%u&vv.&W.r6x.%buvx1+uvb/ux+1W6vv%+rb.&&xg.6Wrrbgx%1uuvt+u%6/Wgr1%YYr++W%+ubvW.bW/r1uY1YuuvYwW1+/%gu1.6ur++6%g&bvx.1Wu/EYW1YubvxY%%6/.g6.+66rgYg%v611Ya5WW/YY%1x+gv/Y+1+&+g%.gY&r/+1%/WSxbCYW1/xgy1rWlvuYg1Y&gxF.vW/r/Y-%u6xr+_xbY/r./1u6+v6Yv%&&vxx./gbruYY%W6rvYfrbr/&ug166gvbY/Y/&/x&.u+xr%Yx%%6&rr9&b6/66+1%6vv1Yu%6&uxb.WW6r%Yr%.66vu}6b1/bv+.C6/rMYW%b&Wv7.%vv/*Y&1+6bv/_b%Y/1vx.+6urYY%%%&%vx..6&/+Y61g61.+V1%r&QuW.Y6Wrx+%1&&.xW)+bu/gY11v61v6+LbW&YW/.rWJrrg+1Wu+xbpgY///Y11/6y/Y+Yb1&xg1.r6.r&Y+%Wugx1{vb<//g+1ubYrY+xb.&rg..&W&r6xg//uvv=k/bY/u6&1bWrr.+r%Y&&W%.bWgrbxv1Wu/vgHubv/Wxv11W&rb+&%v&6bF.1Wvr1gu16uuv/aWYg/.gr1.W6rY+6%u&bW..1W//{gW1xuWvWF%.Y&8g&.+WbWb+b%%&1gxl+Wu/Yg%.xu%v.,.x%&Yg6.gW1rr+11+u}vv{YWW/xg..ru.rg++1r&vgb.vbR&YYi1vuY%.ExW%/rx+1W6+r/+gvY&rg1./bY/6YY1uux&W*/W./&xg&r6grW+v.6&&xX.uWY/+Yx1;urv1B&bg/6xg..6vr5+/xb&Wxv.Wbr/gYr1+u&WbNbbg/bgv2x6/rg+u%g&Wxx.%Wr&xY&1gu6vvMbbr/1v/D66urx+W%x&%x%..%&VbY61vubv/m1g%&+xW?g6Wr/+%vYu+x&a+%6/bYb1&u1v6+#%6&gx%.16%r6+.&ru+x6(gb1&bY11b6-/x+gbW&xx.Ug6.r1Y++!ugxbkv%Q/1gc.s6Y/1+vb%&rv+v+W+/YYgrvuvx1h/%Y&1gY.x6x/r+&b.&&vg..Wg/rYvxYu&v:pu%x/.gx.&6r/W+6%+&6vvs6Wv/6Y/.ruWvYFW%r&6gr.b6&xv+W%g&bv/P+W//1Yub.uWvxw%%&+Wg&;-66&r+%%v&1x/+xWu/vYW.gu%v&j.%&&%g6.v6b1+Yp%6uQvWX.WW/rY%v+6+v&++b6&.gb.&61r&Y}%uuYxWl/W%/&Y.166+vW+g1b&.g1.uWOruYY1Yuxr%6+W./6g+1b6g%Y+r1-u+xl.bWY1/Yr%%urr.+1b+/%gg1.6vr.+&1YuvxY..WxWuY&%.u&rg(Wbg&+gv.b6urL+u1x6+xx,gWr&&Yu1+u6rv+bbv&vg/Yg66rY+W1r1rxr{/W&YYY61gubr/+Wb/&ugux&6brx+%1&ubx&<WW6ueYb1vu1ru+xbu&%gW+j6.rr+.16u6x6i.WbbxgR1/69rW+%bWu+g%.uW+r&Y+1b6/xb+gW16rgT1u6Yr%Web%uvg.YWWYr6Yg%bu6x1i6b(&&gY1%6xr%+6b.&6x+/rWvr.Yv.76/vHQWbY1rgr1%6rv.Yu%+&%xg.%Wvr1Y/12W+vYP%bx/.gr._6&&+Y.%g&1xv.1W///YuwYgrvxK.br&+g&r/6W/vgv%vu+x//bWW/YYWSx6uvr+Yb&&xg6Ax6%//Yb%/uxxu.rWb/xY%.&WYv&+rb6%+g%.v61/uY.%uu&xWW.W%/rY..66uv6+6bbb+g1./W_/W/W%Wubx%/xW./&g+.b6Wvb+1b1W1x+.uWY/%gW%%6ex.%&bY/6gg.16.v1YY%H6vxx.WWx/.g&%.6xv+%ubx/bgv<hW&r#Yr%Y..xx.%Wr&+gv1+6&vg+ub//1g/AYxvrYY6%xbuxr..W&/+g61gu.vv+%b/&Ygu:Ybrrx+.%r>Wx60xW6&vxY1v6Sv//WbW&YgW.xbYrrYY%&uYx6_gWb/vxg1/6Yvu+xbW&vg%+rWnr&Yg%6ugxbnbW1u/bW1u6xvW+rb%.bx476brr6Yr%b++v5E/b7uugg1W6/v%+ub.uuxY2bW&rbYu%16bvJMubY&%g/1%6Wv.ru%g&6xg71b+r1Y%1RgYvgaWbx&.gW1.6.r+.r%x&bxv+9+P/pg+1Y+uvr %bru+xq.+Wgrg6q%v&1x/+Y%g/Ygv1x/%v/h.b&ugvY.gW/rvg6%uu#xu+xbg/xgu1rvWv&++b6uvx..vWWr/W/%uuYxW+rbu/rg%1&./v6+gbbu/%6./W.ru.1%buxx%arb6/&gx16WYvb+/b1u/vb.uWxrW65%.uux.+6bb/6gv1b+)rD+/%s&ux6.WW/r%Y/%.u&v+>6bb/bg/116urK+6%Y6Wv1.%W&r.Y&1+6+vgYbrO/1gu.O6WrYu+%vu.v6..WW/+6r1vubvvY1%1&lgb.Y61rxY1%/6+vbi+W1/gxr1vu1v/YY1i&Yxk.x.xr&+.%&6gvYogbY/v/b1u62vuYx1x&xxx.r 6r&Y+%66v6vRvbr//rv1W6YvWYr%g&rx&.&16r6Yg%b6/rvB/b6/ubv1b6xv%Y&1u&&xb.6b.r1Yv%16uvxMub1/Wvb1%6rv.Y61v&6vI.bW/r.Y/1D6Wrg9W%Y/%wW.76&r+Ybr.&bvx.1+Y/wYu1YuWv.S%bu/.x/.+6brgYb%1&1xuyRgv/xY11x6.rrR.b6&+6v.v6brv+1%6u;xb)YWb/xY%1ru.vW++bb&gg1.v6.r/x#%6uYx%zxW%/rgr1&b+.v+gb1&vx>./Yrr6gx.ruxv4argW/6g+16bgrb+v%+&/xg.ubgrbgr1&urvgl&xg/Wgg1bW//u+/%v&uW+.bWxr%g&1Ou&v/_61u/1gv11Wu/r+u%u&WOY.1Wrr.g6g6u6vWHbYW&Jg/.7WW/.+W%%&%vWL+W&/+gb1.ubv.{1&+&+gu.YW%/Y+%1+&.rxkgW6/gg1.Yu1rg+9#%&xgW.xW.rW+.1vu+bWIvWb/vxp166Gr/+Y1%&rg%.rb+RxY+1uugQ6)rW1//gs.+6Yv1+x%b&rx+.&b+/&Yg%1uvb6kubg/uxx.x6xv.+rg6&6x+.6Wg/+Yv1+u/v+<ubY/Wgx./6rr++&%g&6xx.b%v&uY/1YuuvY_WbW/%vr&66&rg+6%v&bWW..bu/gYu1vuW%IN.br/.v&!b66rr+b%&&1v&9+bW//YW1&u%Y.5.b&&+xbP.6br6+1%xuExufYb%&%Y%1bu.6.++b6&gx1..61r1Y-1vugxWsxb.b.Y..t6+6.+xbb&vvN!6W,/YYYY,uxx%kr%+u#g+.x6gg++vb1&/vY.1WY/rYx.uu&x.5&%g&4gg.&6vuY+/%A&uvx+xWx/6Yrxyuuv+{6%v&Ygv.b6/g&+u%Y&WvruuWr/1Y&1%uWvgKbbv&vg/.g6u/++W%r&%vrjuW&/gY6v.u1v&,1%uu6gu.x6Wb.+.%r&.x&puW6/rYb1ru1v/+Ebu&vgW.r6%r&+.%uu+r6+mWb//Y11/6LrK+Y1W+.g%.&6.r6Y+vAuxv1++W1/6g)rv6xvW+x1%ugg..WW+r%Yg1%urrm+bbO/%gY6u6xv%+r1+u&x+..Wg//Yr%1u/rY+/bY&+gxr&6rv.+&1g&%xg0gWvu/Y/14uurxrxbx&vgrx+66r++61v6xxvM/W//uYW1YuWrr+xbr&ug&Uv66rg+b1/66x/PWWu&1Y%1xu%r&Yrb&&%g6GY6%rv+11uuxxu9.WW6&Y.1ru.r6Ybb6u+gb.16.r/YA1WY1xW+gW%u.Y.1&6+v6Yvbb&&g1mrW^rWYY1Wu6x%!&W..xgg1%6gr1g+b1&ux!rxWxrWYx%%uWx.UWb+/Wgg1b6vv1Yg%A&WxY.%Wxr1Yr..u%v+Obbg/bgv.v6/&yWx%Y&%xx..Wr1vYu.g6Wvg#.bv.6gu.j6u&YYx%xuoxrsYW&&YYW.v6gvv+Yb/vggu.Y6W/rYr%ruxx&YrW6/gYb./W&v/+rbubbgb.x6%/&Y&%&u&x6vrWb/vY1.u.uvu+6bW%vg%.r6./6Yv%6ubxbxxbG//gF.W6.vW+1b%Yrxi.&W+/bg%%b6Lx1YgbY/ugY.%6bv%YYb.e+xg.6Wg/1gg%16xv_xYbx/Wgx..b8v.Yr%+/uxg.bWv&4bg1!6&vYv1bx/%gr1.W/r++%%guWxvzBW/&zg/1Yu%vx&ub&&Yg&agW/rg+1%v.uxuf<Wu/Ygr1x6#vr+Lb&&+g6.gWxrvYU%/uYxuGgWWuxx&1r6+v&++b6&6gb+vxur/YY%uuxxW/6W1&&xO1&6xv6&.b1&vg1+/W/ruYv%Wu/x%+/bJ&6g1166/vb6Hb1&/xL_Wb&rWYu%%Ybx.P&b+&bgb1b6Wv11&%o&uxY!%%(r%Y%%.%Wvg#6bg&1&1116.rc.6%Y&WxxS.WWr.g+1+b%vvnbbvuAvY.7WgrY/x%x&%xr++WW/+gv1gW&v/#1b/uYx%.YW/rxY+%r&.x&+gbg/ggu1vbgvu+Tbuuxvv.xWWrr+/%&u+x6+vv&/vg%1/1gvW+YbW&xx+.rWYr&g*%6uvxb+vbb//gY1u+1v%+/b%u&xr.&Wgr6&1%1uvx1l/%+/ugv1W6vv%+rb.&&v&.6WvrbY/%1u&vsYubv/Wgr1%6rv.+.%+66%1.bW/r1Yu1XO.vg+%%b/%gu1.Yxrg+6%g6bx/.1W6/7Yb1Y6bvv+.%v/.gb.+6brg+b%v6-v659W1/Y%&1xu%vrY+b6&+xR.gT.rv+1%/6Yx%yYbY/x661/u.v&YgYg&gxx.vb&ruYB%u6xr+Fxbr/ru.166+v6Yv%b&vx&./x1r6YY%W6rrxXrb6/&x%1b6gvbY/%g&/xb.u%%r%Yx%%6&v/I&b1/6x11b6vv1Yu%.&uvB.WbYr%Yr%.661%M6%Y/bWY1.6/r^+u%v&Wx/.%bvr.Y61+66rW2bb//1Wg.Y6brYY%1x&%x&..Yg/gY61gubr/81b6&Tg6.Y6Wrx+%1+&.x60+Wb/gY%1vW1rg+,bW&YgW.xWxrrg./gu+xb7gW1/v6x1&WYru+Yb1&xWu.&6.r&x+.Yugx.dvb+//x+16Wxr%+x%+&rgb.uW+r6gv1Yuvvgw/gr/WgY1WWr/6+r%v&&Yx.WWgrbg/.&u/v/RuYY/%gx1%W&W&+&%u&6r_.1Wvr1gu.%uuvWaWu&/%gr1.W6r/+6%%&b61..W//MgW.6uWv.j%1Y&+g&.+Wb/++b1+&1Y6nLWu/Yg%.bu%rg4.gW&+g6.gW1r6+11vud/%egWW/xg.&Yu.r/++Y6&vgb.v61rbY#%buYv6 xW./rg.Ig6+vb+gx&&/x+./bYrbYY%%uxW&B&W./&g+.Y6gv.+vb.&/xI.uWY&gYx%.urv+X&bY/6vg.b6vr8+/%?&uxu.W%xD&Yr1+u&vgq6gu/%x/.u6/rg+ux1&%xx.%%r/&Y&1xu6vrzb%r/.xu..6urr+Wrg&1xr..b6/YY61&ubx+N1b/&txW.%6Wr6+%xY&.x&C+bb&WYb1bu1xY+{bu&Yx%x%6%r1+.+bu+x6dgb1&uY1.{6cR6+gbW&xx.pW6./YY+1/uxxbnv%Duxgo.x6Y//+rb%&rv+<vW+/rYg.Turx1a/%Y&%gY.&6x+r+/b.&&vg!1Wg/6Yv%1u&vBiu%x+/gx.b6rx6+&%+&6xg)xWv/+Y/1.uuvxiW%xu&gr.+6&%%+b%r&bv/JbW//YYux%u%vxc%br&+g&.x66rx+b%v&1x/a/Wu/xYW1ru%v/(.1&urg6.v6brv+1%1u_ruu%WW/rY%1&u.b1+Y%b&%gb.&611gYY%uuYrWY+W%/uY.1W6+rW+x%1u6g1.WWs/+Yx%Wuxv.+gW./%g++%6gvb+v1auYxA..WY6WYv%%urr+(.b+&+ggu<6vv1+/1Y1YxYogWxgvYr%.u&rgYxbg&vgvO16&ri+u1xu&xx(/Wr+MY&1+u6rv+rbv&ug/Fb6WrY+W1ru%xrCWW&WxYW1gubr/Y&b/&%guYx6brx+%1&6+x&_.W6b1Y%1vu1ru6bbuu+gWu&6%rr+.%&6+x6:rWb&xY11u6Oru+vbW&rg%/YW+rWY+1bu&xbt/W11YgY1u6YvWY/b%&ug..uW+r6Yg%bu&x1Aub9/WgY1b6x/%Y^b.&6x+.6Wg/gYv.1gYva(WbY/%gxrg6//+Y/%+&%xg/&W/r1Y/JhW+vYe1bx&}grmG6u/g+W%gu(xvv>W//(Yu.x6cvx+YbrW+g6.+66/vY6%vuxx/xWW6/YYW.r6%vr+rb&1rg6.g6b////%/u&xu16Wb/xY%.&6=v&+6b6b.gb.v61/ugg%uubxW+rW./rY..66&v6+1bb6+x}./Wy/Wgg%W6;x%b%bF/&g+.bWWvbYYb1rrx+.uWY/%g/%%6xx.uYb+/6gg.1x+v1Yr%_11xY.WWxr%Y.%.uWv++ubg/1gv.1W.rZ+W%Yh/xrywWr&+gu1+ubvg//b//1g/.0brrY+1%x&1xr..W&/+gb1gu1vv+eb/&+gu+Y6.rx+.%r&.x&M&W6ugb/1v6_v/+Ybu.&gbqrWvrrYY%&*%xblgWbuvxY1/6gvu+vbWuvg1z&bur&Yv%64+x1>vW1&ux&1u6/vW&Wb%&rg.h6Wxr6Yu%b6Hx1O/b<&Wgv1W6Wv%&^b.&&x+7bObrbY%%1bgvY#ubY&%xb1%6.v.vv%g&6xgG1W1r1g+1Z11vxVWbx&.xY1.Wgr+gr%v&bxv+hWb/ gv1YuYvvn%bru+xg.+W/rguu%v&1x/+Ybr/Ygu1x%.v&?.b&ug%r.gWWrv&&%/u(xuCYb+/xg;1r61v&+gb6ugv{.vWEr/ub%WuvxW+rbr/rg+1&;bvb+gbb&vvu./WgruYg%Wuxx%=r%x/&gg166vvb+rb16/x+.uWxrWYx%%u%x.Y&vb/6gv1b6/v1&%%+uWv6.WW/r%6Y1+u&v+Y6b//bg&1166rSY6%gu%r+.%W6r.1p1+u6vg+1b//1gb.^g/rg+W%xu.rg..W1/+x&1gubvvYQbW&HxE.Yb%rx+%%r6+6+^+bY/g++1vu1v/YY%Y&Yxx.xYxr/+.%&6gvWLgbr/vu&1&6cvuYx%.&xx&.rbWr6Y+%66vv6Ivb6//1.166YvWYr%x&rxb.&.WrbYg%b6/v1}/b1/ub%1W6xv%Y&rW&&v}.6%vrbYv%1u/vx9ubv/Wxg1%6&v.Y&%r&6xv.bg+/fY61Q6WvblWbr/%6+.+6&r++6%1&bx&.1W&/pYu1YuWr+K%b&/.g6.+6Wrggb%W&1xuh_Wu/YgY1xW%.+N.b6&+gb.gYYrrgJ1+uTxb?Yg//rY%1rW./t++b%&gg..vW.r&gY1vuYx.cx&Y/rY.1&Wgr/+g%+&vx%.uW;rugx1+uxvgar6%/&g+16Wvrg+v%v&/Y1.6WYrWgrgrurv/o&%Y/bgg1bW/rY+/%u&uxv.bWxr%g&1&u&vWj6W&/%gv11WurY+u%%&WrT..Wrr.g6.Wu6v.Zbu%/.g/.<WWrr+W1+&%Y/T,W&/+gb..ubrgf1W/&+gu.YW%ym+%1v&.grLYW6/gYb.ru1v6+7%&&Yg%.xW%&++.%6u+brevW./vx5.%6dvW+Ygr&rg%.r6.rWY+%%ugx%pvW1//gmqv6Yv%+xb.&rxf.&%+/uYg%1uvx1O/b//uvY&r6xv.+r%+&&W/.Wbv&+Yv1+u/bbQWbY/WvxUg6rrY+&%x&6vx.%b/&YY/1xuuWY!bbx/%x&.x6&rr+6+u&1xv.1bu&WYu1&uWgWm1br/.x6eY66r6+bx/&.x/jwbWbWYW1bu%8b!.b&&+xb4g6br1+1&Wu+xujYb%upY%.Ru.YY++b6&gx1Uv61/YYs.vuxxW9xb./1Y..x6+vW+xbb&vv4j.W,/rYYx1urx%Xr%+&Wg+.&6g.r+rb1&/vYuvWY/6Yxx.u/x.z&b+&ggg1.6vr%+/%Y&uvYwbWxr.YrvWu6vx76%v&.gv._6/bW+W%Y&Wxx+vWr/YY&1Yu6vg0bbvuug/.Y6urx+W%v&%rroxW&/gY61gubvbD11/+Wgu.x6Wrr+%xbuXv6j6W6/rYbr+6kv/+n1uuxgW./6%ru+.1uuYvb+vWb/uY1b/64vu+Y%%&/g%.W6.6gY+%6ugv1+/W1/%g76%6YvW+x%.u1g...W+1uYv%buvrPr<b?&+gYrr6rv%+r1+&.x+OgWgg/Yr%1u/rY+WbY&vgxYY6/v.+&1gugxg5/Wv&6Yu1Puurx+ubx&ugrx16&r++61v6+xvBWW/YrY61YuWrrY+br&%g&YW6brg+b1/Y6x/a.Wu.+Y%1xu%vr+Yb&&xg6*Y6br/+11/6rxuLxWW.wY.1uu.r6+ub6&vgbreWsr/YZ%uuWxWV/W%//Y.1&6+v6Y/bb&/g1.uW_r6YY.Wurx%o&W./&g+.+6g/bWyb1&uxe.WWY1+Yv1.6yx.ZWb+.rgv1b6v/1Y/%t&bxY.1Wx/1Y/.+66v+h1bgv6gr116//YYg%YumxxvrW&r.Y&.g6gvg+Ybvv&g/.<6u/xg&%xuxxrbYW&/+Y6.v.vvv+rb/Y+g6.Y6W/rY&%ru&x&r6W6/gYb./6Yv/+6buYWgb.x6%/&Y&%&ubx6+.W1/vY1.u6Yvu+1bW.1g1.r6./6Yb%66mxb6YW1//g,.W6%vWYYb%1Wx+.&W+/bW.%b6xx1b6bX/ugY1W6&v%+ub.u/x+.bWg/bY&%1uuvI&vbx/1gx..6uv.+6%+.vxv.bWvr1g_1KubvYCbbx/%gr1.W1r++b%g&1xv..W/upg/1Yu%vxt%br&rg&++xvrg+1%vu<x//rW6&xgr1x6Kvr&Wb6&+g6+gWxrvY+%/ugxu+gWb&rxv1r6gv&%6b6&ggbG/W+r/Yv%uvuxWAxW%&&xW1&6/v6vWbb&vg1 uburuYu%W1vx1?rW.&6&6166Wvbxvb1&/xjzWbWrWY%%%vbx.I&b+&bg11b6.v11A%+&uxY<%bgr%g+%.WxvgB6bg&1g%11WgrNux%g&WxxH.Wur.gv1+%rvx#bbvu>x&.5W/rY6b%x&%xr++vx/+gu1g1%vr71b/&kgb.Y61rxYb%ru+x&++%//gY11v+6vu+gbuuxvY.x6.rr&6%6u+x6}gbr/vg+1/6+vu+YbW&xvr.rW+r&Yg%6uxxbYvb&//gY1u6YvW+Wb%6r%6.&Wgr6Yv%bRWx.+ub1/ugv1WYcv.+rb.6&v1.6WrrbY&%16&v++Wb1/Wg&1%%brC+&%+ubx1.bW6r1g&1nuuvY+%b1/%gb1.W6rY+6%gu1xW.1W1/J6+1xuWvx+.+./.xC.+xbrx+b%v6Hv65-bY/Y&x1vu%vrY+b1&+xx.ggYrv+1%/6Yx64Ybr/xxu1&u.v&Yg1v&gx&.v;6ruYU%u6xvb>xb6/rxv1u6+v6Yv%v&vxb./xbr6YY%W6r1uyrb1/&6u1b6gvb+v%r&/xg.ub+rWYr%%6rr/N&bg/66.116&v1Yu%/&uxx.W+.r.Yr%.u&vWy6br/bgr116/ri+u%r&Wxr.%W&r.Yu1+W6vrGbb//1g/.iWmrYgWr.&%x&..W6/+6>1x61rbs1b6&BWv.x6Wrxg%11&.xWX+W%/gg%1rWTr.+jb%&YWV.x6%rrg+1Qu+x._gu1/rY11/WY/++Y%+&x1g./6.r&gg1uugvgHvY.//g^1uWxWx+x%v&rv1.&W+r6gv1Iuvv/T/&1/ugY1WWrr/+r%u&&+v.WWgrbg/.Wu/vWzu%1/%gx1%W&/6+&%%&6W/.1Wvr1gu1vuuv.MWxb/%gr1.W6r1+61+&bug.1W//FgW/1uWrg-%g//.g&.+66rW+b%&&1vro9WW/YgW.au%v&p.xx&gg%.gW1/W+1%uupWxOxWW/xY%.uu.vW++bW&ggb.v61/WYT%WuYx%ZxW1/rx.116+vb+gbb&vxv./%P!xYY%%uxx.Hrgv/uxg._6gv.+vx6&ux?.u%Y/6Yx1?urvYO&%Y/Wxv.r6vrY+/gW&6xY.Wbr/%Yr1xu&u1{Wbg/bx/.r6/rr+uYb&Wxx.%b&&WY&1&u6x/-bbv/1xuxu6ur6+W&W&1xr..b6/rY61bubY+,.b/&wxWCg6Wr1+%1b&.x&2+bbu<Yb.du1/g+Ybu&Yx% u6%/Y+.1tu+x6sgb1/bY1.x6s/%+xbW&xx.j+6./rY+grugxbKv%2+ggD.&6Yx.+xb%&rg..1W+r%Yg1WuvvTe/%s&WgY1%6x%u+&%Y&&vg.1Wgr1Yvxuuuv;OubY&6gx.-6rry+&%+&6xg++Wv/NY/1Yuuvg_W1xuugr.+6&r++6%6&brvuuW//YYu1xuWb6h1%&uug&.x66%.+1%v&1r/2+Wu/vYW1/u%r/+,%6&Yg6./6bO1+1%/uwvWH1WW/uY%gr6;v&++%bu%gb.W61%6Y+%uuYv%)/W%/%Y.&+6+v6+g%1%1g1..Wd&GYg%Wuxv.+gW.&+g+6/6xvb+v1DurxmDgWYYWYx%%urr++%b+&vgg>&6/v1+/1Yu/xY_/WxuWY&%.u&rgYxbg&ugvbu6/rh+u1xuvxx)WWrWvYu1+u6rv6&bv&%g/&u6urY+W%xurxrzYW&&7Y61vubrv+bb/&Ygur16%r/+%1&6xx&{gW6%1Y11vu1v/Y+bu&vgW.v6%rr+.%&6+x6yvWb//Y11&6i/u+&bW&rg%.r6.r.Y+.6Y1xbq/W1/ugOv.6gr%YWb%&ug./xWgr6Yg.burx1i6bq/bgY.b6vr.+bb.&bx+1%WxrbYv.NWYvT!1bYu1gx1%6r/++W%+u0xgrbWrr1Y/.Yu.vY+YbxW&g/1.6&/g/g%guxxv/%W//5Yu.xWYvx+rbrWrg&.+66/vY1%vu&x/YvW6/YYW.r6+vr+6b&u%gb.g6b//gW%/ubxurVWb/xY%.&6/v&+1b6Y6gb.v61/ugv%u6jxW%vW1/rY..6g%v6YYbbbdg../WQrug %Wu/x%+vW./6g+.66%vb+/b1;gxY.bWY/%Y&%%u&x./gbg/6gg1bW)v1+6%*&6xY.WWxr%xD%.u6v+abbg/%gvL1b:r,+W%Y&WxxRxWr&.bg1+ubvgp1bv.xg&-Y6WrY+1%xpux&..W&u+gY1gu.vv++b/u+g6IxWgrxY+%r+bxuN+W6&vg/1v6gv/vVbW&YgWKr61rrYv%&9)xbCgWb&/gY1/6/vuu%bb&xg%8&#&r&Yu%6%rxbOvW1&ugx1u6WvWYbb1&rg.s6W%r6Y%%buvv2_/bJ&Wx11W6.v%gY%+&&x+4bW&rbg+%1&uvdKubY&%x61%Wgv.g+%+&6xg#1bvr1gv1eW.vgsWbx&.%Y1.W/r+6v%x&bxv.1W&/KYb1Y66vx_.br&.vd.+6brgu&%/u+x/+Yb//YY%1x &v&I.b&&+vY.g6.rv+.%/uIxuGY%v/xY.1r6+v&+Yb66gv/.vWXr/Yl%uuuxWYxv&/rg+1&6gv6&ub%u/v&./Wgruu1%%uxx%Yr%+/&gx166rvbYrb.uux..uWrrWbY%%urx.+6%x/6g&1b/Yv.+/%yuWvv.WW6r%x.15u&v++bbb/bgb1161r++u%Yu%u%.%W1r./Y1+u6vg+1b6/1x:.jLWrg+W%xu.v/..bY/+YW1vubvvY;b%&5xx.Yb/rr+%%r6+vWa+br/gg.1ru1v/YY%x&Yx&.xrvr/+.%&6gvYKgb6/v&v1u6DvuYxr/&xxb.rWrruY+%6ugrYTvb+//g.1u6xvWYx1u&rx+.&Y%rbYr%b6/v.A/bY/uu%1%6xv%+r%+&&xx.6WxrbYv%1u/vgaubx/Wgr1%6/v.g&%/&6xv.bWvr1Y119Wu1%PWbr/%g&1.+1rYYb%u&bx&.1gg/YYu1YWWvuL%bu/.gW.+WWrxY11%&1xW_?+b/xYW1x6.rv^.b%&+&1.v6brvgO%buCx.RY.g/rY%1rW+v1++%+&gug.r61r/gYgYuYvgKx%1/&Y.1&Wgr6+g%v&vvr.uW8rugx11uxv/Hr+//&g+16Wvr%+v%u&/vb.WWYrWgr%1urvWV&b%/bgg1bW//6+/%%&uAx.bWxr%g&1Yu&v.R6%v/bgv11Wu.b+u1+&WuW.1Wrr.Y&.xu6vrVb%x/1gu.5Wu/&+W%r&%bYA+WW/+gb.&ubv/j1gY&Ygu.Y6W/2+%%u&.xu*+W6/gYb.%u1vu+?bW&Ygb.xb%ru+.%6u+x6Tgbg/vx1&Y6zvW+Yb%&xWg./b+&+Y+%%ugb&!/W1//vzG;6Yv1+x%:&rv0.ubg/6Yg1auvu1B/bV/uxx./6xrY+r6&&ux+.6bv/vYv1xu/uWpWbY/Wxr.u6rrr+&?.&bxg.bb/b/Y/1&uu+Y(bbx/%x&Pu6&r6+6x/&%xv.1bu&WYu1buWY6A%br/.x6M/66r1+b.+u^x/iHbW&uYW._u%.uK.b&&+xb}&6b/Y+1vvuNxu_Yb%u+Y%.xu.x/+Yb6&gx1u+61/rYc+/uxxWAxW%&xY.1W6+ru+gb1&vx1XbWOrWYYv/urv:or%+/%g+1b6gb/+/b1&/xDU/WYr1Yx%1urx.z&b+/%gg116vr7+/%+&urYyrWxr.Yr%.u&v&761g+/gv.R6/rY+ux&&bvr+&Wr/YY&v%ubvglb1vuPg/.g6urv+W1v&1v&+YW&/vY6/Wu%vvN1%u&%gu./6W%6+%%r&.v6RrW6/uYbu/u.v/+p%Wu+gW.W6%+m+.%&u+vbvbWb/%Y1//6*vu+Y%%&Wg%..6.WbY+%6ugv1+1W1&+gI++6xvW+x%.u6g.}gW+&rYv%buvrZo.bT&vgY6b6xv%+r1+&bx+#/WgIYYr%1u/rY+%bY&ugxgr6&v.+&1gYrxg_WWv+&Y/1auuvY+rbx&2gr.16&rg+61guvxv#UW/1bYW1vuWrr++br&+g&vb6brg+b%v6/x/7gWu/gYW1xu%vrYrb&&gg6.v6brr+1./uvxuLxWW/xY%1%u./&6bb6&vgb./61%%Y+1W6&xWl/W%.Yg+1&6+/6Ybbb&&g1.6Wn/6Yg1%uWx%a6W.W&g+166gr1+%b1&bxJbrWYrWYx1.u6x.n1b+v/gx1b6v/LYr%8u!xY1/Wvr%Yr.+.+v++Ybgg.gr116//Y+W%YuxxxuYW/r.Y&.g6Wvg+rbv1+g&.E6u/xgr%xu&xr+WW6/+Y6.vWYvv+6b/6%gW.Y6W/rgY%rubx&g.W6/gYb./6uv/+1buYugb.x6%/&WW%&6Mx61.W%/vY11/6rvu+vbWugg%.&6./&gW%6uvxb&+bz/6gH.WW1vW+rb%.+x+.&W+r6Y&%bu&x1d&bG/ugY1WW.v%+&b.&6x+.WWg&bYW%1uuvB_ubY&Ygxs%x+v.+6%+&bxg/YWr&aY61PubvY&/br/%gr-.6Wr++%%g&.xvn.W&&Ygu1Yu.vxx%br/.g&IgWWrgY+%vvWx/;IWu&xgx1x6gvr1bbu&+g64vWvrvYv%//bx65YWW&r&r1r6/v&%xbW&ggb_/W6r/Yu%uY/xb!xW%&&gw1&6Wv6/rb%&vg1aubYruY%%WWyx.NrW.&6g6166.vbxY%0&/x> WW&rWg+%%%xx.w&b+&bx.1bWgv1W1%+&uxYQ%v{r%gv%.&xvY-6bg/bxb1166r}Y&%Y&%xx^%bYr.Y61++rvvN.bvuIg%.>6WrY&r%r&%xr..Wu/+Y%1gu%vv-1b/&}vr.Y6%rx+.%ruSx&Y+%v/gY11vu1v/+/bu6Y%r.x6.rrY+%&{/xW+vbx/vg+1/+bvW+YbW6xvg.rWYr&Yx%66xx%+/b1//gx1u+6vb+xb%u&xW.&Wrr6bv%buvx1+ubu/ug&1W&gv%+rb.u6x..6W6rb6b%1u/vt+W+W/Wgb1%brv.+&%+ubx..bW1r16g1+uuvY+%bu/%xO1.xWrY+6%gu1v6.1bY/Mxv1xuWvx+.1D/.xx.+Yrrg+b%v6:rxltbr/Yu61xu%vrY+1v&+x&.g%rrv+1%/6Y1v?Yb6/xWx1ru.v&++1m&gg..vW%r/YY%u6Yr*PxW./r6W166xv6Yv1s&vx^./+WrWYY%WuxrvarbY/&gY166gvb+v%v&/xY.uWxrWYv%%WrvYZ&bg/6gg1b6bv1g/rW&uxx.WWrr%ub1966rYG6br/bW+.Z6/rHgu%W&Wx/.%Wur.gu1Y6brmFbbu/1/b.+6urYY%1g&%xW..YG/gY61g61r+U1b%&E6g.x6WrxY.1W&.x.O+%b/xYb1vWAW8+X%+&YuW.x6%rrg+1/u+vg0gY//vY11/WY/7+Y%v&xWv.r6.r&gg%1ugv/Sv%6/ugy1uWx/r+x%u&r&&.uW+r6gv1xuvvWT/&r/6gY1WWrrb+r%%&&bu.WWgrbg//6u/v._u1x/bgx1%6rr6+&%x&6vY.bW/r1g/1+uuvxSWxZ/.gu1.W6rr+6%v&bWSG?W//(Yu..uWv/^%b//.g&.+66/b+b%/&1xuk?W6/YxW..u%v&K.b&&+x+.gbbEJ+1%uuqxWUYg+/vg.7mu.vW++xr&vgb.vb1&YYc%buYx1lxb1//x+.v6+v1+gaY&/g1./bY/lYY1aux&&F&W./&xg4r6grY+vbg&/xs.ubx/WYx1xurg+q&b+/6xvxv6vrr+/g%&WxY.Wbr&YYr1&u&r+zWbg/bx/.16/r6+uxx&Wxx.%b&/vY&1bu6r.t1bv/1xuP/6ur1+WxW&.xr..b6&uY6.?ubsxj1b/&axW}Y6W/Y+%.xu+x&<+bbN.Yb.xu1gu+0bu&YgWO+6%ru+.1/u+xb gbb/&Y11u6}%v+xb1&xx.++6.r6Y+xvuvxb?vW1u+gS1b6Yvb+xb%&rg.z1W+rbYg%1uvx.=/1>u gY1%6xv%+r%r&&r+uvWgr1Yv1<u/brL6%x&/gx.A6r%W+6%+&6rgD1Wv/+Y/1guurgAb%ruugr.g6&%r+W%g&bv/+gW//vYu/vuWvxN%%&&1g&./666.+%%v&1vu+uWu/uYW.xu.vrQ.%6%6g6.W6b+&+1%/u_vW+/WW/%Y%p16Kv&++%buYgb..61.4Y+%uuYv%+bW%&+Y.Sx6gv6+g%1udg1IgWEW+Yx%Wuxv.XbW.&vg+vb6vvb+v1fuuxPT/WY6fYx%%urr+6xb+&ugg.b6/v1+/%9uvxY.1Wx/bYr1+u&r+CWbg/1gvr66urg+u1xuxxx..Wr%6Y61+u6vg+ubv&+g/.+6urY+W%xugxri+W&/gY61xub/v+6b/&Ygu.Y6WrW+%.rY6x&_gW6/vYbvWu.ru+&bu&vgW/76.rr+..&6bx6{rWb/&Y1.&6+rW+/bW&&g%+b6.r&Y+1b6nxbz6W1+bg+1u6Yr%g+b%&bg.%rW+r6Yg11u&x1F1bS&&gY1W6xr.r.b.u;x++rWgrbYv.!WYvq+YbY%.gx1%6r/+Ys%+uxxgY6Wrr1Y/.YubvY+rbxuug&1.6&/g+1%gu&xvg%W&/iYu.xu.vx+6br/6g&.+66/vY=%vubx/x/Wu/YYW.rguvr+1b&uKg6.g6brvY&%/ugxu++WW/rY%.r6%v&+gb6..g1.&61/uY.%uuxxWr.W./rY.1&6.v6+rbb&rg1./W#rugr%Wurx%w&W./ug+D6Wvvb+/b1&/x*OCWY&WW.%%u&x.E6b+.Vgx.16rv1+6%Qivxx.WWx&%gY%.uWv+J%bg&%grOqWxrz+%%Yguxv.%Wr&+gW1+u.vg%+br/1g/-YbxrYY+%xmbx/..W&&gYb1g6gvv&1bu&Xgu#xfxrxYv%rruxuz+W6&vY11v6/v/6bbu&YgW}rW.rrYu%&YbxWKgWb&/gb1/6WvuY1b%&xg%M&W.r&Y%%61cx15vW1&ugW1u6.vW.Wb%&rg.h6Wvr6g+%b1ux.D/bH&Wb11WWgv%ur%+&&x+.6b/rbY&%16rvhLWbY&Wxb1%6&v.ux%g&%xg;1W%r1Yu1dFxvxwWbx/%xr1.6Wr++W%g&bxv.1b1/mYW1Yu%vxn1bru.x/.+6brg+b%vuvx/Y_vx/YY%1xu.vr&vbuugxY.g6.rvu6%uuExuYY%+/xgS1r6Yv&YYbWuvxx.vWYr/v0%WuYxW+rW./rgx1&/gv6+gbbu/x%./Wrru%v%buxx%+&bx/&g&16!+vb+vb1uuuu.uW6rWu1%.urx.+6%+/6gb1b%1v.+/%5uWv6.WW1r%6x1Vu&v++b1M/bx=11bgrY+u%Yu%vx.%bYr.*11Yu6vg+1%%/1xx.I16rg+W%xu.vb..br/+6%1xubvvYfrg&ex&.Ymurx+%%r&.v&I+W%/ggW1v6Ev/Y{%.&Yg%.xYur&YY%&6grYPgW1/vuu1u6Zvu+Yb1&xxm.rWQr&Y+%6ugx1kvb)//gY1u6gvWgx1r&rx+.&W+r6Y6%bWv1ul/bY/ugx1W+6v1Y&1Y&&xx.6Y.r1Yv%1W/rg7ubv/Wg/1%W/r*Y61g&6x/.bR{r1Y/1o6Wr&jWbu/%&b.+6&r+Yb.{&bxW.1b+/;Yu1Y6%v.,%b%/.1P.+66rgY1Y1&1x.Jkxd/gYW1x6.ruf.%+&+gx.x6brvgG%1u_vg-Y+6/vY%1rW+/x++%v&gv&./61r/gY.xuYv/0x%+/&Y.1&Wgv%+g%u&v1%.&WJrugx1guxvWorg&/&g+16Wv.&+v%%&/1&.uWYrWYx.+urvY)&%a/6gv1bWvrg+/%Y&uW1.%W/r%g&.Eu&vg{6Y1/1gv116/rb+u%v&Wxv.%Wrr.Y&.Wu6vv4bb//1g&.Fbu/.+W%r&%xr..W./+x6/1ubv/Q1bu&96..gW%/b+%%u&.bxPgW6/gxb.gu1v6+0bb&Yxb.vW.&g+.%bu+..:xWb/vxD.&6Sv1+YW1&xg%.rb+/gY+1Qugu<#rW1//xYZg6YrY+x.+&rg..&bgbgYg1xuvu%^&bK/uxx116xrr+r&1&&x+.6bv/6Yv1&u/urGubY/Wxr.66rr6+&1%&bxg.bb/&gY/1buu&1:%bx/%x&PY6&r1+6/&&bxv.1bu&WYu.zuW/&X1br/.x6&%66/Y+b.u&1x/_lWu/vYW1/u%rvw.b6&+x6A/6br/+1vguYxb>Yb%/1Y%1&u.bg+gb6&ggb)v61r6YK%6uYxWQxW%&1Y.166+vb+gb%&vv1NxWArWYY%WuxvxEr%.+gg+1b6gv1+vxx&&vY?6WYr1Yxvuu&x.U&1+/bgg1.6vr++/1+&6vxJ1Wx/+Yr1xu&v+-6%vu+gv.g6///+W%Y&WvrAbWr/vY&1rubvg*b%/&bg/./6u&b+%%x&%v&v&W&/uY6//u%vv(1%uu+gu.W6W%P+.%r&.v6,uW6/%YbKx6<v/+Z%WurgW..6%&YY+%&u+vb{uWb&+Y1r66zvu+Y%%u1g%Cg6.&.Yg%6ugv1o.W1&vg7u16YvW+x%.YYg.P/W+uxYv%buvx1:bbl/bgY.66xv.+r%.u6x+.bWg1&Y/1+u/rYa1bY/%gxv&6&v.+&%+ubxg..Wvr.Y/1;uuvY+ubx/.gr.+6&rY+6.gu6xv!5W//=Yu1uuW/x6&br&+g&.g66%u+%1/6vx/UgWu11Y%1xu%/r+1b&&xg6.r6b/r+.1uurxu^rWW/gY%1ru.r6+.b6&&gbvW61r/Yi1WubxWV6W%W/Y.1&6+rb+ubb&bg11&W+ruYY1%1%x%O1W.F6gY166gr1Yxb1u{x;6vWYrWYx1.u1x.+Yb+/;gg1b6v/ogI%quxxY+/Wrr%Yr.+u6v++rbgW%g/116//YYu%Yu&xx6&W/r.Y&.g6%vg+6bv/bg&.<6u/xW/%xubxr.{Wu/+Y61g6uvv++b/&.gu.x6W/xY/%ru+x&/%Wb/rYb./W&v/+Ybu1%g%.x6%rrgu%&uxx6NxWb/vY11/6%vu+xbW&rg%./6.&&Y6%6uvxbivW1/1g mug%vW+rb%&&g.r1WY/bY6%bu&x1&gbY/ugYwWWWv%+ub.&Wx+{WWx/1gx%1uWvD+lbx/Wgx..W%v.+%%+.+xg.bWv&fgu1ju.vYYbbx/%grA+W1r+Y+%g&6xv.1W/&Y&Y1Y6gvxxxb&/.g&Ig6brgYv%vg&x&{_Wu&xgQ1x6/vrY/b&&+g69vb&rvYu%/6bxW!YWW&rg/1r6Wv&r+bb&ggbV/b6r/Y%%uxrxWOxW%&&gu1&6.v6grb1&vg14uxbrug+%WuYx%yrW./&x+166rvbYxb1&ux8SuW.rWYr%%+Yv+)Wb+&bg61b6/v1&Y%Y&uxY.WW6r%Yu%.uuv+O6bg/bg1116ur,+W%Y&bxx+%W.r.Y61+u6vg+gbvu1%Y.56WrY+%%xXgx/++%v/+Y%1g+&v/>1b/6tvY.Y61rxYp%r69xu+gW1/gge1v.rv&+Dbuuxxv.xWYrrj&%uu+x6+v%+/vgx1/%Yvu+YbWurx..rWrr&1%%6ugxb+/+///g&1u4rv%+xb%u&x&.&W6r6%b%buvx1+ubu/ugb1Wa+v%+rb.u6v/.6W1rbx+1Du/vX+Wbx/Wxt1%Y6rl+&%+ubxu.bbYr1r+1kuuvY+%bv/%xx1.g&rY+6%gu11+.1br/P.v1YuWvx>%%b/.gW.+Wurg+1%vu1vb70WW/Y6/1r6VvrY+%b&+gb.g+/r/+1%/utv.FYW1/xY11ru.v&++%/&gg1.vW}r/Y+%uWYv.RxW./rY.1&6&v6ggr/&vx^./WYruu&%b6rvA#rbY/&6%1b6gvbgv1u&/xg.uWvrWgv%16&rv_&bv/6xr1b6vv1Yu1+&ux/.WZur%Yr%.66v6F6bu/bYb116/riYW1#&WxW.%Wur.Y&1+6b6bybb%/1Y+.+6urYY%11&%x...1&/YY61g61r&-1%+&,/g.g6WrxY.16&.vgs+%r/vYb1vWevW+5%v&Ygx.v6%rrg+.vu+v/JgYu/vY11/WYr/+Y%u&x/v./6.r&gg/rugvWavb+//gd1u6Y/r+x%P&rx1.&Wgr6gg1/uvvn^/gb/Wgv1WWrr6+r%+&&6b.bWgrbYv.&u/vgyubg/Wgx1%6rrx+&%g&6xv.bWrr1x/1ruuvx4Wbx/%g%1.b&.b+6%v&bx/.1Y%/+gW.WuWv/z%xY&+g&.+b6r6+b%&&1x6)<b6/gg%1bu%v6F.+W&Yg6.gW1/W+1%buV&r?gWW/xg..Iu.v1++uu&ggb.vbhr1Y{17uY/64vW%/rx+x+6+rY+g+x&rg1./bY/.YY1xuxuxM/W./&xg.W6grr+v&&&/xR.ubx/uYx1&urrWI6b+/6xvkr6vr6+/./&6xY.Wbr&*Yr1bu&1AI6bg/bx/eB6/r1+uu%&Wxx.%b&OWY&.du6&Yh%bv/1g/<W6urv+W1g&%x&..b&/bY61vub%++nb6&}xWJ&6Wrr+%x+u+x&B+W6&QYb1&u1v&+Cbu&YgW.&6%r&+.%6u+xWlg%b&1Y11u6qvu+Y%Y&xv%u+6.r6Y+%bugbYhr%?&6gd1b6Y%/+rb%&rv..6W+r%Yg%.uvv.9&%YuvgY1.6x&1+&b.&&vg)+Wg/+Yvg&uuv5{u%x&bgx.g6rr%+u%+&6vvT/Wv/vY/./uuvYUW%r%rgr./6&W1+W%g&bv/#&W//uYu1bubvx,%%&&/g&.W661&+b%v&1vu+uWu/%YW{fu.vrR.%6&ug6..6bbr+1%/uZvW+7WW&+Y%Wb69v&++%bu/gbTg61+gY+%uuYv%6*W%&vY...6+v6+gbbu6g1.6W{/&YY%%uxv%+vW./6g+rr6vv.+v1Zu.xO.WWY%rYr%%urx.Yvb+/%gg1%6vv1+/%Hu+xY.%Wxr.Yr14u&/+H%bg/1gv116/r/+u.YYrxx..Wr/+Y&v/uWrv .bv&+g/rb6WrY+W.xuxxrlYW&/xY6.xu%r/+rb/&xgu/g6brx+%1&uux&)rW6bvY%1vu1ruYubu&&gWp.6.rr+.16uWx6^6WbYbY11/6}rWrWbW&bg%bxWkr&Y+1bW_xb<1W1WbgY1u6Yr%Y&b%uUg.1YW+r6Yg116gx1+YbVuvgx1W6xr.+/b.uxx+vYWvrbYv.i6Yve+rbY/.gv1%6r/+Yx%+u&xg%uWvr1Y/.YgvvY+6bxgxgr1.6&r++.%g&.xv7%W//YYu.Y6vvxF.br.Wg6.x66/vYb%vuFx/rWWW/YYW1xWxvr+Yb&&Yg6.g6brvg/%/uYxuNxWW/vY%kr6Fv&+gb6&ggb.b61&/WW%uuxxWcrW%1bgm.66Wv6+rbbC+x,./Wk&ugx%Wu/x%IuW.&ugY.bWvvb+ub1&%xY.uWY/%Yu%%uWx.uubY/6gg.1b+v1+%%D&%xx.WWx/.gu%.u.v+//bx/bgv,)zIr^Y+%Y6bxv.%Wr&+xY1+6gvgxubv/1g/oYbvrYYv%x%rxr..W&&gg&1g6/vvY6bu&jguHxbvrxYu%rv)xu=+W6&vxY1v6Wv/x&bu&YgW8rWvrrY%%&.uxWlgWb&/b61/6.vu/.bb&xg%.rb&r&Yx%66YxbV/W1&/xv1u6xvWu2b.&ug.M6bWr6Yv%b7zv:,/b{/ux/1W6/v%+/b.&&x+.6WvrbY/%1uuv:n6bYuWxb1%6&v.+&%+u+xg+bvfr1Yu1auWvY&+bv&.x/1.6Wr+ur%v&bxv+1bg/<Yb1Yu1vx+1b/u+xk.+61rg+r%v&1x/+YW%/Yg;1xr%vrB.b&ugxg.gWYrvyx%/uzxu+xWb/xgx1rfrvu++b6uvuv.vWrr//%%WuYxW+rbg/rg&1&Wxvb+gbbu/x/./W6rux.%buxx%+&br/&gb16W.v1+vb1uuxb.uW1rW+r%1urx.+6bx/6xG1bx%v.+/%_uWv&.WbYr%x.1+u&v++bv./bxx11i1r++u%Y&Wvr.%Wur.g/1+ubvg+b%&/1gu.>Yvrx+1%xu.xb..W6/+uv1vubvvR11+&Lgb.Y6brx+%%r&.vbI+Wb/gY11vu.v/gV1+&Yg%.x6%rrYr%&W+1vOgW1/vg>1/+rv6Yx1+&xxD.rYWr6Y+%6Wgx%hvb+//gg1uWgvbYr%Y&rxg.&xur6Yg%b6/r!P/bv/uWx1W6xv%Y&%x&&x/.6gxrbYv%16urgOubu/WvG116rv.Y6Y6&6xW.b&br.Y/1H6WrvAWb%/%6W.+6&r+Yb1r&bx..1Yg/+Yu1Y6%vra%%+/.vx.g66rgY11%&1vga;&g/gYW1x6.v%f.%v&+gY.x6brvgF%uuZv/DYr+/xY%1rW+.x++%u&gv&.r61r/YK12uYx1Kxbb/rg+1&W+rv+gb1&vW6.uWgrugx%buxx.HrY6/6g+166g/p+v%+&/x+.uWYrWYx1.urv+G&bg/6gx1bbv/++/%Y&uxY.WWWr%xr/6u&vgm6bv/b6W1.Wu/g+u%v&WbI..Wrr.x&1uu6vrJbb&/1x&.+WW/L+W%&&%W/O+W&/+gb./ubv6P1%Y&Ygu.YW%/g+%%b&.W+qgW6/gg1.bu1v1+dGW&ggW.xW.W.+.1}u+%xdxWb/vxI1u6:rY+Y/r&xg%.rb+/%Y+1xug/rnrW1//xYq+6Yrr+x1u&&g..&bg/vYg1&uvv&Kub=/uxxU&6xr6+r+b&&x+.6bv/xYv1bu/.xC6bY/Wxr&u6rr1+&+g&Wxg.bWv/uY/1guur+TWbr/%xr.g6&rg+6x.&1x&.1bu&7Yu1xuWW.-.br/.g&.v66rr+b%r&1x/2dWu/%YW1ru%v&d.bu&+v6.W6br/+1%/uyvHzY%W{.Y%1&u.v6++xO&xx1<&61r6YwvvuxxWfx%%/WY.1W6+v%+g%%&rvnpuW(r%YY1&uxx%lr%+u+g+1.6gx%+vb1&/vY;1WY/+Yx/6u/x. &%g/Wgg.g6vr8+u%U&uvxvxWx/vYrzru&v+!6%v&vgv./6/.Y+u%Y&WvrTYWr/uY&B.u6vg)b%/&vg/.W6u/1+%%x&%v&A+W&/%Y6&gubvvh1%u&vgu..6W+++1%r&.v6O%W6&+Yb0v6ov/+7%W+1gW}g6%r&Y+%&u+x6+6Wb/&Y1.r6^vW+Y%Wu&g%.&6.1xYg%%ugv1YPW1/ugJvx6xvW+xb%uug..WW+rWYg%buvx1Y+bT/WgY1%6xv1+r1.&Wx+.bWgrbYv1vu//j6xbY/%gx1.6r%v+u1g6rxg..Wv16Yu1luu/Y+Ybx&agr.Y6&/Y+W1vuuxv<YW/bgYW1YuWrr+xbr&xg&x!66rg+b1/6rx/QrWu6gYb1xu%r&Y6b&&&g6Yx6brv+11u1uxu86WWuYY11ru.r6+ub6&bgbvgW<r/Yy1W6+xWo1W%/1gD1&6+rbYgbbuyg1+gWYruYY1%ubx%+YW.1sg+166gr1Y+b1uxxdWrWYrWYx1.uWx.+rb+/rgx1b6v/-Wg%Uu&xYYbWxr%Yr%.uWv+F%bg&Wgv. 6//Mgg%Y&%xx/uW&/YY&.gWYvg91bv1ugu.F6urYgg%xuSxrOHW&/+Y61gWYvv+db/&Ygu.g6W&xg/%ru+x&*+W6/6Yb{vguv/+Ybu&xgWr661/&Y.%&uxx6/.W1/vY1d/WYvu+vbW&/g%*/Wk/6YW%6u/xb%bW1//gP.WW6vW+ub%rYg..&W+/bgb%buWx1W/b+/ugY.%W6v%+%b.xgxY.6Wg/1/1%1u.v}xWbY/Wgx..Wgv.Y+%+.Vxx.bWv&ngu1;6gvY%1bv/%gr?+W/r+Yv%g6&x/.1W/&Yg&1Y6/vxY/b//.g&VgWtrgYu%vvVx/<BWu&xx&1x6Wvrb+b&&+g6Lvx&rvY%%/xWx6JYWW/xx&1r6Yv&YAb6&vgb2vWxr/YY%u91x%y/W%&&xY1&6gv6/1b1&vg1./b6ruYv%Wuvx%NrW./&gv166vvb+/b1&&xc+ub+rWYr%%urx.S.b+u6b11b6/v1+u%s..xg(%b/r%Yu%.+xvg!6bgubxu1166rU+b%Yubxv-.b1r.Yb1+/+vgZbbvu?x1.!61rY./%x&%xr++W./+gZ1gxbvr#1b/uYgb.YWYrx%&%/&.x&+g+g/ggx1v1Lv/+^buuxvg.xWrrr&v%uu+x6+vb7/vg&1//gv6+YbWurvv.rW6r&g%%bugxb+/bY//gb1uWbvb+xb%u&xv.&W1r61v%buvx1+u%&/ux>1Wvrv%+rb.u6+v.6bYrb1B%.u/vMPu%,/bg/1%Wvv.+6%+u6vr.bW/r16g1YubvY+%%v/%g&1.+grg+6%g&bvr.1W6/aY61YuWvx9%%./.g6.+6brg+%%v6^xWTsWW/Yur1ru%vrY+b.&+g%.g+%rr+1%/u(x1QYW%/xY.1r68v&Yg%1&gg1.vx%r/Y8%u6xvx-xbJ/rxW166+v6+g1u&vxp./WYruYv%W6rvuBrb+/&%i166gvbY/,.&&xY.ubYrWYx%%Wr&%jubg/6gv1b+<rN+/vr&uxx.WWvr%Y/%.66uYqWbv/bWv1.6/rlYW6r&Wx&.%WYr.Y&1+u6u.L%b//1gu.z6%rY+W6Y&%x&..W6/+YW1g61ur0.bu&>xu.Y6Wrxg%+xuKx6^+Wb/gu/1/u1%%+TbW&Ygb.x61rr+.guu+x6#gW%/vY11/6Tvu+YbW&xb%./6.r&Y+%buxxbSvWbugxvWuW1/>1x1uuWs.+xbrg6g..+rvr6+buSuvx/WWbl/Y1rx.%xb+v6gg%r6rQ.+/W&&uY1.br/r%+YY.u&gghW/1/%1r1.v/r_}+YY&WYb.%u%W.YuuYu6gvObWg/1+b.;&brY5uYx&1.r..6r/Y%b1g&xvv.&b/r!&u.Y&1rxGW%r/+x&11W6vWY%u1u1gbrb+u&g.6xx6%x/Y{&Wu+Y1kxr.bvY.ub6+Tb+g&6&v1%.ru/ru%g%Wx.ublr/z//+Y1uu=vW.%+%&/.+.&urr6)%%%xrx.Wu+;/61g1W&rv%;xb./Sx+1rhgrbT.%1&vv+WubYrugx%&6rxx+&Wg&W.x.bu.r1 .18&v6Y-W6x/%+u.#v&r+..%gr.xv%1W&YYYu%KuWxcru+r&P1u.+&1rgX+%v/ux/1IW6g</W1x&bvr.xbug&g6%g6%+/+.ug1lxu1.WWvx/%1/v+v&.gb6/+gb%1.1r/DW%u&IxW1vW%vWg^6B6+x/+gWx&vY&vggE1%6YvW+xbW//vW+xWxr6Yg%buvx17/+lWugv1W6xv%+rb.&&&xg6WgWYYr%1u/x1Yv%/xWveiY/r/WY%6+6rv&bb%+&g./.b61YYY/%ux%vY_x/&1+/.vg1%bvv1g/%%6ux.+WWx&1!vx.W&v%YWuru%qrV1Wv&+1u.Yu&rx8v%/xvx&1+G6/x1Wgvu.9u+961&Y+b.xuYWr+.WWu+g&Agu1/v+b1&vAv6%<+W&xY6.ruxW&YY&Wugg&Bv6g//+ugu6gz%+v&^&/.+x&W+v&Yx&1ur..E/61/61g1W&xv1b&%ixxu+.WrWrb %%1&gv:.&bYvWgx%66rxr+&Wr%6xg1+Wvx.Y&ugu6:uAW6u/%+Wg.6u+g+6W&&bYr.1ubbGYub&uWguv%b/g+gu6x6W+vrb%rg.x&WWWuv.YWb1u1wuv.b&/qg6%g6bxu+1W/u:gx0Y6gbxY%b&6_?u++6.%ggb1Y61vvYHWbuYggvxW%rgY.b&6Ye.+x/.&vY/x/WQv&YYb>uv.%!r6x/&+b16u+vbO+b1r/x+W/8YrWNW%%/ru.lu/g/6+v1bugv1..Y;&ug+.W6Yr%+v1yvgvYWbbgrrgv%r./r=:/%gg%xv61Wrv%YuuYu6ggh%///..gxE6ux1+WbY&12xx.W&v&Y6bgubx_ ./6&KY&.gv1Wx+%bg&.Y&v+W6v%Ybbvu1xg+j61&g1W.vrB1uu.v&++b6&g.bvv11r/Yg%6uYxWmY%u&W..KxWrY6Y.1+vvv6Rb&q&vg/6WWhrY%r%W&%L+ArW&YbuvgbA/6+/uYC1bvxv%txb./vxYWuWx+1Yru6u&V+j6&+bWgx%W6/++r&%+/rxg16WvvgY/bu1uvY.Ybxv%gr%66u+x+6bY&%)Hx1W&YYYub/ub,xl%Wv/.YN.+uvrgi6%v/rx/1xlu/Y+h1x/1v/bYbug&g6%W6bx1r1%&xYxu1/WWvvY%bW1.vubgbWgrg%6/.1r/86%u/YxW16W%v6gi6g6+xgrgbb/+g1%/W++WYgu/1xx%1WW.vug+b66gx/rvb.g1x+6WWYvu/x%1x&vpbg++/W1v1%v&v.buY=&ug+.br.r1%&%./&v+1.bxgxgr666&+++6u+%Wxx1WW/Y+YuuYu6x+e%/r/1Yx. u+rg%+%xr%ur..u%/+nW1g/bvv.Wb/r%gu%Y6bYgr%%/x1u&yYrb/gq11v&bv/.v+u&YYh.x&1rr..%&/bx6.+:b/v+W1/&Ov6b/bbg/g%%.gY1&6+v6+gbbbvu%g/WF1WYY%WuxxWYY%xx&x%../g/&Y6u16gvvbub1&7.x.u6W+.Yx%rx6x.y+/v%.vr6S;6/x/W+r1%uxr=%rY+&6Y..buvr1+g1P/uvgbgbvg:&r1.&%r+.W%grbxv1uI//+%W1Y/Wvx./+r&81..YvbrgG6Yv&1gx_Pu1bYYWbWu%grF.Wx&++..guyrvNu%&x.xu1WWbYvY16v1.vubgbWggg%Wx61vrYUbguYYWvxW%vuY.%g6Y(%+gWW&vYg./uur6%6%W/xx1bvxY.&W+r6Yg%b%v6vx/bg/ugY1W6xv%vrYxb&x++xWxrbYv%bWgrv%u%1uw=xsuWWY.gx1rv6v.++&v&6gbW Wvr/%W1SuYprr.1%1+/Wvg1bbvrWg/%a66Y+rW%vxvxr16WuY.YWu&ubgvv1b&gug6W+.WrxD6%rr.xuW&W6r:Y%u&11v/.vburggW%x61+&Yfux1+xWWvW%gx/11/&6vu.YbW/tg%1gWIY/Y+bruggxvvW1rrgL%/.YvW.ub%r/g.1gW+x.Yx&1urQ+v/birogYbW6xx&+/&Y&&gC.66+rb_1Y1u/g%mu6YbWgxWu6rg.+u&+&W.xxbWvv&//1cr+vY.rbxrWgr%b6u+xr6%gv&xv%1W&Y+Yubbubj/v%brrrg&%+66vY+%&&&.{Bh+rbbYYW%Yu%xgv.bugggWWY.brv( %&xWxu1/WWvvY%bW6Sm6r+b6/Ygb%%61x1YzW%uYguHv/Y/r_.1uv+v6.gbbr.g.6uWXx1Yg&Wuxg6M//Y/u1.g66gxW+vWb&/Yx.uuurWsx%%&+vtWWb+rugg%u6r+++&&1%uxY1tWxx1YrW.u&xiF6W+/b+u1.v&rI:/%ggbxx1/W/YY6Wr++6%g&bxv.1dxWmYu6+uWvx-%bxuWx%b+br/&1b.+6g+/+bb1xYx/.ur%/YYxu&u%x.bgb&/611v&bYb6g%&W.xugrrlxY&u+YbvgW%YrY1bu6=x/+g&u%xg%1xW0+.Y+W.ux.bGv6g//+x16v16W+xWb&rY%.&u6r6i/%b/6x.W.b+gv&Y1Wu+v%.r+.&&Yb.6uWrb+Y%1/.v+b/+Y/WYY11v&v..u%+/&xx6bWvx1//gbuugvXW6&/%+Wg.6&xur6%gr%xrW+W/vxY6uvubdrv%brrxg&%Y66xg+%&/&.#gvRW6YxYWbru%xx+z&r%+g61q6bx%+.&1u+.WJY6u/x+g1r&bv&..b6r.g%Wx61vgYkbxugwu5v/r//1Y1uv.66+x/1&r.+.&r&rupb%bx/b%+.g..&W+r&g..+rvr6+buSuvx/WWbS/Y1r1Wu%+++rb&gbx+.gr/rb+1uY.W6gr1%r%.&rvYWWbxY1gv%b./r,h&%ggWxx1vWrvrY&b1u6ggE%/Wb1g&6/66+x+WbY%%x/W+WuYb/61xx%vv.ub/rUgu%g.WrxPvYru?p/v+WWYvYbb6u1g&++&&%Ygb6r6%vx+.bguYjr2g6r/v+bg/6++2+g/%&xYWxr6.vrYY&buggW8v6r//+%1u&YvW..+%&rYb.&u.r6fr%b/vx1.gbRr+&Y1W&rv1%+b.rux+1vWxYWYvbYu/g65u6Y.W/%r%Yr%.urr%+.ugu&x6W1bg/v1u116*+x+ubWg.xx.rr6r.Y+uvu6xbb4Y6uxubI/T1/&b.g&%/66x&rb%rx(x&WWRu/Y+&1x/%v/bxbugxg6%b.brvTb%&xYxu1%WWvuY1u&u.xM+Y&Y&x.&xv61vvY+&W1YxbWuW1Yug46/.+v6..bb/gg1%bWXxbYYbu1xx%11E./u1g16&&vb.rb1rbua.uurrWSx%%/bx.1%++/6Y!1b&661+/W6&6.x.W6YW%Yrbbu&grv6bgrWgv%b6/xb+ub#&WY6.%uW/2%6g+uWwvm%&-b1g/%r6ux/rW%x/+x/WYW&v%Y6bgubg6n./.&+.vxY6b+W+1&&&.grv+WWYvYbb6u1g&+c61%YgW1g6%vx+.bxu+g&wgu./r1+1&vY%buYxWTxW%/rr.xr1+v%+gbb&vg1./g!W&rY%1uxx%arW./&g+Yx1gv.+vb1&/xj.uWYbvrx%%&/x.n&b+/&x.<+/v/6Yb6Z6vv/bW%f&Y.r.W6%Y+Yr%&xbv+_g///bY16YeWWY/%Yg1.&&W++6bY&%#5..ru/Cou1Y&CvvW.b/gSguWE.6rxb.%vr.x/1vWuv&YWbxu1i&+y&x%+g61+6%+/r1%//bxu.kWWvuY%buu.xrr+bWg&g%6&6.Yr/l%6xuxbWrW%rxY.bu.+v6!+bb/Y&1./uvru4/YWuxg/iru./&+Wg66gg1rvb1/rx+6uWYvuYvuvurg6eu/b/6+bgb6rT1+/Wz&uYuxWWxvxYrW.u&gb W/r/bYx11&/r{NYYY&Wgg.%6xW.Y&bxuWTr7b6r/1+/.NuvWY+Wb+&%YWx.W&v.YWuvu%?6D./6&N+1.gvbrxwW%/xJx&1uW6v1/b1rv7v&bW+u&g1%.vrPr/%+Y&uY.W8x///v+W1/&1vu.b+W&v.v.ru6ru%.%Wx&xb1%!1/&1/1u&/vbbxb%/gg.1rW+vg6rvb+vb1&/x)/uh.6WY/%%urx.E&b+g6uxYb6&v1+/%G&uxY.W%16%YrxYuuv+96b+u&x6W1bg/v1u116M+x+ubWg.xx.rr6r.Y+uvu6xbbnbv//1Wvx.bb/Y.g&%.6W+v+bW%&1YuvKW6YxYWbxu%x:C.Wr&++%.gu6Wv+1bguog/wYu1/v1{1/v&v&.rbWgxg%6/61xuYVW1uYg&_x6W/r+Y1&&.66+gWr&v+1./u6WuYgu61xx%.eW.rrgYub6gx6+r/1&&.W.uuWWWYvuYurg%w&6b/6Y+1b&uv1<x%S//uY.Wu1r1%r%.&rv+1bbgrugv%b./rXmw%YrWxx1YWrvNY&b+uW-Wcb6%/.1/.>u/rY.%%xr%xr16D&/+:b1xx%vrbb+/&+1W.Y&%rxOW%/x%u&}YrW/g++1v&6v&bbb6xw&W.vv.r/%6Y&u+gVtg6+bvY1%x6Igu+g&,&v.!.ru&W&YY&Wugg/^vu1//++1u&Yvb%g+%&/./.&ubrW1+%%x6x11.bFv%gY%Y6xxYrr%zgux+1xWx+.YvbWu&A+Au66/b1u1%&r6.+&W.&W.vxbWvv&Y/b1u6mx_WWY/11r1.urr+!gYg&bYb.1u/b}YubbuWgbF%W+/.Yr.+urrg*+%rx>x&W: u/Y+61x/%v/bxb&r1g6%&6%+/r1%//bxu.RWWvuY%b.1.vubYb6/Ygb%66.+/YwbvuYgu{x6rbrY.%/6YT6+gW6&r1..&rYru+mYWuxg6Bru./u1r1Wvrvb.1v+G/bH/ugY1Wxxbgvr%Y&&x+.6Wgrb6vxY%/vp&YbY/Wgx1WbY/x1&1%u.+g+&b6g1xg.vrur1YiuxuuxWW.bx/r161.6++v/.1/.w&urYEY%vg%x/WYW&vYY6b1u%+gv1b&gYgu%/6Wxv+1uv%.x&.4W6r+Yb%xu1xv+9Wx&Y+W.xuuWr+.bvu+gYHx/v/v+r1/&u6u+g/b&v.&.rubr&L.%6/%ub:v6%//+11u&%vbb/b%/Yg.%%WY+6Yx&1uvgRM/61/u+v1WuY6%+rWu&&Y..66:r%1xv1Yc%+&uxY.u%H&Y.r.W6%Y+Yr%&xbv+Dg///bY16Y6/vub%%Y&x.&.%6.Yg&bYr..r6/;2%1gx16x0%WQ/.Yr.YvWrg,6%v/vx&WgWuvgYWbxu1+vv.bugug6%&6bv;+.ugu!gv5YuWbxY%b/u.xg+Y&u%ggb%r61vYY+u&uYY.Vx6W//1Y1uvvv6.gbb/Yg1%/W++WYYb uxY.O////&++1WrY6b+r&U&&.g.6rxWWYxbuurg% &6u/6+.gb6vx%+/Wv&uY..Wubr1%/%.&rv+.r+g/b+u11&br^.b%Y/Mxx16WrvxYuu+u6gg9%///1+..h&WrYp&%xr%x/W1l&/+n%1g&6vv.tb/r%gu1P6Wxu+%W6&.ggp+6Y/gz11v/1v&b.+u&g1%.vv%r/%Y%ux6x61&WbvrY1%x6Zx/+YWp%xg16/WnYgY+b/ux..Av6u/&1.gu6gU%+v&&%rg.1/W+v&Yx&1uvggo&/&/u+.1WuYv%..+.&&Yx.66+rb0/%1&xvX./bYr}gxb16rx6+&W.&6Yb/.gv116/rJ+u.Y.+&x.%1u/#Y&1+u&r.Y+uvu6xbbEbv//1W.n6Y+r+Wb%x+xr.&rb/+Ygu/ubx1bYYW%gu%gW+d/&&Y1..gu6rr%S%&xbx6bFTW/x+b1r&%v&.vb6r6gb%v61vYY+&buYg6ex66/r+%1&&666+x/.&vYU./u1r6%Y%W/xx1W%W.rRg+bb6ggb+vW/&&.+.6/+WWYxbWu/H+v&b+rrgg%66vxg+/Wu%uxY1YWxx%Yrb6uuZxH6WY/%.Mg16/x6+6&x&b.x.%uWr.ju1Yvrvg.++v/1+/xa66+x+WbY%%x/W1I&/Y%%1g&+vv1.b&gg&u.gr6rx?r%/xvx&1+W6v.Ybb%11v&bYbur/&W.xubrrw%Y&u+Y%ig6//vT11/&/vu.YbW/P&%.ru%r&=1%6/WubVr/+b/g+uW6Yx!+x61&/.1x&W+vuYgb6uvgYv/b_v%gY%g6xg.+r6.&&Y1x6Wx+.Yvb&u/gSt6/x/b.g11v&rS%x%YgWxxWWOvr1;&1+xbvY1.bxrYg/6/6u+%r6%g/Wxv1b_//FIW1gxbvx.Ybrr&&&.Yv.rg.b%rx}x/1vsu/Y+_1x/1vr1.b&rbg61+.brrb.%//1xu1gWWvbY1uru.g&+Y/b&x.&/&Y11/6;vu+YrW1&/%.r/&r&Y+%6u+r&+6&1ugxvWuW1/D1x1uuWX.+xbrg6g..+rvr6+bu<uvx/WWYv&.urgx2&6b/6+&1buYv15v%^/guY.Wuur%^/1 xWvYb+bgrxgv%/./r+%X%gg%xx1WZr/n%61Yvv6gw%///.16.+vWWY+Wbg&1_+jKr6/+B61g&+vrbrb&gbg66g6bYgr%%r/bx&1+WWY&Y%u&u1x9rRb6x+&W.vv.rrDx%&/Yx61&Bb/r1K1&vgv6bx+W&xYW.rugr&}u%6&;ubfr/g/&1g1u&W6W+v/1&rY6.&u.r6J.%b/vx.bv+;/u+x1bvvv%.W+.&u.Y.66+r%%r%1//vU.xbYrggv6r6rxxr&%+r.xg%%Wvx1Y/b%uug.MW6x/1.vg.6u+g+W&g&%7x.16r/9+g1Y/W%xuxx/..W&r.xr.&rb/+Ygu/ubx1bYb//u1%.Y6x+&+%b.xgx&.6r1/gYvuu-gr%/x+Y1r&6v&..bWg6gb%.61x//<%u//xW1vW1YugDu.6+g6+x&W%vg11rWPv+YYbYuxg+yr6x/u1/g66xO1+vWg&/Y+.uu/WWYxbgurgxv&bYYWgx6/6vxW+/W6&6.vxWWxvbYrW.u&gvk66g/bYR11&.WT+6&6&WYx.%u/r.+g1+&&vg.ubvrrg/%/6ux6+b&x&%gx..u6/+461g&uvv.Wb/r1gu%W.Wrvb.%/xYxuWg{6/g+W1v&rv/./burrgW%u61+br.%uxYx611W%g!Y.u.68gu+YWr&x+%xrW;+6Y+W.ugg/^v6b/&1/1u&bvW.x+%&rYx.&uYrW%r%%xbx11/b+g&&Y1bvvv%Oxb.rux+1YWx+bYvW1u/guvubgY1gx%g6rxxr&%+rbxx6%Wvvg//1+x6vY1%bxrWgr%/.&rYbW%g/xxv1uW&YW/u1Y/%vx.Wbrrxg&%v66xW+bbY&1gv&?16.Y6Wrx+W.Y6x+&+%b.xgx&.6r1/gYvuuu1v_bxbu/W1..x6r+6+.%+xv61xu/a%u/6xbWrW%rxY.bW6+g.rgbb/Yg1%/W++1Yg&1uxgrvrW.r/g+%&6gx/+r&+&&./.uu6rW}rY%urg1n&6.b6gg%+6vg.+/WU&uY%.br/W%Yrb/1&v+./bgvbgr6v6/xM+6&x&b4Ux%W/YMYuuxu6g/CbWg/.1/.Xu/rYP+%x/6xr1%8&/Y%W1g&6vrW.b/rzg66x6bY7r%%r/xx&1xW6r+/b1v&Yv/.1+u&YY6.xuWr/%+%&/rxWWgWbv%/11/&.v6bvbWr.g1WYW<+uYYuu1gxb.YW1v/g+u16gG1+xWr^uW./&g+166g%br6T1&6xK.uWYrWYxv%1b&.j&u//6gg1b6g/6Yb696vv/bW%4&Y.r.W6%Y+Yr%&xbv+Ig///bY16Y6/vub%gr%V6&x++6b;&bYv../rbHYub.uWgx(1/W&!1W.+ugrg(u%v/rx&WrWuvY/W1vx1vr./b&rvg6%W6%+/r1%//&uu0gr%/x+Y1/x.v&L5b6rWg%6/.1r/l.%u&MxW11W%vr/.1urQ66+gW+&vY+./u1WuYYb/uxY%i//+/u1%g66x+++v61&&./.uu6rb%u%1xuu._&6r/6+x1b&vv.b.%+gbuY.Wurr%+xY.u&ggEW/x/b+6g16&+u+uW/&WY..%u1W.YuuY16vxbubrggg/%16ux1rW%x//xr%.W&vW/61g/16vp1Wv&GYr.Yugrx4U%rr.xuW+WWYxYbb.u1xv+)Wv%YgW%r6%vx+.Wbu+g&Dg6W/v<11/&xvu./x1nxW%/rY.1&6+b+vgbbxrg1./WBr/g1.=rxru+W&.uxxrW6W./+1v16ub+_+vb/gWxK.YrrrW+%u+.6//r%%&%.x/vo1u+Y/W+u1%&/v..&%+//xg%bWrY%//1+xWvgbr+x/11%1.&%W++6bc&bYvx1W/vbYu%,uWg%v%b/gxgu6x66xbrb%rg1x&WWWur+YWbxu%gW+L&Z&Y.r.xv%rr%%Y/u+.WdY6R/xB11r&x6&++WI&gY+xv6.YyYkWu1YxW1rW1Y/Y.b%.+v6.&bbrrg1%/WBvxYYbu1xx%1&b>Yug+%x6xCb+vWb&&.1xuWg+bYxW.urg%t&6u/6+.gb6vg.+/W1&uYv.W6Yr%+v%.&rv+11bgr6gvb.6/x%+6&%&WgTx%W/YrY&bbu6g&-bWY/1Yv.Auv1vuWvxV%br/.+&vu16rgY&%r&1x/.1%v&/.W!_WYYrYW%%v+vrm&/b&+gg6/6bv1%Y%/&u.%lYWxY&u+Y1:g6//r1%g/6pxv+YWX&xY6./r1W&YY&buxl/vvW1vug+u66Yx*+xW?&rY%x&W+vvYgbxurSr*&/bbugg6:6v+>+rWx&u.Y.66+r%%rY1u/gYf6/%/b1v11vrv..&%+rbxxWxWvvrY/bu1uvY.gbxrx&r.)vur+..%gr%xrW%t//q+v1Y/Wvx.&brr%&&.+uurgM6Yv&1gg89uu/Y+r1vv?WYv.b&rug6%x6bvgr1%&xYxu1xWWrYY%b11.v&.1b6rggb%u61xbY4bxuYg<5x66/r+b1uvbv6.&+b&vYY./uvruav%bxxx%1rW.vbg+b66x+Y+vWr&/Yv.uuWWWYv&.urgxc&6W/W1x1%v/v.%YYK&ug+.W6Yr1%1%.&gv+.Y+g/b+u11&br+b%%YrWxv6.W/YW/&1+&rvg.6brg.&/.t&urg%T%vxPxr1xW&v1Y6%Kubxg716b%tg66u6b+r+%W1&.Y68+6&b.6bvb+1%/uBx/+1%)xxxu.Wr./xYru6u.v+bvb6/b.w.v6/+WY;%YxrxW.%/+%WvYubsr/ //+Y1uu7vb%Y+%&rYW.&u+r6G.%b/vx.W.b+Yb&Y1W&uv%./b.r&x+1v,grb+x%1&vv*.&bgYWgx%W6/+s+u&g&W.rxbWrYvY&uYuuxhvWbvY.g/66.&r+!r%xgbxv%1W/v/Y6u11Wvx.YbrrZg&%+66v*+bbY&1Y/ +/&bYYWb.u%xx+z/W&Y1W.gurrvwr%//Wx6W1WWr+Y%br6H+/r+bWg&g%6&61xbY+&6uYguFvr1/r+u1&&+66+gWW&r.u.&rYru0Y%W/ux1W1b(gxgYuW6x+Wrvb.guxU%1WYxbYxbY1rx..vb+rYgg%r6vxb+/Wg&uYr.WuxW%Yrbbu&grv6bgr6gru.6/x&+uW%&WYb.1r&/i1xg+u6g.Xb66/1Yx.+r&WY+Wb+&%Yrx.WuYvY6bgubxY-./u&w+u.YuYrx8v%r//b&&WgW.g6brgg61brTrv+/&WujxYWrWWr%1+1ru&9b++bgg/gb11rYr/+u&%.ru1r&(.%6/%xb1v=1/&1/16vxvW_Y+%&rYu.ur+r6++%b&+x11b+D/61x1W&uv%./%0x/u+.Wr6r%%&%.x.v2.gbYrugv6Y6/+Y+&Wu&6Y1.buvW1Y&u.1uvY.+bxrY&r.wv&r+.6%xg%xv1%W/vvYub%ub+Yv%b/g+g&%r66xx+%ux%1x/1+Wuv/YW%+u%g%R.Wr&+Yu.guxrv8u%//1xu1W4W/x+b1r&%v&o9b6/+gb1861x/Y?bv1YxW1x5%/r+11&&.vWbvbb/gg11gF}rudx%bx.x%.+W.rrg+%T6xy.rvb1/+xE%uWYvv/x%1xrx.1&bYYWgx6g6vxu+/Wv&uY..Wuur%+g%.&YvYW%+g/%.xg16/x.+ubK&b.v.%6Yr.+r1YxbvxWbbrgb&/.FugrY.W%x//ur7{r6/Y1vggubgrn./6&,+%.Yuzrv%v%/xWu&UYr./x%b1rvbv/.6burYgb6r61YYu.v}++b6&gg6++bgg/gb11rYr/+u&%uYxxW&W%r.1g1&u6 1+gbvgug1.wrxb%rrg.1gW+x./g%%x/x.bY+B/u+&1W&u6%+rWb&&Y+.6uWrb^.%1&vvL.&bgYWgx%W6/+x+u&x&6YW.b6Ur1</g5u6++vWbxrggr%x.&rYbb%gr1xv1bW/vvYubvuWxYv%brrvg&%u6W+g+bbY&1gv-:ub/Y+ugxu%xgp.6%&++W.xvbrvBr%&xYxu.IWWv/Y%%x1.v&.Yb6rgg%6/6.YgYHbguYYWvxW1Y/Y.%x6Y=%+x/%&vYb.&rBrumb%W/bu%Tr6g/&+.1Wvxv%b/b1r/xD1xhYrW+g%%&xvkWub+rvgg%+.vv.bu%(//xY%1WxvW/r%.&Yv+16bgrr&v11uvr 8rYY&WgY.1r&W.Y&b%u6g&VbWY/..rxh66+/+b&/&%YW..6xb+Y6bv1bvrW1b&gWgu%%6WvYr%%r/1x&1.W6v1Y%u&u.k1+!6u&YYr/xb.1ru.v&B.1ru&Xb++bgg/gb11rYr/+u&%uYxxW&W%r.1g1&u681+gbvgu6g+6rxb%r/x(6WW+x1Yx&.1vx1.xb:v1gYb16xxWrrb./Yx+1&WgvuYruvu/go46/x/b.7g%6rxu+&W+&6Y%xbWvvr//1+xWvY1%bxrWgr%x6&x6r6%g/Wxv1bW/vWYu%Qubd/k%WY/.Yv.+u&rgSvYv&...X_6x/g1u1vvYvr.%+&&+Yu.guxrvTv%//xxu1YWWrgY1uru.xr++6W&gY/.vuWr/I1%u/WuW:xu1/r+61urNv6./bbr%&1./ubru5Y%bxrx%1Wb4Y&g+%YYr%buvx1j/bo+uuvYW6x1%+rb.&&g.+rb&gbx+.gr/rb+1uYu/xuW%bY/x1&1%u.+g+&b6g1xg.vru%Y/&xvW;Kr/_%61Yvv6gob6W/1+bxX6ux.+WWx&1.WperW/++gggu%AW916b&kYx.gr/Wx+%W6&.ggpY/ubgYbbru.y6+cWx&YYr.xuvrrpb%&/xx61g{b/v+E1&v+vu./+W&v11.ru/r&_b%Wx.xb.YW1vbgfb1.YvW.Wb%rrg.%WW+vvYgWburL!s&/W/u+x1W&xv%.W%8xpxYWr grb++%1&vvS.Y+Y/b1u11vuv.Q+v+c.bg/bgv1bb1/+gY.r&1xx.%Wrr.Y&1+bWugK.bv/1g/.w6u1Y/%+xu;xr..W&/+Y6xg.%uvl1u.&pgu.Y6u&KgY6r6Wv%%+%r&&.bL+WgY/Yb%1vYv/Cu/%&Ygx6&6%v.%ggb%/61vxY+&bug.%Gvr%/r+/g&6Y7b+gW+&v+..&r.WuYg&buxgb^r6x/u1+16&.vb.v+1&/Yb.u6HrW_b%1xWu.<&6v/W1g1%v&v1.%%^/gxY1uWxx./r%./bv+16bgv1gvb16/xuru%gxxxx%%W/Yp/&1+/Wvg.+bvru&/. &brYQr%vxPxr11W&v.YWuxu%P/k16b&FYYxY6b+r+1u+%.x&1.WWYvY%uru1xv++/6&YYH.vrvr/%WY&u+gr;g6u/v+gg/6^x&+YWu%xg%1K6.vgY+W6ux.%Orr.//+&1u&bvW.u+%&rYu.&u+r6{%Ybur#a_&/WbugY%u6xg1+/&6&u.&.66Frb+gY1u&jg-u61/W+u1%&WrS%L%Yxrbr/bgv116/rw+u+2bWxx+&W/r.Y&%.Wrr&%b1+ug0/ZbW1gYg/1uv%rY+x&&&%g.WgW&r6%11guv-u/g%b1vv&vr.b+&&Y.Y.g&brvJu%//zxu1xWbY./%1r&1v&.rbWgggb%661v+Ycb/ug,gMx6Y/r+b1&&1vWb1bbr1&1./u/ruVY%W/rx%1rW.rgg+%Y.gv%brb1rux_1/WYvJ/x%%/Wx.1ub+v6gg%/6vxbr/%+g6xgWrWxv6Y/uYu&gb*W&Ybbgr6r6/xW+6up&b.u.%u1W.Y&bru6gxS%/&/.11.wu+rY#xYx&1.&..u%/+wW1g&+6v,16%&G+1xY6b+r+1&uu .6v+W6r+Ybbuu1g.+TWr%Ygb6u61+u+.b+1+xWWxW%gVY1%x65xg+g/1%xg1616.x&Y+bvugYbAv6!/&1Wgu6gjb+xW&&rY%.&u%r6ag%b/6x1.g+o/u+x1bvvv%.W+.&&Yr.6uxrbsv%1&Yv;./+Y/W+11%&1v..b%+r6xxWWavr1hug9uug.;W6u/%+u1.urW++W&&&bYv..r//+1m1Y&g6x-%61b.gu6+66xg+bbx&1Y.X+ru/g1rr/+%%r&.x&B+W66/rb1v6kv&+obu&2v/7u/%&Ygx6&6%v.%g%&&6.1_gWvYuY11XvxvucW/.&xgr66+gWW&vYb./uvru4g%W/ux%.gW.rvg+%&6gx+rvb.g/x+WxWYvrYvuuu/qve&6rb6gxu16vxI+/W1&uY/xWWv+%YrW.u&g&c6W+/b+r1.rgr+%/YY&Wg+.%urW.Y&%Mu6ggXb6b/1YY.+rxWY+Wb+&%Yr<wr%/Y%%1g&v6vF./u&a+1xY6b+r+%WW&.ggDY/r/x1Y1v&g6/++/W&Y+%.xuWrrlxY&u+g&^gu%/r161/&vvu.gbWrxg%1g6.vvY+b&ugg+vvW.Y&g+6x6Yx&+v&9&rY6.u/4W6Yx&1ur!uv/b+gRgY%B6vL%+rWb&&Y..6ubWbYruru/gWh6&^/b1u1%&16.+&Wr&6Yx.buvr1+Y1k&/6Ylb/r/%+&1.urr+..Yg&bg+.1u//h+v1Y/bvx.Yb/g+g&%166v++bW6%1x&WYW6YvYbur1%v/b+bug+g6%g6%+6+1W/u+.Wjg//./6%rr+.%&u+x6ru.b/&Y11/6Tvu+YrW1v/%.u6.r&Y+%6ugxbv%.1/6gN1u6YvW+x&%%u/..&/%r6Yg%bugr6+bunuvx/WWb;/Y1r1Wu%+++rb&gbx+.gr/rb+1uYu/xuW%Y/u+uumbv6bgr_gv%g6&+Y+uW6&b.b.%6Qr.h&g+u6ggMbWe/1Y+.iu/rY_&%xr%x/6.W&vWY6%+u%,Wh16.&C+b.Y&Wrxa6%rr.u&:YrW/g+6gvu.Q&+56W&YYu.xuvrrhW%&/uu6Rxr%/v+b1/&+v6bvbbgrg1W+6.vgYYuruggu>v6r//+61u&YvWtyb%r1&..&u.rW%v%%xrx1.vb+Y6gYbW6xx&+rW/%&xY6.Wx+.Yvbr1/vj.&bYru&x11vrv..&%+/+xg1&WvvgY&uXu6evvWbxr/&r1.uerYb.Yg&bY&.16x/9++1Y&rvx.Wbrrrgu6x66xx+bbg&1ggj+rbbYYbuxu1}&+>/Wo+u9/gYb1vub/gYvuuu1vdbxbu/W1..x6r+6+.%+xvx6.b/,/vY/uW6FvYbrY.W/6+x&+x/1&v+1.&r+rueb%bx/x1WWW.v&&+16uovb.vb.gbx+6bWYvx/x%%/%x.1&++/6YY1b&%v1.u%O//xY1/oxr%+Y%.&vv+1.+g/bY+11&br+bW%Y/&xvW:Wrv6Y&b+uW5x,%&+b1g/%+66+%+b&v&1.&*4r&/++&ggu%+xv1b&gYgu%/.Wrv%6%/x+x&1.W6vb/b1v/.v/.Ibur.gW%16%vx+.b+1+xWWbWbvv/11/&.v6bYbW/Yg%1v6.x&YY&Wux.1Tr/6b/g+u66Yg.+xWY&rY6.&u+rW1+Ybuvg_v/b+YWgYb%6xxW+rWx&&Y%x6WgvWYru+u&<+)6/x/WYY1%uY6.+u&&&6Y&.%rvr1_b1y&&vY.0xxWxWrr.Y&%.Wrr&%b1+ug_/KbW1gYg/1uv%rY+x&&&%g.WgW&r6%11guvHu/Y+61vx%vr.%bugYgW6v6bvgr1%//.x6WYWWvbY%%Yu.xpr+bWg/gb%v61v+Y+&W1YxbWrW%rxY.bW6+x&rgb%gbg.6uWMv//Y%bxrx1b+_./&+r16&xvb.vb1/xxB1rWYxWYvub1rx..xbYY6ggbb6vxv+/W1&6.x.WuxW%Yrb1u&g.h6WY/%1v11uvr+b6%gg%xvWiOrr.+v1+&Yvg.rbvrbg/%g6uxr+WWx%%xr1/h&/++/1g&xvv.&b/r1gu%v6WvYr%%/x+xuWxWWYv/b1v&Wv/.v+u&YYu.vv1rrh/%&/bx61WW%Y%Y.6gYg%uuYxWJxW%/rv.Y&6xv6+gbb&vg1//.+6uYY1ruvx%*rW%uxxrW6W./+1v16ub+;+vb/gWxM.YrrrW+%u+urx&Wbb+/g1/v?%+bYrrgx%v.rr=%/Y+&6Yv.%rrr1obgGuug.8W6ub%gr%u6&x++6W%%bxv1WW/vv/u1Y&6vx.Wbrr&g&%%6W+rrb%v/Yx/1UWuvxYWbxu%g.v.b&rWg6%g.brr%%Y/u+.W*Y6obxY1u&6dlW+Y/b&g+bxv6.YiYNWuug.bvxW1Y/Y.%Y6+gb+g6b&vYx./u&rud.%bx/u%tr6+/u1%16&&vb.rb.g6uU.uuxrW+YY%urg64&6Y/W1rgb6vxrr/%+gWxgWr?xr%+g%./&vYW.bxY.gv%/./ro.6%gg1xx1+WrvxYuuuuWj.vbbrg!g&6g6uxr+WWx%%xr1YW&v.Y6bvubxYQ16b&+1..Y&WWx+%bvun.&R+6Y/g+u1v&rv/.bburYgb6r61YYr.%&&Ix6.+Wbv.Y.u66^g%+Y6W%xg%%&6.vr/+%Wxgx%W/W.Y6&<1u&1vW.ub1g/x(66W+x6/g%b&Yx11bb+YWWY/rYv%%urx%Yx%rx6x.F+/v/6Yb6B6vv/bW%S&Y.r.W6%Y+Yr%&xbv+Pg//1+xWvgW1bvY.&r1.uYr+S&%xg1xv1bW&YIY6uvub+Yv%b/g1&&.+&Wrxb.%v/Yx&Wgwu/Y+v1x&vvr.gb&r+gW6v6%Y+r1%&xYx6WvWbYr/%1r&1v&..+6&gYW.vugr/o%%6xxxW1xW%vug;u&6+g6+gW&&vY6./uvWuYYb/uvZD>//m/&+.1Wvgv%b1b1r.x+6.WYxW/x%%/Wx.1ub+v6gg%u6vxW+/WX&6c+xWWvYb/r1#x6v+1.bgv%gv%g./r+bW%gg1xv6.Prr.+v1+/6vxb+brg+g/%u.urY.b%vxGxr1gWuYx/61g&rvv.bb&g+g66x6Wxbr%%r/6x&1.W6v.Ybbvu. u++&v%YgW1g6%vx+.bYu+Y6vgW%Y/Y.6Y.:vu.gbbg/g%%66.x%YYuYux2&vvW1v1g2b%6Yxl+v/1&/.Wx&W+vYYx&%urLcS/61/6161Wu+v%px+.&&Y..Wrgrbav%.xuv+bvxY/%Wxr%Yr%%Wxrr%6%.u+mvE6Wbg_gv1/vWr^+Y&r&Wg%W+Wrr&%b1+ugt//+%b1Y/%vx.Wb/Y.g&%+6W+6+bW%&1YuCfuu/Y+x1vx1v/b1+&&+Y&.xv1Wv+1bguLg/BY6_/x+rgru.g.++66&gYW.rruW/Y+uFuYgjivr%/r+b1&&.vWb&b%g&g1%bW,v&YYbruxgvI//+/&+u1Wv6vb.6b.g&xQ1gWYvgYxbr1rx.1bb+v.ggb.6vxg+/W%&uY/.brxr%tr1hx6%+%/xx.bWvrbxg.vrur1Y}uxuuxWW.bx/r161.6++v+6bbxqxv./rW/4YYurU>ru/+#b1g&6vv.r+/&+16.Yurrx(W%r/+x&1+:6/g+r1v&bv&bYbu/!gb6x61Y++.W%1+xWWvW%gH/11/&Yv6b%bbgvg%%WWI+&Y+W6ugg+9r/r/&1bgu6Yxgrxb%/vg.1rW+v/Ygbxuvg6e/6 /u+/1bvbv1%Y+.&&Y1.6ugr%%r%1&+vj./bYrrgv6u6rxu+&W.%6xx61WrYu//1(&&vY.ubxrxgr%%6u+++6WW&%.1.1ubb)Yub61Wvx.bbrr%gu6g66v++bb+%1x/1%WuvYYbuWu%xg+F&u&Y.Y.xr&Wv+1bgu#gr=Y6^bxY%b&1.v&.bbWgx&b.vu%r/MW%u/YxW11W%vrgmu66Y+r+x/%&r.%x/W-v+YYbYuxY.lr6//&+11WrYv%b/b.g&x+W&!YrW;W%%/ru.?u/g/6+v1bugv1..Y(&6.g.Wu.r%+x%./6v+16+g/b+%g16&+Y+6&%%Wxx%1W/YYY&bvu6g&8%/%/..gxG6uxr+b&/&%gY..u&/Y%b1xv&6v_./1&+1W.YuuWx+%bvun.&9+6Y/g+&1rv+6/++/W&Y+%.xuWrr_/Y&u+gYqg6g/v+d1/&&vu..bWrug%1g6.v<YYuu+gWb&vg1./61&vg/6WWOrY%r%W&%_+ rW&Ybg+1gv/vbi1&Y&/gu6%WYrx%&x+%WWx+.YvbYu/gv{6/6/b._g%6/+++u&x&W.vxbWr+.Y/bYuux4SW6b/%YY1.uSW++6W1&bgg..r6/+%61Y&vvx.vbrr6gu6%66vF+%u &1ggmt6+bYYburu%gW{.WY&Y1W.xv1rv.1%//bxu16PW/xz.1/v6v&./b6rWgb%/61x/Y+&WugO/vxW1Y&gtuW6Y_brgb%g&&1./ubrui/%W&+x1bvk./u1Y16&1v%%yb.g.x>1+WgYgYvuu1rv5W6b+v.gg%/6vxb+&&/&uYb.WuxW%Yrbxu&gYi66g/bYY11uxrB.u%gx6ux.1/vW.Yuugu6gv;bWg/..vxZ6ux1+WWx&%gY..u&/Y1Y1xx.6vM./.&4+u.Yurrx.%%r/+xuWxh6/g++1v/.v/.tbur.gW1+61+uYLur1+x61&WbvrY.u6Y}uvuYxW9xWWuYxxW&W%r.1g1&u671+gbvgug1.=rxru+W&.uxxrW6W./+1vx.W&b+gxgY%&6v+S+rW6&u=Zx6WxYxYvW1u/g+)uWA/W+.1%&6rt%gY+&6Yu.bu%r.%/1E&rvY.ubxrr&r1.uvr+.6%xx+xrW+W/vu/u1Y/.vx1%brr+g&%+66xbrb%v/?x&WWWuv%YWbbu%g%+E&g&++b.g&brv>/Y/uVg&cY6u/v%.1r&bvubbb6r&&b.rr%r/4u%6x&xW1xA%//1F1&&gv6n+bbr6g1%6Wqv//Y%W/6x%11bBY&g+%/6gx6+vW+&/Y1xuWYv&YxbYurga>u/+/6+W1%v/v1<v% rbxY1upxr%+x1?x6vYb+bgrxgv%66/xEuu&+}bbx/%gxGWW%g+gr1&vbr++g&/&bg1WYW/ru%%1Yuxa&-%W.ggg&16v1b/rYgu%/6Wx&+1uY%.xuWgW6vvYb%gu1gbr*bur/gW%v6%xr+.bgu+gYhx/v/v+gg/6(gb+YW&&xYv.ru6r&R.%6/&ubLvu./&1g1u&rvW.ub1g&&..&6*r6++%%xrx.Wubar/gg666xx6+rWb&&Y.x6WgvuYvW1u&9vmuWA/W+&1%&1r0b6%Yxrxx6%WrY%//1K/W6YsWWY/%Yv1.&&rYbW%g/uxv1bW&Y+Y6uxuWgbv%brr/&&.YvWrxb1%rg1x/1!W6Y/YWbu1%vr.+b&rrg6%/6%Y+r1%//bxu.!Wbgg/%1r&rv&.+b6r1g%6&61vrYsWu1YxW.gW%rxY.%g6+x/+gW6&r1..&rYr6%1%bvYu%fr61/u1+16u+vbBYb1r1xR1+Wg+%/x%%/1u.V&61/6+g1%vrv1^+%ErWxY1uWxvxY/uW1&vYWbbgv1gv%b6&+1ru%ggbxx1WW/YiY&b+u6g1!%&+/1Yx.+r/WY+b&v&1e+..6v/++&1g&r6v}./.&AYx.grurv%Y%r//u&A+u./g{%1rv+v&b/bur6gW%%gE1ru.v&++b6&gxxgvW+r/Y_%uuYxWDxY9WrY..v6Yv6+gb66+vgb/bb/1.Y./6u+%YY%xx&x%../g/&Y6u16gvvbub1&{.xv%HYb./rx+1vWgvxYr&.u&XbvubgYbgx%/6rx%+&Wb&W...bu.r1+vg}u6>/KWWY/11%1.&%rY%Y%xx&uv..ru/?j11Y/bvx.Y+r/.Yv.+uYrghr%rx_x/118u/Y+&1x&Y6rs.W/&+Y&.gu&rvEb%//rxu1/WbYr/%1r&%vubYb6rWgb1Z61x.Y+&Wugl/vxW%rYY.%r6Y+&rgbbrbg1%/WTvxYg&1uxgbT//Yb&g+bb.gv%%Yb.guxw1/WYv//x%%&vvoW&b+r&gxu16vxr+/WY&uge.brvr1%&%.&rvYbubgrugv%r6/x&ru%gg%xv6%W/Y1Y&%Zu6gW8%/b/1Yx.I&urg%6Yx&%gY..69/+++1g&+vrW1b/r%gu%Y6bYgr%%r/uxuWxWWYgY%u/u1g.+2Wf&Y+W.xu6r/%A%&/Wx61gW%gx/11/&+vu.YbW/+g%1j6.x&Y+WWux.bNv6b/&1&1u&.vW.bb1gbg.%&gx166gvb+vb1p/ubguWY:}Yx%%urx%&u.g.Wr1WbYruYu&RTEu66/W+1g%6rxx+&WY&6Yg.b6Yr.1Y1l&Y6YwWWg/%Yx1.&bW++6bR&bYv.16r/n+/1gxWvx.WbrrW&&.+urrgi6%v/gx/1uVu/g%b1x&bvr.xbug+g6%.6%YTr1%//&xu1uLW/x+u1r/.vub+b6r.gb%661vYYVWuuYY.9xu%brY.%/6YI6+gW+&vY_.&rkruQY%bxrx%11W.rggYuW6x+Wrvb1ruuo.6rurWUu%1xrx..vbYY%gx66.vv1fr%H//xY%1Wxx%Yrbbu&gvUW/r..Wvr1Y/1Uuu%YrY=x&9gr1.6&r++6ug11&v.1Gv/+Yu1Yuu/-YYuruWx%b+br/&1b.+6g+/+bb1xYx/.ur%/YYxu&u%x.bgYbbv11v&bYb6g%&W.x&1r/%Y%&/vx61&W%Y%Y.6g.Zvu.xbbgvg%%W..ru%1%Wxvxb.g{1//+g1u&%vWPYb1g&g.%&WY+bYxu&.+x.br+H/61g1W&&v%.Wb./gx+%6WxY6/v%1/.v7.!+Y/b1r1%&Wv..u%Yxuug.b6xr1+v1+x6vY.rbxrYgr%g6&x1+Wu+&%pgx1W&Y&Yub%ub+Y}1/1/.YY.Yv%W.rb%rxgx/11W6YxYb6g1%vr.++&&Y1b.g&1rv:b%//vxu1WkW/x+&1r&/v&.1b6rWgb%%.1r/ v%6xgxbWrW1gY/.1&&u66+gWa&vYb.&r/ru2/%bxxx%.gW.r?g+b..gvb..b1/Yx0%1Wg+%Yxb/urg/v&+%/W.Ygb6vxr+/W/&uYg.Wuxr%U&%.&gvYb&+g/%1/11&bro.6%gxYux.%6x/G%6g+u6x^ b6%/.1bxG6ux/+WWv&%Yr..6v/Y%%1g/16vH1Wx&Q+uxY6b+r+%WW&.Yu-Y/ubgY%u/u.K6+?W&&YYu.xuVrrz%%ux+x61WWbr:Y.6g6;xr+g/1&v.WxrWD+.Y+bruxe/Hr/r//+616vv6W+xW/&rY6.&urr6Gb%b&+x1.v+b.bWYrWYx%%urx./_f+/%gg1b6vv1+/+i%W&Y.1Wxr%Yr%.u&%+v6{g/bU&116/r#+/116{+x+ubWg.xx.rr6r.Y+uvu6xbbFbv//1W.^6Y+r+Wb%x+6W+x+bb0&1Y.Q}6T/g1r1x/.vr1.b&r6&6.gu/rvJg%&x/xu1/WWvvY%%g6J0W+Y&&%gg%6r61vgYhW1ug.%hxu%/r+b1uvx66+x/%%vg11gWsv/YYbGuxgd9r6%b&gYu.6xL.+r&%%/x+66WYvuYxW1urY.X&6W/6+ggb6vx++/W%&uY6.Wu.r%4r1sv/6+8W/v/%.*g16/x1+uWg&b...1r%r.+v1Yvvvg.v+v/.1&.>u&rY X%vg%xr1WW&v+YWuvubxg*161&!Y/.YugrxU+Yr&.Y62Y/v/x%11v&gv/.6burYgbWY61+.+.b_u+ggvgW%Yr/11/&bvufsbWrug%%...ru%x%Wxgxb16W.Yug+uu6g+ruxrWw/W./&Y.*rW&Ybg+1gv/vbq1&Y&/gu6%WYrx%&%%&. g^&W6Y1gg1vvubgY%gx%Y6rx6+&W.&W.6.bu.r1m/gIu6++vWbvY.gr%x6&xY+6W&%bxv1+W/v1YubxuWxYZ1/r&a.rx+66vt+bW6%1x&W+Wuv1YWbuu%g.v.b&rvg6%g6bxW+1Wb1(xu.+WbYxY%%x6:M6++WY&g+1.vurr&%Y%6x1xbWvW1gv/.1&&%v6z=bbr6&1.&r.WuYg&%uxgY r6f/&+rg66gxu+v61&&.v.6rvrWX%Y%urgx^&6Y/6+g1buJv1-vYe&uYx.brvr%_WY.u&x2C66&/%1v11&br+bW%ggWxx%%W/YxY&b+uW++vbbrgvg&6Y6uv^rW%vg.x/W6n&/+J.1g/%vv11b/r%gu%.6Wxx+1uv%.xuWgW6v&Y%uvu1xr+qW+&YYr.x&%Wr+.W%uY;gLg6+bvY1b66)x/+Y6.&x+%.ruWr&MuY6ugY1vvW.Y&g,b16Ygb+v&b%rg.1/WY+6Ygbxuvg/e&/Y/u+6gW6xx6+rWx%&xY6WWgv&Yvbbu/grTu6//b1b11rY1Yu&v+I6bg/bgvYs1/raWw%Y&Wxx.W%Y&x.&.%6.YgY&%6x1vgov/u/1gQ6x6uvWb.%x&r.6..W+Yv&1Y/;>6x/Y+8gxu%gW,.6u&++6.guurv.1%&x.uufY66/xs%1/v+vub&b6r&g%6v61x.Y+&.uYYWvxW1gv/.1&&/v6.&+b&r././u4WuYg&%uxY.!r6%/&+6g66gg.+vWW&/Y&.uu%rW+Y%%/.u.i&6r/6+x1b&vv.b&%n//xg6b,xr%+v%.&r6+_66%/%1v1.v6rU.b%gg1ux.%6v/;%W1YxWvg.rbvv1g&6Y66+1rW%xr1x/WYW&vvYWur+bbg&1x/48W/&1xzWxWurW%.1xur 60.b+gvg61br>rv+/&WuJxYWrWWr%1+x6.+W%YrY1%Y6cx++YW&&x+%xr6.x%Y+WWuggxXrr1//+11u&xvW.xb%/gg.1vW+x6YxuW1vx.W6+ /61x1brg6%+/&k&&Yr.6u.r%1+%.vr6!ou61/WYY1%&16.+&Wx&6gQ.bu%r1+Y1+vxvY.K+x/11r1.&&r+.W%xx/uv../rb;Yub&uWguv%b/g&g&%+.6rg.1Yv&1Y&zXu1/g%W1vvgvr1.bugr&6.g&%rvcg%//Wx6W%WWrIY%b11.vubub6/yg%6&6.+/Y#bguYYW,x6u/r+/g&6+gW+x/.&vYY.&rgWuYYb6uxgWNr6g/&+.1WvWvb./b1/vxL1Y5YrWP&%%/rx.16b+rYgxu16r+6r/%z/+xY1&Wv+.Yrb/u&g%)6We/%1&1.rvW-+6&g&b.r.1rrr.+ 1+&Pvg.rbrg+W6/yYu1YuWvx6%Y1W.gW.+66rg+b%vE16/xQWu6uYb1xu%vxYW%%v+vr;&/b&+gg6/6bv1%Y%/&u.%aYWxY&Y%%.vgv&q6/11&v+vu.%bbg.g1616.vhYYuYux*&vvW.Y/gZbu6Ygb+xWW&rYf.&ubrW1Y%b/ux.bg+9%vgg66.xv1brb.r&xY6WWx+%YruMu&LwXu6//W+.11rvrk%rY+&6gp.b6gr1461s&+6YQb/r/%+&1.urr+..%g/&xrW+;//=e61Y/WvvW.brr/&&x%66xv+bbg&1Y1w+/v/Y+/1vvA6rP.6%&++%.gu6Wv+1W6u:g/TY6r/x+W1r&+vubx+6&gYxxv61x&Y+&buYY.ov/HbrY.b%6+gW+g6b&r.r./u&r6%x%bvLu%er6+b&g+%/6gx++r&.%/xj1+WYvY/x%%/6vfW&b+r&ggb%6vxb+/WY&uY6.Wu1r%2rY..xv+16+g/bYx11uvr+b6%Y/rxx1Y;rr.+/1+/.vxWbbvrgg/%u6uxr+b&/%%xr1bW&v+/61g&&vv11b&gYg661.WrxevYr&.Y6 Y/v/g0%1rv6v&b1+u&YYg.xuxWr+.bvu+Y.Jx/%bvY1bu6+96+YWS%xg16/6.x6Y+bYugguJr/u//+vgu6Yxv+xWW&/.A.urgr6*Wg&+&b1&/x .uWY1W&v+%urxv0&b+/6g+>&W6Y1gg1vvuv1+_&x&ugW6.Wxrr%6%.u+9vS6Wbgqgv1/vWbvgxgr%/6u+Y+W&v&bggx1W&YJYub/uWg1S1///.YL.YrYWg+bb+&1gxcfu1bYYW%+u%grv.bugrgW6r6bx1r1%//.xu16WWvWY%b6u.xr++6b%ggb1g6.+uY+&1uYY%hxu%//1+1uvbv6.vbbrvg11Yc_ru+t%bxru%=r6r/&++16&1v%bWb1/rx+6%CYrW+8%%&xx.1%b+rgggbb.vv1^x%+gbuY.brrr11v%.&vv+.Y+g/%1r1.rvr,.%%YrWux.%uWr.Iu1+&vvg.6+v/.1u.l&WrYqu%x/Yxr1&C&/++r1g/bvv.6b/rqg6666Wxbr%%r/xx&1YW6v&Yb%+11v/.vbur/&W.x&.r/%p%&/rx61b2b/v+&1&vx6u+g/b&v.&.rubW&Y+WWugg/^r/%//+x1u&66W+v&d%rxm66W+xbYgb6uvggf/6u.bWYrWYx%%urb.r/L+/6+11b6vv1+v1bu1+Y+/bug%xY.xr&r%+.ugu&x6W1bg/v1u116h+x+ubWg.6&x++6W1&bY6x1W/vbY6uvuWg&Z%Wx/.Yv.+u&rg..%v/rx/1uOu/Y4%1x/%v/bgb&rbg6%&6bvx+1W.uDY%9Y6,/v1v1/vW6&+Y/b&x./xv6.+&Y+uxuYg&vxW%rvgEu&6+x&+g6%&vYu.&r.ruDr%W/bu%X//+/u1x1Wv&vb!Cb1/vxN%%WgYrYv&%urg%}&66b6gg%W6rX1+/W1&6.g.brrr%+xY.u&gWi6W+/bYx1.v/rQh/%Y/<xx%1Urr.+v1+&Yvg.gbvr&g/%166+Y+WbY&1./..6g/Y1v1g&v6v_.&r%#gu%&6Wxur%%r/ux&1.W6rKY%ubu.^6r=b6gxgW%r6%vx+.W%u+ggvgWbr+Y1b/6yxv+Y6W&v.v.ruxW&Y+b/ugYbvvW1rgg %/6Yg1+xWv&rY6.urx16/gvb+vb1&vvbE1&Y&/gu6%WYrx%&%%&.8g!&W6Y1gg1vvuv1+s&x&ugW6.+u&Y&W.1.b6Yr.%61e&xvgb6+x/%Y7.!vWrYb6%xg1xv1rW/v/YubYuWx+ 1///.YY.+u&rgNvYv&...cq6x/g1u1vvYvr./+&&Y.uxg6%+/+1Wb1kx6WWWWvx/%1/x.v&.ub6r1&b.vuFr/ev%u/.xbW.m%//1x1uvxv6.&bb/+&1./uYr6%g%W/1x1WrW.rrgY6&.gvb./b1/Yxc%1WgYYYvu=1rvIW6b+v.ggb%6vxgr/%+g6uYv%Txr%+g%.&rv+1%+g/b+/g16/xv+uWg&b./.1r%r.+Y1Yx%6g:b6%b1g/%666+Y+WWb&1.%lHrWb+Y6bgu%-vQ.//&+1u.gvWWx+%Wru4.&TYr6/x%b1rx1%/vvxu_YWW/Yxu.Wr./xYru6u.v+bvb6/b.V.v6/+WYn%YxrxW.%/+/rY&ubwvuN/&1Wgu6g+Y+xWY%rg.%uW+vvYxuW1vx.br+l/61W1W&x6%+rW1&u.+.6uWrbRu%.x669H6/x/W+r1%uxra%rY+&6Y..buvr.%u1+xbvgbgbxr/g/6Y.&r+.b%xgbxv1bW&Y+Y6u6ub_/z1&xb.g&%g.6rgZS%v/rx/1YWuvYYW%+1%vr.+b&r.g6%66%Y++1bgu+.bvYWWvWY%br1.v&.rb6rxgb%v61vYY,b/1YxW1b{%/r+b1&&+vWb6bb/Yg.66<=ruf/%W//x%.x4./&+g1Wv1vb..b.g/x+6bWgYYYxbvurg+n&6+/W1v1%r+61+/W%&uYY.brur1%u%.&+%x&6xg.bWvr1Y/+W%uvYxbbx/%gr1%bx/r161.6++v+6bbxsxv./rW/IYYuruWx%b+br/&1b.+6g+/&HYx.gv1rxBx%rr.x&11W6vW/b1rvrv/.abur%gW%x6%x&+.bYu+Y6vgWbv6Y1b&6mgu+YW&&x+%./r11&b%vW+gbb&gv6pb&^&vg/6WW-rY%r%W&%l+mrW&Ybg+1gv/vbh1&Y&/gu6%+/&+&&Yg.66+r%1xY1u/g+Nu6Y/W+v1%ukv..&Y+&6Y%.b6gr1+Y1+v&vgWbbxrWg/6r6&x1+6WW&%.W.1u/b8YubguWg.A1&v/.+b.+u/rg.b%rx%u/DX6v/Y+&1x&Y6r{.Wx&+YY.guurv)g%&xYuuOY6Y/xD%gru.x/++66&x.g.vu&r&%gYuug.b5v/K//1x1&&+vWbgbbr%g11+WPv/YYW%1xW=vrW.rxg+b.6x_%+r&%&&.r.uuYWWYxb+urgx0&6b/6+g1buav1./YA&ug4.W6+r%qrY.u&g&066//bYg1.vbr7Kx%YrWux.%u//l1g1YxWvxW1brY1g/%v6ux/rW%vxxxr1xW&v%/61xvW6v)1Wr&+1u.YuRrxm+%r/1x&1.W6v1Ybbvu1g6+_6u&YYrxx6%vg+.W%1+xWWrW%YrY1%r6lg1+YWr&x+%xrWs+uY+W1ugg+Bv6u//+q16vxvb%U+%&rYW.&u1r67&Ybuvg6</6&/u+.1W&uv1b&+.&&Y1.6ugWbYvb%u/gm*u61/b.g11v&rh%xvxz6bg/bgv116/ubvu%v&Wxx.%Wrr.1&gr%6vg.ubv/1g/11bv//1W.y6Y+r+Wb%x+xr.&rb/+Ygu/ubx1bYb//u1%.Y6x+&&Y1W.guWrvQg%&xlxu11WbY./%1r&}v&.rb6r6gb%u61x/Y+&uuYg&Mx6W/r+xg&6YE%+x/1&r11./uvru4g%bvpx%1WP./&+r16&xvb.vb1/xx+WxWYvx/x%%&vx.1&bYYWgx6/6vxW+/W1&uYbxWWxvgYrb/uuH+o6WU/bYg11ukWo+6&6&WYx.%u/r.+r1+&vvg.hbrgu&/.h&urYZ&%vxNxr1uW&v+/61xx%vv.bb&g+gu1*.Wrx=u%r/%x&16i6/x1g1v&uv/.vbur.&Wvx.%rrh%%uxgx6.YWbrgY.u/65gurYbWrvg%%W6.x.Y+buux.bDv6r//+v1u&1vWy+b%/xg.%%{+rW%&%%x&x11bb+YWgYbW.xv%,+b./rx+17WgvxYr&.u&RbvubYv%&x1%&ur{b&%+/&xg%%gv616/rI+u%t6/vub%%Y&x.&.%6.YgY&%6x1vg5v/u/1gf6x6uvWb.%x&r.6rx%+%rx+x/1vW6YgYW%Yu1*/v.b&/Mg6%g6%+/+1bYu^Yuigr%/v1&1r&&6&+Y&+&gY6xv6.+uY+ux1YxbWrW%vrY.%x.+v6)Ybb/)g1%/W+Y^YYbluv{vd//Wb&g+bb.gv%b6b.g6x21Y*Yrb%x%%/rx.1u++/W1b1b&v61+&&Y&uYx.W6Yr%IW%.&+6+>66./b+v11ugri.1YY&WY/.%6gr.+)1+&vvg.6bvrvg&6g6uxg+WbY&%Y.x.+Wb+Y6%+u%drC./u& +u.Y&%rv%v%r//x&1rWWYxY%6x11v/./b6gvgW%v6%xrr.%&/gxWW1WbvrY.6g6++/uYUgyxW%/rY%{xWrY6Y.1+vvv6zb&A&vg/6WWMrY%r%W&%=+UrW&Ybg+1gv/b:r&gY%u6xx/+r6.%&x+%.Wgx.Yvbb1/v^./bgY%gx%Y6/+vr&%+r%xg16WvvWY&u.uug/Sb/rb%gr%W6&x.+6WW%bxrWrW/v9Y6uYub5.v%b/grgu6g66v++bWr%1x/11Wuv.YWbb1%vr.xb&r%gW6r.brvEW%//,x6W/WbY/Y%b.1.v&.gb6r.g%Wx6.+uYab+uYg&Jv/ObrY.%v6+g6rgbbr6g1%&WUxuYYbruxgYvrW.rvg+b..gvb#gb.g&x+6WWYxWYxW.urg/5&6b/6+Wgb6r+5+&&g&ug+.W6Yr1%r1,vgv+.vbgr6gv%gY61muuvY?Wbx/%&uY.6Wr++6%g&bxvu1+/WFYb1YuWvxs%bru.6+g+66rY+b%v&1xv+bb1xYx/.ur%/YYxu&u%x.bgb&/611.g6v+u+1%Txxxu.Wr.%&/+x611Wbv6/11&v+vu.bbW/Yg16&6.vrY+buuggx4v6v//+x16v%vbb6+%&rYu.ur+r6}W%b//x1.vbSrDggu16xg1+/&6&&Y6x6Wx+%Yruuu/g%(6/v/W+.11rv6.+&bt&6Yg.buur1S/1w&xvY.g+x/11&.:vWr+Qr%gr%xv1bW/vgYu%tuWg.I%Wx/.+6.+u&rg;vYv&..un+/xbYYWbWu%xg).6&&++..xrxrr%6Y/uTggfYuW/x+/gru.xx++W&&gYvxv6.+1YpbxuYg:Ux66brY.%/6YK6+gW6&r1../u6ruSY%W/.x1bYW.v.gY6v6gg1+v61&/YWxuWYv6YxbW1rx.1&b+r/ggbb6vxu+&&b&uY..br.r%+YY.uuZgaW/r/bYY11&br-!x%gx6xx1u,r/E%61+/bvg.6bvrgg/%u.urYl/%xr%x/W+W&vrYWugubg%u+x/LFWu/YYW1x1xur+Yb&&+g6.g6b6v/.+/u5//EgWW/xYWQYWxY&Y%%.vgv&R6/1&ggv6u61r8%x%u&W..ixWrY6Y.1+vvW.Yug+ub6g0%rxb%r&xdWgWY+bYx&buvY1#&/v/u+Y1brY6%+rWu&&Yu.6u/rb(v%.vr6_cu6//W+/1%ux6.+&Wg%6xg1&Wvx1Y&u+uug%tW6u/%Yg1.uarY% %xg.uv..ru/>B11gxWvx.bbrr/g&%b66xgrb%v/gx/1+WuvYYW%+u%xgk.6&&Y.uxg6bx/r1%&xKx6WvWWv1Y%b11.vubYb6r&gb%r6.Yr/q%u/xxW1WW1gvY.%g6+g6rgbbr%&1./u%ruHY%bxWx%1rW.rgg+b6.gvbS+b1/xx-%1#YrW+g%%&xx..Yb+v6gg%g6r+u+/WY&uYY.brrr11YY.uuT&kW/v/bYgg16&+Y+6&%%Wxx1vWrvr/&1YxWvg.+bvv.g&6..urYd6%vg%xr1xW&vvYWuxu%?/416/&p+W.Yurrv%b%r/xxuWuWWY./b1rvov/.vb6gYgW1g6%x1+.bguY{rIg6u/v)11&v.6u+g&q&v.5.ruxru%Y%6&+x%WrW.Y6g+6Y6YgW+v&b%rxF66WY+6YxuWuvg%</66/u+Yr1Yx%%urx.M&&+%r/g1.6vv1+/%h&uxYY1.xr%Yh%.u&v+>&%.u+7vC6WbgVgv1/vWrj+Y&r&Wg%W+Wrr&%b1+ugP/0bW1gYub+gv%b/g+g&%g66v++%ug%1x/1bWuvYYburu1+Yv.b&rrg6%x6bxv+1bY1-x6WxWWvuY%b/u.g%r+b6/_gb1g61x/YjWWuYggyv/u//1B1urE66+gW&&vYb./uvWuYYb/uxY%4r6W/&++16&&vb.rb.g&x+6WWYx%YxbW1rvTW%bYY%gg%v6vxu+&&g&6.6.WuxW%Yrbxu&gYH661/b+%11&urO.u%gx6ux.1/vW.Yuugu6g& b6r/1+bx_66+Y+WbY&%Yu..u&b+YWuxubx}h1Wv&hYv.Y&Wrv%WYruB.6DYr%/x%1gvu1g1+<6u%Ygb6r6%x&+.bru+ggvgWbvrY1b/6{xc+Y6W&v1%xr6.v/Y+W.ux.1lr/+/&1vgu6Yx<+x61&r+..&u1rW%1%b/1u1z/6v/u+g1W&.v%.1%!x+x+%.Kgr%%r%1/uvj./bggbWx//Y/%.u&x.Yr%&xbv+_g///bY16Y6/vub%%Y&x.&.%6.YgY&%6x1vgZv/u1gxWvx1%brrJg&%.66vY+bW%&1YWok6//g%W1x/%v/bi+&&Y1b.xr/Wv+.&&u+?xdY6&/v1{1r&6vu%o+6&x.x.vuur&%1%6x/xW1b,%/r+x1&&Yv6.gbb/Yg11xW4v/YYbx1xx%1/boYWg+b16gx++r&r&&.bxuWYvuYxb6urg65&6ub6gg%W6vxbr/%^r1xY%bWxv&Y/uY1&vYWWbgv1gv%b6/xv+uW1&b./x%WrvWY&b+u6g1CbWg/1+u.Lu+rY..%x/6xr1%W&v%YWur1bvv.%b/r1gu%%6b+/+1&%&.Y&qYrb/x1&gvu.<6+}6%&Y+W.vv%r/%6Y&u+g+mgub/v+u1&vgvu0+bW/Yg%%...ru%g%Wx1ubXv6%//+&1u&uvW.&b%rWxn617+r6?x%b&nx.brbtv%gY%u6v^%+/&6&&Yb.Wr.r%%W%1/bv>1Wbggrgx%r.rrPbu%Yxvxg1uWrY+Y/bWu6++&Wx/.1Wrr.Yr.%6.YgY&%6x1vgPv/u/1gX6x6uvWb.%x&r.6..W+YvY6%bvUWuv1YWbuu1F/E.W#&+Yrxg6%+/+1Wuung/jg/ubxY%bu6=9W++6W&g+b.rv.r&%Y%6xvxbbYD%//1/1&&bvW%+b%g6g11vWnvvYYWWuv..7//Wb&g+%u6gx++r/1&/Yv.uurrW?x%%/.u.Gu/Y/6+v1bugv1.b%_/YuY.W6_r%Gr1Hx6v+1.bxYbgv%r./r+%T%gg%xx1Wkrr.+r1+&/vg1b+v/.1..=uxrg%u%vxYxr%.Z&/Y%b1xxbvv11b&gvgu%Y6Wv++%bg&.Y&}Y/ubgYb%+u1xx+=W/&g.uxx61+&+.W&u+gxvgW%YrY1%+6;gu+YW+&xYY.ruWW&YY&buxi/vvW.Yug+ub6ge%rxb1g.g.%%W+v/YxuWur.1O/6)buggu%6v+&rrb.r%x+%WWgxbYvbWu/g%Su6Y/b.gg%6/+++u&x&6gY.b6gW1Y&uLuug/;W61/11/1.uBr+Ixvg.ubv/1g/11bv//1W.m6Y+r+Wb%x+xr.&rb/+Ygu/ubx1bYb//u1%.Y6x+&&Y.+.xv1rv?bY/uOY6mgr1/x++1r&xvubg+6&x11.rr+r&%YYuuYg&!xu%brY.%/6+x&+x/%&r.e./u1r61+%W&+x%.gW.rrg+%g.gvb-gb.g&xw1rWYvuYxW.urgxv&b+rugg%66vxu+&&g&6.u.Wuxr1%&1(vx6+^W/rbbgv%66/xv+uW.&bZgx%Wrv+/&1Yx6vxb/bvr+g/%D6ux%+WWb&1....u%b+YWuvubg/A16/&+1u.gr/Wx+%WW&.YuP+u6/g+u1v/1v&b.+u&g.6xx61+&+.W%u+YW0g6+bvY.u&6Kxg+Y6W&xYx.r&.r&FbY6ugY1vvW.Y/g+ub6Yxv+xWv%rxl6uW+x.YgW%urP%v/b+gYgY%h6xxC+rW6&&Yu.662rbFvY1u/gv?u6g/W+x1%ugv.Rv%+r6xxWWg&116/rM+u%Y&Wvbg%Wur.Y&1+u6vg&blWW1g/..66rY+W%Y6uvWb.%x&r.6..W+YvY6%bv!vv0//W&OgY6r6Wv%%+%r&&.brv9%%//vx6WYWbYuY%%x6Qn6+Y&r%ggb1x61vvYdW%uYgYoxu%/r+61uvxv6;Ybb/Yg1%/W+Y&/Y%bxWx1W&W.rr&+1Wvvv%%n+1&/Yb.u6orW(6%%/WvdbmbYgr&g1buxv.b/%N//xg6%WxvvYrb+u&g._6WY/bYg1.v&r+bW%YrWxx%.Wrv/YuuguW9.vbbrg%&/.+rYrY.WYx&1./x.W&v%Y6b&ubg.i./&&mY+.Yuvrx.%%r/bxuWYW6v%Ybb%u1xgrGburbgW%x61+rYX&6u+Y.Og6//v+g1/&b6u+Y6%&xY&.ruxru%g%6/gxb16W1rg&d1u&b6W+v/.&rYxx&W+v/YgWb1vx.Wbb2vuggu%6v+frr%PgWx+%WWgvxYvbTu/g(cu6//WYig%6/+++&Wg&6g+.%/gW1Y&u&uugxMW6x/%Y+.,rxW++6W.&bYv.16g/4>u1gvgvvb9+r/.+1.+uYrxbb%v/Wx&WgW6gq6Wx/+%%r&.xr+%b.xgx&.6r1/gYvuuu1vsbxbu/W1..x6r+6+.%+xvx6.b/B%uvYuWjx66//1Yxv6+xx+g6b%vg.6uW+Yx/Y%W&+x%1rblY%gYu%6gxvrvb1rbxz%6WYxWYv&1urg%du/Yb6gx6+6r+++/Wv&ug+.Wu.r%2W1tx6v+./bxg/gv%/./r+%&YY&WY6.%uWW.Yuu6u6ggvbbvrWg/%m66+u+Wb+&1.ux.W&rTYWurubxo}.&r&+1W.gr/Wx+1&&&.Y%:+uW/x1Wgvu1gurib6gggb6r61+r+.W&uY.bOg66/r%.1&vxvu./bbgxg16u..r&Gr%6/xxb1vW1rxg+6x6Yxxrxb%/vg.14W+v+YgbyuvgbF/6+/u+%1brgv%.6%dgux+1xWgvxYvb/1/vM.xbYrugv6Y6rxW+&W+&W.v.%/Ir1+)g{u6<uPWW_/1.+.)v&rY%rvrXbbv/1g/.j6uW1vW%xrvxr..W&r.xr.&rb/+Ygu/ubx1bYb//u1%.Y6x+&+%b.xgx&.6r1/gYvuu!Y6u/v%.1/x.vubbb6rugb%.61x//m%u&+xW1xW%rvY.%d6+x/+gW6&vY+./u1WuYguDuvJQ<//1b&g+b16ggb+vWy&/Yk.uuWWWYvucurgvU&6rb6ggb16r+e+/W1&ug+.WubW%Yrbxu&gYX66g/bY-11uvWd+uWx&b...%6+r.+H1+&+vxb/bvr=g/%i6uxWrW%x/+x/6.W&vrY6bvubxYB16b&t+b.gvWrx#Y%/xrx&1rWWYxYbb.u1g.+*WY%YgW%16%v++.bzuY.b(g66/r%1g/6+Q6+Y6%&xYW.ruxr&-6Y6ux.1}v6b//+W16vgvbbrb%/xg.1+c+rW%W%b&dx.bvb+Y1gY%u.xv%_Yb.r&xY6bWgv+Yr&1u/g&&bxY.WWxr%Yr%.1+u+U%bg/bgv116/1lvu+Y&WrL.1Wrr.Yr.%6.YgY&%6x1vgev/u/1gC6x6uvWb.%x&r.6..W+YvY6%bv=Wur+YW%Yu%xDm.6&%+g61+6bvYr1%&xYxu1/WWvvY%bW1.v&.1b6rgg%666.+6YXbY1YxW1/W%r+Y.b&6+x++g6b%vg11xW9x1/Y%W/rx1b+W.vug+%Y6gx/rvb1r.uZ.6rxrW}u%%&vx.1ub+v.&g1buYv1.bY<&ug+.brxr%k11-vFv+.vbgr6gru.6&+bru%Y//xx1WW/Y%/&1Yx.vxW.brg%g/%666+vrW%x/6xr%.WuYrYWurubg1v1b/r%gu%Y.Wrx)W%/x&xuWxW6rY/b1v&rv&b+burbgW%x61+&Y:ux1+x61&WbvrY1%Y6Sgu+YW&&xYv./r&r&mrY6ugg+Vvu.//+C16vxvb%w+%&/.+.urxr6+Y%b&gx11b+P/u+/1W&vv%.rb./vx+%6WxYW/v%1&rvz./bYv.gxb.6rg.+&Wb&W...b6Yr1{/1+v&6Y5WWg/11r1.urr+.W%g//xrW%W/vxY6uguWg1P%6r&o./x+6W+&+%&&&1YbV+rW/YLWrxY/%/&.x&..%r&&.bF+WgY/Yb%1vYv/}u/%&Ygx6&6%v.%g%&&6.1QgWvYuuYY.{xu%brY.%Y6YlW+x/1&v+1.&rYruA6YWuv..L//6b&gYu%6gxYrvb.g&xi1/WYv+Yv&%urY.O&6bb6gg%&6vxb+/Wv%uxY%1WxvWYrb+u&g1,6W+bbgr6%./r+bW%Y/Uxx%1Wrvx/&1+/1vg1bbvru&/.+v6rY.%%x/Wxr1&K&/++x1g/bvv.u+/&S+..gvWrx.%%/x+xuW%K6/g4bgvu.<u++&x%YgW%u6%xu+.br1+xWWvWbvvY1%+.9vu.rbW/Yg%%W6.vg/+%Wxxxb1%W1rYg+6v6Yx&+xWW%rx<6.WY+bYgb61vx.Wub+gx&Y1Wugv1brb./rxY6WWgvxYvbuu/g)vubYv.gx%W6rx4+&W+&6Yv.bu.r1>.g?u6#xtb/.b%gr%v6&xrr6%g/^xv%1W/vrYub/1Wvx1.+r/.+1.+uYrgqg%v/Wx/1&2u/Y+&1x&Y6r).6.&+Y/.g&brv^g%&x&x6W1gW%Y6%rr+.%r6%v.%g%&&6.1^gWvYuY119vxvuoW/.&xgr666.r+%v%6&b:Fr6%u%bx/x1WrW.rrgY6+6gxr+v61%/x7%1WYxbYvu0u/Jrz&6+/W.Ygb6r+%r/%+gWxY1ZWxx1Yrbx1&vYWbbxY.gr6:./rs^&%Y/uxx1bW/+.Y&b.uWexT%///.16xk6ux1+WWx&1.&tL/xb+Y6b&ubgr;16/&dYxxY6b+u+1&u&.Y%,YrW/g+61rx.6/+,Wx&YYu.vrHr/%m%&/Wx61WWbrXY.6g6Dxr+g&r&xYrxr6.vvY+bYux=g;r/k//+11u&&vWw+b1x+g.1+w+r6+S%b/%x.W1bBv1gYb16xxWrrb./Qx+1+Ngr%%r%1/bv-16bgg6&x1%ugv..%Y+&6gY.%rvr1jb1G/%vgWbbvY.grb.6&xg+6W1&%2x../v/+1Y1Y&gvx.rxrW%W&/+Y61+W&r6%11guvIu41bQgxgu1Wv.rx+r&6&.x+WvW6rb1!1vu/sW/v1bgr6-_6++6b&gY6.vugr/tuYuuYg/Axu%//1+1&&rvWbgbbr%&1./u.ruOY%W/.x%.>W.v&g+%r6gxxrvb1/rxZ1/DYrW4u%1v/u.Lu/x/W1g1bugv1.W%_/xxY1gWxx.Yrb%u&g%=W/rbbgv%u6/x1+uWg&WY1.1ruW.Y&bru6gxHb6v/.1..)u+rYsrYx&%gg krWb+Y6%2u%d&v1b/r+gu%%6bYgr%%r/1x&1.W6rYYbb%u1g1+l6%&YYgxx6%x&r.%uxrxWWrWbv1/11/&.vu.6bWrWg%%66.vrYY&.ux..Lv6g/&1+1uucvbbvb%/Sg.%&gx166gvb+vb1&/6YguWvrWYx%%urx.Y&YYW6ggg%6rv1+/b16vv/bW%m&Y.r.W6%Y+Yr%&xbv+Tg///bY16Y6/vub%%Y&x.&r+FYYg&bgx.16v/;+g1Y/Wvx.xb/g6g&%g66xg+bW1%1x/1bWuv.YWbu1%vr.%bugggW6x6bvg+.&&u+FxvYWWvr/%1/vxv&..bWgggb1g6.+.YOW1uYg/vxW%rKY.b&6Y+++gW+&r1..&rYruhx%W/uu%G//r/u1g16u+vb.rb.xYuo.6/+WWYv&.urgxk&6Y/W.Ygb6vx6+&&J&uYY.WuWr%+x1>x6vYW%+g/b+611&&rT.u%Y/&xx16W/YYYuu.16vxW1brg+g&6Y.urYp6%x/Wxr11WuY+Y6%+u%Pra./u&+1bxY6Wv++%WW%.x&11W6vgY%ubu1g/+OWx%Ygb6x6%xrYK&uu+gxGg6x/v+Y1&vWvu.xbWrxg16&WoYx/+%6&Yxb.gG1//+Y16vgvW.ub%/Y&..&u.rW%v%b/ux11bb}rxgYbW6xxurrb.rbx+%.Wx+bYru6u/gbsu6//b161%&r6.+&WW&6g+.%r/r1+v1+xuvgbrbxrr&r1.ugr+..%xg1xv1rW&YY/u1Y/%6xU1/&/.+6.+u&rgj+Yv&1Yb4lu6/Y0W1x&&vr./bug6g6%&.brv9r%//%x6WxWbY/Y%b16J)6++WY&g+1.vuWr/L1vu%wbW&xg%.xbW/%.+.r6&+bY+%gx/xb.1/Y//Yuu%6Yvxb&b%/..g.&66+1&/!o.uu%rW{uY%u/,+5u/bb6gx6g6vxgr/%+gWxg61Wv+./r%.&vv+16bxg+gr6+6/xuru%Y/uxx1xWrv+Y&bruWqgKb66/1+u.+r+rYjh%vxbur..6r/+ZW1g&+vv.vb&gbg6W+6Wv++%Wr%.xuWgWWYrY%u6u1xY+sW/&Y+..vr&r/b.%&/+xWbYfb/v+%1&vWv6bxbWrxg%%WWQYHYYurux.%2r/%b/gJ%&6g;W+xWW&/._.ur+r6 g%%x/x.bgb+Y6gg66.xv1bu+.&&Y%.6u&rb+Y%.vr6^RuW+/WYY1%&66.+&W1&6g+.bu&r1)/1H&vvY.gxx%+Wrr.Y&%.Wrr&%b1+ugh/KbW1gYg/1uv%rY+x&&&%g.WgW&r6%11guvzu/Y.%1vv&6r+U/.&++.xg6bxr+1WbudgjIY6Y/v1X1r&Tv&.+bWxY&b.vu6r&%g%6xgxW.YW1YrY.%v6+xY+x&Y&v+1x/W+Y&/Y%W/6x%1W4./u1g16&&vb.rb.xru(.6rWrWCxY%urgr2&6+b6ggb16vxb+/WW&ugD.brvr11+Y.u&ggn6W+/b+b1.rgrRRv%gg1ux.%6gr.4&1Yv+vg.ubrg+&/.<u&rYduYx&%Y&j0ru/+i.1g&&vrb++/&+1W.Y&%rx-W%r/xx&1%WWYr/b1rvrv/.Pbur%gW%x61+1Yp&W1+xWWgWbvvY.u&6Oxg+g/W&v.q./rrr&(u%6/vxb1vW.Yug+6v.YvW)+b%rrxM6%WY+%Ygbv+vBY&&x,.uWZ&/gu6%WYrx%&%%&.ZgT&W6Y1gg1vvuv1+M&x&ugW6.Wxrr%6xgbgWvx1Y/b6u6CYkWWY/%+.g.6u+g+6Wg&bg+x1W/vvYubguWg.0%61&).+.+&.Wg+%&r&1Yu;*6//g1bgxu%g1j.6b&+YY.gu6rr%DY/u}Y10Yub/v1<1/vrv&.ub6rb&b.rrvr/Av%6xYxW.+W1g+Y.%+.+vWbxb%xag11xF?r6%6%W/.x1bxbPY%g+%Y.gv%b/b.xYuK.uubrb%/%%/6x.1&++/W1v1b&vv1sgYj&6.v.Wuvr%cW%./1v+16bgr/gv%b./r+b6YY&bO+.1r&r.+r1+&g6g,b6./1Yv.9urrgb.%x/Yx/6.W&vrY6%^u%cW*16.&AY+xY6Wxrr%%r/bx&1+W6v/Ybb6u1g%+s6%&YY9xx61+%YN&6u+g&vgW%Y/Y1bb6mg6+g&6%xg1WgW:+6Y+b&1gx%WrW1rrg<bu6gNb+xWY&/.+x&W+vYYgb/uvgrv/b+g?ggu%6xxWrr%)x/u+.66<rbP6Y1u/gbhuWe/W+/11vu6.+u&g&6g+.b6<r1++1j&/vY./+x/11&1.urW++6bY&bgg.16x/+1&1gx%vvbuxr.vW&/+Y61+W&r6%11guvSuo1bHgxgu1Wv.rx+r&6&.x+WvW6rb1P1vu/OW/x+u1r/.vubgbWg.&b.rrkr/:vYuuYY%vxW%v/gpu&6+x&+gWu&vYr./uYruT6%W/1x%1Wz./&+116&xvb.vb1/YuQ.uu1rW9x%1x&vjbx++/W1v1b&661+/W.&ugN.Wu1r%+x%.&+v+./bgrxgr6x6&+gru%Y/txx%1Wrx.Y&b1u6xlU%/&/..vxw66+/+b&/&%YW..6xb+Y6%Yu%+k<./u&L+u.YurWx+%W%&.Y&y+6u/g+/1v/1v/.6burYgW1+6%vgYA&WuY:&vgWbvuY1%v6++B+g&/%xg%%&WAYgY+W1ux.b=r/ub/g+6+6Yx6+xWv&rYY.&ubr6<W%b/.u1H/6v/u+g1W&xv%2gb./vxYWvWgvv/v%1&xv511+Y/W+v1%uxv.q+%+/rxxWWEvr1+g1l/1vY.&bvgb&r.cv6r+..%g//xv1&W/v{6urx+b%x&%xx+Wb%x+xr.&rb/+Ygu/ubx1bYb//u1%.Y6x+&+%b.xgx&.6r1%&xYxu1xWWrYY16x1.v&.xb6r1gb1g6.+uYlbgug.1vxW1Y&g*6g.+v6.ubbr6&1./u.r6%Y%W&Yx1W/bmY6g+%&.gv%brb1ruxQ1+WYv&YxbWu/..zu/b/6+11%r}v1h5YF&uYb.W6Yr%-%%.&gv+.&bxY%gru.6/xU+uW.&b...%u.W.YuuYu6gv5b6%/1Yx.+r&rgbW%xr%ur..6//++&1g&XvrW.b/r1g66g6Wx1+%Wr%.x&1%W6r+Ybb6u1g6+NW/%Ygb6u61+uY5u/1+xWWvW%gt/11/&rvu./+W&xYb./v.r&#.%Wxxx%W/W1rv& 16v/vW.bb1g&x?6&W+v&Ygb+uvY.T/6&/61Y1WuYv%.&b.r&x+1/WgvuYruuu/guvubgYbgv6&6rxb+&W.&6Y%xbWvvxY/b&u6GYFWW+/%Yx1.u+W++6W.&bY6..r//+%W1Y/%vx.Wbrr&W&/WYW1gubvgY6%bv(vv*//W&RgY6r6Wv%%+%r&&.b4+WgY/Yb%1vYv/Xu/%1r&bvubx+6&x1..vuxr/RvYuuYg6dvr%/r+%1uvYvWbvbb/g&1./uYr6%x%W&Yx%.vW.rf&+1Wvxvb./b1/vxV%14YrWnu%%//x..gb+rYgx6v6vxgr/%jrWuY.W60r%+x%./Wv+.Ybgr/gr6+./r+bW%Yr%xx1WWrvxY&b616vg.&bvv1g&6Y6ux/+b&x&%Y1vWF&/Y%b1g/1vv.bb/rvg66&.Wrx_u%rr.xuWgW6v&Y%uvu1g.r-burbgb6x6%xr+.bvu+g&Dg6&bvY.u66Ag1+Y6b&x+%.ru6r&{uY6ugY1vvW1vbgFb66Yxr+xWW%rxQ66WYYv/g%b/Wx11b+-/u+.1W&xv1bW%ygWx+1g^grb+Y%1/b6d-uW+/WYYg%6/+;+&W%&6Y&.bu6r.%.1+vv6Y#W6&/%+r1.&1r+..Yg&bY/../Y/+%61gxWvx1%b/g+gu6%.6bxrb%rg.x/1WWurpYWbru%xx&.1vE+W6/gY6I+WgY/Yb%1vYv/#u/%&Ygx6&6%v.%g%&&6.1zgWvYuY11ZvxW%rvg7u&6+xYrgb%gvg11vWKx.YYW.uxgY:r6b/&+u16&W6b+vWb&/Y%.uuYWWYvusurgvv&b+v.ggb%6vg1+/WW&uYY.brvr11YY.uukYv6bgr6gr6-6&+/+uW6&Wg!.%6xr.+xg+u6g%sbWg/.1u.iu/rgbW%vx&xr1xR&/+V.1g/%vv11b&g&gu%66Wx.r%%r/+u&E+6//g++1v&/6/++/6&g1%.vv%r/%Y%&/rx61%Bb/r%.1/&.vu./bbgxg%1YWIYg6+/u+xbb&vgb+gbvgug1.Erxru+W&.uxxrW6W./+1v16ub+5+vb/gWxE.Yrr%eguxY6bWgxbYr&1u/gH;u6%/b1v11rv6.+u&g&6Yg.bu.W1Y/b&1uvY1%bxr&gr%x6u+g+6W&&bgox1W/vY/u1Y&/vx.Wbrr&&&.Yv.rxb.%v//6g,B6v/YX.1x/%vr1.+&&+Yr.gu6rv_x%//%xu.)UW/v%11r&1v&..b6r%gb1g61vQY7bruYguvxW%v&gh6Y6+g.+g6%&v+1.&rYr6%1YWuv..Gr6x/&+Y16&&6b+r&U&&.>.u6nrWKb%1x%x.1%bYYWgg%r6vxr+/Wu%uxg61Wxv+YrW.uul+{6W+/b+.g16/xYru%Y/6xx1YW/YrY&bru6xfQ%&+b1g/%/6uxYrW%vg.xr1+W&v.YW6+1bvv.6b/r&gu%b6b+x+%bx&.gr5+uW/x1r1v&gv/.+burYgW1+61+uY=uruY9&vgWbvuY1bb6Vgb+g/W&x+%.rugr&_u%Wxgxb.gW1vug9bu6Yx&+xW6&/.Y.ur.W6Yx&1uvgg{/66/61g1bvrv%txb.r6x+1xWx+.6vr6+&%L&uxP+/bug%xY.xr&r%+.ugu&x6W1bg/v1u116y+x+ubWg.xx.rr6%g/Yxv1rW&Y0Yub.uWxYa%6Wb.gu6r6W+r+%ux&1ggnc6+bYYWbvu%x++U&/&++1.xv%rvq&%//&xu11WWvb/%1/vbvubgbWgr&b.rrgr&%g%u//xbWvW%rxg=uu6+xx+x/.%vg1%WW++uYYWWuxg&ar6/b&g+%u6x+W+r&F&/Yv.6rYrW+YY%urgRQ&6./6+.1b&Wv1.b%m/YuY.Wuur%k/%./&v+./bgrugr6u6&+vru%Y/6xx1WWrvg/&1+&+vg1bbvv.g/%166+Y+WbY&%gYx.W&v.Y6%>ubgvv1b/rxgu%Y6Wxr+%Wr&.gg-+u6bgYbb/11v/..bur6gW%W6%x6Yl&W1+xWWxWbv/Y1%v6++/rYbbgvg%1v6.vOY+W1ugg6zv6v//+%16vvvb%Y+%&rYr.&u+W6Yxuxuvgg,&/+/61x1Wu+v%.rb.rbxYWiWgxbYruyu&ebvubgYWgv6?6rxP+&Wb&6Y&.bu1116Wr++u%Y&ury+Y&r&Wg%W+Wrr&%b1+ug9/fbW1gYg/1uv%rY+x&&&%g.Wg+%&/&1Yb,G6x/Y+u1vvxvr.ub&r+&6.gu+rv..%//-xu1.WWr+Y%br6X+/r+bWxY&b.rr<r/{v%u/gxW1u#%/r+b1&&+vWb&b%g&g11jk9r6%x%bx/x1W&F./u1Y16u+v%brb1r/x#1xWYvgYvururgxv&b+r&ggb%6r+&+/Wv&uYg.Wuxr1%11ExW6+Q66%/%1&11uYrF.u%Y/vxx%%WrvWY&bu16vg.Nbvrgg&6:66+1+WbX&%gxx.W&vrY6bxu%U&*./1&!+1.Yu{Wx+%W/u*.WE+u1/g++1rvrv&bb+u&g11xx6%vY+.W%u+g/=x/WbvY.uu6+Gb+g/%%xg%1g6.x&/+%6&Yxb.gW.Y&g+uW6Yxu+v&b&rYb.&u1r6++%b/1u1s/61/61g1Wu+v%0xb.r6x+%.*grb+F%1/bv+bYbYr*gx%r.rv.i/%+/&xg1/WrY+Y&u/uugYnb/r/1.Yr.Yb1Yu6vg_61+ug*/?bW1gYg/1uv%rY+x&&&%g.WgW&r6%11guvMu!1bUgxu%+/O.Wg&Y.u.guzrvCb%//+xu1%WbggY1u&6Seu++Wx&gYx.vu/W/Y{b&uYggRx6x/r+g1&&.v6H(b%g&g.6uW+YxYYbx1xx%1&W.v&gYu16gx/+vWg&/Yx.6rYrW+Y%%&gu.F&6+/6YT1%v&v1^+%-ruuY.brvr%+x1Mxuv+.Y+g/bY+11uvrkKYYY&WgY.%u/r.+Y1+&&vg.ubrgvg/%v6ux.+Wb+&17+..6+b+Y6b/ubg%B1WY&U+%.Y&Wrx_/Yrum.uFYr%/g{11v/1v/.%bur.gb6.6%x.r.%&/gu6mg6W/v+r1/&xvu.ubbg/&%./r+r&Cg%6&+xb16W1rl&E1u&bvWHYb%r%g.1gW+v&Yx&%ur..G&/g/61W1W&uv%..+.&u.u.6u1r%1g%.xbvK./+Y/WY=1%&rv.;x%+r6xxWxWvvg//1o/WvgbrbxrYgr%o6&x1+6Wg&bYv../r.g6urY+W%x&%6rv..&/xY61gubvv:1b/bb/u.YvKrx+%%r&%rx+r&6&.x+WvW6rb191vu/fW+_bYgrgW1%r+rr+&&bu+xgW/Y+uLuYgQ0vr./rK.g&6YRb+x&/%vg.6&W+YxYYb&1xx1W1W.rggY6&6x+++vWr%/xT1&Wg+WYxbvu/(x2u/x/6+&1buI61+&&Y&6.v.brrW%Y/u11&vYWWbgr&gv%b6&+Y+6&Y&bwYx%WrvWY&b.u6gusb66/.1ux)66+x+WWu%%xr1gW&v+Y6bvubxY71Wv%fg66u6Wxu+1&r&.Y%<+6ubgYb%Yu1gbr8bu/+gb6x6%vx+.Wuu+gY#gu1/vT11/&Wvu.6+W&v.Y./rYr&fr%6/.bbu.g../W,r/g1.#rxru+W&.uxxrW6W./+1v16ub+P+vb/gWx}.YrrrW+%u+.Wrvr%%&%.xu6;hu6xbWgx%+6rxx+u&+&W...b6+r1!.1+vYvY.U+x/%Yv.Dv&r+..%gr1xr61W/vXY6uWub!/v%brr%g&%v66xW+bbY%1x&WvW6YvYWb%1%v/b+bugb&6.xv1rrb1%&x.xu.+WWv1Y%br1.v&.xb6/+gb%/61vxYNb+ug.bRvr./r(.1ur:66+g6%&r.+./uxru</%bxbx1bYU./u1g1Wvrv%b/+1&&.+.uuxrW+Y%%/1x..x++/W1r1buxv1..%+gWxY%WWxv6Yrbbuunb566.bbgv%g6/x++uWY&WY..%u1/O1+1+/.vg.&+v/1Yx.<&urY.b%x/vx/6.W&v+YWuvu%++v1b/r/gu%Y6Wx.+1&u&.g/}Y/vbgYbb/11v&b+burxgW1Y6%x.r.%&/&xWWrWbvrY1%x6px/+YWx%xg16/6.vrYY&Wux.1<vu1//+Ygu6Yg%+xWu&rYx.urYrW%v%b&gu1R/6./u+%1WuYv%hYb.ruxYWvgr1b6vv1+/%M&uu&gWWxvYYr%.u&x.Yr%&xbv+!g///bY16Y6/vub%%Y&x.&.%6.YgY&%6x1vgNv/u1Yr%vvb&+r/.+b.+&.Wg+%&&&1Y%hwu1bYYW%Yu15&v.b&/9g61+6%+/+1W/1=xu1xWbY.Y16vu.g6++Wv&gY+.vuWr/z%%6x%xW.=2%/r+W1&&.v6.Wbb/+&1.&rvr6%v%W/ux%.YK./&+&16&gvb.ub.xYx+61WYxWYxbYu/4/hu/%/W1x1%rx61+&&Y&6.%xWWxvbY/&.u&g.XW/x/%1/11uvW +6&u&WYu.1rrr.+v1+&&vg.Ybvrbg/%.6uxY+bug%%xr1YWuY+YW6Yubgbp1Wx&m+u.gr6Wx+1&/&.Y6N+6&/g++1v&/6/+E6.&YYg.xuxrr}b%ux%xWb+2b/r1g1&vgvu./bWr/g%1+6.vrYY&buggu9v6b//+vgu6Yg.+xWY&/1..ur%r6z.%b&g%+&/xO.uWYrWYxg6%rvYN&b+/6gg1b6vx1vr%-:+xY.WWxrWxY.xr&r%+.ugu&x6W1bg/v1u116z+x+ubWg.xx.rr6r.Y+uv.1///7+x1Y&N6xH%Wv/.+%.Yv6rgUM%v/bx/16W6YYYbu.u%x++H&g&+Ygxg6%+6+.&6u0gY_Y6r/xa%gr6K+N++Wv&x.6.rrrr/Av%u/.xbWvW%rSY.b&6Y+urgbb/xg11vWIx%YYbYuxY%tr66/u1x16uYvb>Yb1r/x+W&<Yrb%u%1xux.1%bYYbggbbYv%zu/v(=ub,u/xuW%bY/x1&1%u.+g+&b6g1xg.vrur1YVuxuuxWW.bx/r16vxW1bvr=g/%16ux6rW%x/bxr1%W&vvYWugu%k&216%&mYg.YugWx+%bv&.grN+u1/x%%1v&bv&b+b6g%&W.xu/rrC%%uxgx6.+W%YvY.6Y6mg1rYbWrr&%./r^r&Ru%6/1xb1vW.Yb&o1uuwvbbrb1g/g.1rWY+WYgWburOhw&/bbuggu1.xv%IYb.r%x+1/WxYW/v%.x1v7.xbYragx%66rx%+&WW%6xg1xNvr1+r1X&/vY.xbvY.gr%/.&rYbW%g/Wxv%1W&YYY6u11Wvx1.+r&h1u.+&brg}6%v//u/-+r6/Y W1vx%vr1.b&r6&6.g&.rv^Y%//vuufgr1/x+ggru.gu++W&&gY&.vuxr&%WYuug.%Hxu./r+%1uv.66+gW&&v+1./ubru<Y%bxbx1WuR./&+r16&xvb.vb.g.x+6bWg+%6/v%+rb.&&x++6+v6bY&%1u/vHnubY.WuuY%6r&.+u%+&6x++&b6g1xg.vrur1Y7uxuuxWW.bx/r161.6++v+6bbxexv./rW%vg1x/W6W&v1YW6Yu%QvQ16/%}gu%/6Wxv+%Wr&.gvs+6//g+61v&/6/+T6W&g.r.xu+r/b.%uxbu6cg6g/v-11/&Wv6bvbW/gg16u..r&z%%6&+x%bgn1/&1/1u&/vbb%b%rWxJWqWYYr/g%b&xx.W/bLr+&Y1br+v1b&b./rx+1rPgr%%/%.vYvw.gbYvWgv6b.rv.p/%+/&ug.bu.r1+Y14/uvY1%bxrY&r1.uYr+Uv%grbxv1*W/v2/u1Y&/vx.Wbrr&&&.Yv.rxb.%v//u/8+rW/g1r1x&/vr1.b&r6&6.g&%rr%u%&x+x6WxWbYxY%bWu.g%r+b6r/gb%66.+/Y+uvuYg/ix6W/r+x1&&vv6.1bbr%g1%uW+YxYYbx1xx1W/bVggg+%/6gx6+vW&%/x(1gWYvuYxbbu/..:&6./6+x1bujv.%r%kr%xY1gWv+.Y/u61&v+.ubxYbgv%b6&+++6&x&WgYx%Wrv1Y&b.uW9vtb66/.1b._&uWY+WWu&%Y/..u&/++/1g&uvv11b&g.gu%.6Wxx+1&Wu,.Wl+6g.r6brv+1%/u5xux%.W//Y%1ru.v&++b6WW/b.&61r/Ye%uuYxWYx.%/uY.1&6+v6+g&b16/1.6W ruYY%Wux9%v%../Wg+166gvb+v&111&*.bWYrWYx%%urx.vYk+/%gg1b6vv1+/%tbY&Y.1Wxr%Yr%.u&++r&Zg/.gv116/r;+u.Y.*&xs#Wrr.Y&1+u6vgg&zv&+g/.?6urY+Wvx%&&r..1&/YY61gu6/+Ygu/ubx1bYb//u1%.Y6x+&+%b.xgx&.6r1/gYvuuu1vPbxY%bW6dtu+Y/b&gY+.rv.r&%Y%u/xxW1uW%rgY.%v6+x&rgbb/gg.6uc#r6%x%W/ux%1/b;g/&+16uBvb.%b.g1xc%1WYx1YxbW1rx..vb+v.&g1bugv.b&%+gWxY%WWvY1Y/u+uu;Y,W&Ybbgr6N6&+g+6&x%Wxv6.W/Y6/&1+&uvg.6bvrWg&6.6ux%+WWx%%xr1bW&vrYWuv1bvv.6b&gWg6666b+6+1u+%.x&11W6vgYb%xu.S/++&&&Y+1.xuvWrY>&uu+Yb7g66/v+rg/6px+rYbW/+g%%rWj+.Y+b/uggxvvW1vug+6x6Yg.+x6%&rY+.&u+rW%v%%v+u1N/61/61x1Wugv%Sx%Rg&u+.6u%rbav%1&+v5./bYrx&x1%u+v.mL%+rWxg164vr1+r1z&/vY.vbxv%&r.(v6r+..%gr%xv1gd//l+&1Y&gvx.xbrrgg&%+.6rxb1%rx+x&WY4u/Y+u1x&/vr.%b&r1gW666bxv+.&uupY1*Y6r/v1u1r&bv&..+6&gYu.vugW/Y^b&ug.WUx6v//1/1&&bv6.gx.lvW1//g!1u6YW.vxb%.gx,.&W+r&g..+rvr6+bu,uvx/WWb(/Y1r1Wu%+++rb&gbx+.gr/rb+1uY.Wuur%=WY.u&gv;W/g/b+611&urJBr%Y/txx14W/+.Y&bruWm6jb66/.1&.augrY9g%x/rur..6Y/++v1g&xvrbTb/r1g66Y.Wrx..%/x6x&1WW6r+Yb%xu1g/+MWr&YY&.vr&rry&Y&u+guNg6//v+g1/&bvu./bW/+g%%16.vx/+%6//x%WvW1vbgPbW6Yx&+xWv&/.xx&W+x6YxuYur2Bq/6v/u+b1WuYv%.&+.&&Y1.66+rb^W%1&xvq.+bgg+gxb%6rxW+&Wu%6xg1x2vr.%&gquug1VWWY/%+W1.u+W++W&x&bgx.1ub/+%u1Y&uvx.ubrr%g&%6.6rxb%%v/&x/11W6YYYW%Iu%g1s.Wg%+gW6v6bx/+1bvu!Y19Y6//v1<gru.xY++W&&gYg.vuur/t1%6xgxbWvW%vrY.%v6+x&+gW&&r.+x/WBvrYYbguvsxj//+/&+.16&uvb.6b.g&x+6WWYx%Yvud1rx.1ub+rvgx6W6vxY+/W1&6.x.Wurr%+x1#x&v+1.bgrugru.6/x6+6&v&Wg(.1ruW.Y&bWu6x+TbWx/.1/.^u/rg%n%vxlx/W%I&/++C1g&xvrW1b/r%gu196WvO+1&u%.x&11W6v&Ybbru.p/+(W+&g1%.xuWrraW%uxxu65g66/r1y1&v/vu.6bW/dg%%rY.W&6+v6+gb66+vgb/bb/1.Y./6u+%YY%xx&x%../g/&Y6u16gvvbub1&T.xv%KXb./rx+%%WgvyYvW11/v+b&+Y/W+v11vuv..b%Yg%ug.%rvr1-b1^&NvY1WbvY.g/6W.&rYbb%g/+xv%.W/vv/u1gx%vx1.brr%gu6..6rg..%v/ux/11W6YxYWb1u1duv.bugggW61.brv7x%//vuumY66/v%%1r&%vubYbWgvgb1g.1r&%+%u/xxW1bW%rgY.%r6Ym6+x&/&vYu.&rWru,WYWuxg/Ur6%/&+&16&1vb9gb.g&x+66WYxWYxb6u/A6(&66b6gxu%6vxi+/W&&uY..b/gr1%r%./&6+T6WY/bYg11&Wr+b6%Y/uxv61WrvuY&b+16vg.&bvrbg/%v6uxv+WbY%%x/WxWuYxYW6Y+.%v&1x/j>Wu.Yu+Yx65vrk.b&&+g6.ga/6vY+%/u{xuaYWW.x&UYru.+r++b6&gg6++bgg/gb11rYr/+u&%uYxxW&W%r.1g1&u6>1+gbvgug1.Arxb1g&xIWgV+r6 u%b/6u1M/6v/u+g1W&xv%<g%ZgWxY6bWgxbYru%1/vM1%bYrygxb.6/+r+&W.&6gX.bu.r19/gUuugbeWWY/11&1.urrYb6%grbxrW%8//tM%1gx1vx.ubrv.g&%r6W+vrb%rxvx&WYWur;/W1vx1vr.Wb&r.g6%u6bx6+.&u1_xu1xWbY.Y%b&u.g%++W+&x11.vurW/YKbvuYgl x66//11g&6Y*b+x&/%vg11vW+YRYYbSuxg6{//Wb&gYuW6gxx+vWu&&.b.uu.rW+YY%urg%(u/u/6+W1b&rv1./%kr1xgWgWvYuY/ujuu+o&%xg.bWvr1Y/6o.buY?1bx/%gr1.6&r+/W+g&.xv.1W//-Yu1Yb+uxQ%6v/.g&.+6&/.g+6v66vb%-%v&/.W8=WYYrYW%%v+vrm&/b&+gg6/6bv1%Ybbxx61Yvr.%uxgx61&WbvrY.6r.mvu.xbbg.g%%W6.xuYY&%1gxb1.W1v/gX%g.YvW2+b%rWx)6%WY+%Ygbv1vx11Wbmv1gY%r6xg%+/&+&u.%x6Wgvx/v%1/&v+WbbYv.gx%Y6/+/+u&%%6xg%1WrYuY/bruug6UWWe/%+r.8v6rY%rYg&bY%.1u1b;Y6uguWguw%6/&-./x+6W+x+bbg&1g+#L6+bYYbuWu1c&5.Wr&++W.xr/Wv+1bvu+.W(Yu%/x+Y1/v+v&.ubWgvg%W+.1r/lb%u/.xW1u<%//1!1&&+v6..bb/gg11gW++b/Y%W/vx%.xW.vWgYu%.gv%b/b1rux51/WYvgYvuY1rv8W&b+r&gg%q6vxr+&&Y&uY/.Wu.r%<W%.&+%x&6xg.bWvr1Y/+%%uvvBWbx/%gr1.6&r+v6%gu1xv.1W/r1Yb.gbxv+YY1u6YxuQ&W.rvg+.rWgvbYg%%/vYW1xu%vrK.b&6g/6.guYrv+1%/&1rv+/&Wu:xYWrWWr%1+1ru&{b++bgg/gb11rYr/+u&%uYxxW&Y+6bugYbjv6&//+516r+6W+xWu&/1..&u+r6d6%b&gx.Wub r+gY%&6xg%rr%ax/x+1cSgr%%/%1/uvo./bggu&x1%uLv.Er%+/vxxWWWr+.Y/b1u6AuEWW+/%+1.fv1rYb%Yg&bYr.1u//K#61gx1vvbvbrrugu6x.6rg.1%rxux/1+W6YYYW%Yu1V/Q.Wc&+Yvxg6bx/r1%//1xu1bWWr+Y%%x1.v&.u+6&gY6.vuWr/V-YuuYg6Nvr%/r+/1&&bv6.&b%g/g1%bW5vxYYWW1xx%1&i./u1g16&vvb#gb1/au^.uu.rWsb%1x%vfW6b+r&gg%Y6vxW+&&W&uYWxWWxvYYrbMu&gbz66&/%1/g16/x1+6&g&WY..%urW.Y&bru6gxRb6v/1Yx.-u/rY.1%x/Wbr/vg&.+66r+g&16v1rg+v&u&1xPWxWurW%.1xurk6_.b+gvg61br>rv+/&W.xr%rr=b%uxxx61%Wbvv/11/&-vu.%bWru&%.ru+r&D+%Wx/xb.yW1vbg_%&6Yxg+xWx&rYg.&uurW%b%b/6u1*/6Y/u+Y1bv&v%d+b.r%xY6.Wx+.Yvbru/gW=6/1/WY+1%uxv..%Y+&6Yg.b6Yr.%61a&gvY1W+x/11/1.urrYbW%g/xuv.16g/n+/1Y&x6x!%Wx/.+u.+uxrgH6%v/Wx&W/Wuv/YW%+u%xg+o&g&+Ygxg6bxu+1W.uhgxdYu./x4%1r&u6&++Wx&gY6.rr_r/q1%6xYxbW.W%v./.1&&gvWb1bbr6g1%&WoxuYYbr1xx%1&p./&++16u}vb.vb1/Yum.6rxrWVr%%&xvJbr++/6+x1b&6v1.1%4r%xY%WWv+%YrbbuuaxOW&+bbgr6r6/xW+6ui&b.b.%uWr.+v1YxWvg.rbrg+g&61Yb1YuWvx;%br..uWg+6%rg+b%v&1x/r!+%WYY11xu%vr>.b&&+/Wgg6.rv+1%/u5xu&YB WxY%bWu.v&++b&u.v+bvb6/b.-.v6/+WYH%YxrxW.%/+/rY&ub6+vgb/bb/1.Yvb%g+%&/.+.u/!W6YxuWuvg/K&/r/u+Y1Wuqv%.1+.&&Yv.Wrrr%%%%1/.v-.x+Y/b1r11r+6.+&W.&W.vxbWvv6Y/b1uug/?W6//%Yxg.6u+r+W&r&%cxx1W/v.Yu%DuWg.,1/u&01..+&6rg?/%vr1u/8+rb/YU.1x/%v/W.bugb&6.xrgrr%4%//1uumgr%/v1&gr60mW++6b&gYx.vuYr/5v%u/%xW1xZ%//151&uUvWbrb%g/g11xWiv+YYbv1xx1W/5./&+W16u+v%b/b1/vx+6uWYvuYxbwurg%v&bYgu&g1%v/v1.u%E//xY1QWxvr/r%.&xv+16bxY1gv%g6&+w+uW6%Wxv61Wrv1Y&bruW_gHbW+/.16xU66+g+Wbg&1.uM*ru/Y%b1g&xvv.ux/guW6/YYW1YWurW%.1xurp6R.b+gvg61br?rv+/&WufxYWrWWr%1+1ru&ab/r1 1&vW6u+YW+&xYYxrWz+uY+bvugYbUvu.//+J16r+6W+v/.&/1..&u+r6+(%%xrx.W6b+Y1gYbW.xv%MYb./vx+%.Kgrb+x%1&vv+W1bgY1gx%r.rv.dY%Ygbxg16jvr.%u1+vx6Y2b&gb%g/6+6&xr+6Wx&%exx1W/vvYubguWgxD%W+b.gu6Y66x1+bWv&1Y&?Huu/g16gxu%g60.Wr&Y.+.xv.rrb1%//6xu1Y7W/v1Y1/vYv&.rbWgvg%W<.1r&%.YuuYg+Qx6Ybrgmu66Y+urgbb/gg1%&NQr6%g%bxrx%.xW.rgg+bW.gvb.bb1r/xN%1WYxbYxW%u/I/Z&6u/6+1gb6r+%r/%+gWxgW6Lxr1%/Y.u&g1466&/b+r11uvr+b6%Y/vxv6%WrvxY&bYu6ggvbbvr&g/%&6uxr+WWx&%g+x.W&vg/61xx1vrb%+/&+1W.Yuurvb%Yr&.gxL+6&/g+/1v&Wv/.&b6x+gW1d6%x1r.%&/rx61xWbvvY.u.6{x++YWr%xg%1v6.vrY+W11g6%rv+1%/u*xu.YvW.rb%/xg.1gWYYrYx&1+v..&&x4.uWd&/gu6%WYrx%&%%&.9gB&W6Y1gg1vvuv1+m&x&ugW6.Wxrr%6xg1+Wvx.Y/bNuug.iWW+/%+r.Lr/W++6W.&%.v.1u//C+U1Y&uvvW.brv.&&.+&%rgK6%v/_x/11W6YYYb6Y1%v/W.b&rrgW6b6bx6r1%&x+xu.yWWvvY%b16n;&++66&gYvxv61xuY+&6uYgkvxW1Y/Y.b66+x&+gWx%vg.6&W)v+YYbruv{&vrW.v6&+16&%v%b&b1/YxN%uWYvv/x%%/1u.(&61/6+g1%vbv1..%h/rxY%WWxvr/r%.&xv+./bgr+&v11urr2n/%Y/vxx%%WrvrYuubu6gvFb6v/.1u.+rvWY+WW1&%Yr..6Yb+YWuvu%+<v1b&gggu%16Wxu+%WWud})2Y/rbgYb%Yu1g/++&&&g1W.xuvrr?+%&/+xWWvW%g+Y1%g6lx/+g&u%xg%%%6.x&Y+bvux..kv6%/&1ggu6gQb+x6.&rY%.&uur6Q.%b/%u1 /6v/u+g1bv/v1b%b./_x+1rWgvx/v%.x&v+WubYvWgx%66/+6+&W%&6YWxbWvv&Y&uguug%Lb&7/11&.yr/r+du%g/rxv%1W/vbYub6+W&}&%xr..Wr&%g.WgW&r6%11guvTu_1b>gxgu1Wv.rx+r&6&.x+WvW6rb1ix6b+HW/v1r1r/.6&+Y/b&g+1.vubr/Jv%u/WuW9x6b/r+%1uvgv6.gb%grg11+W++bYguXuxgYvrbhgkg+%v6x+6+r&g&/Y1xuWYv/YxW%u/S+F&6r/W1g1b&%61+&&/&uY/.brxr%9W%.&/6+DW/&/%1&11&br0>vYY&Wgg.1rrr.+r1+/Wvxb&brgb&/.KugrY!g%x/6x/WY8&/Y%b1g&6vv.gb/rggu1_.Wrx.1%rr.xuWgWWY.Ybb.u1g/rnb6gugW%u61+r+.W%u+g+vgW%YvY1bb6Pxg+g/1#x61/rY.1&u./rY&ub6+vgb/bb/1.Y./6u+%YY%xx&x%../g/&Y6u16gvvbugg6g6xx&+/&%&u.r.66+WbYvb6u/gldu61/W+x11v1rUbWY+&6gY.%rvr1+v1+v+vY./bxv%gr%b6&xv+6b+&bY/.16+/+%bgYuWgx^%W+/.+%x+6W+r+%&/&../meu1/Y_b1vvuvr.x+&&Y.uxg6%+1+.ur1?xu1gWbY/Y%b66_RWr+b6r&gb%r61x/Y+u+uYgg#vr.//1Wg&6Y_b+g61&vYb.&r1WuYYb/uxY%fr6b/&+v16u+v%b6b1ruxT1/Wg+bYv&.urg%Q&6x/6Y+gb6vxb+&&Y&6.&.WuxW%Yrbuu&g+m66./bYY1.rrr?^v%Y/gux.%6vr.+rg+u6grybWg/1YY.!u/rY.%%x/YurKS//b+YWuxubxgv1b&g+gu1+6b+/+1&&&.gvX+6Y/g+r1v/16/++/6&YY6.vrdr/%&%ux.b6/bgb.v61rvgb11rYr/+u&%uYxxW&W%r.1g1&u6(1+gbvgug1.;rxru+W&..&u1r6>g%b/6x111b;v%gY%&6xxv+/&v&u.bx6Wgv&Yvbbu/gvsu6v/WYYg%6rx1+&W.&6Y1.b6gr19u1I&/vY11bxrW&r1.&&r+.%%xgbxv1gW/vgYubYubKr,%6rb.gu6Y6W+1+bbY&..6_N6x/g16gxu%gW{.6u&++6.guurvqW%//1xu1W!W/x+b1r&%v&MLb6r&gb%b61xWYKbxuYggOxu./r+%1&&666+g6%&vYu.&r.ru}r%W/bx%.gbygg&+16&%v%bvb1r.xo1rWYv+YxbWurg+!&6+/W.Ygb6vxY+/W1&6.u.b/_W%Y/ugu&guO66./bYg11&1remr%Y/uxx1aWrv%/&1+&uvg1bbrY.g&6Y66+v+b&u&%Yrx.WuY+Y6bgubgr5.&Y&pYr.gr6Wx+1&&uMmgv+W6v&Ybbru1g/+SWr&YY&.x&%r/%1v&./b6&ggb.gb6/b.X.v6/+WYt%YxrxW.%/+/rY&ub6+vgb/bb/1.Y./6u+%&/.+.urbW6YgbYuvggv/b+Y6gg6r6xx6+rW%&&YWx6Wgx%Yvbuu&;.Qu6r/b1/11v/v.l!%+/Yug.bu.r1U/1Z&g6Y,W6W/%+r.QvWrYb6%xxWxv1YW/v%Y6u%uWg%v%brr1g&%+6W+x+%u{&1gxT_6//Y+vgxu%g/+L/W&++1.gu+rr%r%&xbuufYu%/v1&1r&gv&.+b6/ &b.vuWr/7XYuuYgukxu1/r+x1&&v66+gW&&vYb./uvru41%bx/u%_//x/u1x1Wr+W&+v6.&&.g.uurrb%/Y%urgxP&6Y/6+g1%v/v.%gYq&6.x.Wurr%+x%.&+6+4W/g/bYg1.vurjT+%Y/vux.%u1W.Y&bWu6x+-bWY/.11.>&urgb%%vxuur..u6b+YWuvubg6^16&&+.&x1Y11xu%vrR.b&x+uxgg6bW.+.%/usx/+1%lxxxu.Wr./xYru6u.v+bvb6/b.I.v6/+WY9%YxrxW.%/+%6&jxb16,1//+%1u&Y6W+v&x&/.+.&u.W6Ygbuuvggv/b+Y6gY%66xxW+/&(&&Y..6uxrb+Y%1//v+b&+Y/W+11%uxrab6%+/&xx6bWvx1Y&u.1uvY.gbvgrgr%x6u+gr6%xg1xrW+W&YY/u1Y&uvx.bb/Y.g&%+66xv+bWu&1Y/d!6r/Y+g1vvb6r+4/u&+Y&.xv%rvjr%&xpx6WvWbgg/%1r&Wv&..b6rb&b.v&.r/(1%u/vxW.YW%vWY.bu6Y*W+gWr&vYr./uuWuYYb6uxgWdr66/&+.16&vvb_gb1/Zu9.uuYrWz/%1xrx.1%b+v%ggbb6r+ r/%H/rxY%WWxv/Y/&.u&g.P666/b+v11&urz}+%ggbxx1vW/Y6Y&b616vg1%bvrug&6.6uxr+WbY&1.&..6v/Y1v1g&v6vy./6&5+W.Y&Wrx,&%r/xx&11WWY./b1rvvv/.vb6gxgW1Y6%vv+.btu+g+^g6>/v+r1&vY6u+g/b&x+..ru%r&Ku%6/.ub*rr.//+J1u&%vb%9b%/gxVWgW+vr/g%b&Yx11bb;r&gguW6xxW+rW1&&Y..Wrgr%%W%1/.vX./bYr&gxb%6rx6+u&%&6gj.%/zr1+ggouug/_W6v/%Y+1.urr+nrvg%rbv/1g/11bv//1W.O6Y+r+Wb%x+xr.&rb/+Ygu/ubx1bYb//u1%.Y6x+&&Y.uxg6%+r+1Wuu0g/PY6g/x+ugru.xx++6.&x11.v&1r/fW%u/%xW1bW1Y%Y.b%6YaW+gWr&vYr./ubWuYguYuxg&yr6x/&+116u+vb,++1&/Yx.u6Brb%v%1x&x.1&b+rv&g1b&uv1lvY=&6.x.Wurr%+x%./%v+1%bgr6&v11&%rT.1%Y/rxvWRWrvgY&b.uW?6MbWY/1Yv.e&brYpuYx&1./..6r/++x1g/b6v91Wx&{Y/xY6Wv_+%WWui.uLYrb/g+6gvu1xx+_61&Y+1.xuWWrYK&6u+Y6mg6&bvY1b&6++x+YWr&x+%xr6.vxY+b&uxVWvvW.Y&gB%&6Yxi+v/%&rYW.&u+1%6gvb+vb1&/Yav1.YrW9.%%urx.mr%%&.!ge&W6Y1gg1vvuv1+h&x&ugW6.Wxrr%6%.u+ov06Wbgzu6mW}W6x/11/g.6&x/+6W&%bxrW%_//^oW1Y&uvx.xb/gWg&%%6W+rrb%v/%x&W8WurNYbuvu1B&R.Wr%+g6%W.brvqr%&x+xu.+WWvuY%%vu.g%++Wv&x.6xv6.+uYzWWuYgu,v/WbrY.%x6+g6+x/1&r.6x/W++6YYW%uxgW-r6//&+%g66x+++r&+&/Yu.6r&rW+Y%%&Yu.T&6ub6gxub6vg1+/W/&6.Y.Wuur%yb1UxW6+n66v/%1r11&bWH+uW/&b-vx%WrvWY&buu6g%Z%/v/1Yv.+v1rgb1%x/Yxr1WW&rOY6%+ubguq1Wv&+1u.Y&%rx.%%r/bx&11WWY1Ybb611v&b/burYgb6v61+&+.bDuYA;Zx//bvY1bW6Sg1+Y61&v1%.r&.r&_v%6/gx%WWW1v.g7%+.1%1uxx%srW./&g+vg1gvb+rb.&/xy./b1&G.x.u6W+.Yx%rx6x.N+/v/6Yb6)6vv/bW%_&Y.r.W6%Y+&6+v.%rvr1+v1p&xvY.rbxrvgr%b6&xxr6%gr%xv1gW/vxYub.uWgxt1&vb.g&%v66x&+bW/&1gv7+/;/Y+v1x/%6rR.Wr&++W.guxrveY%//vxu1%WWvxY1u/6=+xr+b6/:gb%v.1r/Fb%u&nxW1bk%//1g1&&+v6.%b%g/g.WYOCru++%bxxx%.xp./u1g16&&vb.rb.xrus.6rvWWYv&.urgx^&6Y/W.Ygb6r+++/Wr%uxY16WxvvYrbru&gvN66gbbgv%v6/xz+uWr&b.x.%6x/m%.1+/.vg.ubvv1g&6..urY-/%xr%xr16W&v.Y6bWubx+f./6&+.Y.YugrxdrYruw.W(+6r/g+x1rx1v/.HburW&W.vrOrr*vY&u+YbvgWbr+Y.u66Zxg+Y6W&v.YxrWw+uY+b&ugY%<vu1//+61u&Y6W+xWY&rY^.&ubr6kW%b//x11/b+g&WvrWYx%%urx.Y&Y+W6gg.66rv1+/b16vv/bW%5&Y.r.W6%Y+Yr%&xbv+Sg///bY16Y6/vub%%Y&x.&rY%Y%grbxv1uW/v:Yubxubd.v%b/g+gu6b.6rgdW%v/gx&WFWuv/YWb1u%xx+T&P&++..guurvCW%&xWxu1WtW/v%.1r&xv&.Yb6r&&b.vuxr/2vYuug.%jv/?//1+g&6+xu+gWx&vYv./uxr6%%YWuv.1y//6/&+116&%v%b&+1&&.&.uuYrW,.%%/rx.16bYgv&g1b&uv1./%Zr%xY1gWxvu/r%.&rv+1Wbgr6gru.6&+++6&%&WYrx%W/Y+Y&bgu6x+?%&gb1g/%g6ux%+WWx&%Y%..6v/++Y1xvYvrb++/&+1W.YuKrvb%%r/1x&1uW6v1Ybbv11v/.vburggW%x6%vg+.bvu+Y6Ix/WbvY1b&6+kb+Y6.&xYY./r/ru%%Y6ux.1zr/+/&1Ygu6g,b+x6.&rY%.&urr6HbYbur#v4/6v/61Y1W&uv%hvb./vx+1&Wgvv/v%1&+vT./bgYWgx%W6rx,+&WW&6g+.bu111W6r++u%Y&urf+Y&r&Wg%W+Wrr&%b1+ugo/-bW1gYg/1uv%rY+x&&&%g.Wg+%&b&1gvvZW6YxYbu.1%v/b+bugxgW6v.brvDW%// uuRYu./x+Y1r&6v&.r+6&gY&.vubr/5r%u//uWjx6///%.1&&.v6..bbr6&1.&rYru+2%W//x%.xO./&+W16&gvb..+1&&.+.u6erb%v%%/rv#W6bYgr&g1bu+v1}v%+x/uY.Wu1r%+x1ix&v+.&bgr/gv%g6/xY+6&g&WY1.1ru/e1rg+uWf&*%/&/..r.4ugrgb1Yx&%gg..6m/++J1g&uvrb%b&g.&u.Y&%rxkY%/x+x&1gWWY./b1rx1v/.}burugW%r6%x1YD&6u+gYOx/WbvY.u16Hx/+g/%&xYWxr6.v/YYuvux.1#vu1//+v16vxvbbvb1xv&..urYr6++%b&xx1.vb+Y6ggu%6xg%+rW+&&Yu.Wrvr%1+Y1u/gb9u6./W+ug%6/5.+u&g&6g+.b6+W1Y&u+uugx5WWY/%+W1.u+W++6W.&bYv..ru/h211gxWvx.vxu..W&/+Y61gub/ux1b/&gg6.Y6WrYgu1Wv.rx+r&6&.x+WvW6rb1t1vu/OW+lbYgrgW1%r+rr+&&b.rrOr&%WYuuYg+dx6YbrY.%v6+g6+x&+&r.+.&rrWuYYb6uxgvmr6r/&+v16&&v%bW+1&/Y6.uuYrWC1%%/rv!b/++/W1x1bu_v1./%{r6xY%WWvYb/r%.&m6+_66//b+v11&%r4.1YY&Wg+.%uWW.Y&%au6gWab6b/1+W.Iu+WY+b&W&1.&..6rb+YWuvu%+^v1b/rbgu1R6bYYr%%r/Wx&1+WWYvY%6+11v/.vburggW%x6%v+r.%&&Zx6.+W%Y/Y1%v6yxv+g/1%xg16%Wl+6Y+b&1gxb1uW1v/g5b.6YxRrxb%rbg.%%W+v/Yxuvuvgr4/6%/u+YgW6xxx+r6.&&Yr.6uxrbav%.x.vj.+bgY%&x11v&v..&%+/xxx6.WrYb//1+x6vY.rbxv%gr%t6u+x+Wu+%bxrWgW&YgYub/ub5r9%6W/.Yv.YrrWg+bW.&1Y/z 6gbYYburu1++&.ruoYW6/gY6!+WgY/Yb%1vYv/Uu/%&Ygx6&6%v.%g%&&6.1 gWvYuY11RvxW1Y&gX6g.+v6NYbb/gg11rW++uYYbuuv.1_//+/u1xg66x{.rvb1/gxp%1WYv&Yvub1rvfW6bYY%gxu1.vv1.&%+gbxY%.WxvYY/u/uuX%v6bgv1gr6u6&+++uW6&WY6.1/+r.Z61+/6vxW1brg6&/.-u&rYeu%vg1xr16W&vrY6b/ubxYH16.&t+1xY6b+v+%W&&.grl+6YbgYbbuu1xx+TW+%YgW%66%x1+.W.u+g/ag6xbvY1b..Zvu.xbWr1g%%rWR+.Y+bYugY19vu1/&1Y16v1vbbvb1xv&..urYr6).%b&gx.Wub+Yugg66.xv%9gb.r&u+.6u.rb+g%1/.67ouWt/W+v11r5v..%%+/rxg1uWrYuY/bv1uvgW%bxrYgr%u6u+Y+W&v&bYvx1W/v&/u1Y&uvvW.b/gkg&%+6W+x+%uA&1YuCEuu/g%%gxu%xx{.6b&+Y/.xv.Wv+1W6u+.uoY6u/x+u1r/.v&.vb6/;g%6&6.Yv/F%u/uxW1xW%r+gzuW6+xu+x/.#&W1//g)1u6Y%Wv17%&ug..&W+r6Yg%b%%&1F//&/ugY1W6Y/uYWu.6xvrb6b.&+.v.66bY_Yv%/xWv:<Y/r/WY%6+6rv&bbgv%Y6/xQ+uWx&WYx.%u.W.Y&b1u6gg^%/6/.16.ouYWY+WbY&1.&iBr1/++&1g/16v 1Wr&_+1.gvWrxXY%/x2xuW&W6vWY%u/u.+Y+n6W&Y+W.xurWrY^&uu+YbCg66/v+r1&vv6u+g&6%xg16u6.x1Y+W.1gxb1bW1v/gXb16Ygb+x6%&rY6.urYrW1YYbur..{/6W/u+61bvbv%cIb./rx+1rHgrb++%1//v(.xbYru&x11v%v..%%+/vxg16WvvCY/bvuugbvWbvY.g/61.&rYbb%grbxv16D//Aj%1Y&uvx.&brr?g&%u6W+vu.vvC1b/&ygugY+g6xY:%r&.x&=+W6.g&6Yv6+v/+sbu&YgW/xAr6rYY%&u+x6jgWbWv/.Y/6gvu+YbW&xg%/r.r6&Yx%6ugxb7vW1v/ugYu6vvW+xb%&rg.%&+&66Yr%buvx1V/beuuuvYW6/v%+rb.&&x+.6*Y6bY&%1u/vNdubYvWu&Y%6r&r+u%+&6x++&b6g1xg.vrur1Y uxuuxWW.bx/r161.6++v+6bbx;xv./rW%vxburckr6/+(.1g/%vv.g+/&0+b.Yuurx..%r/%xuW+WWg+/b1v&Wv/.v+u&YYu.vv.r/%m%&/.xWWxWbv%/11/&/vu.rbWrug16/WJYx/+%Wxvxb16W1v&gEb1.YvWs+b%r1g.1YW+x6Ygbruvgr</6vbugg6g6xg%+rWU&&Yb.66+rb+Y%.vY6Gc6/x/b1/11v&6.+&W1&6Y&xbWvv%Y/b1uug1LWWY/%+u.(vWrYbbYg&bYb.16x/8nu1Y&x6xa1&g&t16.+u&Wg+%&/&1Yb4+ru/Y+61x&vvr.6b&r+&6.gu+rv..%//Jxu1.WWr+Y%br62+/r+bWxY&b.vuxr/_vYuuYYbiv/K/r+g1uvx66+x/1&vYg./u+ru4/YWuxgY!r6s/&++16&1vb.%b.xqxJ%1(YrW+g%%/WvoW&b+v.gg%/6vg1+/Wb&6.%.Wurr%7r1Ix6vYbr+g/bYY11&/WF+ub+&WgY.1r//U%61+&&vxbWbvrWg/%%6uvT+WW%%%xr1%WuYYY6%)ubxgS16u&*+1/vYW1xu%vrp.b&%r/6.r6brv+1%/ujbux1.W/xb-1ru.v&4.1ru&mb++bgg/gb11rYr/+u&%uYxxW&W%r.1g1&u6?1+gbvgu6Yx&+xWW%rxh66WYYv/g%%x/x.bY+?/uYh1bvbv%.1b.rux+%6Wgv+Yruru&Sb!6/g/b.gg%6/+++&W+&6Y%xbWvv&Y/bJuugbvWbvY.g/66.&r+.1%g/6xrWvW&Yb/u1gvgvx.&b/g%gu6r66xWrb%v/&x/11W6YxYW%Yu1Hrj.6&&Y.uxg6bx6+1W&u+I6:gr%/v%11/v16&++Wx&g+b.vuxr/Ax%6x%xW1%7%//%.1&&+v6.6x.hvW1//g;1urYWxvxb%.%g..&W+r&g..+rvr6+buSuvx/WWbk/Y1r1Wu%+++rb&gbx+.gr/rb+1uY.W&rr11+Y.u&grsW/b/b+6g16/x.+ub^&WY1.%6+r.+r1+&/vg.xbrgeg&6b66+g+bug%%xr1WW&v.Y6b&ubx+j./6%Pgu%x6WvY+%b+u{<cZ+u./gG%1v&Wv/.1bur1gb6/.%rrMg%&/ux611WbvuY1b/6dxg+g/1%xg%%/W=+WY+W1ugg+dr/r/&1brbYY%Wuxx%yr..b1/+16Bxvb+vb1&vvb)1&Y&/gu6%WYrx%&%%&.^g!&W6Y1gg1vvuv1+2&x&ugW6.+&6g&6Y&.burr14bgPuug1!W6x/11&.hrxW++6W&&bYr.1u//X+x1Y&g6x)%6r/.Yg.+&.Wg+bW/%1x&WvW6YvYWb%1%vr.1b&rugW6W6bx%r1%//bxu1.WWvu/%1r& vubbbWgggb%661xb6gvu+YbW&xg%grSW6&Yx%6ugxb=vW1u/u&Yu6vvW+xb%&rg..&1&66Yr%buvx1m/bJWu&YYW6xrx+/b.&&g.+rb&gbx+.gr/rb+1uYu/xuW%bY/x1&1%u.+g+&b6g1xg.vru%Y/vxx1WW/Y+Y&b.uWZgh%&;/1Y<x76uv#+WW&&%gg..6w/++rggubg/j161&mYv.Y&Wrv%Y%r/%x&1%)6/g+g1v/1v&b+b6gxgW%x6%x&+.b>uY.b:x/&bvY.uu6og1+Y6b&v.bxr6.v/YY&6uggx=v66//+61u&.vbb/b1g&xhWxT+r6i%YbuvgW(/6v/u+11bv/6%+/&>&&Yg.66+rbh%%1&gvP.++Y/W+u1%&/v..&%+//xxW/Wvv6Y/b&1uvY11bvgpgr%F6&x++6W.&bY%x1W/v&/u1gxbvx.Wb/gpg&%u6W+g+bbg&1Yu=2uu/g%%1vvu6r}.6%&++%.gu6Wv+.&/u+.WSY6u/x+ugru.xx++66&gY&.vu&r/B&Yuug.%{xu./r+%1&&rv6.b+b&vYg./u+rua%%W/bx%1&W.rrg+%g.gv%brb1ruxK1+WYv&YxbWurg+h&6+/W1v1b&.v1..v4./bY/Wgx1WbY/x1&1%u.+g+&b6g1xg.vrur1Y8uxuuxWW.bx/r161.6++v/.1u.+rxWY+WW6&%YWx.WuYYYWu1ubxY21Wv&+._.Yunrxq/Yru^VKm+6r/gpb1rx1v/.1bu/qgW%v61YJ+.W%u+YWFg6r/v+rg/6Tg6+g/1&xY+.ruxru%u%Wx.ubQv6Y//+11u&/vW.&b%rrxm66WYYr/g%b/bx11/+=/u+11Wu+v%=xb./+u+.66+rb#r%.v+vw11bYv.gx%/6rx//x%Ygbxg16WrYvY/b%uug/5W6ub%g/6r6&x++W&x&%./.1u./+%.1gvr6xR1///.+6.+u&rgV+%v//u/^qu%/Y+51x&4v/W.b&r.g6%16bx%+.&/uLg/GYu%/xO%1r&bv&.1b6/+gb%1.1r/Pb%u/YxbWrW1YugEu%6+xYrgb%grg11rWBx1Yg&Wuxgutr6%/&+Y16&gvb_Yb1/+xk1+D11WW6v1+rb.&rv%=.&g&&g661Wgrv%u%1uBexFuWWY.gx1rv6v.++&v&6gbW:+6u+%Wxv6.Wrvx/&1+&rvg.+brgv&/.=&WWY+WW6&%gx..6//Y%%ggu%nr9./6&f+W.Y&WrxT&YruTl+s+u6bgYb%xu1xv+8Wv&YYg.xu6r/%Y%uxgx6.LWbrg/11/&%vu.YbbgWg%1gWA+W/+%6/&xb1rW1v/g+uW6g+/rxb1g&xtW/ +rW%v%%vCu1c&/+/u+x1WuYv%.1b./xu+.Wrxrb+x%1/bv+WubYr/gx%W6rx1+u&+&6YW.bu6r1+g17&rvY.gbxr/gr%%6&x%r6%gr%xrW+W/vxYub/ubjb51&Yb.g&%b66xW+bWb&1Y/?+rW/g1/gxu%xYy.Wv&++.xg6%+6+.&6u:gYvYWbYuY1uuu.g%+Y/6&g+b.rv.r/#.%u/6xW1WW%v6gM6/6+xg+gWr&v+1x/W++b/Y%bxrx1b+N./&+Y16&1v%%xb.gux+Wv_YrWRr%1v+vBW&b+r&gg%t6vx&+/W(%uxY1YWxx%Yrb6uu xw6WY/%.!r1.11JuuvY9u1DuYsrBWW%g+gr1&vbr++g&/&bg1WYW/ru%%1Yux_&S%W.ggubguD16/&d+..YuhWx+%bg&.Y%v+W6rQYbbvu1gW+;W/%YgW1Y6%x/Y^uYuYJuyxr%/v+W1/&&v6bxbbx8&%./rrru%g%6&+ub}r/%b/g+uW6gK1+v/.%rxF6uW+vYYgb/urZ6m/6%/61%1W&%6%+r6.%&xY6bWxY//v%.x&vE.xbYvWgxb16rg.+&WW%6xg1rWvvbY&uYuux >b/x/1.+1.&%W++6Wv&bgg.1u1/X+/1Y&/vx.6brr/g&%b.6rxb%%v/gx/1+W6g+/W1vvgvr1.bug+g6%&6bv+r1%&xYx6W%QW/v%.1r/.v&.Wb6/+gb%1.1r&%+%u/1xW1uW1Y1Y.%v6+x&+gWv%vg11vWTx%YYb&uxY%2r6u/&+.r%Yg%buvx1_/b7Wu/Y1Wgbv%+rb.&rv%L.&g&&g661Wgrv%u%1u9mx*uWWY.gx1rv6v.++&v&6gbWA+ub+&WgY.%uWr.{u1+&YvxWbbvrbg/%Y6uxY+Wb+&%gg..u&/Y1uggubg/7.&Y&5+6.Yurrv%b%r/gxuW%m6/x%11v&gv/.+b6x+&W.x&.Wr+.Wbu+Y6Eg6u/v+W1/&1vu.W+W&xY/.ru%r&U1%Wx/xb16W.Y/gyb16Yx&+v&g&rY/.&uuW6Yx&.uvgx}/6vbugY%66v+N+/&L&u.g.6uWrb+?%1/.6>duW+/WYYg%6rxu+u&+&W.r.bu&r.%6rjWr%Y&Wxx.W%Y&x.&.%6.YgY&%6x1vgAv/u/1gf6x6uvWb.%x&r.6..W+Yv&1YWhRuu/YP%1x/%vr.&+&&++..g&%rv.1%//Wxu.mwW/x+b1r&%v&.vb6rxgb%661v9/C%6xgxbW.W%rg/.1uvYv6.vbbr%g11xWCv/YYb/uxY%d//+/&+W16&W6b+v61%/x+6WWYvu/x%1vvu.Qu/6/6+ggb6r+F+/Wv%uxgWgWxx.YrW.u&gY-W/g/%1&g16/xYru%Y/uxvWxWrvuY&b.16vg.ubvv1g&6/6ux.+b&/%%x/WlWuYxY6bvubgv?./u&+.v/vYW1xu%vrs.b&%./6.g6xrv+1%/&1rv+/&WuDxYWrWWr%1+1ru&>b++bgg/gb11rYr/+u&%uYxxW&YYuu1gx%W/W1vug>%/6g+urxb%/Yg.%&W+vrYgWburhr0&/gbugY%_6xg1+r6.&&Ybx6WgvtYvbgu&yil6/1/WYJ1%ux6.+&Wr&6Yx.buvr1+x1f&rvY.ubxrY&r1.&urY%v%xg%xrWEW&Y{Yub/uWguv%brr+&&.Yv6rxb.%v/&x/1&Ou/g%b1x&Yvr.ebux^&6.g&1rvwv%&x.xu1%WWvx/%1r&uv&..b6r6gb1(61x.YjbruYYWvxW%vWY.bu6YC%+x&g&v+1.&r.WuYYWbuv{PPr6g/&+r1WvWv%%++1&&.Y.6rvrb%rY%urgW)&61/6+&gb6vxb+&&Y&6.g.Wuxr1%/1Evgv+1bbgvbgr6m6&+bru%Y/&xx%%8rr.+/1+&&vxW%brg2g/%166Y++Wb+&%gg..6r/++gggubxg*./&&aYr.Yuurx..%r/xb&b/gW.g6brgg61brXrv+/&Wu:xYWrWWr%1+1ru&ob++bgg/gb11rYr/+u&%.rubr&t+%Wx&x%W&W1r &m16vgvW;Yb%/vg.1rWY+WYx&1uvY1S/6Y/u+61bvrv1%Y+.&u.&.66+r%%/%1&v6Tw6/Y/b1r1%uxv.jxY+&W.x.bu/r1+v1s/1vY.x+x/%+b1.utrYb6%g/6xv1FW&YWYub/uWgv)%6r/.Yv.+u/rgh6%v//u/!+r6/Y=%1x&vvr.bb&r.gW6g6%Yj+1bYu)g/MY6xbxY%%Yu.g&+Y/b&x1..rrgr/T&YuuYY%vxW%v1gPu66+x&+g6.&vYgx/W+YYYYWW1xx1W/W.rrgYuW6gxx+r/1&&.g.6/+WWYxbuurgbX&6rb6gg%x6vx6r/%N/rxY%WWvYYY/uYu&g6v6bgrWgr6u6&+Y+uWY&bTg.1r//T1xg+u6g/I%/&/.1..+vbWY+WWr&1S+U7ru/++&1xx%vv11b&gYg661.Wrxtv%r/ru&a+6r/g+61v&gv/.gbu/{&W.xu/rr{%%ux+x6.+WbraY1bb6pgW+g/b&xY/.ru%r&_x%6&+ubOv6W//+!16v/vbb/b%r.&..&ugr6++%b&(x.W.bLv1gYbb6xx6+rW%&&Yx.66+WbYrugu&cge6&+.1Wxr%Yr%.u&%+v/Eg/.gv116/rF+uuY.g&x.%WW/zY&1+u&r.Y+uvu6xbb#bv//1W. 6Y+r+Wb%x+xr.&rb/+Ygu/ubx1bYYbuuu1tuS.W+&+Y/.guxWv+1bxuhY1vYWbYvY%%Y6!+g+Y/W&gY/.rr%r&%u%u/6xW1%5%/r+b1&&uvWb6bbr6g1%6WDv//Y%W/ru%pr6v/&+u16&6vbIYb1r.uH.6/+WWYv&.urg+T&6./W.+gb6vx6+/WH&uY1.Wuxr1%11<xW6+K66&/b+r11&/r0;xYY&WgY.%6gr.5&g+u6gxq%/v/1+/. uxrY.WYx&1.&hBrW/Y%bggubxxP1Wv%5g66g6Wxx+%bYu2zgP+u.bgYbbuu1gb++/6&YY&.x&%Wr+.W%u+YW2gub/v+ug/6+pW+Y6%&xYW.ruxW&Y+bYuggg9v6W//+n16vgvW.bb%/+g.1rW+xbYgWbuvgWk/6%/uYe1W&u6%+/&q&&Y..WrxrbKv%1&YvO.+bggxgx%Y.rrIb%%+r6xx6bWrYvY/bvuugv-W6./%Yx.)v6r+m/%g/6xv1gg/xY6urY+W%Y6uvWb.%x&r.6..W+YvY6%bvhvvs//W&VgY6r6Wv%%+%r&&.brr%-%//vxu1%WWrYY1u%u.xY++66%gg%6/6.YY/C%u//xW1vW1Yugdu.6+g6+x&W%vg11xW<xuYYbguv.1=r66/&++16&xvb.6b1/fx+W+WYxWYvub+ub.&&x+.6Wgrb//+1u6vLnubY/Wgxx%8bu.+&W%&6xg.bWg&6gbWdWvr/%W1FuY7rpWW%g+gr1&vbr++g&/&bg1WYW/ru%%xr%.W&vbY6b&1bvv.rb/rbgu%g6Wxb+1&b&.gL9+6v/x1&1v&Wv/.Fb6x+&W.xubrr>%%uxgx61gW%YrY1%+6+fb+g&4&x+%xrWm+6YYuv1gx%WrW1vbgw%Y6g+Y+x6%&/.qx&W+xb/g%%xrx11ubar/gY%s6xxurrb.r1x+%.Tgr%%b%1/bvR.vbYrugx%+6rg.+&W1&6Y&xbWr+.//15&gvY.ubvY.gr%%6u+++W&1&bg+x1W&YYY6u%1WvvbYbrr%gu6g66x&+bbH%1x/16Wure/W1x&uvr.bb&rr&6.guWrrb1%//&xu1/WbYuY%br6kM6+Y&r%ggb1x61vvY_bxuYg,2vr./r+/1uvuvWb.+b&vYZx/WQx.YYbMuv.%Er66/&+.g66gg1+r&+&/YW.uubrWCx%%&gx.1&x+xxWxrbYv%bWgrv%u%1u?NxMuWWY.gx1rv6v.++&v&6gbWfWvr/%W1<uYHrr.+/1+/6vxW1bvrug/%466+x+b&.&%Y.x.W&vvY6b1ubg%s1Wx&:Y/.Y&%rxnW%r/6x&1.WWYxY%uru.+Y+hWY%Ygb6v6%v{Yq&WuY.1lxr./r%11/&vvu.ubW/+g1W+6.v+/+%Wxvx%W&W1rrg>b16Yxx+v&v&rY/.&u6W6Yx&%urGu?/6%bugguW6xg%+rWc&&Y..66Yrb %%1/WvP./bgYWgxb%6/+E+&W+%6xg1+Wvx.Y/bkuug.:WW+/%Yx1.&Wr+l&Yg&bYW.1u./+%u1Y&&vx.WbrrYg&%..6rg-u%vr1x&WvW6YvYWb%1%v/b+b&r.g6%16%+r+.&uuGg/-Y6w/xo11r&6vubbb6rb&b.vu%r&%*%6x%xbW%W%vrY.b66Y+v+gWv%vg11vWNvvYYb*uxggLr6b/u1b16&b6b+r/.&&.W.uu.WWYvuvurg6Su/./W1&1b&%61+&&/&6.x.W6YW%YrbYu&g1d66W/b+61.vuWV+ub+&WgY.%6gr.+r1Yx6vg11brY.g&6Y6uxY+buY&1....u%b+Y6%Qubgvv1b/rbgu1=6Wxu+%bY%.x&1rW6v1Ybbuu1g/+mWr&YYg.vrrrr?xv&E.b6&ggb.gb6/b.q.v6/+WY8%YxrxW.%/+/rY&ub6+vgb/bb/1.Y./6u+%&/.1x&W+viYgb+1vx.W/b}vuggub6xxb+rWx&&Yb.W/+WbYrucu/gvAu6g/b.gg%6rxL+&Wr&6g4.bubr1+v1I&&vY.gbxr&gr%%6&x6r6%g/Wxv1bW/v.Yu%}uWg.4%6r/.Yxx+66xgrb%v/%x/11W6YxYW%Yu%xYv.b&rggW616bv_+1bvu>Y.jgr1bxY%%Ku.g&++Wx%gg%6v61x/Y+&6ug?YPx6&/r+x1&&1v6.&bb/Yg11+W++b/Y%bvgu%Tr61/&+.1Wvxvbn+b1/vx+6WWg+WYvuW1rx..Yb+v6gg%r.vv.bu%+xxuY.Wuvr1%u%./bv+1.bxgxgr66./r+b1%ggWxvWWWrvuY&b+uWNv>%&+b1g/%66uvw+WW/&%Y6..u&b+YW6Y1bvv1.b&gggu%r6b+/r%%/g.x&1rW6v6Ybbvu.9u++&v%Ygb6r6%xW+.Wuu+Y.&gW6.v61r/+1.v6/+WYX%YxrxW.%/+/rY&ub6+vgb/bb/1.Y./6u+%YY%xx&WY+bYxu/1vx.W6bEv.gY%m.xv1b&%PgWxY6b<gr%%r%1&gvk1ubgYWgx%+6rxb+&W.&6Y&xbWvvgY/b+uug%yW6b/11.1.&%W++6b>&bYvx1+&%&&ugYub:vk%W9&s1&.+uYrg.1%v/rx/1Wtu/Y+u1vx.6r+^/6&++6.gurrvzb%//gxu.L,W/v1z1r&gv&.+bWgggb%vg+1/68vu+YbW&xubgrWYr&Y+%6ugxbbv+_W/g;%/6YvW+xbW6Yvxb&b%/..g.&66+1Yg%vxux1Cw/x/uYWu.6xvrb6b.&+.vv11u%+xxuY.W6+r%Dr1nx%vYW%bgrv&v11u+r!.u%Y/vux.%6Yr.<&1Yx6vg.&bvrgg/%W6uxY+WW&%%xr11W&v.Y6b/1bvv.bb/rggu%.6Wxu+%bY%.x&.{WWYgYbb6u1gu++/u&Y+W.vv.rrQ/%&/bx61gW%YrY.6g.0vu.x+W&v.x.ruxru%+%6&5x%W&W.gv&O1uu+vW;Yb%rug.%&W+v/Ygbrur;+v/bKr/ggu%.xv%OYb./rx+%.Wgvv/v%.x&v;.&bYrwgvu%6rxW+u&b%6xx61WrYu//1G/WvY./bxrYg/6(6u+g+6b+%bxv1dW/v1Yubrub:.v%brr8gu6x66x/+bW6&...P+/vbYYW%gu%g1+_/6&Y.rxg6bv++1bvu+,/vYWbYvY%%vu.g%+Y/6&gY&.vubr&%Y%6xvb1&xg%.r6.r&Y+Y&%gxb/&W1//gn1/W1/:1x1uuWy.+xbrg6g..+rvr6+bu<uvx/WWbR/Y1r1Wu%++/W1v1%rn61+/Wr&uY/xWWxvuYrW.u&gW-W/x/b+%11ugr+bb%Y//ux.%6vr.+r1+&+vg.6bvrmg/%v66+6+buw%%x/W;W&vgY6%+ubg%f./b%^gu1+6WvY+%W6ue.&iYr%/g+Y1v&gv/.6+u&YY&.x&%Wr+.bxu+g&sg6vbvY.ub6+hb+YWxJx%%//Y.1&u./rY&ub6+vgb/bb/1.Y./6u+%YY%xx&x%../g/&Y6u16gvvbugY6W6xx&+rWx%&x+1xWgv6Yvb%u&:oSuWa/b1&1%&1v.ig%Yxrxg1uWvx1Y&u.1uvY.rbvgjgr%16&x.+6Wr&bg*.1u//K+=1Y/Wvvbb+r/.+u.+uvrx%W%v/Yx/1&Wuv.YWb1u%grv.buggg6%&6bxr+1Wb1!xu1&WWvu/%1r&uv&..b6rrgb%u61x//f%6xxxW1rW%rxgT6r.+vWbWbb/2g.WvW++1YYbuuxguDru./u1g1Wv.6b+vWW&/YAxuWYxbYxbYurg6!&6+/6+61b&661+/W.&uY/.brxr%EW%./%v+.+bgrYgvb16/xW+uW6%Wxx%1WrvxY&bbu6ggEb6bb1g&6/66+v+b&r&1;Yx.W&v1Y6b&1bvrb+b&gYgu1_6Wv++1&u&.ggv+W6vv/b1v&gv/.v+u&YY6.vrIrrDr%&/ru6Vg66/v+W1/&Z6u+YWv&x+%.ruuW&YYu+ugg+Srr1//+%1u&Yvb%g+%&rYg.urbrW%g%b/vu1*/6%/u+Y1bvuv1bub./+bx/6gg1b6vv1%/Y%buxYY&Wvr%Yr%%Wxrr%6%.u+Jvp6Wbgogv1/vWr +Y&r&Wg%W+Wrr&%b1+ugQ//+1P1gx1vvW%brrug&%+66xx+bW6&..&v4Wuv/YWbvu1Ru+w/.&+YY.guvWv+.&uu+sxvYWbY/Y%bbu.g%r+bWgxgb%W61x.Ylbxug.bAv/bbrgouu.+vWbvbbr6g11gNdr6%r%W/xx%.EbDY6g+%&6gx&rvb.g1x+6WWYvu/x%1x&x.16b+r&gx6W.vv1Sg%Gruxg6%WvYu/r1<v9v+.vbxg6gr6g6/xQru%ggbxx1+WrvxY&bbu6ggXb66/.1ux266+x+b&/&1.&x.W&v%Y6%Mubg6v1b/rbgu%66Wv++%WWu^.6v+W6vW/b1rx.v&b6bur/gW%v6%xWYz&6uY.WKx/WbvY1%x67gu+g&n&v.K.ru&W&Y+buugg6;v6&//+Mgu6g+6rxb%r/xa6WW+x1Yx&.1vx.W&bMr/gY%v6vX%+/&Y&u.u.6ugr%%/%.vg6z_6/x/W+r1%uxv..%Y+&6Y&.burr1m/1(&xvY.gbvgrgr%x.&r+Er%g/+xv1xS//Oab1Y/Wvx.&brr6g&%+66x%+%&/&1Y.J(6g/Y+grxxx%/&.x&..%r&&.bp+WgY/Yb%1vYv/hu/%&Ygx6&6%v.%g%&&6.1TgWvYuug7Y vr./r+%g&6+x/+g6b%vg1%uW+YxYYW.uxgY8/r./&+/16&%vb.6+1&&./.6rxrW+YY%urgb7&6+b6gx6C6vg1+/W%&6.x.Wuxr%!%%.&tv+.Y+g/b+.11&.rH.%%YrWxvWbirr.+x1+&/vg.++v/.1&.h&WrYAu%vxWur..6v/+y.1g&&vrbub&g+gu%%6Wxb+%bYuL.WcY/&bgY%u/u.?/+^61&YY6.xuWr/%+%&/1xWb+jb/v+Y1/&vvu.xbbgWg%1x6.vvY+bxugYbvvW1vbg{b66g}1+v&x&r+..u/ W6YxuW1vx.WubZv1gYbb6xxYrrb.//x+1&WgvWYr&1u/g176/g/b1r11vu6.+u&g&W.r.%r/W1Y&u+uux!lb/v/%+r1.ugr+^Y%xxvxv1gK//P>WgYuWxYa1/1/.Yx.+&.rxb1%v/&x/1&Ou/Y+61vx%vr.xb&rggW6g6bxv+.u<u+.bvYWbYWY1uu6G7&++Wx&g+b.v&.r/8v%6xguW0x6Y/r+m1uvxvWb6bbr%g11Ug#6%6YvW+xbW6Yvxb&b%/..g.&66+1Yg%vxux17H/x/uYWu.6xvrb6b.&+.vv11u%+xxuY.brWr%GWY.uuqxv6bxY1gr6%./ry.6%YrWxx%1WrvuYuux16vxW1bvrGg/%166Y?rW%x/bx/WYW&v&Y6bgu%A/#./6&+./xY6b+v+%W1uj.&_+6&/x%11v&&v&bg+u&YY&.x&%Wr+.bYu+g&Hg6//v+g1&v+vuf{+W&xY/.r&.r&z%%6/gxb1bW1v/&f1u&.vW.xb%/Yg.1rWY+bYgWbuvgu(/61bugY%g.xb /r+.&u.+.6ugrbkbY1u/g.-u6//b1x1%&Wv..%%+rWxg%bWrYrY/b&uug%dWWYb%gr%+.&r+.W%g//xv1gW/v%YubruWgue1/r/.+%/xY61gubvvf1k/1x/u.v6Wrx+%%r&.&&r+.6/g.&1vu1v/k11vu/BW+zbYgrgW1%r+rr+&&bu+xgW/Wbr11Y1/uu7%+Ybxg&6+gurgbbrWg1%b9Rr6%x%W/ux%1/W.v%&+1Wvbvb.vb.g&uc.6/+rWm%%1xbx.1&b+rrgg%x.vv1.u%+g6xY1zcxr1%&%./6v+.&bgrx&v11&6r_ax%YrWxx1xWrx./&1+/bvxb/bvv.g&6b66YRrW%x/+xr1%WuY&YWu.1bvv.&b&ggg66Y6b+r+%W1&.Y.J+u6/g+u1rx.v/.6bu/{gW%%.%rroY%ux+xWbYWbvbY1%x6Ix/+YWx%xg16/6.x6Y+bYuggutv6b/&1Y16v%6W+xWg&rY/.ur+r6+A%b&gx1.j+o%buYxW.xv%^ob./4x+1vWgv6Yrulu/g1^u6./WY+g%6rxf+&Wb&W0Y/.gv116/re+ugY.Y&x.%v1r.Y&1+u&r.Y+uvu6xbbDbv//1W.A6Y+r+Wb%x+xr.&rb/+Ygu/ubx1bYYW6x1%vr.bbugxu/.gurrv.1Y/u+.6>Yu%/x+W1r&&6&++6.&g+%.vuur/hv%6xxuWzxu.//1*1&&.vWbxbbrvg11YWOxu/Y%W/&x%.xbkY.gYu%6xBb+v61%/x+WYWYvrYvuWu/JxP&6ub6gx6W.vv.bu%{r1uY.W6+r%cr1lx%vYW%bgrv&v11&ur+b6%Y/<ux.%65r.+r1YxWvxW1bvrr&/.0&Wrg%rYx&%g+..6r/++r1g/bvrbb+/&*Yr.Y&Wrxhv%r/rx&11W6vgYb%Yu1x+++/b9Y14/vY%1ru%/xYru6u.v+bvb6/b.m.v6/+WYe%YxrxW.%/+/rY&ub6+vgb/gK%+.Yvb%g+%&rYr.&u+r64x%%v+x.bv+5/u+.1W&x6%+/&+&&Yr.6uxr%1xY1u&IvP6/v/W+%g%6rx/r&%+/uxg1+Wr+1Y/bvu6dg_b/r/%+r1.uvrYb%Yg&%./..r//a+/1Y/1vx1%b/g+gu6%.6rgexYv&..uc+/xbYYWbvu1ku_.6b&++..xrxrr%6Y/uMYW>g/r/x+51r&%v&.vb6r&&b.vurW/Y+&Wug9rvxW%v&gCuu6+g.+g6.&vYY./uRWuYYWbuv:^Ar6g/&+r1WvWv%%++1&&.e.uuYrWc&%%&xx.16b+v6gxu16r+6+&&+&6_+xWWv+.Yrb%u&g%GW/rbbgv%66/x1+uW1&WYu.%6g/j%61Yx%6g b6./1Yv.p&brY..%xr%ur>2//b+YWuxubg/#1Wv&9YYxY6Wvg+%WW&.gvl+6Y/x%%gvu1g&++/b&Y+..vrOWr+.b/u+gYEx/+/vk11&vYv6b1+W&xY/xrWf+6Y+Wbugg6Ev6r//+bgu6Yg1+v& &rY<.&u+r6*.vbYub.&/xl./b1&c.x.u6W+.Yx%rx6x.H+/v/6Yb6q6vv/bW%P&Y.r.W6%Y+&WpYxbWvve//1+xWvgb6+x/%Y:1.urr+!r%g/6xrWvW/v6YubYuWxDV%61b.g&%u66x6rb%rg.x/1.Wuv/Ybuxu%xY8.Wr&+Ygxg6bvx+.&6uSgxKg/6/x+&gr6mV6+Y&v%ggb%W61xb/l%6xgxW1.W%vrY.bu6+g6+x&W%vg11rW{v/YYW.uv.1kr6%/u1Y16&%vb.v+1&&.v.6rvrb1gY%urgWs&6./6+&1b&&v1AvYQ&6.x.br.W%Yrbbu&guq66%/bYg11ugr+bbYY&Wg+.%uWW.Y&buu6g6Tb6//1+b.+v6rgb%%x/6xr%.Wugt/61g&Lvv.gb&gYg6W+.Wrv%v%r/6xuW.WWY&Ybb%11v/.bbur/gW%&6%v++.W%u+g/jg6u/vL11&v.6u+g&)&v.).ruxru%g%6/gubhr////+Tgu6g+4+v&#&rYx.&u%W6Yx&1uvggv/bEv1gYbb6xg%+rW6&&Y.x6Wx+%Yvb&u&^)MuW8/b.Y/4Yr%.u&v+*6Yg%1/v.+6/rj+u%Y&Wxx+u.rr.tT1+u6vgk61+ug2/SbW1gYg/1uv%rY+x&&&%g.WgW&r6%11guv,u41bGgxu%xv7.6&&Y1W.gurrr%+%//xxu1.WWvbY1ubu.g&r+bWxY&b.rrLr/?v%u/gxW1uZ%/r+Y1&&.v6.vbb/gg.6/W+Y//Y%bx%x%1rj./u1g1WrY6b+vW%&&.=.u6krb%v%1x&x..r++/6+vgb6vxv+/Wv&uY1.Wu.r11xY.u&ggqW/v/bYg11urr+bW%YrWxvWW:r/;%61Yvv6g:%///1+/.AuvWY+WWv&1.u..ub/+t.1xvxvrb6+/&+.:.Yuzrvb%%r/+x&1rW6vb/b1v&xv&bkburYgb6r61YYr.%&/gxWW1WbvuY.u/65gurYbWrug%%/6.x&Y+b/ux..Br/w//+D16r+6W+v/1&/.+.ur+r6*&%b&+x1.xbPvugg66Yx/+urx.=&W.urx&Wbb+/g1/1bu1+Y+/bug%xY.xr&r%+.ugu&x6W1bg/v1uvgW%bxv%gr%W.&rYbb%g/6xv1uW/v.YubY1Wvx.Ybrrog&%r6W+vrb%rxUx/1YWurnYWbuu%guk.Wr%+g6%x6bxv+.&uu+VvpY6v/xe%gru.g.++66%ggb%.61vvY+&WuYgr{x6Y//1+1uvx66+gW6&vYWx/W++WYYWWuxguvrW.r/g+%&6gx/+r&+&/Yx.u6srb%u%%&+vObgb+rg&g1%v&v1.%%jr1uY.Wu.r%_W%./1v+.YbxY1Wv/%Y&1?uuvVY/%ux%vYQx/&/%Y.6g6&v6b1%g&v.u.1WCYxYu%Wx.vxFr/61xvW6vJ./u&B+1.Y&brx!YYru9.68Yr%/x%1gvu1g&++/b&Y+..vrkWr+.bvu+Y6vgWbrxY1%v6+q6+g/%&xYW./r1r&o1%6&qxb.gW1r &:1uu>vbbvb%/gg.1rW+xbYgb+1vx1.+b_r+gYb.6xg%+/&+&u.%x6Wgv&YvW1u&T+Bu6%/b.g1%ugv.FV%YgWxx61WrYuY/bv1uvgbGbxv%g/u.6u+&+6WW%bxv1o}//DG11Y/bvx1%brr6g&%u6W+b+bW6%1x/1+W6YvYWb&u%gW+#&=&Y.rxg6bx%+1bgu8g+vYWbY/Y%%Y6C+g++6b&g+b.rrtr&%bYuug.b#xu./r+%1&&666+g6.&vYb./uYrul.%W/bx1W/bFY6gY6v6gxvrvb1rbxG%6WYxWYxb&u/XW4&61/6+W1b&.61+&&+&6.%.W6+W%Y/u/u&g+J661/b+v11&ur+%xYY&WYu.%u/r.5&1+&/vg.ubrgug/%uYu1&ubvxi%bxuWx%b+br/&1b.+6g+/+bb1xYx/.ur%/YYxu&u%x.bgb&/611v&bYburYgW1_.%rr_q%uxxx61/Wbv6Y.uu.pvu..bWrxg%1v6.vhYY&WugYb4v6W//+1gu6gG%+v&p&rY1.&u.r6ybYbur..;&/W/u+.1WuYv%I5+.&u.u.6u1r%1g%.x.vH11bYr&gv6g6rx/+&Wu1rug.bu%r1y&17&/6Ywb/r/1.+g.6&xg+W&1&bgx.1u./+%61Y/Wvx.&+r/.Yx.+u/rgp+Yv&1Yuv(W6Y/Ybu/u%g.v.bugYgW6g6%+&+.&uu Y1;Y6v/v%11/v+6&+Y/W&g+1.vubr/(&%u/1xW1b<%/r+v1&&uvWbgbb/Yg1%bW2vrYgu/uxg/Rr6//&+%16&W6b+vW&&/Y1.u6+rb%.%1x&v8W1b+v6gg%&6vxr/gYp&uY/.Wuvr%;r1Kx6vYbr+g/%1/1.rYWT+6&g&b...%6gr.+a1Yvgvg.++v/1Yg.+vbrgb%%xr%x/WvW&vuY6bW+.%v&1x/}dWu/YgWYxu%%gm.b&&+g&K.b+gvg61br_rv+/&Wu,xYWrWWr%1+1ru&Ub++bgg/gb11rYbW/+g%%r..ru%+%6/gxb.Y;1//+/1u&/6W+xWA&r+..&u1rW%v%b&Hx11.b+YW&Y1bvvv% g%Bx/x+1vWgvx/v%1/uvC.+bYv.gx%Y6rx%r&%+/xxg%bWvv&//19&vvgbr+x/%+W1.&%W++6bY&bgg..ru/+%u1Y/Wvvbvbrr/g&%b66xWrb%v/Wx/1oW6Y/Ybu/u%g.&.vgq+W6/gY6%WW//uYvbbu/v%+6bY&&YY%&u+x6cgWb/vugY/656Y+gbW&xgW+Ybxg&g%1.rgr&+6&1ugxvWuW1/K1x1uuWT.+xbrg6g..+rvb1/rxU1/Wg+%YxbWurgWju/xb6gx6g6r+H+/W1%uxY1uWxv6YrW.1&vYWbbgvbgv%&6/x8+6u+%Wxx1gWrvx/&1+&rvxW.bvrYg/%16ux.+WbY&%Yu..u&/Y1uggubg.m.//&)Y+.Y&%rxNW%r/rxuWxW6vxYbbvu.+rrBburvgW1+6%x1+.bgu+g&wg6g/r1+1/&+vu.Ybbxg&%.ruWr&5+%6&7xb1uW1rvg+u16Yg%+xWW&/.5.urgr6+^%b/vx.br+-/u+&1W&bv1brb./vx+%6WxYW/v%1/&v9.xbgg6gx%+6/+Y+u&r&6YgxbWvvgY/bu1uvY.6bxrWg/u.6&x+r6%gr1uv.1u6/+%u1Y&uvx11+r&i./x+66x1+bW%&..1C26r/Y+ugxu%xga.6&%+g6%%6bvg+1bxu+qClYuW/v1Wgru.g%++Wg%ggb1Y61x//y%u/1xW.YW%vuY.%U6+xv+gWr&r.+x/W;v&YYbuuv.19//+/&++16&vvbf>b.xvuk.uu/rW;%Y%u/-+>&6+/6+.gb6r+Yr/%0/gxY%WWxv//r1 x6v+1bbgr6gv%g6/xuru%Y//xx%%W/Y+Y&bruW*gZb6%.1Wg/_Yu1Yuu/sYYuruWx%b+br/&1b.+6g+/+bb1xYx/.ur%/YYxu&u%x.bgYb%Yu1g/++/1&g11.xurWr+.W.u+Y6egu1/v411/&Wvu.6+W&v.v.ruxru%+%Wxxx%W/W.gg&k1u&/vW.vb1gux!6.W+x6YxuW1vx.W1b-r+ggub6vG.+rW%%&xYWuOgrb,.%.x&v+WWbYvW&x1%&&6.+&W&&W.r.burr.1Yg>u6)x0W6r/%Yx1.&%r+0gYg&bg+.1u//+%W1Y&TvvW%brr/&&.YvWWg+bbY&1gvzMub/Y+ggxu%g&E.Wg&++..xv1rv.1%//Wuu^grb/v1&1r&bv&.ubWgWgb%6.1r/lv%u/gxW1xW%rgY.%v6+x&+g6.&vYbx/W8xbYYbuuxY.qr6b/&++g66x91+r&+&&.YxuWYv&YxW%u/dxKu/x/6+bgb6r(1+/Wv&6.6.Wubr%++Y.u&g%U6W+/b+611ugr+bbYY&Wgg.%uWr.+v1+&YvxW%brg+W6/tYu1YuWvx&%+6W.gW.+66rg+b%v&16pxeWuvxYW1xu%vxYW%%v+vr5&/b&+gg6/6bv1%Y%/&u.%^YWxY&Y%%.vgv&;6/11/r&vu..bbg&g%%r6.vvYY&buggxIv6u/&1b1u&.vW.xb1xv&..urur6T1%%vgx.Wbbnvu&Y1W&uv%./b.r&x+1vWgv6/v%.x&v}1WbYrugx%Y.rv...%+r6xg1rWr+1Y/b1uugWvWbxrv&r1.uvr+.6%xxgxv1WW/v&/u1Y/%vx.bbrr/gu6g6W+1+bW/&1Y/f+rW/g1/gxu%xY}.W{&+Yv.gu/rvmr%//1xu1.WbY./%1/vgv&.+b6r%g%6/61vvYSWW1YxW1r:%//121&&gv6y+bbr6&1./u.r6%Y%W&Yx%16bIgggYu66x+W+vW>&/YW.uu/rW++%%&gx..rb+v.&g1bu+v1lv%J/+xY1/Lxr1%W1oxWv+1.bgr&&v11&brD.6%YrWxx1&Wrv%6Wr++6%g&bxv.1l1WXYu1/ubvxG%bxuWx%b+br/&1b.+6g+/+bb1xYx/.ur%/YYxu&u%x.bgb&/611v/.vburggW%x61+&YZux1+xWWxWbrgY1b16pg%+Y6W&xY6.ru/r&-rY6uxLWvvW1v%gUb1.Yvbbrb%rWg.%uWYYu/g%%x1x11/+s/uYN1bvrv1%Yb.r%x+%WWgxbYruru&ngvubYr&gxb%6/+x+u&x&6YbxbWvvr//1z&gvY.ubxr&gr%x6&x1+6WW%bxv1WW/v#Yub6uWgWt%Wg/.+&.+u/rg=r%rx+u/JGuW/g1r1x/.vr.xbug+g6186%+&r1%&xvx6WvWWvuY1u/u.xr+Y/W%ggb%661x&YIbxuYggTxu.//161&&666+x/%&vYb.&r+ru+J%W/1u%}r6x/&+Y16&gvb_Yb.xYxO1YtYrb1gY%urgv8&6rb6gx6v6vg1r/%wrWxY1&Wxx%Y/u+uu7x}W/g/b+6g16&+Y+uWx&WgY.1/xW.Y&b%u6ggkbW+/1+/.+r+rgb1Yx&%YW..uu/Y%%rr+b%v&1x/SB.ub.rW1x<YvrU.b&/.vrH&/b&+gg6/6bv1%Y%/&u.%zYWxY&Y%%.vgv&#6/1&ggv6u+g&6&v.vxrW)Y+Y+W6ux.%vvW1v&g+ub6Yg.+v&t%rg.%%W+xWYgWbur4r!/6&/61x1brR6%+/&+&&Yr.6uxr%1xY1u&D&Cu6x/W+x1%u+rj%xY+&W.v.%r&r.%b1A&xvY.ubxr+g/666u+++6Wg&%wx&+g/.26urY+W%x%1&rXYW&/+Y61gub%v/rm/&X+x.Y6Wrx+W.Y6x+&+%b.xgx&.6r1/gYvuuu1vIbxbu/W1..x6r+6+.%+xv6.+&Y+uxuYg&5v/?/r+61ur566+gWW&r11./u1rucg%W/.x1bvW.vbg+%Y.gvb.ub.xYx+6uWgY6YxW.urg%)&66b6gg%r6vg1+/W6&ug8.Wu%W%Y/u+u&grv6bxg+gvb16&+g+uWr&WYb.%6gr.PWg+u6xeMb6v/.1b.+vbrYUxYx&1./G8/g/++/ggubgr91WY&+.&.Y&.rxCvYr&.g/QYr6/g+x1v&Wv/.&bur1gW%x6%x.r.%&/Yx6.+Wbv&Y1%v6Ux&+YWu&xY+.ru%r&DY%6&Px%bZW1r!&>16v/vbb/b%r.&..&ugW6Yx&%uvgRC/61/u+WgW6vq1+rW1&&Yr.Wrgrb++%1&vvd.&bgYWgx%v6rxx+&W%&6gi.bu%r1++rg+u%Y&Wxx.%grW/r&1xu6vgkbbv/1g/xx1urv+W%x&%xr..W&Wvr61rubvvK1b/&,+uv&1Wrxxg%/&.x&..g6bvx&.6r1/gYvuuu1vqbxbu/W1..x6r+6+.%+xvx6.b/R/vY/uWPv/&brY.b16+g.rgbb/Yg1%/W++1Yg&1uxgrvrW.r/g+%&6gx++v6.&/Y1.6rxrW++%%/ru.F&6Y/6+11%rxv1.W%t//xY16WxvvYrbru&gvZ66&/%1111&/Wi+6u+%Wxx1gWrvx/&1+&/vg1bbrggg&6g6uxWrW%vg.xr1+W&v.Y6b&ubg&E1Wv%ogu1K6b+r+1&b&.Y&v+W6v6Ybbvu1gb+=66&Y+W.vrvrra/%ux+xWWrW%gg/11&v+vu.xbW/Yg%%16.vxY+bY1gx%WrW1v.g2%x6g+/+xW6&/.6.&u%r6sWYbuvgWa/61/u+v1W&xv%-Yb./Lu+.6u.rbFv%1&YvF11bYr&gv6u6rxu+&W+&WlYxbWrYgY&uguug/VW6v/11r1.urr+.1%g/6xv1%W/v&YubuuWg&R%6r&t16.+&6rx%WYv&..1_{6v/g1r1vx%vr./b&rbg6%gJ&Wv+1bru+.uAg/r/v1r1/v1v&.gb6rgg%Wx.1r/9/%u/YxW1.W1YuY.%/6+g.+gWu&r.6/6g,1u6YvW+xY%11/..&6rr6Yg%bugr6+bu7uvx/WWbZ/Y1r1Wu%+++rb&gbx+.gr/rb+1uYu/xuW%Yrbru&g+-W/x/%1&11uxr+%vYY&WgY.%uu/:%W1Yx6vg.+brgx&/.i&WWY+Wbg&%Y1..u./+A11xx.6v4./u&8+W.YuurxPY%r/&u&,+6r/g++1rx1v&bYburxgW1Y6%x.r.%&/Yx61&WbvbY1bW62gu+g/W&xY6.ru%r&p6Y6ugY.5r/+//++1u&bvW.u+%&rYW.&u+rW%v%b/6x.W/bQr+&Y1brg6%+rWv&&Yrx6WgvgYvbYu/g:=u6%bWgv666/+++u&x%6xxWgWrY+Y&u&uugbTb//b%gr%b6&x+r6%g/&xrW%W&Y+Yu%{1Wvx./brr%g&%%66xx+bW%&1gxwcuu/g%%gxu%xjv.buggg6%g6bx.+1W.u^gvvYWWv6Y%bW1.vubYb6rvgb%%61vxYDb/uYg6Xx6W/r+g1&&.v6.xbb/Yg.WYWsvv6vvW+xb%&rg./&.x66Yguvuvx1f/W1uvx/WWbV/Y1r1Wu%+++rb&gbx+.gr/rb+1uYu/xuW%bY/x1&vYbu+g/b+W11&bWh+6&x&WYux%Wrv%Yuu&u6g%?bWgb1g&6B6uxY+WWW&%gxA0r&/+9b1g&Wvv.u+/&+11.gv1rxUY%r/Wu&e+6YbgY%uru1xr+{61&g1W.xuurr:%%&/6u6ng6g/v-11/&Wvu.6bWr.&%./r+ru%bY6ux.bBvu1//+/1u&rvbb/b%/+xf6uWYYu/g%%vxu1^&/Y/6.+gW6xxx+r6.&&g0.Wrrr%%r%.xuvZ.+bYrr&x1%uvv.H0%+//xg1rWvvbY/bb1uvY.v+x/11&1.&%r+.W%g/+uv.1uubAYu%2uWg1o%Wg/.Yr/xY61gubvv>1x/%W/u.v6Wrx+%%r&.6&rr.6/rYb1vu1v/+U&u%r/W./6%rr+.%&u+Z6rY.b/&Y11/6Lvu+Y_W1W/%.u6.r&Y+%6ug&bvu.1//gY166YvW+Y1uuWB.+xbrg6g..+rvr6+buduvx/WWb4/Y1r1Wu%+++rb&gb6rp.+/WY&uY6.W6+r%+x1Cx&vYbvbgr/gr6u6/xbru%ggbxx%.Wrv/Y&b1uW#.<%&x/1Ygx^6uxb+WbY&1.&..6r/Y%61xv/vv.g+/&a+6.gr6rx(&%r//u&aYrb/g2b1v&&v/.&bur1gW%b.%rrqv%&/ru6Dg6W/vh11&v+vu.bbbg/g%%66.x&/+%6/Wub8v6%/&1*1uu8vbbbb%/Yg.%&W+v/Ygb5uvgbT/6Y/u+b1W&xv%8Yb./Ou+.6u%rb!v%1&+6:qu66bWgvu.6rx++&W.&WdYxbWrYrY/bWu6+XXb/u/%+11.&br+8+%grbuv.16r/_+/1gx%vx1%b/gjg&%W6W+r+%&6&1Y/v;Wuv1YWbxu1L&+n/W&Y.Y.gurrv.1Y/u+.W!g/rbxY%b%u.xv++66&gY/xv6.+1Y+&WuYguvxW1gv/.1&&gvWb1b%gvg1%bW_v-YYWWuxg&&r...&W+r6Y+.&66+1Yg%vxux1!B/x/uYWu.6xvrb6b.&+.v.66bY<Yv%/xWWv+.Y/u61&vYW%bgrYgv%g./r?LI%Yr.xx1WW/Yx/&1+&&vxW1+v/1+b.l&6rYsJ%x/rx/W/W&vrY6brubxgv1b/r%gu%Y6Wvg+%bxu{.&2+u6bgYb%+u1xv+?61&YYxxx61+/+.b/u+Y.qxrb/v+61&vW6u+Y6b&xYY.rurr&5v%6/gx%WvW1rxgn%/6YxFrxb1gux866WY+6Ygb+uvY.C&/b/u+/gW6xxY+rWl&&Y+.66Kr%18%1&96mjuW+/W+x11v/rd%g%+//xg16Wvv&//1N/.vY.gbvY%gr%b6&x.+6Wb%bxrWrW/vOYubguWxYH%W+/.+b.Yrv1rubvvc1b/&LguY?1Wr/+%%r&.x&=+/6%urb1&u1v/+Tbu&Y%WvW1%ru+.%&u+x6kg.bb1r1166qvu+YbW&x.%v+1.rWY+%6ugxbQv/1b//w1u&1vW+xb%&xvWV%&+&rg&6bW+rg%/%b&1GY0/WuY%gY1xv&v%H.&g&&g661+/W6&ugC.brrr%+x1Gx&v+16bxgW&v11urrQA/%gx6xx%.Wrv/Y&bbu6gg{%/r/..gx:6ux6+WWW%%xr1rW&v+/61xx1vv.^b/r1gu%/6Wx/+%bx%.xuWgWWYrYb%xu1xv+{6b&YYuxx6%vxYE&6uYTNHgubbvY.6r6sxY+g&+&xYY.ru!ru%+%6&+xb1uW1rxgC%/6Yg1+xWW%rg.1YW+v&Yx&1uvgba&/B/uYI1W&/v%)x+.&&Y&.6ugrb;6%1/&vV1ubggggx%v6/+++u&%%6xg1:Wvx1Y/bruug/vWbxv1g/6Y6&xW+6Wg&%.%.16+/2t1gYuWx+p%6Wb.gu6Y66v++%&r&..ua}uu/Y,%1x&vv/b++&&+Y&.xv%rv:b%//+xu.IWWv/Y%%x1.vubgbWggg%6&61xWYQWu+Y%u&vg%.r6%&xgr666.r+%v%6&b9p;vW/YWgR1YvrvWJ%&+&rg&6bW+rg%/x;bWWYx%YxbWurg&v&b+vWggbb6r+A+/Wv&uYbxWWv+1Yrb1u&grQW/g/bY+11uvr_.6%YrWxx1/Br/X1+1+/66g,bWx/1Yv.8uYrY..%x/Yx/W+4&/Y%b1g&+vv1.b/rv&u.gvbrx..%r/%x&16f6/x1w1v&rv/.bbu/IgW%W6%vgYTugu+ggvgW%Y6Y.u667g1+YWv%xg16/WR+WY+WbugYblr/!/&1bgu6Yg%rxb1g&g.%6W+v&Yxu61vx.W/b4r/ggu%6xxW+rW+&u.x.W/+WbYvb%u/g1}u6%/WYY11v/rNb6%Yxrug.bu&r1HW1k/16YRWW+/%+W.Fv6W++WuY&bYb../Y/8+g1Y/W6x_%Wx/.Yvx+66xvrb%v/bx&W+W6YxYWbxu%x++>/u&Y.uxg6bx/r1%//<xu1.WWvxY%%+u.g%r+bWgvgb%/61vvY4W1uYY1Ax6WbrY.%/6Yc6+g6b&vYY./uvruzr%W/x%c&rg..&W+r6xgxg%vv+e/bz/ugY1W6xu.vr%Y&&x+.6Wgrbbvxg%/v7+1bg/Wgx1WbY/x1&1%u.+g+&b6g1xg.vrur1Y7uxuuxWW.bx/r161.6++v/17u.+rxWY+WW6&%YWx.W&v1Y6bgu%d62./6&2YYxY6Wvg+%bx&.gv,+6Y/g+&1v/1v/.vb6g6gbWw.%r/%r%uxgx6.+>b/r1%g/6pg6+g/1&xY+./rYW&Y+W.ugY%Rvu1/&1Y16v16W+v/.&rYx.&uYrW1YYbuvgYL/61buggub6xxu+rWx&u.+.Wrvrb{%Y1u/g+4u6//W+Wg%6/+y+&Wr&6Y%.%r&r1+x1z/%vgbr+x/%Yx.iv6r+.1%xx/xrWgW/vq/u1Y&6vvW%brr%gu6Y6W+v+bbg%1x/1%WuvYYbuuu1Mu .W+%+gW6x6bx.+1W/u_Y.oY6gbxY1uuu.g1++6.%gg%6b6.+uY=b/1YxbWrW1g+/.1uvYv6.1bbrvg1%&WCv/Yg&buv..*//Wb&g+%x6gx6+r&M&/Y1.6rYrW0x%1vvu.4&61/6+g1%vrv1./%+g6xgWrWxx.YrW.u&grRW/vbbgv%66/x%+uW/%WxvWYW/YYY&b6+66/&bxv.1Wv&bg1WYW/ru%%1Yux<&(%W.ggg&16v1rg+v&u&1xqWxWurW%.x&%YW6v1Y%u&u.s.+_6u&YYxxx61+/Ynuru+Y1ygubbvY1%r6Nx++YWY&xY+.ru%r&?1%6/gx%WvW1r+g-%/6Yg1+xWY&rY&.urur6VgYburD%v/bwv.gY%P.xv%ngb.r&xYW+WgvuYru+1/v+WWbYrCgxb16/+1r&%+r.xg%%Wvx1Y&uYu6a1vWbxrbgr%%.&r+.b%xg%xv1gW/vb/u1gx.vvW%brr%g&%16W+v+bWv&1ggv2W6YxYWbxu%x{*.61&++.xg6bx.+1W/ufggvYWbYrY%b&u.xr++6.&g+..vubW/Y+&1ug.1yx6Y//1l1&&.vWbxbbrv&1./u1r6%x%bx6x%1rZ./&+116&g6b+r/.&/YY.u6t116xv%+rb.&&b+r+.gr.Yv%1u/vD}ubYWj/x.E6rv.+&%+&6xggY.v/+Y/1RuuvYsWxxbW/r1.uxr++6%g&6r++g&/&bg1WYW/ru%%1Yux0&#%W.ggg&16v1rg+v&u&1xBWx+%W&u .uRYrb/gsb1v&Wv/.vbur1&W.x&.rrpg%&/gx6.+Wbv6Y1%g.yvu.1bWrug%%b..r&V1%6&+xb1&01/&1Y1u&xvWZYb%rWg.1+T+r6h.%b/vx.Wub4v1gguW6xxvrrb./Yx+1&WgvWYr&1u/g1vubYvbgx%&6/+1+&Wv&6YWxbWvvr//1Q/6vgW1bxr+gr%x6&x%r6%xx+xv%1W&YAYubbuWgxB1/&&U.xx+66xvrb%v/gx/1v u/Y++1x&vv/W.b&r1g61+6bvg+.uv1Hxu.BWbYrY1uru.g&+Y/.&g+b.vuWr/q%%u&yxW1ue%/r+v1&&rvWbgbb/!g11vGIruyg%bx/x%16beY6g+%/6gx6rvb1/vxP1rWYxW/x%%&gx.1%++/W161b&6v1>Y%d//xY%%WxvYYrbu+W%+&6xg.bWvx1&uYaubvYHWbx/%gr1.V&6++6b%&bxv.1Wv&bg1WYW/ru%%1YuxB&T%W.ggg&16v1rg+v&u&1xLWxWurW%.xub,n6/x%11v&g6/++/6&YYv.x&%rrwr%&/+x611*b/v+g1/&+vu.YbWr.g%1x..r&l&%6/gxb1.W.Y/g+6x6Yxr+x6%%rg.%%W+xWYgWbuvgW*/6X/6.+gW6v_%+rW%&u.g.66+rb:/%.vYvS11bYvbgxb%6rxb+&W1&6Yg.%/xW1Y/b1uugg?W6u/%+%.;rxrY%u%g/uxv%1i//(+E1Y/Wvx.6brr/g&%%66xg+%ug&.}S#_uu/g161vx1v/b1+&&+Yu.xvbrvHb%&x+x6WxWWvbY1u&6k*W+Y&_&gYx.vugr/4uYuuYg&4xu%brgou%6Y9%+gW+%vg.6&WzxWYYbuuxgYqr6Y/&+.g66gg.+vWW&/Y&.uu%rW+Y%%/%vMWWb+vWgg%66vx++/W1%uxgWnWxx%Y/uru&grN66&/b+r11&/Wi+ubo&b.r.1rbr.L&r+gr%g&bxv.b6W&vg..gbZ/Rg+Wuu/xu+v6%&bg..u6grx.g%+&gx.%ubgrWY%1b6xg%.g6brv+1%/u_&&xYWW/%Y11ru.vrY%%.vgv&{6/1&ggv6u61rs%x%u&W..OxWrY6Y.1+vvv62b&D1u&rvbbxb1xvg.%uW+vvYgb6uvg&*/61/u+&1W&xv1%v+.&&Yr.6uxrbEv%1&xvt.rbYvWgv6b.rv..b%+/&xxWgWrY+Y&usuugYvWbvgvgr%66&x++6Wv&bY6.16x/+%.1Y&gvx.v+r/.+b.+&.rxbb%v/gx/1YWuv.Ybuvu%xw{.6&&Y.uxg6%+%+1bYu+T/<g/^/x,%gr6}h6++6b&gY6.rrbW/Y+&Wug.19x6b//1Y1uv.66+x&K&vYr./u/ru86%W&Yx%.Yb=grg+%/6gx6+vW6&/Y&.6/2WWYxb6urY.!u/r/W1r1b&161+&&Y&6.v.brrW%Yrbxu&gYa66W/%1v11uvrA.W%YrWxv6.W/YW/&1+/WvxW.bvrYg&6g.urgb%%vxjxr1WW&v.YWugubxgj16W&5Yr.Y&Wrv%bYru(.6;Y/vbgYbbuu1g.++/W&YYdxx61+/+.W6u+gY^g6u/r161/&&%uU!xb0xW%/xxW.%/+/rY&ub6+vgb/bb/1.Y./6u+%YY%xx&x%../g/&Y6u1T/61/u+.gW6xxY+rW8&&Yr.WrvWbYrupu/gvhu6g/b.gg%6/+;+u&g&W.g.%r&r.%11A&gvY.ubxru&r1.&6W+/%Yg&%.r.16gb}Yubxub}v:1&xb.g&%166v++%&b&.TgvCWuvY/W1vx.v/b6+&&++6.xr+rv.1%//vx6W6Wbg^/%1r&Fvubxb6r/g%6/61vv/?%6xvxW1rW%v1Y.bb6+g.+gW/%vg11+WsxuYYbv1xx1bv<./u1+16&&vb.Wb.g6uE.6rgrWwb%1x/vzbxb+rxgg%x.vv.bu%0rWxY1uWxvYYrb&1&v+.ubxYbgv%b6/x++uW%&b*g.%u6r.+r1+/Wvg./brg%g/%x66+v+b&u&%YWx.W&v%Y6b&u%Jvt./u&E+W.YuurxzrYruAncz+u6/g=%1v&bv/.WburrgW%u.%rr..%uxgx61&W%YvY1b..wvu.bbW/Yg16&6.vrYY&6ugYb r/%b/gyb%6Yx!+xW&&r+..&ubr6KgYbuvg6)/6%/u+/gW6xxu+rW/&&Y1.6u&r%%/Y1.665=u61/W+u11v/rH%/%YxIxg%b<vr1t11(/u6Y}WWg/%+r.,v.r+Ox%xg.uv..r&/+%b1gvCvx1%b/Y.g&%u66x%+bbg&1YuvsW6Yg/W1x&/vr.%buggg6%16bx6+.&uuPg/5Y6x./6%rr+.%&u+}6vW.b/vY%1/6Xvu+w1/uu?%+Ybxg&g%1.rgr&+6&1ugxvWuW1/t1x1uuW#.+xbrg66gx++v6.&/YW.uu6rW>r%1v+x..+++/6Y)1b&%v1>x%cruxgWYWv+.Yrb%1&v+./bgrxgru.6/x.+ubh&b.v.%6xr.Ku1+&/vxb/bvr/&/.+r&WY+b&r&%YWx.W&v%Y6bgubx+H16/&+.+.gv1Wx+%W%&.Y&tYr6/g++1v&xv&bg+u&YY&.x&%r/%x%uxxx61bab/v+&1/&1vuV+bbgxg%1xWS+bY+bYugg/=r/6//+%16v%vW.%+%&rY%.urgrW%x%b&gx.W&bkrrgg6r6xxrrr%PguxYWvWgvuYru%u&}FGu6YbWgx%Y6rx}+&W+&6g8.b6Yr1+v1M&Y6Y_b/b/%+W1.ugrY%r%g/&xrWuf//+1&gYubUr*%6Wb.g&%166xgrb%rg1x&WWWuv%YW%Y1%v/b,bug+g6%g6bv7r1%//%xu16WbYWY1u&u.xr++W*&gYu.rrur/duvu.vbW&xg%.xbW/%.+.r6&+bY+%gx/xb.1/Y//Yuu%6Yvxb&b%/..g.&66+1&/Y+.uu%rb1gY%urg+v&b+rugxub6vxr+/W%&6.&.Wubr%+v%./%6+,66u/b+%11&urI.1%gg%ux.%u&r.*&1YvYvg1b+v/.1/.E&urY..%x/Wx/WSW&vbY6%+ubg/A1Wx&{+u.gr6Wx+1&Wuk.W#+u./x%%1v&bv&b+bu/ogW%r.%r/%+%&/rx61.pb/r1v1&vYvuES+W&xYW.rubr&X+Y6ux.%Gv6b/&1+1u&/vbbr+%&rYY.ur+rW1Y%b/bx1.xb+gxgY%h.xv%.Wb./gx+%1WgxbYvb&u/g&vubYrvgxb%6rxur&%+/Yug.%r/r.1Yg*u6_g7b/./%Yg. r/rYb6%grbuv..r./ys11Y&rvvbubrrWgu6b.6rg9+%vr.x/1jWuv.YW%+u%xxV.W+TxW6/gYb1vu1.//Yyu&vgW.x6%rr+.v&1W&6Zgg./vY11/u1/vY/uW6nvYbrbW/%.+.r6&+bY+%gx/xb.1/Y//Yuu%6Yvxb&g+bb6x5%+vW&&&.Q.u6orWC%%1x/vjb/++/W1v1b&vv1o+%*r.xY1)pxr%+p%./&v+.x+g/%.Y1.vurAS/YY&b.v.%u6r.Z%1+&vvg1bbvru&/.+vWrY.%%x/Wxr1&V&/+nW1xx.vrbgb/r1gu%W.Wrv%C%r/rx&1YW6v&Ybb.11v/.1b6gxgW%u61+br.%&/1x61gCb/r%.1/&Yvuq8x1NxW%/rY.1&6+6ivgbbu.g../W0r/g1.wrxru+W&.uxxrW6W./+1v16ub+ +vb/gWx*.YrrrW+%u+.Wrvr%1wY1u/g%Zu66/b1%1%&1v.m+Y+&W.x.%/Ar1+xgMu6i6UW6r/%+r1.ugr+jYYg&bgx.16v/}-%1Y&uvvW%brr%g&%/66v(+bbg&1g0v?W6g+/W1x&gvr.x+&&Y1b.g&1rvcb%//vxu1vWWrY/%1r&Uv&.+bWgvg%W+61v+YNWu1YxbWrW%vrY.%x.+v6IYbbr%g11YW+Y//Y%W/.x%1rW.v.g+b.6xCb+vWb&/YbxuWYvAYxW1urg6U&6+/6YQgb6vxg+/Wg&ugJxWWxv6YrW.1&Wgv6bxgggvb16&+++6&x&WYbx%W/+.Y&b+uWZxMbWx/1+..FuxrY2g%x/&xr1%a&/Y%b1g/bvv.&+/&9+6.grrrvb1%/x+xuW+W6r+/b1rvvv&bYbu/<&W.xuWrrobY&u+g/5g6+bvY.u66+f6+YW6&xYY.ru6W&Y+bruggupv6gb/g+uW6YgW+xWu%rg.1/W+v&Ygb&uvgb(/6W/u+61bvrv1%Y%eguxYWugr1b6vv1+/%GPu&xgWWxbuY/%.u&x.Yr%&xbv+og///bY16Y6/vub%%Y&x.&.%6.YgY&%6x1vgOv/u1Y/W6x41/&/.+%.+&Wrx%WYv&1YuvyW6YgYWbru%xx+n&r%+g61+6%+b+1Wbu+.u!Y6=/x++1/vW6&+Y&u%ggb1x6.+/YFb/uYg6Cv/>//1&1uvx66+x&g&vYg.&r!ruA/%W/Wu%0r6W/u.M1Wvxvbcgb.g/x+6bWYxbYxb/u/PYv&b+rY&g1%vrv1.W%Hr1xY1rWxx%Y/u%1&vYW1bgvbgru16&+&+uW/&Wgg.%6xr.Ob1+&&vg1%bvrWg/%16ux/rW%x/vxr1rW&vvY6b&ubxD016.&X+1xY5/Wx+%W/uN.W*+u1/g++1rvrv&bb+u&g1..vv%rrn/%&/Wx61gWbvuY1bb6axx+g&/&xY/.ru%r&B6gr1gxb1rW.Y6g)b%6gL1rxb%/gg.%&WY+WYgb/uvY1)/6r/u+r1W&xv1b&%,xxxY6WWxYW/v%.xuvp1WbYrugx%Y6rx&r&%+//xg1xWrYvY&uYuux{lW66/%Yg1.urr+hgYg&bgx.16Y/i+/1gx%vvbub/g%&&.YvWrx%/%v/Wx/11W6YuYWbuu%xDv.bugug6%16%Yg+.&bufY14Y6//x^%1/v+v&..bWg6gb1Y61vvY)bY1YxW.gW1YrY.%r6+g1+x/.&vY&.&rrrue6%W/b%>&rg..&W+r6rgg/%vv+q/bH/ugY1Wrx61vr%Y&&x+.6Wgrb1vgx%/vgIubY/Wgx1%YrW/v&%+g%xg.bWvrbxg.vrur1Y>uxuuxWW.bx/r161.6++v+6bbxOxv./rW/BYYur..u/b+YWuvu%+xv1b/r%gu%Y6b+u+1&u&.g+v+W6v%Ybbvu1x+r(b6gYgb6.6%x/YX&W1+x61xW%Y&Y1bW6+abrYbWrrg16/6.vYYY&6uxH/Gv6_//+e16vxvb%!+%&/.1x&WY+bYxuW1vx1.vbiv6&Y1bvrv1bub./xx+%WWx+./v%.x6v)11bYvbgxb%6rx6r&%YxYxg1/WrYbY&uvuux47WWg/%Yx1.&br+2&%gr%xv1WW/v7Y66+1WvvW1brr+g&%u66v-+bbg&..u:Hu1bYYW%Mu1(rU.6&&+Y+.gu6rr%y%//{bufWgW.x6%rxgW1%r+rr+&&bu+xgW/Wbr11Y1/uuU%+Ybxg&g%1.rgr&+6&1.&rYr6%%YWuxg6=r6//u1616&&vb.6+1&/Yx.uu/rWo/%%/Wx..vb+v.gxub6vg1+&&Y&uY6.Wurr%+g%.&rv+1.+g/%1&1.vur+bu%Y/Lxx%1W/YWY&br16vg.rbvrbg&6Y6uve+b&x&%gx..u%b+Y6bv1bvv.bb&g/gu%b6WvYr%%r/gx&1.W6v1Ybbru1g.+SWx%YgW1g61+r+.W&u+Y1sg6+/v+Yr/x.%6uYxW{Y%u&W..ExWrY6Y.1+vvv6lb&q&vg/6WWMrY%r%W&%t+ArW&YburC%v/bzvW&Y1Wu+v%.W%mxuu+.Wrxr%%/%1&vvw.xbgg/gx%/6rx%r&%YgWxg1WWvvgY&uRuug1Rb/.b%gr%+6&xb+6WW&bgIx1+g/+1 1gx%vx.W+r&N16.YrvWg+bbx&../(86//g%b1vx.vr.%+&&+Y/.g&brv7g%&x&x6W1WbYvY16v1.v&.vb6/+&b.vubr&%Y%u/xxW1xW%r+Y.b&.+v6.xb%g&g1%WWex1Yguguv uvrW.r/g+%Y6x?1+r&6%/xw1+WYvY/x%1x/x.16b+r&gg%+6vx/r/%2/vxY%WWxvuY/u6.x6+K66gbbgv%g6&+++uW%&WYbx%Wrv%YuuYu6g1#%/&/.1..m&urY*_%vxvx/WWWuYYYW6Y1bvv.nb/r1gu%u6bYa+%bYu0.Wv+W6vW/b1rx.v/.xbur/gb6x61+ur.%uxYu6yxr1/v+g1/&+v6%++W&v1..ru+r&*.%Wv+ub>v66/&1g16vxvW.bb1grg.1rW+xbYgWbuvgWZ/6%/61v1brY6%+rWu&&Y..6uurb-6%.x%v+Wb+1.1Wxr%Yr%.u&u+rx#g/.gv116/rc+u%YWg&x.%b./BY&1+u&r.Y+uvu6xbbcbv//1W.{6Y+r+Wb%x+xr.&rb/+Ygu/ubx1bYYburu1++v.b&r/g6%&.brvQ%%&xExu.aWbYvY1u&u.xrr+bWg&gb%%6.+uY+&uuYgu?x6Y/r+I1&&uvWbgbb/gg1%uW)xuYYb&uxg6I//6/&+6g66xq%+r&u&/Y%.u6ErWT1Y%urgv7&6u/W1g1buYv1Ov%s/YuY.W6er%fW1ox&vYWbbgv1gv%b6/xuru%gxgxx1&W/Y%Yuuru6gWFb6u/1+1.+rxWY+b&b&%g+)^/r/Y%.1g&6vv1.b/rWg6W+6Wx&+%W1&.gv?+6&/g+vgvu1xr++/u&YYu.vrvrr<W%&/+x6.;WbvuY1%v67xg+YWg%xg%1w6.vrYY&bugg6jrr1/&1g16rH6W+xW6&r+..ur+r6J%%b&gx1.gbcvugY%&6v+&rr%-g%xY6%WxYWYr&1u/g&}u6%/W+bg%6rx1+&W.%6xg1WWrY+Y/b/u6_vvWbxrbgr%%6&xW+6Wg%bxv1xW/vv/u1gv66xm%6u/.Yr.+&brg(6%rg1x/1&Wuv%6W+r+%%r&.xr+%b.xgx&.6r1/gYvuuu1vqbxbu/W1..x6r+6+.%+xvx6.b/c%u/bxW.YW1Y&Y.%r6YN6+x&/&vYgx/W+Y&/Y%bxrx%1WW.vug+b..gvbNgb.gux^%6WYvgYxb&1rx.16++/W1&1bugv1.W%Tr1uY.brur%Gr1Ex&v+.xbgvbgv%W6/x&+6u+%Wxx%.Arr.,%1+/Wvg1bbvrug/%&66+W+WWu%%x/W+W&vgY6%+ubg6}1W,%Vgu%16Wxx+1&&&.Y%GYr6/g+xgvu.(.+n6u&YYr.x&%rrC+%&/ru6ag6J/v+g1&v>v6b1bW/Dg%%1W,Y+Y+W.1gxb16W1v&gEbu6Yx&+xW6&rY%.&ur166&v%+vb1&vvbc1&Y&/gu6%WYrx%&%%&.pgP&W6Y1gg1vvuv1+>&x&ugW6.+&WY&W.r.buur1fb1+v+vgb/+x/%+b1.&%W++W&v&%.&..rubqYubxubhvK%6W/.Yx.+uYWg+%&r&1YuNV6//Y+g1x&uvr./+&&Y1W.gu/rv.1%//+x6W%WWrBY%b11.vubYb6rWgb1p61x/Y^bvuYggvxW%rgY.b&6+g1+x/b&v+1.&r/ruG6%W/rx%1rbPY6gY6r.gvb)+b1/vx+W/mYrWpW%%/rx..gbYY%gg%W6r++r/%+xYxY1cWxvaYrb%u&gbv6bgr+gvb.6&+g+6&u&WYb.%u.W.Yu6216vxW1bvrog/%166YyrW%x/uxr%.W&v%Y6bgu%F% ./6%?g6666Wx.+1uxu .%oYr%bgYbb6u1g&+H6u&YYrxx6%vv+.bruYoYIg6+/v+ug/6oxr+Y6W&v.Y./rYr&t6Y6ugg6<r/n/&1+16rPvW.&b%rr&..urYrW%1%b&Yx.W6bfrxgg66Y/%%urx.K&b+g6u/Yb6vd++/%s&uxc+/bug%xY.xr&r%+.ugu&x6W1bg/v1u116R+x+ubWg.xx.rr6%gxbxrW+i//+%11gx1vx.Yb/ghg&%.6W+x+bbY&1Y. +r./YnWgxu1+vv.bug6g6%g.brv0%%//1xu1WWWv&Y1uu1.vubgb6rvgb1g61v(/y%6xuxW1uW1YrY.b%6+xurgbbr%g.6&WKv&YYbyuxgbNr6x/&+b1WrYv%b/b.xguk.uu%rWZx%%/%x.1%bYY6gg%66vx6r/%Q/+xY1Ytxr%4u%.&rv+.vbgr6gv%>6/x6+uW6%Wxx1uWrv%Y&bru6gr<bWgb1g&6v66+v+bug+Kbr/.g&.+661gr%+vu+x/w7Wu/YYWrx1.ur;.Y/&Yg6.g66&+gg6/6bv1%Y%/&u.%LYWxY&Y%%.vgv&l6/1&ggv6u61rP%xg%156.x&Y+b_uggp r/u//+ugu6gJW+x6%&rYrx&W+vuYx&buvgrv/b*r/gYbb6v>1+/&+&&Y..W/Yr%%/%1/bv5.xbgg/gvu16/+++&Wg&6Yg.%r6W1Y/b+u6:vDW6&/%+W.0r{rY%rYg&%.&x1W/vbYub/uWx+F1&vb.g&1A66v++bWu%1x&W+W6YxYW%Yu%x+?.Wr&+Yrxg6bv++1bvuogYvYWbYWY%%+u.g%++W/&gY6.vu&W/Y2b/uYYb4vr1/r4.1uvYvWb1bbr/g1%/W++WYgu/1xx%11?./&+%16u+v%%g+1&&.+.u6+rW:u%1xrx..xbYY%&g1b&/61+&&+&uY/.Wuvr11vY.u&xLHW/g/b+%11uxrpI+%Y//xx%%W/Y+Yuu%16vxW1brgu&/.+vbrYc+Yx&1Dg!ir6/++Y1g&&6vd161&U+u.Yu&rxCv%r/Wx&1+WWYvY%6+u.5&++&&%YgW%.61Yx+.Wuu+gYLx/x/r16g/6+sW+Y6W&xY/xrWy+.YY&bugg6vvW1rrg+uu6Yxg+xW/&r+..&u&r6Dg%b&+u1y/6b/uY 1W&bv%sY+.&u.g.Wr1WbYru+u/grvubYv%gvu16rxx+&Wx&6Y/.buvW1Y/bguux(ob/r/%Yx1.&6r+.6vrVbbv/1g/.(1ubxvW%x&gxr..W&r.xr.&rb/+Ygu/ubx1bYb//u1%.Y6x+&+%b.xgx&.6r1/gYvuutg/6bxY1u&u.g6++W&&x.6xv61vgYeWuuYg/cxu%//1/1uvx66+gW+&v+../usru^%YWuv>x5//Y/u1u16&gvb..+1&/Yv.uugrb%/%1x%x..<b+rg&g1%v/v1.b%Or6xY1IJxr1%/%.&Yv+16bgrggvb16/x%+ubJ%Wxv6.W/YYYuug16vg.Wbvrbg/%66uxY+WWW&1d+..u6/+ 61xx1vrb6+/&J+W.Yuirvb1%/xWu&fYrW/gt11v&bv/.u+u&YY&.vr*rrV6%uvtxWW6Wbv%Y1%z.-v6bgbWr1g%%16.vgY+bv1gxb1/71//+Y1u&6vW.&b%rW&..urYr6av%b&gx11.b+Y1&Y1WuYv1b&%Fgux+1&Wx+%Yvbbu/gYvubYv.gx%Y6rx++u&&&6g+.b6Yr1++1S/u6Y*W6u/%+/.5vWrY%+%grbxrW%g6.M6urY+W%xb%6bg.W&u+YW1gubvgY6%bv:vv!//W&=gY6r6Wv%%+%r&&.b?+WgY/Yb%1vYv/7u/%1r&Wv&.+bWgvgb%66.+/Yab+1YxbWbW%r+g06r6Yf.+gWx%vg1%bW;x6YYWWuxg6hr6%/&+6g66x+g+vWg&&.k.uu/rW+g%%&gx..r++/6+.1bugv1.1%LrbxY1uWxx.YrW.uu+ov6bgr6gr6F./r+bb%Yr.xx%%W/+.Y&b+16vg.gbvv1g/%W66+v+Wbg&%gx..6+b+YWugubg6;1W+&+16xY6Wxu+%W/u!.W}Y/+/g+x1v&/6/+DW/&Y+b.vrYrr..%ux+x61%WbvvY1%x6Zxr+g&r&xYrxr6.xuY+b&ugg&)v6x//+41u&1vW.b+%&/.Z.urbr6+zYbur0rX/6W/u+g1bvuv%.1+.&u.g.Wr1WbYr&.u/g1)6/g/W+u11v1rd%xY+&W.x.buur1fb1+x6vgb/+x/11/.;rgr+p/Yg&%.%.16Y/+1/1gvavx.v+r&o1ux+66v++bWr&1g+{!6//Y+&1vvxvr.xb&r1gW616bv+r1%//vxu1gWWv.Y%b16L++++6.&gY&/&Y11/6!vu+Y6W1v/%.r/vr&Y+%6u+r&+6&1ugxvWuW1/M1x1uuWJ.+xbrg6g..+rvr6+bu<uvx/WWYxWxurgxv&bYYbgx6/.vv.bu%lruxY1/yxr1%/%./%v+1Wbgr+&v11uxr .u%gxYxx1vWrvbY&b+u6g&y%/%/..gxS66+g+WWr&%YWTZr./++x1g&x6vt16u%hgu%Y6Wv++1&uu9.uv+WWYxY%u&u1gu+H6u&g1%.vruWr+.b/u+g&Nx/+/v+b1/&xv6bv+W&v1../r6W&YY&Wux.10rr1//+l1u&rvW.xb%rWxkWBWYYr/g%b&gx.Wu+a/61g1WuYv%./%TguxY6bWgx1Yvbgu/g%=u6./WYY1%&.6.+&W1&6Y&xbWvvqY&ubuug/jW6v/11u.4v.r+..%xg%xrW_W/v&6ud&+W%x&%xx+Wb%x+xr.&rb/+Ygu/ubx1bYb//u1%.Y6x+&+%b.xgx&.6r1%/v+xu1%WbggY1u&6^+xr+bWgxg%6&61v+Y,Wu1YxW1xW%r+Y.b%.+vWbxb%x5g11xARr6%g%W/rx%11W.rvg+%&6gx&+v61&&.Y.uubrW8bY%urgxp&6Y/6+W1%vvv15v%zrWxY%WWxv6Yrbbu&g.C66bbbgv%R6&+++uW/&WY%x%WrvuY&b+u6g1Xb6%/.1W.5u/rgbW%x/6xr1/W&vu/61xvgvrbIb/r1&u.gv%rv%&Yru_.6FYr%/x%1gvu1xr+2W+&YYY.xu+rrX/%uxuxWW.g..v61r/Y2%uuYuixxW%WYgT1&6+v&Y.1+vvv6Pb&s&vg/6WW:rY%r%W&%C+7rW&Ybg+1gv/vbi1&Y1bvrv1%++.&&Yr.6uxr%%&%.x1vz1ubgg6&x11v&v..%%Yg6xg1WWvvrY/bWuugYvWbvY.gr%x6&xY+6W&%bxrW{W&YgY6ux1Wvx11b/gYg&%v66x&+bb+%1x/1%WuvY/W1x&bvr.%bugYgW6v6bvg+.uruTgrVY6&/x+W1r&&6&++W&&x1%.vuWr/i1%u/xxW1uT%/r+u1&&uv6./bbrvg.6uW+Yv/Y%bxux%1rbBY&gY6+6gxr+vWr%/xQ%WCYrWmu%%//x.1&b+rvgg%6.vv1.W%2ruxY%bWvY&/r1Mx6vYbv+g/b+611&&ro.u%Y/&xx16Wrx.Yu6}16vg1%bvrug/%v6uxx+WbY&1.&..6P/++/1g/b6vm1Wr&cY/.Yu&rx)v%r/Wx&1+W6v1Ybbv11v&b/b6gxgW1Y.%r/%D%&/.u6Zg6&/v+W1/&1vu.W+W&x+1.ruxru%Y%6&Yxb.gW1rYg-b16YxY+xW6&rY%x&W+vxYgb6uvgWN/66/61v1bvxv%.1%kg&x+1&Wgx1YvW1u&8YS6/1bWgxb..rr2b.%+r.xg1&Hvr1+Y1*&+vY1bbxrWWrr6Y&1+u6v+Y&%6x1vgdv/u/1gZ6x6uvWb.%x&r.6..W+YvY6%bv9vv://W1vvvvr.6bug.gW6&6bx%+1WWucg{}g/rbxY1u1u.xg+Y&&&x.+.vubr/y+%u/%xbbgW%v6Y.%#6+x/+gW6&vY/x/W;v&Yg&WuxgWk////&+%16&gvbpYb1rWxn1/WYvvYxbv1rx..Yb+r&gxu16vxb+&&8&6.v.b/YW%Yrbbu&g+7W/g/b+.11uvrp0v%YrWxx16W/Y6/&1Yx.vxW.brg%g&6>6ux6+WW.&%Y1x.W&r=Y6%+1bvv.%b&gggu%u6b+/r%%r/1x&1.W6v%Ybbv11v/.rbur/&W.vrbWr+.WWu+g&sgu1/v+b1&v,vu.6bWr.&%./r+ru%bY6ux..qv6x//+vgu6YxY+xW+&rY%.urrW6Ygb6ur,tv/b7v1gYbb6xxY+rW&&u.u.6u&rbT&%1&v6aZu6./W+x1%uvv.Cr%Yg6xg%bcvr1+g18&/vY.ybxrrWur.Y&1+u6vg{b%uW1g6.=6urY+W%xb%u1g.W&/xYW1gubvgY6%bv9vv2//W&fgY6r6Wv%%+%r&&.b7+WgY/Yb%1vYv/nu/%1/v16&+Y/b&gY+xv6.+uY+&bug.%dxu%brg06+6+g6+x/%%vg.6/W+Y&YYW.1xx%1WW.vug+%v6gxx+r&/&/YvxuWg+WYxW%u/zOn&6W/W1g1bugv.%vYF&u+x.br.W%Y/uruu+Yv6bgr&gv%W6/xvru%gg%xvWQW/Y+/&1+&/vg1bbrgvg/%&6ux.+WWx&%YWf^/Z/Y1rggubxx416.&8YV.Y&.rxoY%/x+xuW%k6/g+>1v&bv&b/b6g1&W.vrvrri6%ux.xWW&Wbv%/11&v.6u+YW+&xYYxrWB+6Y+W.ugY%,r/%b/g+uu6YgW+xWx&/.u.&urr6{x%b/vx.W.b+Yb&Y1Wu>v%Fgb.r%u+.6u/rbjv%1/%vP11+Y/WY+1%&W6.+&bH&W.g.bu%r1#W17/1vgW%bvY1g/61.&rYbW%g/xxv1uW&YW/u1gx%vvW%brv.gu6g66xW+%&/&.sg&Jgx.Y6Wrx+W.Y6x+&+%b.xgx&.6r1/gYvuuu1v;bxbu/W1..x6r+6+.%+xv61xbY5W6uYYW>x66/r+b1&&.v6.b+b&vYg./u+ru<Y%W/.u%H//+/&+rg66gx&+v61&/Yb.uuYrb%b%1xuu.Ju/g/W1r1%v/61+&&Y&6.%xWWv+1Y/u6u&g1dW/r/bYS1.rrWZ+uWg&WY..1/vr.Db1+&Y6gGbWY/1+&.V&urYt&%x/6xr1%W&v6/61xvW6vH./u&0+1xY6WvA+%Wruh.6QYr%/x1+1rv+6/+;61&Y+b.x&%rrX6Y&u+gu#g66/r1>1/&1vu.1bbg/&%./rrru%g%6&+ubzr/W/&1Y1u&Y6W+x61&rY6.u/zr6y/%%x&x.WbbUvu&Y1Wugv1brb./MxYWYWgv/YvW11/v!.rbYvW&x1%uYr_bW%YgWxg16Wr+1Y/b6u6>vvWbxr6grb.6&xY+6WW&bgI.1u/bLY6uguWguv%brr8gu6+6WY++%&6&1gv&?g/.Y6Wrx+W.Y6x+&+%b.xgx&.6r1/gYvuuu1v(bxbu/W1..x6r+6+.%+xv6.Yr/F%6xxxW1uW%v/Y.b%.+v6.v+b&vYW./uqr6%x%bx/x1WrW.v%&+16&xv%b&b1rWx+6beYrW+g%1xrx..rb+vWgg%x6vxw+/WC&6.x.b/<W%Yrb+1&vYWbbgv1gv%b6/xvru%Y/uxx%1Wrv%YuuYu6ggsbWY/1Yx.Ju/rY9mYx&%YW..uu/++v1g&66vp1W+&^+u.Yu+rx2+%/x6x&1rj6%&/b1rx.v/.vburbgb6/6%vg+.Wb1+x6.YWbrgY.uu6*x/+YW/&v.dxrWL+.YY&bugg6vvW.gr&91u&gvbb/b%r6xX6WA+r67/%b&gx11ubMr/gYb.6xxv+/&+&u.%x6Wx+1Yvbgu/g+D6&+bWgx%+6rx%r&%YgWxg1&WvvgY&u^u6qx=W6bb%g/6J6u+g+6Wg&%.v.1ub/!+r1gv/vx./brv.guWM.6rgwr%v/bx/1/WuvY61rx+%%r&.x&&+.1WgYb6vu1v/+5b/u1vSbxbu/W1..x6r+6+.%+xvx6.b/E/vY/uW6!vYbrbW/%.+vWbvbbr/g11vWRx1YYW1uxgWvrW.vug+b66xK1+r&6&/Y6.uuYWWYvub1rvwW6bYgu&g1buYv1./%+g1xg61WvYg/r%.&/v+.&bgrfgv%s6/xv+6&g&WYb.%6+W.Y&bWu6ggNb6.b1g/%b6uvD+b&x&%gm..6r/+kb1g&rvrb++/&,+WxY6Wv:+%Wr&.g+C+6//g+r1rx1v/.Bb6grgb6r6%xWr.%&/vx611W%gx/11&v+vu.xbWrbg%1g6.x%Y+bg1gxb.xW.Y/gK%/6Yx:+xWW&/1..&u%r6ZW%b&:u1R/6./uYR1bvrv%wxb./xxY6WWx+1YvbMu/g1&bxY.WWxr%Yr+.1Wu+*6%g/%gv116v1+xW116L+x+ubWg.xx.rr6r.Y+uvu6xbbnbv//1W.26Y+r+Wb%x+6W+1rb%v/xx/1v-u/g%b1x/%vr.W+&&++W.gu/rr%%%//xxu.EWWvvY%%+6J+/++61&gYx.vuWr&%+%u/bxW1xW1gv/.1&u=vWbgbb/gg1%&W;vxYgu6uxg+zr6b/&++1WrY6b+r&v&/Yv.6rYrW++%%&xvSW%bYY%gg%+6vx%+/WW&uY6.brrr%m11hx.v+1.bxY%gv%&6/x=+6u+%Wxx1uWrx.Y&b1u6g/cbWg/.1/.+rxrYyr%xr%x/W1k&/Y1+1g&+vrW1b/r%gu1^6b+x+1u+&.gg<+u6/x1Wgvu1xr+2W+&YYY.xu+rrV%%ux+xWW1WbrPY1b/6++&rYbbg&g16uWX+bY+bvugg6)v6U//+11u&/6W+xWu&/1..&u+r6w6%b/6x11bb2v6gY%g6v)%+rW%&&Yg.6ugrb+Y%1&xv81ubgg6&x1%uYv.yg%+r.xg1WWvvbY/b.uug6Zb/r/%+r.irrrY%g%grbxrW%g6.f6urY+W%x1%6ug.W&vxY61gubvgY6%bv4vvG//W&0gY6r6Wv%%+%r&&.b?+WgY/Yb%1vYv/ju/%1r/.6&++Wu&x1b.vubr&%+%6xxxW.YI%/r++1uvbv6.xbb/sg.WrW7x%YYbvuxgWvrW.r/g+%&6gxG+vWb&/Y+.uu.rWjx%1vvu.Su/g/W1g1b&%v1cr%d//xY%bWxv&Y/u1u&gvTW/x/b+.11&/r+%&YY&Wgg.%u1r.B.1+/1vg1bbvrgg/%+6ux%+WWx&1Avx.W&rIY6%+ubx_Z./6&PY9.Y&1rx56%r//x&1gWWYWYbbvu.+rrnburrgW1Y61+%Y*&WuY.6HgubbvY.u16Fg1+g/W&xY6.ru%r&M6Y6uxQ+_r/+//+u1u&.vW.b+%&/.x.urxr6_bYbuvgY)/6v/61Y1W&6v%.1+.&&Ygx6WgvgYru+u/g+Nu6Y/b1ug%6/+T+&Wg&6g+.bu%r.%brg+u%Y&Wxx.%urb.r&1+6Yvx9bbv/bvglv/u/1gh6x6uvWb.%x&r.6..W+YvY6%bvcvvR//W&;gY6r+s/%&+Y&.xvbrvZb%&x&xu1YWbgg/%1r&vv&.rb6/:g%6161x.YwbruYYWvxW%v/gk6g6+xv+g6b%vg1%uW++6YYb4uxgUtr6g/&++g66gx&+vWW&/YvxuWYx.YxW%urg+V&6+/6+11b&v61+/W6&uYY.Wu1W%Y/u+u&g.a661/%.+11u+riA/YY&bTgx%Wrv1Y&b.u6xY %/v/1Yv.+rYrgb1Yx&%YW..u%b+YWuxubxxB16b&+1u.Yu/rxoW%r/1xuW+W6vWYbb6u1xg+ Wr&YYg.xu/WrYo&Wu+geog6+bvY1bu6++x+Y61&xY&./r1r&Vv%6/&xb1u?1//+61u&YvW.1+%&rY>.&urr6a1%%v=x1.U+#/61.1W&1v1brb.r&x+1/>grboW%1//vl.xbgg/&x11v%rTb6%+/&ug.b6gr1+x1h&+6Y5W6r/11/1.&%W++6W6&bYu.16v/+%11Y&rvx.vxr.?W&/+Y61+W&r6%11guvzu-1bwgxgu1Wv.rx+r&6&.x+WvW6rb1>1vu/eW/v%11r&+v&.ub6/_g%W+6.Yr/q%u//xW1vW%vrY.%g6+x&rgbb/xg11vWRx%YYWbuxgY5r6&b&gYu%.gv%b/b.xru7.uugrWHx%1x&x.1%b+rx&g1%v6v1./%+xquY.Wuur%m/%.&gv+.Ybgv1gr6u6/xuru%Y/vxx1WW/Y+Y&b.uWNg_%&#/1Ylx766+x+WWr&%gxpl/rb+Y6b.ubxgd./b&GYr.Y&Wrvb.%/xYxuW.M6/x%b1v/1v/./burrgb6x6%vx+.Wuu+gvXg6+/v+W1/&%v6bvbbxY&%.ru1r&du%6/6xb1uW.Y6&(16vgvW.rb%/xg.1wW+vr/g%%x6x.W6bKv1gY%/.xv%.&%:xgx+1uWgv6YruIu&}>FuWV/b1b1%&1v.CgY+&6gY.b6gr1+Y1_&rvY.ubvY1g/6+6u+%+Wu+7b%b/.g/.76//1g76x6uvWb.%x&r.6..W+YvY6%bvsvv9//W&hgY6r6Wv%%+g61Y6%YN+.&uu-Yu!Y6N/x7.1/vWvububWgxgb%%6.+&Y+uv1YxW1&W%rxgpuu6Yob+gWx&vY+.&rgruf.%bxrx1bY ./u1Y16&vvbngb1rbx71Y_YrWI/%%&+x.1&b+vbgg%u6vxb+/Wu%uxgW+WxvYYrb6u&guv6bgv1&v11&%r!e+%Y/Yxx16Wrv//&1+/66gOb6%/1Yg.Z&1rYc&%x/6xr1%N&/++&1xx1vrW.b/r1g66g6Wxx+1&&uFUxv+W6v.Yb%gu1xFriburrgW%u61+&+.W&uY.6Zg66/v+Y1/&%v6b%bWr%&%.ru%ru%+%6/rxb1vW1rx&J1u&bvW.xb1g%g.%%WY+WYx&1uvgB5/6v/u+.1Wu+v%#x+.&&Yux6Wgx%Yvbgu/g/vubgg_gv6y6rx&+&W1&6YWxbWrY%//1+xWvgbrbxrWg/6%.&r+0r%grbxv16W/v#Y6u6ubw/v%brrxg&%Y66xg+bb4&1gx**6+/Y+v1x&Wvr.Wx&1}W6/gYb1gW6rb1F1vu/MW+>bYgrgW1%r+rr+&&bu+xgW/Wbr11Y1/uuz%//1+1uvb66+gWr&r.+./uxruVYYWuxgbIr6%b&gYub6ggb+vW%&/Y6.uuYrW+LY%u/-+_&6+/6+.gb6vxl+&&6&uY/.Wuvr%{r%.&g6+N66W/%1%11&/rDRgYY&WYu.%u//M%W1Yv+vg.xbvr/&/.+vWrg%rYx&1.&DKrW/Y%bggubgr)./6&w+%.YuCrv%v%/xWu&eYrW/x%11rx1v/.iburrgW%x61+&Ynux1+x61%WbvvY1b%6tg%+g&r&xYrxr6.xbY+W.uggudr/6b/gUbW.YvW_nb%/xg.%%W+vr/g%b&xx.W/byr+ggub6v+N+/&+&u.Y.WrvrbR/%1/.v{.++Y/b1W11vurhb&%+/xxg%bWrYr//1D/1vY1bbvg7g/6r6&xu+6WbAbW6/1g/.(6//1gk6x6uvWb.%x&r.6..W+YvY6%bv!vvq//W&CgY6r6Wv%%+g6%r6bvY+1W.u^gx(Y6u/x+x1/vYv&.YbWg1gb%1.1r/OY%u/YxbW&W%r+Y.b%6+xu+gWx&vYv./uxrut/%bxbx1bYp./&++16ujv%b&b1/+x_%udYrWsr%1v+x../b+rvgx666vxW+&&b%uxgW6WxvrY/uvu&g+v6bgrxgv%v6/x1ru%ggWxv6.Wrx./&1+&/vg.xbrg/g/%v6ux/rW%x/+xr1xW&vxY6b&ubxYS16b&+1u.Y&Wrvb.%r//x&1gW6rlYb%gu1gbr?b6gvgb6r61+r+.W%u+YWpx/&/v+gg/6?xg+YWu&v1..ru%ru%+%6&+xb16E1//+Ygu6Yg.+xWY&/.+.urYrW%v%b//x11b+c/u+r1WuYv%!+b.rux+1YWgv//v%1/u65kuWZ/b1W1%utv.BrY+&6gY.%rvr14/1)/%vY.0bxr+Wur.Y&1+u6vgxbY&W1g6.T6urY+W%x6%66g.W&./Y61gubvgY6%bv0vvn//W&9gY6r6Wv%%+%r&&.b)+WgY/Yb%1vYv/du/%1/v+v&.ubWgWgb%6.1r&%Y%6x%uW4vr1/r+x1&&6vWb6bbrvg.6&0 rucg%bx/x%16W.v%gY6Y6x+&rvb1/rxm1/WYvrYvu{u/0r8&6+/W1v1%r+61+/Wb&ugp.br%r%+g19vgv+1.+g/%1/1.rYr+%8%Y/vxx1v-r/q%%1Yx%vg.+bvr6&/.ou&rYtuYx&%Y%..u&/Y%b1xv/vv.ub/r6g66vY11xu%vr7.b&_+&ggg6buX+.%/ufx/+1%2xxxu.Wr./xYru6u.v+bvb6/b.i.v6/+WYJ%YxrxW.%/+%6&Oxb16K1//+&1u&uvW.rb%rWx96uWY+bYgbuur!uV/6ubuggub6v+&+rWb&u.x.6u1r%1xY1u&t&!u6%/b.Y11vWv.kn%+/xxg16WrYoY/b1u6LYsb/./%+.g.6u+Y+6WW&bYu.1u./+%WgYuWgri1/r/.+%.+u_rgpx%v/6x/1vW6YxYWbuu1Er4.W/&+YY.gu/rr%u%//vxu1gWbY/Y1u%u.g%++Wg&gYx.vu%r/U1%u/%xbW/W1Y%Y.b&6+g.+x/1&vY%./u&ru!u%W/&x1b+:./&+.1Wvv6b+vW&&/Y4.uu&rWH&%%/Wx.1Wb+r&gx6W.vv.bu%+x&uY.brvr%++%./&v+1Wbgvbgv%&6/x7ru%Y/_xx%1Wrx.Y&b1u6x>SbWg/1+6.*u/WY+WWv&1.u..ub/Y%%ggu%m6y./6&M+1.gvbrx=W%/x^x&1uWWYvY%6+11v&bYbur/gb6x6%vv+.bq1+xWWrWbrYY1b.6Lg.+YWJ&xY6.ru/ru1IY6ux.%hr/u//+%gu6g+g+xW&&/.%.urrr6SWvb.vb1&/xl./b1&-.x.u6W+.Yx%rx6x.a+/v/6Yb6:6vv/bW%_&Y.r.W6%Y+&6Yx.b6}r.1r1c/%vY.ubvgYg/6Y6&xu+6W1&bYvx1W&Y&Yub%ub+Y(1/W/.Yr.+uurxbb%v/bx/1.Wuv6YWbWu%g62.WE&Y.+.gu+rrb.%//6xu1YWbgg/%1/v-v&.+b6/Tgb%.6.+%YAb+uYgu=x66/r+b1&&+vW%Y+b&r.j./upruPW%bxvx%.<W.v&gY6u.gv%b%b1/Yx+W/WgYIYxW%1rvjb/++/6+u1b&661+/W/&uYY.Wu1r%_r%.&/vYbvbgv1gv%%6&+1ru%gg%xx%.Wrv%Yuu.16vg.&bvv1g/%b6uxY+b&b&1.ux.W&v&Y6bgubgW816.&d+W.YuuWx+%bg&.Y&v+WWYvYbb/u1xv+QW+&g.8xx6%xu+.bgu+Y6Zg6g/vm11&vv%buYxWMxW%/rr.x%1+v6v%b%&vg1.vbb/1.Y./6u+%YY%xx&x%../g/&Y6u16gvvbub1&p.x.u6W+.&&Y..66CrbpvY1u/g+_6/v/W+&1%&Wrtb6Y+&6gY.b6gr1+Y1+xbvgbYbxv%g/6+6u+%r6%xg1xv1bW&YYYubYuWg.R1&Y/.Yv.Yrvrgl+Yv&1gr>+ru/Y+u1x/1vr.6b&rrg6%.6%YXr1%//1x6Wx8W/x+u1r&%v&.rb6rrgb1g.1r&%/%u/%xW1uW%rgY.b&.+v6)Ybbr6g.6/Wix1YYbxuxg+Pr6x/&+%g66gxu+v61%/x+6WWYx%YxbWu/e%v&bYYWgxu16vg1+&&F&6.v.b/YW%Yrb1u&g.UW/v/b+v1.v&rKMg%gg1xvWYW/YY/&1YvYvg./brgbg&6v6uvqrW%xr1xr%.W&vYYWuru% %J1W+&+1bxY6bYgr%%r/vx&1r{6/g++1v&/6/+26W&g.r.x&1rrS/%&/gx61gWbr0/11/&vvu./+W&x+../r0ru%g%6/gxb1/W1rxg+ub6g+urxb1g%g.%%W+vvYx&.ur..!&/Y/611gW6xx/+/&Y&&gt.6u1rbG6%1&xv>.rbggrgx%Y.rv.{v%+r6ug.b6xr1+v1+x6vY.rbxrYgr%g6&x1+6WW&bY6x1W/vgY6uYuWxY91/1/.YLrbgu1gubvvZ1b/&Dgu.Y6Wrx+%%rYYx&cYW6/gYb1vu1v%rYb6&ggW11Wbr/+.%&u+x1u6Wb/vY11+6.v6+YbW+/g%./6.ruY+%6ug/Y+vW./&goqd6Yvb+xrr&rxg&.W+r6Yg.guvx.o/bDzbgY1b6xv%+rb.&&x/xbWxr%Yv.vu/v+GubY/Wg&&x6rv.+&1&&6xx.bWvR+Y/1+uuvxwWbx/%vrf66urY+6%x&bux..%//%Yu1guWvv?%/./.v&NP66rx+b%r&1rY_+bW&gYW1/u%.}c.b&&+xbJ66bru+1%uuQxuiYWW&.Y%1/u.vb++bW&gx1.661r&YsX6uYxWSxb.gxY.166+%Y+xbb&vg1_&Wer6YY%%uxx1Xr%+&.g+1W6g+x+vb1&/x8.bWYrbYx%1urx.c&bv&ggg1b6vvvYr%+&uxY&1Wxr1Yr1Mu&v+i61uYugv1.6//W+u%g&W.b.%W6MrY&1+u6r1Vbbr/1gW&/6urY+W..&%x/..W&-xY61xubvvH1b/&kg.xx6brv+%h+&.xuE+W6/ggT/bu1v/+>.x&Ygb.x6%.u+.%uu+xbQgWb/vx1oY6+v6+Ybb&x&b./b.&zY+%Wugx%Dv////vP.W6Yvb+xb1&rv6.ubg/&Yg%.uvugM/bj/uxx7v6xr++r%+&&x+.6Wg/1Yv%.u/vxCubg/Wxr.u6rrM+&5Y&6xg.bb/YbY/1Yuub6Jbbx/%grHb6&rY+6%v&bxr.1bu/bYu1guWu1q%br/.g&Uv66rx+b%r&1x/fBW%&vYW1xu%x%+1bu&+g6&r6brr+1%&uDxumY1+&xY11/u.u/++bW&g&r.vWY.1Yy%uuY&6JxW1/rY./W6+vW+gbb&vg1./Wr&vYg%bux/.Krb;/&gY166/.g+vb1&//Y.uWgrWY&/xurx._&kQ/6gx1b6v.++/%+&uxx.WWxr%xr.6uuvYS6bx/b&x1.b/r++u%g&Wxv.%r.r.x&1Wu6vx#bbr/1vY.+WWru+W%/&%t6..W&/+gb.uubvuj1bu&Fgu.Y6Wr1+%%/&.xbI+WW/gg11ru1v&+>.6&YgW.xW.Yx+.%6u+bYAxWb/vY11.60v6+Yb%&xg1.rb+/&Y+%Wugrv rW1//g;5+6Yvb+xb1&rg..&Wv/6Yg%buvxv+rb+/ugY/16xv1+r%w&&x+.6%u+uYv%.u/ug0ubg/Wx%1166.r+&%+&6&r.bWrr1YW//uuvY}W+//%g/1.6&.x+6%x&bxv.1W//DY.gxubvvE%+u/.gu.+66rgYArb&1x/CXyb/YYb1xu%1uG.bu&+gb.g6brvg1.Yu+x6EYWb/x/b1/W.r6++bW&gg%.vr/r/xf1&uYxbJxW1/rx61uWg//+gb.&v6C.&W2rugx.vuxv+hrb+/&g+166g/g+vb.&/xx.uWgrWgr.gurvm*&.Y/6gg1bW/+b+/%Y&uW6.bWxr%Yr1%u&vYp6bv/bgr11Wuru+u%g&WWb.1Wrr.Y&1.u6vxPbbr/1g/.n6%r/+W%x&%g%91Wu/+Y6/rubvrw1b&&cgu.Y%++++%%/&.u.#+WW/g6x1r6Y11+Rbu&YuY.x61rrYgr.u+x6tgYg/vY.1/6F1b+Ybb&xg%.r6.r&Y/Ybuxx%AvYv//g+1u6YvW+&rx&rg..&+&r6Yx%buv1+</b+/ugx1W6xv%gr16&uxY.6Wxrb/x%.W/vWqubg/Wgv1%v.v.g&%%&6xx.bWrr1xY1+6Wv/IWb//%d%1.6&r+Yb1b&bxu.1Wu/XYu1YuWr6O%b//.gb.+6WrgY116&1x&md16/YYW1x6.+x,.b6&+WY.x6brv+11Wuwx6nYW%/xY11rW+vW++bW&gWx.v61r/Yy1&uYxbDxW1/rY.1&6vrW+gbb&vgvkrW+ruYYr1uxx14rbP/&g+16bu}u+vb.&/6W.uWgrWub%%u61rN&b+/6u11b6rv1+Wr/&uxY.WY.r%Y/%.u&1x#6bx/bgv116/rU+.Yx&bxv.%g+r.Yu1+u6vg+Xvb/1g/.kYxrY+b%x&%%u..Wu/+Yb1gubvvY11Y&+g6.Y6brxrb%/6.v%e+WW/gY%1vv/v/g^1Y&Ygb.x61rrg6%u6gvbPgW./vu/1/6BvuYx%&&xx+.rW+r&Y+%6ugx.4vW.//gx1u6gvWYr1&&rx}.&1Yr6Yg%b6/KbV/bY/u661b6xv%+r%Y&&xY.6WvrbYr%16uv& ubg/Wx&116rv.+&1x&6xx.bWrr1Y/1Ou%rY9Wbx/%Y%.16ur++6rr&bxr.1W&/2Yu1Yb+k+U%b//.W/.+6Wrgg<%ruY%1;{Wu/Y661xu1vr+gv.&+g6.ggWrv+.%/uo%bXYWb/xY%1ru.v&+/+b&xg%.vg%r/Y+%uuYxW;&vx/rY.1&gTv6+xbb&v%+./W+ruYx%Wuxx%Yr%6/ugY166xvbrxb.6/xu.uWgrWYv%%x.x.Y&br/6gx1b6rv1gY%+uWxx.WW/r%/x%.u&v++b%?/bgu116ur-+u%Y&Wx1.%W/r.Yb1+uWvg+1bW/1g&.a%6rY+W%xu.!x..W6/+6Y1xubvv-1b6&8g6.Y6%rx+1%r6+v+*+WW/gb%1vu1v/+4b.&Ygb.x61rr+.%&uvrYNgWb/vYv.r6+vu+Yv1&xg1.rWkr&Y+%6Wu.uevW.//bg1u6gvWWvb%&6%r.&W+r6Wr%burx1;Wv//ugY1Wx&v%+/b.&&%x.6WxrbYv%1u/vB;.%1/bgv1%g%v.+u%+&WxgB)xbr1Y/1,gUvYLbbx&+b%1.6&r+W1%g&%xv.1x6/!Y61Yu%vxh%bru.vg.Y6Wrg+%%v%%x&Yw%+/YYb1xu1vrb&b&6+g%.g6%rv+.%/6Wx6+x%}/xg81r..v&++b6uvx+.vWYr/YY%uuYxWGxb./rg 1&6vv6+xbbu/g../W+ruvg%Wuxx%+&/%/&gg16+Wv%+vb1&/vv.uWgrWYr%%u/x.+6%&/6gx1bv.v1+/%F&uv+.WWvr%Y/%.u&v+H1%&/bgv11u1r.+6%Y&W%/.%W/r.Yu1+u6vggY%v/.g&.{r+rY+b%xx/xr=gx./+Y61gvxvvM.b/&(bb.Y6brx+%%r&.x&C/%r/xY%1vxuv/++bu&ggW.&xxrr+.%&gbx6)xWb/ubv1/6mvub6bW&vg%.rxYr&YY%6uvxb>vW1u/xW166gvW+vb%%vxy+&b1r6Yx%burx1b>biuuxg1W6vv%+/b.6gxY(bb%rbY&%16%v+CubY&%g&1%66v.+6%+&6xg.bb+r1Y&1Zu%vYdbbx&.x&1.6ur+xW%g&bxv+k/v/,YW1Y+gvv5%br/.g..+6Wrg+1%v&.x/+Y%Y/YYb1xr.vrH.b&&+g..g6%rv+.%/uOxujrbr/xY%1rurr/+Yb6&gb..v6.r/Y+%uuYxWY6b%//gi1&rbv6+xbbv/g1.Wx/ruYY%Wv.x%</W./&bx166xvb+vb1&/x_..txrbYv%%r+x.pub+/6gg.ygbv1+/%AvxxY.bWxr%Wu%.uuv+;bbg/bgvk1bYr++6%Y&bxxxbW/&.Y11+uWvgp%bvg/g/+*WgrY+b%x&1xr+6Wu&gYW1gu.vv/gb/&PgusxbvrxY+%ru+x&e+W6/gx{1vu.v/+xbu&ggWLrb6rrYz%&bYx6sgWb&/1b1/6Yvu&6bb&xg%.rW/r&YY%6uvxb{rW1&uxr1u6gvWbub%&rg..&Wxr6Yx%burx1D/b!/%x.1W6xv%Z%%1&ux+.6xrrbYr%1u&v4fubY6+1+1%6/v.1/%+&WxgW+Wv/YW11NuuvY%6bx/1gr.gg.r++6%grWxv..W//qWb1YubvxZ%br/.g&./.brx+%%vr%x/_+Wu/YYW1&gxvrZ.b&reg6.x6brvW+%/u+xuKxWW/xY%UrW6vu+Yb6&xgbxx6.&/Y.%uugxWqvW%Y.Y.d&Wxv6+xbb&rg1+YW+/WYW%Wu/x%ggW./&g+.b6Wvb+ub1&uxM.uWYrWY/%%u/x.}bb+/Wgg.1W&v1+&% W6xY.WWx/.1x%.u6v+&Ybx/bgv11WgrX+6%Y&%xx.1Wr&+g11+uWvg/+br/1g/.UbrrY+b%x&1xr..W&/vg&1gubvvZv%r&+gu.Yg1rx+1%ru?x&,+W6uu%u1vu.v/.gbu&ggWvu61r6Wr%&u+x61rWb/rY11Wg/vu+YbW//g%./6.r&Wx%6uxxb>vW1//gN1..xvb+vb%/ug..uW+r6Yg1aYbx1d/bnrbgY1b6xv%6ub.&ux+.bWgrbYv.1WYv+L6bY/bgxgb6//.Yg%+&Wxg.%WvY/Y/E_WxvYSbbx/1gr?66u/gY&%g&.xv&vW//CYu.x6uvx++br&+g&.+66rgYb%v&.x/}xWu/gYW.rW6vr+Pb&WYg6.g6b//%b%/uYxu/6Wb/xY%1r61v&+Yb6&vgb.r61/uY&%uugxW+bW%/rY.1&WJv6+xbb&rg1./W#r%Y1%Wuxx%.%b1/ug+16grvb+rb1&&xI.uWYu+gx%1u/x.T.bY/Wggqx6vrY61%J&uxY(YWvr1Yr%.YWv+zWbg/bgv116/rrgv%g&bxx./Wr/qY&1Yu6v/6gbv/1g/166urg+W%&Yxxr..W&/&YW1xubvv6+b/&+gu.x6Wrx+%.r66xuBYW6/xYbgxu.//+ubu&ggW.v6%+.+..&u1x6ExWb/rY1QY6+rWYrbW&/g%&+W0r&Y+1bu/xbRuW1/ug01u6YvWYub%&/g..bW+rWYg11uux1K&bB66gY1W6xr.%xb.&6x+/YWxrbYv%16%v-j6bY/%gx116r/+Y1%+&Wxg6vWvr1Y/1_u1vY=bbx/1gr1.6&rvY%%g&bxv.vbr/+Yu1YY1vxM1br&ag&.+66&uYb%r&.x/+6W6/gYW&%u%v66rb&&+g6:%6%rr+1%/YgxuEgWW/xY%1ru.v1rgbW&xgb?.6.r&Ye%uuYx.uWW%/rY.TY6YvW+gbb+&g1.&W#rWYY%Wuxr%Y+bJ/ug+1W6g6W+r11&.x!.6WYrbYxururr.+%b+/Wgg1%6v/u+&1YugxY.1WxrWYr%.u&rg+1bg&(gv.k6/r)+u%Yuvxx.1Wr/gY&1Yu6rvYYbv/.g/Y+6urY+W1rxWxri+W&1uYW1gubvvYWb/&+gu.x6Wrv+%1&uux&;YW66%Y%1vu1v/++bu&ggW.v6%rr+.%bu6x6KgWbrbg%1&6lvu6vbW&vg%./6.r&Y+cqx:xbSrW1uvg+166Yuv+v%++%g..&W+&&Yx%%uvvYu1b=/ugY+u6vv1+rb.+Wx+.WWgrbYv%1u/vrvWbg/bgx+W6/r2+&%+&6x/ugWvr1Y/#1u6vg#Wbx+cgr.86&rg+6%g&brv+uW&/+Yu1guW6gQ11ru/g&.Y66rx+b&1&1r/p+Wu/gYW1vu%/++>%6uYg6.r6bbr+1%/u{vW+vWW/&Y%1&u.v&++b6&6gb.r61rWYE%6uYv%4WW%//Y.+u6+v6+g%1xgg1.uWC1+Yg%Wuxx%+6W./ug+1b6gv%+v1=u1xF.6WY6bYx%%urx.+.b+/Wgg1%6vv1+/%x&6xY.WWxrxgv1Lu&v+u%bg/%gv1.6/r4+u.&g&xx.1Wr6+Yu1Yu6uxnbbu+vg/.E6uux+b%v&%x6urW&/+Y6Yvu%vrc1b/+ggu.g6Wrx+%%r&.x1vgWW/xYbY/u.v&+Rbu&Yg.&W6%rr+.+6uYxWFgWb>&Y11&6SvW+YbW&xv%++WyruY+%WuguWor%1&xgk166Yvb+x&r&rv.2vW+rWYg%%uvru0&%YuxgY116xv1+/b.&&vgIuWg/LYv1tu/v}pubY&/gx116rrg+&%Y&6vv#WWvr.Y/++uuvYdW%rgWgr.+6&%u+W%g&bxv+rW//+Yu1xuWvv5%%&u6g&.Y66uv+b%v&1x/PvWu/gYW1vu%vrQ.bb&%g6.g6bvbY%%&u5xuuvWW/vY%1/u.v&++.4ugg%.r61WbY+%6uY/%Nxb+A%Y.1&6+6.+xb%&vg1&6W}r6YY%Wuxx%Qrbvb6gY1W6gW++rb.&/xo.uWrtYYx%%ur6xnubY/6gg/.6vv.+/%Y&uxY.W%x&&Y/1Eu&vY26+Y/%vvi+6/r++u%g&W.%.%%r/bY&1Yu6vx b1B/.xuSg6urv+W.b&1xr..b6&WY61/ubv/o1b/&jguqx6Wrv+%%6&.xud+bb&%Yb1ru1&&+?bu&Yx%WY6%r&+.vyuYx6-gWb/.Y11&6mvW+Ybb&xx..W6.ruY+g+ugxbpvW1&6gU166Yvb+xb%&rxg++W+r6Yg%g6xx.Q/bjybgY1b6xv1+rb.&&r/6/Wgr%Yvg/u&v+Iu+u/Wg&&x6rv.+&Y6&Wxx.bWu>vY/1fuuWWUbbv/%gr&Y6&rY+6%g&bxv.1W%bYY61guWW%J1b//.g&.+61.6+b%v&1W:c+W6/YYW//u%v/s.b6&+g6.gbb&M+.%&u,x65Yl6/vx%:5u.vu++bW&g.v.vb1/YY*%6uYxbAx%&//x+.16+v%+gW.&vg1./bY&vYY%.uxx. rW./&g+dx6gv%+v%Y&/x+.ubx/%Yx%1ur&LU&b+/6xv666vrh+/x&&6xY.WWx//Yr12u&vgX6bx/bx/./6/r++uxv&Wxx.%Wr&vY&1Yu6vxobbv/1gW.W6urY+WbWubx/..W&!xY61xubvr?1b/&lv.u.6Wrv+%xgupxuC+Y%/ggP/bu1v/+ygr&ggb.xW+.%+.%&u+b&OxW%/vY1/66ev6+YbW&xg%.rWv&xYY%WugW%2rW.//g+1u6r.Y+xb%&rWB.uWYr6Y//guvx1U/g1/6gg1W6x.w+r%G&&xg.6Wgrbxv.uu&v+Xubg/W&g11br/6+&%Y&6xx.br1r1x/.%uuvg2Wbv/%v+.zW6/Y+6%r&bb%..W//sgW.uuWv&O%b&/.g&.+66/%+b%r&1xWd5W6/Yg%1Wu%v/7..u&+g6.gW1Yg+1%uu^b+wgWW/xY%.gu.vu++bb&gg%.vb;r.Y?%6uY&glxW%/rY.1b6+vW+gb%&vg1./Wx/bYY%Wuxxx+vby/&g+/%6gv%+vb.&/x}.u%&/WYv%1ur1+(ubY/6rW1b6u.v+/%#&u%x.bWvr%Yr/Yu&vYT6bg/bgv116%/b+6%g&Wbu.1W/r.Yu1+u116hbbv/1Wb.+66rY+.rW&%xr..x6/YYW1gub1&81b&&BgW.Y6Wrxg%.+u^xu_+WW/g/W1rW1/Y+tb6&Ygb.xrrrrg..gu+xWXgW%/vxu1&WY/Y+Yb1&xbW./6.r&gg1xugvl(vbF//g91u6Y/Y+xb1&rxg.&WYr6gv1xuvx.,/.+/ugY1WWr+W+r%+&&Wu.WWgrbYv1bu/v+nubx/Wgv1%W&/x+&%Y&6&W.%Wvr1Y/1.uuvgRWbv/%gr1.6b/x+6%g&bgbP%W&/RYu/vuWvvZ%b//.g&.+%P+w+b%r&1%%:+W6/Y/g1v6+1%H.b&&+%n.x6%rvYYr1utxuBYrY/vY11ru.1W++bW&ggb.v61r/Yr.vugxb;xv///gq1&6Yv6+/rg&vg1./x6r6Yg%Wu&1xlrW./&%&1W6xvb+vr+&/x+.uWxrWYx%%Wrr6>ubY/6gx1b.xv.g/%+&uxg.WWvr%%.%.W&r&f6bx/bgr11bYr+YW1x&Wx/.%+0/DY&1+6bv%zbbu/1gu.w6urY+W1r&%x/..Wb/+YW1g61v/j1b&&or6.Y6WrxY.ux&.x64+gY/xYb1vu1/Y+}b6&Yg%.x61rrg+11u+xW*gfv/rY11/6o/++Ybb&xg1.r6.r&Yv.XugxbjvWv&rg+1u6Y11+xb1&rxP.&W+r6xu1burx.O//6/6gg1W1%v1+6rr&&x+.6r%r%Yr%1u/1g;ubg/Wgx1%6rv.+1Yg&Wxx.br.r.Y&1_uuvY!.vW/%gr1.rYrY+W%g&b%&.1W&/HYW1YuWvxY%1+&jgu.+6WrgrW%r61v(KQW6/YYb1xvrvrY.%b&+gW.g6%rvgu%&6YrV<YW1/xY+1ru.v&Yg%.&gx{.vW{r/Y<%uuYrx xW1/rgg1&6Yv6Yv%Y&vg../1+ruYY%W6r)WZrb+/&6u1W6gvb+v1>&/x+.uWxrWYv%%6&rb_&bY/6+.1b6vv1+/1%&uxg.WWvr%Yr%.ubvY<6bg/bYb.%6&r^+urv&Wxv.%W/r.Y&1+b;rg?%br/1=v.+66rYq/%xu+%%..W&/+.&1xu%vvk1v6&Ug6.Y6Wrx+%%ruvrxHYWW/g1%1ru.v/++bu&r%Y.x6%rr1^%uuYx6p/vg/vY11/r1v6+gbW&x%<.rWsr&Yg%6ugxbYv%u/&g+1u6gvWrgb16rvg.&WYr6Yx%bx1x1Y/%&/ugg1W6vv%g+%du6vv.6Wrrbuu%.u/v*+Wbb/Wg&1%6&v.+&%+&6vv.bWrr1YW1Cu6vY+%b//%g/1.%ur++6%gu1Ng.1Wu/t6+1guWvxc%%//.gu.+6brg+%%v6VxWCOW6/YbW1xu%vrP.bb&+gW.g6%rv+1%/uxv.oYWW/xYx.v6Cv&++v%&gg%.v6.r/Yi%uW&.&cxW1/rd+1u6Yv6Wgbb&u%v./Wqru.x%buvx%}6vr/&g+16&rv%+rb1&/%g.uWgrWYx%%urx.51%%/Wgx1b/Wv.+&%X&6xY..xWr%Yr%.r1vYhWbg&>bb116/rs.b%g&bxx.%xur.Yu1+ubvgMbbvu1vY.+66rY+b%x%bx/+.bv/+YW1gu%vvb/b/6Pxx.Y6brx+1%r66xu+g%k/gY.1v1rv/+0buuxx6.xW+rrY+%&u+x6Xgbx/vY.1/6xvu+gbWurxa.rW(r&vY%6ugxb+//b//gY1u+6vb+xb%&rvj.&WYr6Yv%burx1+ubg/ugg1Wx6v%+rb.&&x6.6WxrbYr%1u/v?i%bg/Wgx1%u%r1+u%+&6%r.bWrr1Y&1?uuvYg+/+/%g/1.&.rY+W%ggYxvZYx1/SYu1Y&Yvv21br&gb..+66rg+x%r&.x/hdxb/YYb1xu%vrC.b&&/vr.x6%rvfu%&u+xujgWW/&bx1ru.v&.bbW&xgb.uxvr/Y7%u&6xbIvW%/rbY1&6Yv6+vbb&vg1+/bWr6Yg%Wuvx%vvbdu&x+166xvb+rb1x^x9+ub6rWYv%%u/x.YgbY&bxx1b6&v1u+%Z&uxY!%b%r%Y6%.u6v+<6bg/bx&116&rc+%%Y&bxxV.W&r.Yu1+bWvgMbbvuG.v.C6WrYug%v&%xr..bb/+YW1gu1vvm.b/uYxW.Y6brxg %r&.x&t+b1/gY%1vu.v/+ibu&rxW.x6%rr+r1/uYx6Ogx./vY.1/6+vu+YbW6616.rWer&+%%Wuxxb+&W1/Wb/1u6YvW+Nb1&/g..bx&r6Yg%b6Yvc*&bk/ubv1W6vv%+rb.&&x+_2b.r%Yr%1u/vY#6bY/bgx.+g%v.+&%+&6xv.%Wv/YW11HuuvY+&br/1gr1.gWr++W%g&1xv.1W/u?xx1gubvxf1brb1gu++WWrg+%%v&.x/WuWuuYY.1xu1vr+_b&ubgWDvW.rvY+%/66x6QYWW&rgv1r6gv&+gb6&ggb.vW1r/Y+%uurxWmvW%&&x+1&6Yv6xxbb&vg10ur1ruYx%W*bx1-rW./&g1166xvb+/b1&&xRNWbrrWYv%%.ux.e&b+/6g/1b6rv1+&%m&uxY..brr%Yr%.&.r}QWbg/bb&116&rU+6%Y&WxxYgrgr.Yu1+6WvvF%bv1+g/.xx2rY+W%xu1x&A8W&/vb+1gubvvY.bu&+gu.Yg1rx+1%r&.x&j+W6/u/11ru.v/g+bW&ggW.x6%r6Wr%&u+x6YxW1/rY11/ggvu+gbW&rg%.r6.&&gb%WuxxbArW1brg+*u6bvW+vb%&/g.W+W+&6g6%burx19&b)uxgg.%6rv%+ub..rx+.6Wg/1Yr%1uWvJFWbY/Wgx1%6&v.+u%+&1xg.%Wv&{g61pu6vYgbbx/%grk+rrr++b%gHxxr.1W//!Y%1Yubvxi.br&9g&2gWrrg+%%v.xx/XLWu/YgW1xu1vr+9b&&+g6./Wgrv+1%/&/v&agWW/xbo1r6Cv&+Yb6&ggb+WW1r&Y+%ubrx%KvW%%bY.1bg&v6+gbbWuxe.&W_ruWv%Wuvx%IrW./&g+.z.vv%+rb1WWxY.6WYrWYx1+Y%x.!&b+61gv1%6vv166%=&6xY.%Wxr%Yr..WgvY:Wbg/%gvg%6&&R+b%Y&bxx.1WrY&Y&C+u.vgN%bv/.g/QW66/xg&%xu_xr/YWu/+Y6.v6+vv+Yb/&Ygu.Y6WrxYY%rudx&evW6/xYb./6uv/++buWggW.x6%/&%%%&ugx6/WW%/vY11/WYvu+gbW&rg%./6./6Yb%6uxxbWbW1//gE1uW%vW+vb%&/g..&W+r1g%%buvx1.1b./6gY1Wg/v%+/b.&ux+.6WguY%Y%1u&v?x+bx/bgx6x6rrg6.%+&6xggxW/r.Y/1xg^vY*Wbxbvg&.(6&r+6%%g&%xv.1W//qYu1&1%vvC1brb/g6.Y66rg+b%uYvx/A*WuW6Y%1vu%vr6Yb&&Yg6.v6brv+1./6Wx6<gWW/vY%gv6:/&+%b6&xgb.r61YfY*.u6bxW_vW%//Y.<g6YrbYbbb&&g1/xWOruYY1%u.x%N6W./6g+166gvbgYb1&&xT.%WYrbYx1.WRx._ub+6Wgg1b6v/O%v%e&WxY/gWvr%Yr%.6Yv+ZWbg/1gv1.6//YYg%Y&bxxggWrr.Y&1+6.vgI%bv/.g/.!6urrg+%x&%xr.rb//YY61gY.vv?.b/&+gu.Y6W&6Y%%/u<x&v%Wb/xYb+Wu1vW6/bu&YgWv^6.r/+.%&Yxx6GxWb/vY11/6_v.Y1bb&vg%xvW+ruY+%WugvmubW1//gcg&6xvb+x%++%g..&W+brYv%%uvx1u6b)/6gY1%6xv%+r1.6gxY.WWgr%YvY%u&/{YYbY/bgx116r+&+&.+u+xg.%Wvr.Y/.Wu6rxYvbx&jgrY!6ur++61vugxvsYW//YYu1YuWvx+Ybr&Ig&.v66rx+b1/&.x/Q+Wu6gYW1xu%r&b%b&&gg6rW6%rv+1%/u6xuHgWW/rY%1/u.r6+rb6&xgbxv6.r/Y*%uu1xWKvW%//Y.1&6+v1Y1bb&vg111W.r6YY%WY/x%*/W./ug+166g&YYvb.&&xKruWxrbYxY%u/vgu.b+/6ggvb6/v.+/%m+bxY.bWxr%Yr%.u&v/Yrbx/%gvv+6ur++u%g&Wx&uxWrr.Y&xxubvxObbu+vg/.:6u%Y+%%v&%xruYW&/YY61vubvvk11/uWg6.g6Wrv+%YvuOr&+rW6/xYb1ru1+i+01u&xgW.v6%r/+..guYvb,vWb/&Y1xE6Hvu+Y%%&rg%.66.r6Y+%6ugxb+xW1/&gC1%6Yvb+x%.6fg..uW+uWYg%buvrqbvba/WgYrg6vv%+rb.ugx+.WWgr1Yv%.u/rY+rbY/bgx%.6rv.+&%+uuxg.%Wvr.Y/19uuvr+gbx/%gr1rW/rY+6%g+.xv..W//+Yu1YuW/6W6br&5g&rv6brx+bb/&1xWu/Wu/YYWv&u.v/i.bb+&g6.g6b1uY}%&u5xuuvWW/vY%1ru.v&++%2%vg%.r611WYY%6uYxWGxb+A%Y.1&6+%1+vb%&vg1&6WOr6YY%%uxx%;r%.uggY1W6gv%+v+%&&rPy6WYrbYx%1uri&k&1+&.gg1%6vv.+/1W&6vx5uWx/}Yrv%uuv+*6%v&ggv.Y6/rY+u%Y&Wxx,6Wr/hY&1vu6vxqb%/&1g/.+6uug+W%x&%v&W%W&/gY6vWu%vv81b/&ugu.g6Wrr+%%/&.v6dxW6/xYbrxu1v/+(bu&6gW.v6%r/+.%&u+x1+1Wb/vY1%16.v6+YbW+/g%./6.ruY+%6ug/Y+vW./&gB&+6xvb+xxb&rxg&.W+r6Yg/xu/x.s/bQ_bgY1b6xv%+rb.&&x/+rWxr%Yvruuuv+Tubg/Wg&&x6rv.+&vb&bxx.bWu<vY/1juu16l%bv/%gr&Y6&rY+6%v&bxv.1%/&WY61guWvv:%+v&Cv&;v66rx+b%r&1mzn %u&xYW1vu%v/O.1g&Yxb_/6br&+1Ybu:xu!Yb%&gY%16u.v6++b6&ggb0u61r&Y;%%uYxb?xb./.Y.1u6+&W+gbb&vvsWvW rWYYvguvx%!rW.uxg+1W6gv1+vb.&/vY+YWYrbYxuburx.{&b+&rgg1%6vv.+/%J&uxr.%Wxr%Yr%r6/vYB6bgN.gv1.6/r++u%Y&Wr60%W// Y&&bubvxjb&x/1gW&/6urY+W/.&.x/..W&)xY61xubvvj1b/&Og.xx6brv+%&+u+xuG+W6/ggX/bu1v/+o/x&xgb.x6%.u+.%uu+xbegWb/vx1BY6+v6+Ybb&x&b./b./kY+%Wugx%?v////vKL+6Yvb+xb1&rv6.ubg&vYg%.uvv%o/b*/uxx.b6xr++r%+&&x+.6Wg&YYv%.u/vxNubg/WxrL/6rr}+&IY&6xg.bb/YbY/1Yuub6Rbbx/%gr.x6&rY+6%v&bxr.1bu&YYu1guWurt%br/.g&ab66rx+b%r&1x/f=W%/gYW1xu%x%+1bu&+g6&r6brr+1%&u,xu Y1+&xY11/u.+/+gbW&g/1.vWY.1YQ%uuY76JrW1/rY./W6+vW+gbb&vg1./Wr&vYg%bux..Q&bG/&gY166/.g+vb1&/.Y.WWgrWY&/xurx.K&&,/bgx1b6v.++/%+&uxx.WWxr%xr.6uuvYC6bx/b&x1.b//++u%g&Wxv.%r.r.x&1ru6vx_bbr/1vY.+WW/6+W%/&%rY..W&/+gb.%ubvuG1bu&9gu.Y6W/r+%%/&.xb}+WW/gg11uu1v&+R.6&YgW.xW.Yx+.%6u+bY_xWb/vY11%6Xv6+Yb%&xg1.rb+r1Y+%Wug&.=rW1//g8.r6Yvb+xb1&rg..&WvrbYg%buvxv+rb+/ugY/16xv1+r%^&&x+.6%u+uYv%.u/+glWbg/W//1166.r+&%+&6lr.1Wrr1YW//uuvY)Wu//.g/1.6&.x+6%x&bxv.1W//(Y.gxubvv#%uu&+gu.+66rgYorb&1x/2)&b/xYb1xu%1uk.bu&+gb.g6brvg1.Yu+x6DYWb/x/b1/W.vW++bW&gg%.vr/r/x-.vuYxb>xW1/rx61uWgv%+gb.&vur./WKrugx1.uxv+Trb+/&g+166gr6+vb.&/xx.uWgrWgr1WurvJF&.Y/6gg1bW/+b+/%Y&uW6.bWxr%Yr16u&vYj6bv/bgr11Wu/W+u%g&Wu..1Wrr.Y&.%u6vxebbr/1g/.S6%r1+W%x&%g%d1Wu/+Y6/rubvrC1b&&kgu.Y%+/x+1%/&.Y1GgWW/g&/1r6Y11+-bu&YY+.r61rr+.rWu+xWIgWb/vY11/6r6W+gbb&xYg.&Wdr&Y+%6u/1gAvW1//+r1W6gvW+xrZ&rxI.&Wgr6Yg%bWvruZ&b+/ugg1W.gv1gr%x&&xY.6Wxrb%1%1W/vW^ubg/Wgv1%b+rzY6%v&6xr.bu1r1Y/1j6WrYLWb&/%g&1.6&r++6%1&bxr.1WW/DY61Y6%v%M%b//.ru.+66rgY1ug&1xuoSg+/gYW1xu%v1t.bu&+gb.g6%rvgc1mu?x6fYW./xY%1ru.v1++bW&gg%.v61r/Yx.nuYxW=xWx&vg=1&6+1%+gb%&vg../W5rux&&&uxx1Xr6u/6gY166/vb+urv&/xc.uubr%Yv%%u61r_&b+/6Y%116rv1+/rg&uxg.WWxr%Yr%.u16gFWbx/bY..K6&rl+u%Y&.%W.%Wrr.YY1guWvg(bv&/1g&.q6WrY+W%x6%r+ CWu/+YW1g1WvrY1%u&,g6.Y6brx%r%r6.x1z+WW/gY%1vWuv&YY%.&Yg1.xgYr/+.%&6gv&SgbG/vgQ1/6cvu+Y1S&xg1.rWgr&YY%66vr&)vW.//r+1u6YvWYr&W&rx+.&YurWYg%buvrgL/b+/ugx1W6vv%Y&16&&xY.61gr%Yv%1u/v&Vubg/Wgv1%6rv.+b1r&6xg.b6b/%Y&10uu1v-Wbv/%g/1.6&r+x)1g&%xr.1bv/gY61YbWvv++v%/.g&.+W&rr+%%v&1%6QXW6/YYW1xu%vr+v1x&YgW.g6%r&+.%/u+xu;rvY/xY%1r6jvW+Yb6&/%g.v61r/Y1%bugxW#xv>/rg,1&6gv6+gbb6vvu.&W+ruYg%W1gx1Yrb//&gY166xvbb1b16/xx.uWgrWYv%%W+vo+6%4/6gr1b.gv.+/%XuWvu.WW&r%Y&%.u&v+j61;/bgr116Wrd+6%Yu%v/.%W/r.vu1+u6vg+1&g/1gu.AY+rg+W%x&%vr..Wu/+Yb1gu%vvY7bW&hg6.Y%rrv+%%r&.xuq+WW/gY%1vu1v/+x%Y&YgW.x6x/vYI%&u+%%EgW%/vY.1/6Dvug&%W&vg1.r%7rWYY%6W1x%kuvv//gh1ubgv1+vb%&r%Y.&WYr6Yg%buvx1H%+Y/6gg1Wbvr^+/b.&&x+.1x6rbYv%1W&vg 6bY/Wb/1%6/v.+6%+&6xg+b%Er.Y&1Vu6vYv6bvu%xr1.6ur++W%gxvxv+1b6/HY61YubvxY&b/u+xg.+6%rgxx%v&1x/+Y%+/YY.1xu.vrs.b&&+xr.g6%rvYY%/u+xu+xW1/xY11r%tv&++b6uv.6.vW4r/u&%6uYxW(xbb/rgH1&6gv6+xbbu/vu./W+ruu.%buxx%Ur%g/&gY166xvb+vb1&Wx/.uWYrW+W1bu/x.<&vx/6gx1b6rv1+/%J6.1..WWvr%xW1Yuuv+&/bx&:bb116/r}g1%v&bxxo+x%r.Y&1+%5vrI%bv/1b6.>66rY+W%x&%xrBv%x/YYW1gbvv&n.b/&+gu.rxYrx+%%rW&xWDYW6//bg1vu1v/xrbb&ggW.xx9rrYM%&ugx6JgWbuvxu1&6+vu+gbW%gg1+rbYr&YY%6uxxbW1W1u/xY1u6gvW+vb%6+xHE6bur6Yr%bWrx.p/bS&Wgu1W6&v%+&b.&&x+.6bbrbYr%1uWvh_6bY&%g11%6/v.xu%+&6xgt1/gr1Yu1m++vgRWbx/%xb1.6ur++b%g&%xv+OW./>Y61Y+Lvvf%br/.xx.+6Wrg+%%v&1x/Zx%+/YYW1xuxrv+_b&&+b%.g6%rv+.%/uPxuY&r&/xY11r%uvW+Yb6.&g%.uxvr/Yp%ubbx1ivW%/6br1&6+v6v1b.&rg1./xgruYg%Wuxx%?rW./1x%1W6xvbvg%+&&xi.6WYr.WW%%urx.xrbx/Wgg.egbv1+/%M%xxv.bWxr%Wu%.uuv+tbbg/bgvD1bYr++6%Y&bxxxbW/&.gv1+uWvgp%bvg/g/+Hb+rY+b%x&1xr+6Wu&gYW1gu.vv+bb&&SguaxW/rxY+%ru+x&F+W6/gg11vu.v/+xbu&ggWorWrrrYo%&bYx6{gWb&/1b1/6Yvu&6bb&xg%.rWvr&YY%6uvxbBrW1&ug+1u6gvW%xb%&rg..&W1r6Yx%burx1e/b0/%gu1W6xv%#%%1&ux+.6xrrbYr%1u&v<TubY6+xx116/v./r%x&WxgWbWv/YW11JuuvYrub//1gr1.gWr++W%g&bxv.1W//r/W1gubvxrWbu&)g&.+66r/Wg%v&1x/v1Wb/gYW1xgsvr+Hb&&gg6.g6b&vgu%&u+xuqgWWbgY1PrWbv&+Yb6&xgb6161&/Yg%uugxW:vW%u+gV.66%v6+rbb&bg../W!/Wgb%Wu&x%=&W./&g+166uvb+rb1&Wxo.6WY/%g.%%u/x.gub+/6gg.1rgv1+u%oy+xg.WWxr%gY%.uuv+Rbbg/%gvcH6brE+6%Y1xxv.%Wrr.xY1+uWvg_%bv/1g/.xWvrY+W%x&xvvjAW&/+W%1gu%vvQ.b/&Ngu+&WWrv+1%re=xW)YW6bbY%1ugvv/+kbu.gg1.v6%rrWY%&uYx6fgWb/vY11%.Yv6+gbW.vx2./6.r&Y+%1Y6xb=vW11&gg166YvW6/b%&/g..6W+r6Yg.bWex.Z&b=/6gYg66v/%Y1b.&ux+.WWgYvYv.16uvG^6bY/bgxZ&6//+gg%+&%xg</Wrr1Y/.Y6&vY*.bx/.gr1.6&r+gY%g&%xvDYW//+Yu.xWgvxS1brWXg&.+66/v%6%vuAx//&W6/YYW1xW+vr+Jb&&gg6.x6b//gY%/u+xu/WWW/xY%1rW+v&+Yb6&xgb.v61rWY%%uuYxW.Wbb//Y.1&gxv6+xbb&rg1./W^&.gY%buvx%&6bY/ug+rg6gr^6bb1&/xe/%WvrbYx%%Yux.mub+/6gg1b6vrxru%+&6xY/.W/r1Yr%.u&vv6+bg/bgv/Y66r++u%Y+1xx.1Wr/+Y&1+u6/gY/br/.g/.+6uW++b.x6gxr4^W&/YY6ubub/vYvb/&+gu.g6W/.+11&6vx&JxW6WxY%1vu1ruYbbu&rgW.r6%rr+.%&u&x6exWb/uY11&6_rWYxbW&vg%Y/6.r&Y+1bv+xby/W11.g+1u6YvW+bb%&/g..6W+rWYg11u.x1X&ba1&gY1W6xv%+bb.&ux+.WWgrbYv1Y6&v4_ubY/Yxg116rv.6W%+&Wxg.%Wvr1Y/Vr6uvgObbx+vgu._6&%}+6%/Ygxv.1W/p&Yb1guWvx6<br&-g&.+66rg+b%W66x&Z+Wu.%Y11vu%v/o.bb+&g6.g6b.nY+%&uZx%uuWW/xY%/16Yvu++b6+rgb.r61ruYm%uuYrW+.W1//Y.1u6+6u+x1bu/g1.&W^r6YYuxuxr%Y+W./ug+1W6g//+r1R&.xV.bWY.gYx%%urr+Y+b+/1gg116vv1+/%=uWxY.bWx/+Yr1ku&rg+vbg/%gv+.6/rS+u1xxuxx..Wr1/Yu1+u6vg .bv/.g/.Y6urg+W1rugxr-<W&x%Y61gubvv+Yb/&+gu.g6Wrx+%%6ucx&B+W6r6gW1ru1v/6gbu&ggW.v6%rr+..16+xWTxWbY+g+1&6pgv+Yb.+Wg%.r6.+xYx%Wugxbu&W1/&gP1u6YvW+x%g6YxO.uW+VuYr%%uvx.E/bx+OgY1W6x.b+u%i&&xvu+WgrbYv&6u6v+jubY_1gx116rr++&%+&6rg+/Wrr.Y/1+uu6+)b1x&/gr.h6&rY+6&b&brvQbW//+Yu1guWr.-1%&&6g&.x66b%+%%v&1vuMbWu/rYW1ru%vrT.b&&Wg6.x6bru+1%&uBvWBxWW/vY%+/u.v&++%bx+gb./61%.Y+%uuYxW++W%//Y.166+vW+g%1&%g1.&Wtg.YY%Wuxx%+WW./ug+1W6gvb+v%YuYxD.uWYrYgg%1urx.uWb+/Wgg1%6vv1+/.ruuxg.bWxYbYu1^u&Y/?6b/+ggv116/+.+b%g&WxxuXWr/ Y&1+u6vgwbbW%Ig&.+6uY++1%v&%xr..Wb>&Y61gub+x++b&&>gu&v6Wrv+%%&&.x&5+%6&1Y%1ru1v&+a+&&gvWiv6%r/+.%uu+#gag%bu+Y11&6(v6+Y1r&vx.++6.rWY++uugxbdv%C/1gM1%6Yv%+xb%&rg..%W+rWYg1Uuvx.y/%Y&1gY1b6x&1+rb.&&vgW&Wgr1Yvvru&vkNubY/bgx116rr++&%Y&6vv+/Wvr.Y/iuu6vYmWbx&ugr.X6&rY+6%g&bxu;gW//tYu%u66vvf%br+Yg&.Y66rx+b%v&1r%6%Wu/gYW6/6:v/L..+&Yg1&66brv+1u6ugx6yYW.sWY%1ru.Yb+xbW&ggb&&61r&Yy%uuYxW^xbguYg!1u6+Y++rb%&vg../Wx#VYY%Wux+xGubP/&gv&+6gvb+v6Y&6x+.uWY.1Yx%1urv+n&b+/6vgl/6rv.+/%+&uu+.b%xr1Yr1Ou&vYH6/b/bvveu6/r++u%g&Wv..1b&&xY&1xu6Wv<bbv/1xu.Y6urr+W%r&%xr..W&&HY61xubvu#1b&&,xW..6Wrv+%S/&.x&H+bbg+Yb1/u1b.++bu&YgW5u6%r/+.%6u+xWMgb1&gY11&6k%/+YbW&xg%.&6.ruY+%WugxbKvbY&&g#1u6YvYYgb1&rg.&WW+rWYg%%uvx1}/1rYrgY1b6xgv+u%S&&W..6W/ngYv%1u/Y& bbg/Wg&&x6rv.+&W6&%xx.bWv2+Y/1+uuvY:Wbx/%gbiW6urY+66.&.xr.1W&/,Y%/uuWvxR%6Y&Ygu.+61.6+b%v&1g}0gW6/YYW//u%v/0.b6&+g6.gbb&w+.%&uGx6}YS6/vx%1/u.vu++bW&g.v.vb1/qYl%6uYxb9x%&//x+.v6+v%+g1+&rg1./bY/xYY%.uxx.,rW./&g+..6gv%+v%Y&/x+.ubx&&Yx%1ur&?y&b+/6xv666vr4+/x&&6xY.WWx/uYr1Uu&vg96bx/bx/.r6/r++uv1&bxx.%Wr&+Y&1Yu6vx8bbv/1gW.+6urY+WbWubx/..W&pxY61xubvrV1b/&Ev.UY6brv+%%YuYxuT+xr/xg8/bu1v/+Zbv&vgb.x6%.u+.%uu+x6}gWb/vgxgu6+v6+Yb/&/g1.r6.r&Yv/+ugxb}vW6/6g+1u6Y11+xb1&rx+.&W+r6xg./urx.s/b+/u&+1bbxrg+r%a&&xY.6rbrbxv1gu/v+Gubg/Wx.11W&rO+&%x&6%/.bWvr1gu.+uuvrQWbr/%gr1.6&/++6%x&bxu.1W&/4gW1xuWvvJ%.//.g&.+WbY++b%/&1W.e+Wu/YYW.bu%v/j.b6&+gW.gW1r.+1%&u>11JYWW/xY%1%u.vu++bW&ggb.vWY/xY(%uuYxY+gW1/rY./W6+vW+gb%&vg1./%r/uYg%buxv%Q6bM/&%r166/.g+vb1&/v,.%WgrWYx/,urvLt&b+/6gg1b6W/6+&%+&uxv..Wvr%Y/%.ub1&F6bg/bg&.Y6&ry+%ru&Wxx.%br/gYu1+u61rMbbr/1gu.G6urYgW1.&1x/..Wu/+/u1xWbvu>1b&&#g6.Yrxrxg%1r&.xu<+WW/gx/1rW!vW+Pbb&Y/1.x6%rrg+1ru+x1HgW1/vY11/6:/U+Ybb&xx+.rW<r&gg%%ugx%mv1.//gj1uWx+u+xb.&rW/.uW+r6Yg1&uvx.V/bY/ugg1WWrv.+r%G&&+r.6WgrbYv.ru/v+dubg/Wgx1%66rr+&%+&6g6HWWrr1Y//guuvg_Wbv/%gr1.b1B1+6%x&bvu#YW&/l.11Yu.1W4%br/.xb.v6WrgY^rb&1x/KH%1/rYb1xu%1ud.bu&+g6.g6brvYx.gu+x6=Y%g/&Y11r6:v&+vr+&ggb.vbrrWY+%uur1YIxW%/rvx1b6Yv6+gv.&vg../WYruYY%WWxr&L/b>/&gY16.Yv%gv1/&/x+.uWgrW%%%%Wrr/<&bY/6gx1bb7v.Yu1v&uxv.Wg%r%Yr%.66vgN6b//bg/116/ry+u1b&Wxv.%W6r.Yu1+6bvu?bbr/1r&.E6urYY%uY&%x&..gC/YY61gubvrJ1b&&ZgW.Y6brxY..H&.xu;+vu/gYb1vu1rx+yb6&Ygb.x6%rrYg1bu+x6)gWg&xY.1/6 1b+Ybb&xg1.r6.r&x/16uxx%yv.r/Wg+1ux+vW+&rx&rg..&1ur1Yx%buv1+J/b+/ugY1W6xv%+bY+&uxY.61W/NYr%1u/vtX%vu/Wgx1%%1rg+u%+&6%r.bWrr1Yu1QuuvYYW%./1g/1.6ur+ru%x6bxr.1W&/^Y61YvxvxY%%r/.gu.+6Wrgg/%r6Uv.V,Wb/Y%r1xu%vrY+bb&+g1.g61rv+1%/uBrv^YWb/xg+1r6Qv&Ygb1&gg%.v%.r/Yc%u6xXu,xW./r6/1u6+v6+g%+&vg../WYruYg%W6rv6Jrb9/&%W166gvb+v%%&/x+.uWgrWYx%%u6r+U&b+/6Y6.W6rv1+/rg&uxg.WWvr%Yr%.W1r+KWbx/b&+.Y6&r0bg%Y&.%W.%Wrr./x1vuWvgsbv&/1g&.J6urY+W%xugrYK=Wu/+ru1/u%vv{.b/&x%{.Y6Wrxvb%6uox&7vv+/gYb1v16vW++bu&Yb1.x61rrY+%&u+x6Yg%//rY.1/6+vur+bb6xxg.rWnr&YY%6xbxbYv%6//g+1u6gvWY.b1u&xk.&Wxr6xu%buvx1+u%g/ugr1W6rv%+rb.&&xx.6WxrbYu%1u&v*+Wb//Wgv1%%/v.+&%+ub;+.bW/r1u.1+uuvYJW%W/%g/1.66r++W%gu1x%.1W&/mWb1YuWvx?%%x/.gu.+6Wrg+b%vuYx&w)Wu/YYY.gu1vr).vW&+gW.g6%rv+1%/WrvuwgWb/x&%166tv&6xb6&/%g.v61r/&O%%ugxWmxv!/rgO1&6+v6+gbb&Wv6.&W+ru/v%.uvx%:/W./bb&166gvbr&%Y&&x2.%xurWYx%%.rvgaub+/6br1b6rv1+u%}&uxY+Wb.r1Y/%.uuv+vubxubxb116&rV+6%Yxxxx+%%0r.Yu1+uWvgY/bru{xW.N6brYuv%v&%xr++b6/+Y11gu1vvf1b/& x%.Y6brxY+%ru-x&+gbx/gY%1vb.v/+0buux.u.x6.rru/%uu+x6ig%g/vY.1/6Yvu+gbWurxr.rWar&!v%6ugxbLv%+//g+1u6gvW+xb%&6x..&W+r6+61Wurx1F/vg/ugg1W6vv%+rb.61v+.WWxrbu&1Yu&vQ1%bY/.bW1%6rv.&W%v&Wxg.bx&r1Y&1auuvYNWbx&g&&.=6ur+&%%/&%xv.1W//xb)1YuWvx&-b6&:g&.+g%rg+%%vu#x/__WuuYxr1vu1vr+fb&%zgW+gW/rv+.%/u+xuWWWWuxg.1r6mv&+Yb6u1g%K/W.r/Yg%uxxxW<xW%&&xv1&6vv6+vbb&vg1./WWruYg%Wu&x%!/W.&6x+166xvbxrb1&/x5*W/}rWYr%%F1vsm&b+/6xb1b6rv1+u%c&6xYz%bvr%Y/%.6vv+t6bg/bg&116&rB+6%Y&WxxH+bur.Y&1+u+rYK%bv/1b6._66rY+b%x&%xrYvrv/+YW1g+gvu<.b/&%gu.rxYrx+%%rOrxb5YW6//bg1vu1v/u&b%&ggW.xxSrrYG%&u+x69gWb/Wx61&6+vu&%b.&vg%./6.rbW&%6ugxb&7bY/&g71%guvW+xb%X1xg.uW+r6Wr%burx1tuby/ugYcWW.v1+/b.&ux+xuWx&bgx%1u&v;-6bYgxgxh%Wbv.+u%+&Wxg+/Wr&Agm1#ubvYb+bx/%grI+b>r++1%g&1xv.1W//kxw1Yubvx++br&Ig&{gbYrg+%%vW.x/<hWu&x1u1xu.vr&/bu&+g6.gW0rv+.%/uYxu:gWW&rY11r6nv&Cub6&ggb.vW/r/Y+%uugxWwxW%/6xY1&6+v6s6%W&rg1./xgruYg%Wuvx%TrW.u1x+1W6xvbW+%Y&&xy.+WYr.WW%%urx.6xbv/Wgg1bg&v1+&%{&uxY.WWx/gxY1juuv+uub//%gv1.6/rxWl%Y&Wxx&bW6/_Y&1vg+vg)bbv+6gW.+6urY61%x&1xrT+W&/+Y6}gW/vrN.b/&+gux+6b&xY.%ruEx&NYW6YbYbNv6vv/++bu&ggWl.61/&Y%%&uxx6xuWb/vY1.uWYvu+rbW&rg%.r6.r&gb%6uxxbzuW1/&gJ.W6&vW+vb%W/g..&W+/b1+%bu/x1/.b+/ugY1Wb8v%+/b.&6x+.WWg/1Y&%1u&vM^1bg/Wgx1%6bv.+u%+&Wxg.bWv/Ygu1^uuvY8Y%g/1gr1.gWr++W%g&%xv.1W/ur%r1Yubvx6%b6&Sg&.r6Wr/Wg%v&1x/6LW%/gYW1&gxvr).b&gYg1.x6brvW+%/u+xu2YWW/xY%1bWWvu+Yb6Y/xy.r61r&YV%%YuxWdxW%+6gg1u6+v166bb&vg16&Wxr6YY%WY/x%9/W./6g+166g/bg9b.&&xB.6WYW6Yv.%6&x. ub+/Wgg6v6v/1+6%4&6xY.bWx&&Y/.+W+v+*%bgr+gv116//YY%%Y&.xx..Wrr.Y&1+Wvvg>%bv&Yg/.+6u/xgg%x&1xrg=W&/+Y6.vv6vv+,b/.&g6.Y6Wrxgv%ru2x&EgW6/xYb./6Xv/++bubbgb.x6%rrYW%&uYx69xWb/vY11WW6vu+YbW/Wxb./6.r&Wx%6uxxb4rW1//g5K.x.vW+vb%gWxg.uW+WxYx1MYbx1?/biY1gr1b6xr+6%b.&&x+W.W/r%Yv%1Y6vM<6bY/Wgx1%6rrvr6%Y&Wxgb+Wur.Y/1Ouuvr6Ybx/%grWx6brY+6%g+.xv..W//YYu1YuW/xY&b/&{g&.Y66WY+%.v6ux/X+Wu/gYWu%u%/r++b&&Yg6.x6b&{+.1uu%xucvWWl+Y%1ru.r6+&b6&/gb./61r/Y_%u6bxWCvW%/6Y.1u6+rbY&bb&rg1Y&W9ruYY1%vYx%k&W..5gY166gvbg+b1&&x7.WWYrbYx1.6bx.Lub+v6gg1b6vv1gx%c&6xY.bWxr%Yr1g61v+^6bg/gxx1.6/r26b%Y&bxx.1Wrr.Y&R/x/vgV%bvx/gW.+6uxY+W%&Yxxr..W&g6Y11xubvu6vb/&_gubb6.rv+%%rYYx&sYW6/gYb1vu1v%Ybb6&ggWb+W+r/+.%uu+x1u6Wb/vY1Wx6xv6+Yb.+Wg%.r6.xYYv%Wugxbu&W1/&gL1W6YvW+x1%6+xF.uW+rWYgYWurr1YYb7/6gY1b6x+r+r1.&.x+.WWgr%Yv.uu&rY+xbY/1gx.%6rv.+&1gubxgseWv/VY/15uuvY+bbx/1gr.g6&rY+61vu+xv..W/6+Yu1YuWrrbWbr&+g&ru6Wrg+b%vu.x/H+Wu/xYW1vu%r&Y&b&&Yg6;v6brv+1%/urxu8gWW/vY%1ru.vb+bb6&ggb1bW%r&Yh%uYvxW vW%//Y.1&6+&,Ygb%&rg11vWxr6YY1%uxv+u%W./&g+%&6/v%+vb1+6xn.6WYrWYx%%urvvYxbY/Wggb%6uv.+/%+&uxruYWxr%YrbSubvYo6b/+ggv116/x1+%%g&Wxxu5Wr/9Y&1gu6vgBb1vuug&.+6urg+WYg&1rrXvW&/YY61xub81y11/uvgu.g6Wrv+%.+u*v6+uW6/rYb1Wu.v/+^%W&WgW.&6%r&+.%&u+x6n1Wb/rY11W6Dv6+Y%%&6g%./6.uuY+%6ugv1bgW1/ugDr+6gvW+xb%&6g..uW+rbYg%%uvrB+xbh/6gY116xv%+rb.uLx+.WWgr%Yv%1u/vxs6bY/Wgx1xWvr8+&%++%xg.%Wvr.Y/1zuu/&+Wbv/1gr.+6%rY+6%r&bxuuvW//EYu1x6Rvv#%br+Yg&.Y66rg+b%v&1x%+bW6/gYW%u6+v/=.bu&+g1&66brv+1bbuxx6zYW.!WY%1ru.v6+rbW&ggb&&61r&YC%WuYxWix%%u+gf1u6+vW+g+W&rv1VWW0r6YY%bux;r7r%./1g+1W6gv%+v1u&&vY.6WYr1Yx/&urx.q&%gutgg._6vrF+/%:&uxY..Wxr1Yr1gu&vYa6%vu&gv1.6/u++u%Y&WvrWWWr/+Y&vuuWvg bbv&Wg/.+6urx+W%v&%v&+rW&/YY6%oubvvl1b/u&gu.g6Wrv+%%r&.xb+bW6/gYb%b6%v&+cbu+vgW.v6%r/+.%&u+/N+gW%/rY1.%6vv6+YW&&xx+&%6.r&Y+.du&x%,vW1J6g9166YvW+xb%&rxv+xWYrWYg1vu6x.c/b+/ugr&Y6xv%+r%&&%xY.6W/fgYv%1u/rrI1bg/Wgx&^6rri+&%g&6xg.b%v&uY&1+uuvgXW+g/1vr..6&rY+6%x&b.1.1%/&rYu1guWvvH%1+&<x6.g66rr+bbr&1x/NmbW/.YW1&u%v&M.b&&+g6zu6brr+1%Wu2x6IYb%//Y%1/u.&u++b6&gx1Wg61ruY).YugxWOxW%/6Y.1u6+vb+gb%&vv*.bW(r6YYY.uxx%srW.uYg+1W6gv%+vb1&/xxPTWYrWYx%x6vv,V&b+J%gg1%6vv.+/% &ur&9WWvr1Yrt&u%vYo6+//bgu&v6/r7+u.Wupxv.%WrJYY&1Yu6vgmbbv/1g%xY66rg+W.%uYx/..W&/+Y1/6ubvvl1.G&vg6.Y6W./+%%/&.x6=+W6/gxb0lu.v&+kb6&Y&6.vb%/6+.%uu+xW(g/v/vx1EG6pv6+Ybb&xv&./b+/6Y+%%ug&+4vW1//xYpx6Yv.+xb.&rg..&W+r%Yg%%uvvYj/b+/uxx.W6xv1+r :&&x+.6bvY6Yv1Mu/b&R6bY/Wgx}+6rr_+&%g&6xx.bb//+Y/1+uuu+Pbbx/%grXu6&rY+6%x&bxv.1WW&YYu1YuWxW+bb//.g&&x66rx+b%r&1x/5C%.&YYb1vu%uY+xbu&+/u.xWE.b+1%/uD&v>/Wb/xY%/uu.vu++b6&ggb.vWxWuY+%6uY&/^uW1/rY.1&6v.++gbb&v/6.bW+ruYYr1uxx19rb+/&g+16bg//+rb.&/x+.uL+rbxx%1urvc*&bY/61b1bbvr++/%+&uxg.Wb.r1g&1Lu&vx_6%x/%gv11Wur6+u%r&Wxr.%Wrr.Y&1Yu6vxcbbu/1g&.qWWr6+W%v&%//..W&/+gb6+ubv/I1g.&+gu.Y6W/6+%%/&.x6X+WW/gg1..u1v&+(1.&ggW.x6%/b+.%uu+xWhgWb/vgY.W6Zvu+YbYugg1.r6..WY+%Wugx% vW1//vrur6Yvb+x{%&Wx<.&%/rWY//guvx1l/>O/1gg1W6&.x+rb.&&uY..WxrbYv/+u/v+dubY/Wgx1%6b/W+u%Y&6&/0+Wrr1Y&1wu%1uRWbx/%/6.x6ur++1r6&bxv.1^&/vY61YuW1/o%b//.g6.+66rggb.n&.x&5MW6/Y/61vW%r+y.bu&+gW.grvrvg1%&u#x6EYWb/xx&1/W+rg++b%&gW%.v61r/gY16uYx.ExW./rY.1&6+rb+gb%&vxY./W+rugx.ruxx1dr.U/&g+16Wv+6+v%N&/W&.6WYrWYx1#urvpc&bg/6gx1bW//J+/%+&u+%.WWxr%Yr16u&vYn6bx/bgv116WrY+u%Y&WgW#bW/r.Y&/xu6vx}bbr/1g/.Lb./Y+b%v&%6W8xWu/+Av1g6A1bp1b/&Pu1./6brx+%ru&.xu!+W6/gYb1v6x/g++b6&Yug.u61rrYw%&uv1+TgWb/v&r1b6+vu+rrY&xg%.r+xr%YY%6ug%.OvW.//gY1u6YvWgx1&&/xw.&WYr6/Y%%Wvr/Z/b+/ugg1Wv%v%gr%b&&xY.6Wxrbx^%.6uv1;ubv/W/6116rv.Y61/&6x/.bW/r1Y/18uuruGWbv/%g61.6ur+Yb1b&bxr.11&/VYu1Y6%+Ye%b&/.W(.Y66rg+b%%&1x&A,WW/YYb1x6.r.H.bu&+6v.x6brv+1.Yukx6mYWb/xY%1r6grW++b6&ggg:x6.r/YorbuYxbdxW1/rY.1&b/;/+gb%&v6/.bW+ru&%%bu&1xMrW./&u61.6xvb+urv&/x}.uYW/QYv%%ur1Yq&bY/6gg1b6vv1+%YY&6xg.WY%/YY/%.u&v+m1v6/bgv11Yerv+6%Y&W%/.%W/r.Y61+u6vgYb1A/.g&.c66rYr6%v6%vx..Wu/+YW1gvvvvY1%+&yg6.Y6brxg&%/6+x%G+W%/g111vu1v/YY1Y&Yg..x6.rr+.%&u+xbygW%/vgY1/6+vuYxb.&xg1.r1Hr&Y+%66v,64vbO//6&166YvW+x%%&rx>.&Wgr6Yx%b6/rrd/b+/uuC1b6xv%+r%v&&xY.6WxrbYv%1uWr6CubY/WYW.b6/v.+&rx&6xx.bWrr1Y/1_W.rY_bbv/%bg.x6ur+/&%xuZ%b.1W//CWr1/ubvxQ%vu/.gu.+66rg+b%vuxrgG+W6/Y6W1uu1vr+fb&&v%+.g6brvu1%bu+xu>rvY/xY%1rYbv%+Yb6&gb..v6.r/YY%uuYxWYx%&//g:1&6Yv6rYb%6vv/./W+ruYg%Wx%x%Yrbv/&gY166xvbg_b.uuxW.uWvrW1v%%urx.+6bu/6g/1b6/v1+/%k&uvv.WWvr%Y6%.uuv++b%+/bgr11%&rC+u%Yu%2Y.%W&r.6o1Yu6vg(bbr/1g&.E6WrY+b%xu.x1..Wu/+Yr1gubvvG1%v&9g6.Y6brx+%%rugv+0+W6/gYg.xu.v/+jvb&Ygb.x61rr+.%&W/./XgW%/vW.1b6+vuc1bW&&%x.r6.r&WY%.uxxb_uvv//gE1uxgrq+vb%&r%Y.&WYr6Yg%buvx1;%+Y/6gg1WxvrY+/b.&&x+.1x6rbYv%1g&vvj6bY/Wb/1%6/v.+6%+&6xg+b%Cr.Y&1#u6vYv6bvu%gu1.6ur++W%gxvxv+1%x/8Y61YubvxY&b/u+xv.+6%rgu/%v&1x/+YW%/YY.1xu.vrs.b&&+x..g6%rvYY%/u+xu+xbr/xY11r%9v&++b6uv.6.vWsr/u&%6uYxWKx%v/rgG1&6gv6+xbbu/v&./W+ru/v%Wuxx%tr%v/&gY166xvb+vb1&Wx%.uWYrW+W1bu/x.8&vx/6gx1b6rv1+/%p6.1..WWvr%bW1xuuv+v%bg&0bb116/rJW1%/&bxxq+x%r.Y&1+x.v&p%bv/1b6.C66rY+W%x&%xrKv>6/YYW1gv+v6#.b/&egu.rxYrx+%%rxxx%cYW6/gW.1vu.v/+Ybu&YgW+xb&r/Yy%&uYx6vYW%uvxx1/6+vu+gbWg%g%+rbgr&YY%6uxxbYZW.&uxu1u6vvWgub1&rg.#6Wrr6Y/%bu/x1_/bd/ug&1W6vv%+6b.&ux+EbW%rbYr%1b&v2mubY&%.Y1%6&v.u9%Y&6xg.bbxr1Y&1luWvYGbbx&.vg1.6ur+&r%x&bxv.1b&/EY61Yubvxa%br&ggW.+66rg+g1x&.x/A2xb/YYb1xu1vr}.b&6/x6.x6%rv1r%bu+xur1Wb/&bx1ru.v&%ub.&xgb.vx+r/Y+%uuYxWKxW%/b&+1u6Yv6%W%+&rg1./Wtr%Wu%Wuxx%b1bx/ug+16grvb+rb1&uxc.uWY&Wg.%1u/x.Lub+bugxZbWYv1+&%Z&6xYWxWx&%YW%.uuv+aWbgu/grc96%rI+b%YuWxv.%Wr&+gY1+u1vgt1bv/1g/.TW1rY+b%xu+xrBlW&&ggg1gu%vvg.b/&Pgupxrurx+.%r_/xu{+W6/ggg1vu.v/+Ybu&ggWLrb+rrYf%&uxxWygWb/vxO1/6+vu+gbW&xg%.6bvr&Y+%6&6vW(rW1//bg1u6gvW+vb%&rg.+1b+rWYx%b/+vg{&bP/bgg1.gWv%+rb.rxxr.WWgrbW&%1u&vi5ubY/Wgx.gbYr*+u%+vux&.%Wvr.Y/1xgXvYDWbxxbgW.l6&rvW+%g&bxv%6Wb/+Yu1YY1vxP1br&+g&.+66&gg/%r&.x/o+Wub+Yb^xWxvr+ b&&Yg66b6b&vg/%/u+xu^gWW&.Y1.&61v&+xb6Grgb.v61/ug%%uurxWZrW%/rY.1&6vv6+xbb&ug1.&WM/Wgb%Wuvx%g/W./&g+.br+vb+/b1..x+.uWYrWg%%%u/x.K6b+/Wgg.1WYv1+&%s.xxY.WWxr%gb%.uuv+HWbg/bgv.YW%r_+u%Y&Yvg.1Wrr.WW1+uWvg=%bv/1g/+rWurg+b%x/%xWhDW&%bY61/ggvvV1b//}g1.g6WrxW_%runx&G+W6/gYb1WW6v&++burvxT.v6%r/+.%bY&x6qgWbv&gg1&6?v%6ubW&xg%1rWxruY+%6YrxbMrW1/ug41u6Y/WY.b1&/g..uW+WuYx.b6%x1c&bU/6gY6x6x/%+/b.&ux+.WWg&/Yr.06UvDIbbY%bgv1%6r/+gx%+&1xg.1Wvr1Y/1N6rvYPbbx&+gr.j6&/gYW%g&%xvY.W//CYu.xvuvxj.br./gu.+66rgYv%v&.x/>YWu/gYW.r6xvr+lb&MXgW.g6brvYv%/u+xuogWW/xY%16Wbv&++b6/6xW.r61r/Wg%uugxWivW%/rY.;1x1v6+xbb/uxg.&W:1&Yg%.YWx%SrW.rbgr1W6gr_6bb1&/x;.1W&rbYx%%Yux.Zub+/6gg1b6vrxgg%+&6xY.gWur1Yr1#u&vv6+bg/bgv1r6br++u%rYYxx.%Wr/xY11Yu6vgu.bv/.g/.Y6urY+W.x6&x/LyW&/YY6gYu%/v+Wb/&+gu.g6W+%+%.ru+x&wYW6/xYbd4u.ruYgbu&vgW1x6%rr+.16ugx6^/Wb//Y11/6mvuYUbW&vg%.66.ruY+1buWxb5rW16&g,1u6Yr%%Yb%&&g./RWYr6Yg%b61x1q&bZ/WgY1b6xr.g+b.&ux+6WWgrbYv%1u&vh<6bY/bgx1%6rrgY6%+&6xg.gbxr.Y/1-YbvY-bbx/1gr1.6&&/Y6%x&%xv+rW%/+YuuguWv&6xbr/.g&kuWFrx+b%vY+x/S+Wu/YYW1xu%vbr+bu&Yg6zWWYrr+1%/u?x%uuWW/xY%.16vvu++b6+rgb.r61ruYC%uuYrW+.W1//Y.1u6+6u+x1bu&g1.&W2r6YYuxuxr%+MW./ug+1W6g//+r1nubxh.bWY6eYx%%urr+Y+b+/1gg116vv1+/%^6wxY.bWx/+Yr1du&rg+1bg/%gv+.6/rm+u1xxuxx..Wr1/Yu1+u6vg+6bv/.g/.Y6urg+W1ru6xr=qW&61Y61gubvv+bb/&+gu.g6Wrx+%%666x&,+W6r6gW1ru1v/6gbu&ggW.v6%rr+..16+xWRxWb6+gx1&6zur+Yb.+Wg%.r6.uxY/%Wugxbu&W1/&gR1u6YvW+x%g6YxI.uW+&uYu%%uvx.I/bx+dgY1W6x/b+b%)&&xvu+WgrbYv*6u%v+hubYd1gx116rr++&%+&6rg+/Wrr.Y/1+uu6+Jb1x/.gr.G6&rY+6&b&brv#gW//+Yu1guWr.41%&uWg&.x66/x+%%v&1vu+bWu/rYW1ru%vrq.b&&/g6.x6bru+1%&u!vWLrWW/vY%+/u.v&++%bx+gb./61%.Y+%uuYxWQ6W%//Y.166+vW+g%1u1g1.&W4ugYg%Wuxx%Y+W./ug+1W6gvb+v%Y&bxG.uWYrYgg%1urx.uWb+/Wgg1%6vv1+/.ruuxg.bWx6bYb1?u&/WLWb/+ggv116/u.+.%g&WxxuqWr/GY&1+u6vgCbbW%Kg&.+6u6+Y+%v&%xr..Wbk&Y61gubux+xb&&Cgu&v6Wrv+%%&&.x&<+%6&1Y%1ru1v&+C+&&gvW.u6%r/+.%uu+5gdg%buKY11&6av6+Y1r&vx..66.rWY+vWugxbLv%L&&gR1%6Yv%+xb%&rg.^/W+rWYg1quvx.a/%Y&WgY1b6x&1+rb.&&vgW&Wgr1Yvvru&vJ{ubY&xgx116rr++&%Y&6vvExWvr.Y/+/u6vYMWbxuvgr.i6&rY+6%g&bxu(uW//cYu%u66vv9%br+Yg&.Y66rx+b%v&1r%+VW6/gYWgr6gv/c...&Yg1&66brv+1Yuurx6(YWW;/Y%1/u.v&++b6&gxYx/6.r&Y^YWu&xbHxW%/rgg/.6+v6+g+1&Wg../Wo.bYY%buxx.>rW./&v+kv6xv%+vb.&/&..6%Y/.Yx%1urv-(&/6/6vg.%6vv.+/%+&uv%.bbr/gYr1Yu&u/,Wbg/bx/5v6/rx+u%x&Wxx.%Wr&vY&1Yu6v/tbbr/1xu.g6urg+W<v&%xr..b6Y.Y61vubb%S.b/&jgujb6Wrv+%%&&.xu5+bb/6Yb1ru1/r++bu&YgWF+6%r/+.%uu+x6JgbD/bY11/6cvMY+bb&xg%&u6.ruY+%Wugxbdv1xYxgM166YW++6b1&rv1.uWv2+Yg%buv6x*%b+/ugr&Y6xv%+rgv&1xY.6Wg..Yv%.u/vqQubY/Wg6g.6/rQ+&g/u*xx.bWvr1YW//uuvYiWY6&gg/1.6&.x+6%x&bx/.1W//exu.%ubvv;%b//.&/.Yb6r/+b%r&1x&F*/Y/YxW.vu%v/7.bu&+vv.xW1r%+1%6uL:WwYWW/xg.1%u.vb++bb&ggb.v61ruYF%6uYx.fxW1/rx+G;6+vW+g.%&vg1./bYY/YY%%uxbvy/W./&g+.b6gv%+v%h&/x+.ubx/6Yx%1ur&gQub+/6gg,+6vv.+/%+&uxY.WW&r1Yr%.u&x&+ubx/bgv&+6/r++u%g&Wxx.%%b/.Yu1Yu6b%+Ybr/1rW.+6%.u+W%x&%b(IvWu/+Y6/rubvr<1b/&?gu.YW+&!+1%/&.WvG/WW/gY%1v6Y11+8bu&Y6&.661rrYgr.u+x60ggr/WY.1/671b+Ybb&xg..r6.r&x+.vuxx%BvW.///.16bYrW+xb1&rx7.&r6r6xg.guvx.J/b+/ux%1bWrr++r%Y&&zY.6Wgrbg/1&u/vx=ubx/Wgx1%6rrr+&%Y&6x/.bWrr1gu1guuvg_W.v/%gr1.W6+.+6%v&bW%..W//IYu.guWvv>%b&/.gu.+Wb/r+b%r&1Y6!#Wu/YYW.Wu%v/y.bu&+g6.gWc/u+1%/u_xi++Wb/xY%/uu.vu++bW&ggb.v%x//Y+%6uY%&?6W1/r+Y1&6v.++gbb&vbW.%W+ruYYr1uxx18rW./&g+166u61+rb.&/b%..WgrWYx%%u61rI&b+/6b,.Y6rv1+/rg&uxg.WWrr%Yr%.W&rbaWbx/bgr11.rr+gu1W&Wxv.%W/r.1+1+W6v1^bbr/1g&.?bxrgY%%v&%xu..gg/+Y61g61v%w1bW&UgW.Y6Wrx+%1x&.xuZ+W1/gY%1vW#rx+sb6&Yrb.x6%rrg+uru+xb>ggx/rY11/6Ir6+Ybb&xg..rWwr&gg./ugx%Evbu//gF1u6Y//+xb1&rx#.&W+r6Y/.ruvx1F/W/&&gg1W6x.(+r%m&&xY.6WgrbxW11u&v+TurY&+gv1%W+v.+br&&6xg.bvv/xY&1Tuu1v(Wbv/%gr1.6&r+Y?Yv&%xr.1v//rY61YuWvx++v%/.g&.+x6ru+%%v&1%6T9W6/YY%1xu%vrY.1g&YgW.g6%rvr%%&W5x%QYWb/xY11rv&v&g+%u&gg%.v6.r/gW%66xvucxbk/rx+1u6+v6Yv1u&vxY./WYruYY%WuxrS5rbd/&gv166xvbY/1r&/x+.u1grWYx%%6&o%C&bg/66W1%6vv1+/1/&uxg.WWrr%Y/%.66v&s6bx/bvu116/rS+u1r&Wxv.%W/r.Y&1+u1vb!bbv/1Y1..66rY+Wr/&%x/..Wu/+Y61gbYrvl.b&&a1%.&6brxx+%rug%.G+W6/g1A1Wu.v/+{vb&Ygb.x6%rr+.%&u/rrTxW%/v%v1%6+vu+gbW&&%x.r6.r&b&1Kuxxb>uvv//g01uvrr++vb%&r%Y.&WYr6Yv%buvx1Y/%W/6gg1W6vv%rv%)6&v/.6WxrbYr%1vnvzYu%+/Wgv1%6/v.gg%Yubxr.bW&r1j11!uuvY+%br/%g61.66r++6%g&bv/.1W&/,Y%1Yubvx+.%g/.gu.+%Wrg+b%v6)svXCWW/Y6g1vu%vro.bu&+gW.g61rv+.%/6Yvu}YWb/xux1ru.v&++%b&gg%.v6.r/YV%uurx1BxW%/rYr./6Yv6+gv.&vg../W+ruYY%WW6.6_rbq/&1u.E6xvb/bb1&W%/.uWYrW%b1gu/x.dbv&/6gg1br1rx+&%j&u%v.WWvr%Yr%.u&v++Z%./%gr11rgrr+6%Y&bxxf+x%r.Y&1+vrvuU%bv&Yb1.q6urY1x%6&1xr..xW/+YW1gu1vv:1b/6tvx.g6brx+1%r%1xuY+bb/gY%1vu.v/bubu6Yx..x61rrYc%&6bxW+v%+/vg+1/6bvu+YbWurx+.rWgr&Yg%6ugxbOvb&//g+1u6rvW+vb%u&xx.&WYr6vx%buvx1+u/1/ugx1W+bv1+rb.&&xg.6WxrbY/%1u&v)+Wb1/Wgv1%gbv.+&%+&6v%.bWrr1Y&1=uuvYJ.%./%gr1.u./n+W%g&b%&.1W&/kY61YuWvxgg/g/.gu.+//ru+%%vYxx/Kxv9/YYW1xr6vb+jb&&v%+.g6brv.b%%u+xu4Yx1/xY11ru.v&++b6&uv&.r6.r/.+%.ugxW0vW%/6br1&6+v61x%Y&rg1.Wx/ruYY%W/Yvg;/W./&bx166xvb+/b1&/x-+ub%rbYv%%u/x.v/bYu6g&1b6rv1+&%qxYxY+WWvr%Y/%.uuv+Yvbx&1gb1166rOxr%g&Wxx}.W.r.Yb1+ubvg2bbv/1x/.Z66rY+.%x&1xr++W%/+YW1gb%vvR1b/uY./.Y6%rxuv%/&.x&}+bb/gY%1v6Jv/++buuxxu.x61rrA/%&u+x6_g%g/vY.1/6+vu+YbW&&xW.r6.r&+&1uuxxbLvv+//g+1u6gvW+xb%6b1b.&WYr6Pv1Yurx11.be/%bu1W6xv%.&%v&ux+.1x6rbYv%1&6vrh6bY/Wb/1%6/v.+&%+&6xgdY%+r.Y&1M/.v&cbbx/1gr.gg.r++6%g/YxW..W//xbh1YuWvxmqbb&Eg&.+g%rg+%%vuOx/0PWuuYxr1vu1vr+qb&%sgW+gWgrv+.%/u+xuWWWWuxgg1r6:v&+Yb6u1g%n/W%r/Yg%uurxbDxW%&&g&1&6vv6+vbb&vg1./bgruYg%Wu&x%U/W.&6xr166xvbxrb1&/xB9W/TrWYr%%U1vtt&b+/6vQ1b6rv1+u%T&6xYI%b6r%Y/%.W%v+H6bg/bxg116&rh+6%Y&Wxx=+bvr.Y&1+u+rY-%bv/1b6.;66rY+b%x&%xrYvb&/YYW1g6gvbs.b/6vgu.rxYrx+%%rurx.4YW6/gW.1vu.v/+lbu&YgW.6bur/Y:%&&WvlmxWb/rY11Wg/vu+YbW/1xg./6.rbW&%6ugxb#bbv/&g!1ugvvW+vb%&&g..&W+&6g1%%urx1Z&b*b&ggTW6/v%+/b.&ux+WgWg&bg%%1u&vZO6bYurgv..61v.+W%+b&xg.bWv&Qgg1>u%vYz%bx/%gr1.bvr++W%guIxv..W/&YY.1Yubvxg1br/.g&Kgr&rg+1%v,rx&ieWu/YgW1xu1vr++b&&Yg6Ev61rv+.%/1.x67YWW/xgv1r6Vv&+Yb6&ggb.uW+r/Yw%u&uv6evW%/rbY1&6Yv6+xbb&vg1+%v%ruYg%Wu.vxa/W.%/gY11g6vb+vb1uYx/.6WYr.WW%%urx.Ygb&/Wgg1bg&v1+&%#&uxY.WWx/g/&1)uuv+Yvb6/%gv116/rxW_%Y&Wxx+&W%/-Y&1+Y%vgD%bv&Ag/.46u&Ygr%v&1xri7W&b8YW g6xvve.b/&+gu6W6W&x+1%rupx&JYW6&1Y%./6/v/+gbuvvgW.x6%/&g+%&uvx6<vWb/vY11/Wxvu+gbW&&g%./6./6g6%6uxxbgrW1//gI.WrGvW+rb%.1x2.&W+r6Yb%burx1LubV/6gY.%6%v%+/b.66xY.6Wgrbx+%1u&v0K6bY/Wgx.+W/v.+&%+&+vY.%Wvr1W61eu6vY8bbx/%gr+vvvr++W%g6Wxb..W/uYY61rgYvx_%bru1g..Y66r/Wg%v&1x/Y.b*/gYW1xgCvr+_b&&+g6.g6brW/#%&u+xug+bY/vY%1ru.vb6&b6&ggbYxWvr&Y;%uYvxWJvW%/&Y.1&6+/6Y1b%&rg1.&W_W&Yg.W6&x%8/W./ug+6g6g/b+1b1&&x5.6WY&rYv1.u6x. Wb+++gg1b6v/:+W%(&%xY.%Wxr%Yr%.62v+_Wbg&0gv1.6//YY%%Y&bxxY1Wrr.Y&.gv&vgU1bv.rg&.l6urYY.%x&1xr-+W&/YY6.v6%vvj.b/&6gu.Y6WrxYY%ruOx&mYW6/gYb1uWxv/+_bu/ux6.v6%rrWY%&uYx6ZxWb/vY1p%W,v6+gbWbrxx./6./YY+%1Y6xbLvW1Wug/166YvW6/b%&/g..&W+r6Yg1Y1/x.C&bAWWgu1b6xv%+r%g+.x+.6Wg61Yb%.u/vIubbY/bgx1.6rv.+&.+6vxx.%Wvr.Y/Y.u6/Y+6bx/1gr.a6&+6+6.guxxv..W//+Yu.%ubrrYYbr&Yg&xu6Wrg+b1/uYx/QxWu/xYW1xu%vrYYb&&Yg6./6brr+11uuxxuCgWW6vY%1ru.r6b.b6&vgbr%6.r/Y?%uuxxWqvW%/&Y.1u6+rbY%bb&rg1xrW_ruYY%W6/x%:/W./ug+166grogYb1&/xf.9b+rbYx%%Yux.Jub+/Wgg1b6v&xY/%+&6xYvtWWr1YrY1u&vv6+bg/bgvxg61r++u%Y+1xx.1Wrr.Y&1+u6vuv1br/.g/xvW7rg+W%x&%x6urW&/+Y6g&6gvry1b/+ggu.g6Wrr+%%r&.r&+bWW/xYb1ru16r++1u&bgW.v6%r/+.u+u+r6+xWb/rY11&6H/x+g%%u6g%.u6.u&Y+%6ugv1Y+W1/Wg:1W6YvW+xb%uWg..uW+r1Yg%%uvrCYYbH/6gY+b6xv%+r1+xrx+.bWg1xYr%1u/voL1bY/bgx1.6rrk+&1g6+xg.%Wv++Y/1(uuvYYxbx/1gr.C6&r++6%/6gxv.1W/r/g&1guWvx6}br&Sg&.Y66rg+b.WgWx/n+WubWgY1vu%.uw.bb+&g6.g6bW1Yv%&u2x%uuWW/xY%vZ6rvu++b6+rgb.r61r/Y,%uuYv+YOW1//Y.xv6&vW+gb%&vxY&1W}ruYYg&uWx1lrbgA.g+166gbr+bb.&/xM&bWYrbYx%.urx.D&1+uvgx1%6vv.+/+.&6rY+vWxr1Yr1du&56>61g&ugv1.6/r++u1%&bvr+gWr/YY&6Wu6vgqb%/&&g/.x6urx+W%x&%xr+bW&/YY61/ubvr51%uuugu.g6Wuv+%%r&.v6W.W6/vYbY.u1v/+jbu&rgW.v6%r&+.%uu+vb<uWb/rY1Yg6!vu+YbWugg%./6.ruY+%6ugvNabW1//ga1GW+vb+xb%+ug..uW+rWYg%buv/xWxb9/6gYvu6Wv1+rkW&&xvu+WgrbYvxbu1v+fubr+Ygx1%6r%%+.%Y&6xg&.Wvr.Y/1,uuvYOWb6b.g/.w6&%.Y+%x&bxv.1WWl/Yu1YuW%Y+xb//.g&&x66rx+b%/&1x/J_%u&%Yb1vu%v/(.+/&Yv6+t6brr+1%&u?SY<Y%W&.Y%1/u.vu++1v&xx1Gu61r6Ya+uugxWSxb.&.Y.1b6+vb+gbb&vg1C>WTr6YY%.uxx1Ur%+&6g+1W6g&%+vb1&/vYW/WYr%Yxvvu/x.:&b+/bgg1%6vrV+/%+&uvx+YWxr1Yrv&uuv+A6bg&Ygv1.6/r++u%Y&Wx&ZuWrr.Y&%&6uvx8bbv++g/.+6urg+W%x&%rbU.Wu/YY6/v6gvr 1x-&+g%&u6Wrx+%r&urxu{+W6irYb1ru1v/+fbu&Yx++461r/+.v%u&xWGgW%/vgY/16<vu+YvQ&Wg1.rWg..Y+%6ug%1VbW.//gK/b6Yvb+xb.&rg..&%+&vYx%%uvx.Q/q./6vYEr6xv1+r%o&&.6.6%g/&Yv%.u/v+-u%%/bxr.Y6rrY+&x%&Wxg.bb//uY/1xuuvxLWbx/%gr.+6&rY+6%/&bxr.1bu/YYu1guW&v#%br/.x66.66rv+bx%&.x/iPWu&1YW1vu%v&q.bu&+xb.W6brr+1g/u+xuBYWW&xY%1/u.vu++b6&gxA+Y61r/Yy%46+xbQxW%{uY.1u6+vW+gbb&vrx6xWwr6YY/+uWx1er+./ugv&+6gvb+vrx&1x+.uWrGYYx%%ur.rC.bY/6gg/.6vv.+/%a&uxY.WW6&uY/1Qu&1W++bx/bgr116W./+u%Y&W%1CxW/r.Yb/&u6vgkbrb&vg&.V6u.v+W%v&%x&..W&/+x6.1u%vr-1b&&A&&.gbW/x+%%/&.xu*+/g/gxb.ru1v&+Nb6&Yvr.vW.r.+.%Wu+&.5xWb/vx .Y6yv%+Yb%&xg%.r6.r6Y+%WugvX9vW.//xY.f6Yvb+x.1&rg..&bgY&Yg%1uvbr=&b2/ugYjY6xv1+r%+&&xY.6bv/uYv%.u/6gq6bY/Wgx.r6rry+&%Y&6xg.bWu&YY/1Muuxu+6bv/%gr&Y6&rY+6%x&bxv.1%%+%Yu1guW..+xb//.&W.Y61.6+b%v&1.YI/W6/YY./Wu%vrF.&g&&gW.g6b.&+1%&uzxudYWW/xggg&6kvu++&v&6g%.v61r/Yx/_uYxWex/&/%g{1&6+1%+gb%&vxe./WTruxY.ruvx1)rb_/&&01Wbgr6+vb.&/x+.urWrWxx11urvo &bY/6x11%W//++/%g&u.%.WWxr%g&.Wu&vvT6bv/bgv116//b+u%g&Wx&.%W/r.g6.ru6vxib.r/1g/.LWWY +W%r&%W1{4W&/+Y61vubvrI1bu&Ug6.YW%r1+%%/&.r&wYW6/gYb1ru1v&+Jb6&YgW.xW+/:+.%&u+x++YW%/vY1/667v6+Ybb&xg%.r%v/&YY%Wug+6!bW.//vF166r.Y+xb%&r*%..WYr6Ygr.uvx.*/b2/ugY1W666.+/%Q&&<.*+WxrbYv%1uW1/)ubY/WaY.x6/v.+&rx&6xx.bW/r1Y/1<Wur%Ubbv/%g/1../rYg61b&bxr.1W&/w1Y1YWWrO;%b//.gu.+bvrxY11%&1x6GSxv/YYW1x6.v.o.bb&+gb.g6brv+11.uax6ZYW./xY11rW+vW++bW&gr%.v61r/gYu/uYx%{xgv//Y.1&6+v%+gb%&vxf./W+rugx%1uxx1mr.b/ug+166gr6+vb.&/x+.uWYrWY&1+urx.-&W&&ugx1b6v.++/%+&uxg.WWxr%xb1.uuvY_66x&ggr111xr++%ru&Wxx.%u//rYu1+u61rqbbr/1g/.f6urYY+Yr&1x/..uu/&YW1gubvv+Yv1&Vgu.Y&brW+1%r&.%W +WW/gY11vu1v/ge1x&ggb.x61rrr1%uW+vxlgW%/vY.1/vuvugYbb&xg1.rW!r&gb%W6vvxhvb+//xu1u6YvWYr%&&rxg.&Wgr6Yg%buvv1C/b+/ugr1W6vv%Y&%n&&xY.61xrbYv%16us1fubx/W6b116rv.+&1/&6xx.bW/r1Y&1G6Wvu^Wbv/%+U1.6&r++61Y&bxr.1W&/8Yu1Yu.r/z%br/.Y.oq6Wrg+br&&1x&k7W6/YYW1xbgrr+}bu&+Y1.66%rv.&%/ux1E7YWW/xY+1%6{v&++v%&gg%.v61r/Y-%uu&u%>vW1/rYg1.6Yv6+gbb&u%v./Wlru+r1Yuvx%zrvY/&gY166vvb+vb16/vW.6WgrWYv%%1vvyY&b//6gx1b6rv1%P%p6uvg.WWvr%Y/%.WgvY+b%x/bg&110Wrw+u%Yu%v&.%W6r.Y61+u6vg>b%./1g&.q6%rY+b%xu.rY..Wu/+vW1gubvvYh&v&*gW.YYgrv+%%r&.xbV+WW/gY11vu.v/YY1q&Ygb.xugrr+.%&u+riigW%/vY.1/6Ivu+r1Y&xg%.r6r//YY%6ug%.qvW.//g+1u6YvWg6%%&/xC.&Wu/YYx%b/Wx1dWv//ugY1W6brv+/b.&&%x.6WxrbYv%1u/v4R.%1/bgv1%6+rr+u%+&Wxg*Gxbr1Y/1Guxvu9bbx&+b%1.6&r+YY%W&%xv.1x6/hY61Yu%vxA%bru.vg.Y6Wrg+%%v%%x&YV%g/YYb1xu1vrb&b&6+x/.g6%rv+.%/6Wx6+x%&/xgk1rvWv&++b6uvv&.vWYr/YY%uuYxW}xb./rgS1&6vv6+xbbu/vu./W+ruvg%Wuxx%+&/%/&gg16+Wv%+vb1&/v6.uWgrWYr%%u/x.+6b%/6gx1bWuv1+/%q&uv&.WWvr%Y/%.u&v+f1%W/bgv11u1r.+6%Y&W%/.%W/r.Yu1+u6vggY%v/.g&.sbxr6+b%x6+xrJgx./+Y61gW/v%<.b/&Pbb.Y6brx+%%r&.x&}/qb/xY%1vWuv.++bu&YgW.&xxrr+.%&6bvYhxWb/vb+1/6+vu+xbW&xg%+rb6ruYY%6uxxbvxW.u/gW1u6gvW+vb%g.g.+&WYr6Yx%burx1YYb+&Wx%1W6/v%%Wb.&&x+TbW1rbYu%1uuv-zubY/Wx11%6/v.+b%+&Wxg)1b6r1Y&1Ib6vYLWbx&..x1.66r+uY%x&bxv.1b./0Y61Yu%vx51bru+xg.+6Wrg&{%r&1x/Rdbb/YYb1xu1vrE.b&&vxg.g6brv+v1ru+xuDYx1/xY11r6)v&++b66uxb.r6.r/x.1+ugxWr&W1/6br1&6+v6xY%x&rg1./xgruYg%Wuxx%PrW./1x%1W6xvbg/%r&&xc.6WYr.WW%%urx.Y6bu/Wgg.!gbv1+/%DW&x6.bWxr%Wu%.uuv+Qbbg/bgv<1bYr++6%Y&bxxxbW/&.Yu1+uWvgQ%bvg/g/+UWxrY+b%x&1xr+6Wu&gY%1gu.vv&1b&&BgukxWYrxY+%ru+x&X+W6/gx&1vu.v/+xbu&ggW!rWQrrY)%&bYx6ZgWb&/1b1/6Yvu&6bb&xg%.rbxr&YY%6uvxbkrW1&ug.1u6gvWrWb1&rg..&W/r6Yx%burx1:/bk/%x+1W6xv%G%%1&ux+.6xrrbYr%1u&v4DubY6+1+1%6/v.xW%u&WxgvgWr/YW11GuuvYg1bb/1gr.gg.r++6%g%Kx%..W//?Wb1Yubvxq%br/.g&./brrx+%%vbvx.F+Wu/gYW1&gxvrh.b&W&xY.x6bruWv%/uGxuxrbg/vY%1rgYv&+Yb6&vgb.v61&/gW%6ugxW^vW%bvg)F&WYv6+xbb&rg1WpWL&uYg%Wuvx%O/W.uggY.b6xvb+&b1Wrx+.uWY/%gg%%u6x.)6b+/6gg1b6bv1+&%o&%xY.bWx/.gr%.uuv+gWbg/bgvy{rvrO+W%Yigxv.%Wrr.g.1+uWvg*1bv/.g/ Y61rY+b%xvvxr..W&/+gy1gu%vvq.b/&ygu.rW.rx+%%r&rv/BYW6/gW.1vu.v/++bu&YgW+6W%r/Yq%&1uvYpxWbg%Y11Wg/vu+YbW%bxv./6.r&Wx%6uxxbEvW1//gX1.W1vb+vb%%+x/.uW+rWYg1IYbx17/b-bxg61b6xr+6%b.&&x+vYWWr%Yv%1Y6vGp6bY/%gx1%6r/.gg%Y&Wxg.%WvW%Y&<=WrvY2bbx/1gr6&6&&++b%g&%xv..W/&WY6.x6xvx+PbrW/gu.+66/v+.%vuYx/=YWu/YYW1xWxvr+Vb&&vg6.x6b//Yb%/u+xuggWW/xY%.&v%v&+gb6.Wg%.v61r/g%%uugxW_rW%//Y..666v6+xbbgvg1./WVruYx%Wuvx%}/W./&g+11W/vb+vb1/1x..6WYrWW/%%u/x.Xub+/6gg+YWvv.+&%U.vx6.bWx+%Yr1gY.v+j6bg1&g%1.6/r>6b%Y&bxx.%Wrr.Y&1/Wrvx %bv%%g..+6urg+W%&Yxxr..W&%UgY1xubvu6vb/&7guv1Wgrv+%%rYYx&7YW6/vYb1vu1//YWb6&ggW.v6%WvY?.&6%x6QxWb/rY16y6S/uY6bW&vg%./6.&gYY1bu1xbE&W1YxgR1u6Yr%+6b%&6g..6W+r6Yg%buWx1D&bE/%gY1b6xr.ggb.&ux+YWWgrbYv.Ovvv5tWbY.ggv1%6rv.Y1%+&Wxg.1Wvr.Y/.YWwvYcbbx%6g/1.6&r+gx%g&%xv..W//LYu1rubvxn%br/rx/.Y66rg6.%v&.x/,+Wu/YYWf66%v/+}b&ntxY.x6bbY+.%WY/xuEYWW.ggv1/u.v&6xb6&xgb.v61r/YC%.1xxbPvW%.vg/1u6+v6+g%4+bg1./Ws1&Y6%buxx%uuW./ug+1b6gvb+v116Yx+.6WYrbYxYbu/r.Yvb+/Wgg1%6v+/+/.duxxY.bWxr1Yr.6uurgY/bg/.gvxU6&rN+u1xu.xxT+Wr/+Y&1+u6vg+vbv/.g/.x6urg+W1ru&xripW&6YY61gubr/bbb/&Ygur66brx+%%r6bx&:YW6/vYb1ru1ruYvbu&ggWYr61rr+.%&6Dx6QxWb/rY11/6av%YIbW&xg%1%W1ruY+%6YrxbQrW1/&gD1u6Y&+Yxb1&/g.&6WurWYgJ1urvYu1bE/ugY/%6bv1+rb.+Wx+.WWgrbYv%1u/vrvWbg/bgx/.61rT+&%+&6x/ugWvr1Y//Y6+vg8Wbx+zgr.A6&rg+6%g&brv+uW&/+Yu1guW6gB11r&rg&.Y66rx+b&1&1r/H.Wu/gYW1vu%/++K%6&1g6.r6b.v+.%/utvW+%WW/&Y%1&u.v&++b6ubgb.r61rWY9%6uYv%s/W%//Y.+u6+v6+g%1xgg1.uWX1+Yg%Wuxx%+uW./ug+1b6gv%+v1wuux8.6WY6uYv%%urx.>.b+/Wgg1%6vv1+/%x&bxY.WWxrxgv1Xu&v+u%bg/%gv1.6/r8+u.&uWxv.1Wr+xg{1Yu6u+e%bu+vg/.d6uq/Yg%v&%xruYW&/YY61gubvv:1b%%Yg6.g6W}uYv%/&.x&;+W1d6Yb1vu1.b+&b6&YgW&/6%r/+.%6u+x6-g%buiY.1&6Jv6+Y+6&vv%:Y6.ruY+%Wugov{v%1uxgH166Yvb+x1&&/v+VvW+r%Yg.uurx1c/%Y&vgY1.6xv.+rb.&&x+:rWgr%Yv1Yu/v+Mu%x&ggx116ruz+&%+&6vvW6Wv/zY/v&u6vY}Wbxuggr.z6&rg+6%x&bv/!bW//+Yuv1uWvx^%br&vg&.Y66rx+b%v&1xWs.Wu/YYW%W6bv/A.b&+xg6.x6brr+1%/uer.+YWb/vY%u16/vu++xr&gxJ&b61r/Y9u+u6xb}xW%CuY.1u6+v6+gbb&vxxxuW+r6YYugubx1_rW./&gv&+6gvb+v&r&.x+.uWY.1Yx%1urv+k&b+/6vgG/6rv.+/%+&uu+.b%x&6Yr1hu&vYd6/b/bvvRT6/r++u%g&Wv..1b&/&Y&1xu6%/H%bv/1xu.g6urr+W%r&%xr..W&/&Y61xubvuq1b&&4xW.x6Wrv+%^/&.x&L+bbg+Yb1/u1b.++bu&YgW.b6%r/+.%6u+xW2gb1//Y11&6Hxg+YbW&xg%+g6.ruY+%Wugxb,vbY/.go1u6YvYYgb1&rg.&WW+rWYg%%uvx1?/1r&ugg1b6xY&+1%:&&YW.6W/!gYv%1u/+W++bg/Wgx&w6rrp+&%+&6xg.bWWbaY&1+uu+%+gbv/%gr1.6b.&+6%g&b+?0rW&/(Yu/vuWvvJ%b&/.g&.+b6/1+%%r&1x&zXj&/gxW.xu%v/-.bu&+.g.gbb/W+1%&u!x6?Y%r/vg.1&u.vW++.r&ggb.vbs/1Y*%%uYx%lxW%/rY.1b6+vW+g%,&vg../bY/+YY%bux/1arW./&xg6&6gv1+vxr&&xd.uWY&/Yx%1urv+m&bY/6xv.16vv.+/+%&uxY.WWxr.Yr1>u&vYK6bg/bgu.+6/ry+ubuu6xv.%WrlYY&1Yu6vxdbbv/1v%q_66rg+WWYuvx/.._v/+Y1/6ubvvl16v&&g6.Y6W./+%%/&.x&n+W6/ggYg/u.v&+R6/&6gb.x6%rrYgr.u+x6mgu6/%Y.1/6G1b+Ybb&xg..r6.r&x+.vuxx%avW.///.16bYr.+xb1&rx?.&r6r6xg%%uvx.I/b+/ux%1bWr/r+r%Y&&1..6Wgrbg/.uu/vxEubx/Wgx1%6rrx+&%Y&6x/.bWrr1gu1guuvgPW.v/%gr1.W6+.+6%v&bW%..W//GYu.xuWvvI%b&/.gu.+Wbr%+b%r&1Wu!8Wu/YYW1ru%v/(.bu&+g6.gWd/&+1%/uhxf++Wb/xY%/uu.vu++bW&ggb.v%x+xY2%6uYY%obW1/r6+1&6v.++gbb&vYt..W+ruYr/Yuxx%zrW+& gY166g1.+vb.&/x*.uWYrWY6Y.u/vIF&Wg&Ygx1b6vv1+Wr/&uxY.W6r/vY/%.u&1x_6bx/bg/116/rSgu1%&bxv.%W/r.//1YW6rx5bbr/1g&.9rYrYgW1%&%x/..Wu/+xv1x61v6U1b6&#u..g6WrxY..+&.xb,+Wb/gYb1vu1rY+(b6&Yg..x61rrg+1bu+xWwg1%/vY11/WY+/+Yb%&xWv./6.r&Y+%Wugx%dvb_//g+1uWxru+xb1&r%/.&W+r6Yg1.uvx.I/b+/ugY1W6&/Y+rb.&&g&ouWxrbYv/+u/v+Rubg/Wgx1%bbHb+&%Y&6guExWrr1W.1)u%1uIWbx/%Yb./6ur++1r6&bxv.1W%/uY61YuW1/!%b//.g&.+66rgYYY/&.x&_AW./WYb1xu%vr+gv.&+g6.gWYr1+.%/u-%b_YWb/xY.1ru.v&g+1v&xg%.v6.r/r.%6WYrx*xW1/rg:1&v6v6gg1/&vg../W+rug%%b6rrx2rbY/&r61W6gvbY/1v&/xx.uWxrWYx%%urrx8&bY/6g/1b6rv1Yu1+&uxg.W1vr%Yr%.66X.D6bv/b6%1.6/r}+u1.&Wxv.%W&r.Yu1+6b/nGbbr/1vW.+6urY+W1u&%x/..Wu/+Y61g6#v6;1b/&OgtE+6brx+%ru&.xus+WW/gYb1vbx4x+Xb6&Yxv.%61rrxg%uuv1+LgWb/vg&.:6+vu+rrY&xg%.rb6/+YY%6ug%.:vW.//gP1u6YvW+61u&/xI.&W./gYx%burx1(Wv//ugY1WWYrr+/b.&b%&.6Wgrbx81/u&vDZuvv/Wgv1%6&v.+&%+66v1.%Wrr1Y&1_1&vgYW%6/%g/1.6ur+%g%g6bv6.1W&/KY61YWrvv+.%//.gW.+66rx+b%v6JxuqZW%/YY%1xu%vr,.%Y&+gW.gW rv+.%/6Yx1*YWb/xv11ru.v&Yg&&&gg1.vYrr&Yi%uuYv+exW1/rg+1&6Yv6Yv1&&vg../brruYY%WuxvT_rbs/&gY166gvb+u1&&/xp.u6u/6Yv%%ur1Yk&bY/6gx1b6vv1g%1<&6xg.W1Y/rY/%.61v+f1v6/bgv11%vru+6%Y&W%/.%W/r.Y&1+u6vg+Y+//.g&.H%/rW+b%x&%xrpgx./+Y61gb6v1,.b/&Ebb.Y6brx+.%r&.x&Y+%v/xY%1vu.v/v.b66Yv+.x61rrY %&x6x6Ygb&/vY.1/6+vuY%bburxY.rWYr&6b%6ugxb+/%x//gx1u6xvW+xb%&rv&.&WYr6Y/%burx1+u%r/ugg1W%vv%+rb.u6...6Wvrbu%%.u/vPRu%+/Wgv1%6&v.+u%+ubx/.bWrr1Y.1+uuvYwW%v/%g/1.6ur++6%guavu.1W//CY}.+ubvxk%vu/.gu.+6Wrg+b%vWx.xQiW6/Yv%1%u1vr+/bu&v%+.g6brvv<1Ou+xu0rvY/xY%1r1Yr++Yb6&gb..v6.r/Y*%uuYxWn6%u//g_1&%/rg+xbb&rg1.Wx/ruYY%Wb6vrI/W./bb&166gvbv&%/&&xf.uxvrWYv%%u&x.2&b+u6x11%6rv1+&%O%&xg+W%fr%Y/%.uuv+bgbgubx/116&rk+6%Y6rxvi.bvr.YW1+++vxSbbvu=g1.o6%rY+%%x&%xr..W1/+YW1g6!vvM.b/uYxb.Y6brxx1%r&.x&+g/&/gY11v+rv&+Gbu&Yvo.x61rrY+%&uYx6+v%x/vY.1/uvvu+YbW&xvk.rW}r&YY%6ugxbXu%r//gk1uuur6+vb%&r%Y.&WYr6Yx%buvx1Y%r%/ugg1W1Wrr+/b./%x+.1x6rbYv%1%1vu_6bY/.bW1%6rv./2%6&Wxg.bx&r1Y&1quuvY Wbx&gvY.s6ur+rv%b&%xv..W//xbd1YuWvxv&b.&qg&.vx+rg+b%v1rvZ^+Wu/YW11xu1vr++b&&+g6+gb/rr+.%/u+xuv+Wbuxxx1r6,v&+Yb6gbgb+vWgr/Y+%uugxW+.W1&&gv1&6xv6/Wbb&vg1Pub6ruYr%Wurx%crW./&g%166xvb+ub1&&xscWb}rWYv%%b/x.q&b+&b.+1b6/v1&.%+&uxY.Wb)r%Y/%.u6v+hWbg&1x&116&riY6%Y&Wxx.%bgr.Yu1+uWvgIbbv&Yg..w6urY+Y1g&1xr..xW/+YW1gu%vv!1b/6rxu.g6brx&&%.uax&+YW6//bg1vu1v//W%Y&ggW.xx=rrYd%&u+x6egWb/W&#1&6+vu/%%x&vg%.r6.rbW&%6ugxb/yb//&gV1ugvvW+vb%&&g..&W+&6g1%%urx1p&b<b&gg7WWbv%+/b.&ux+WgWg&bY%%1u&v_!6bYurgv..bgv.+W%+W&xg.bWv&wgg1zu%vYM%bx/%gr1.W%r++W%guOxv..W/&Yg61Yubvxg1br/.g&;gr&rg+1%v_rx&mXWu/Ygv1xu1vr++b&&Yg6UvWbrv+.%/ruxulYWW/xg11r6wv&+Yb6&ggb.ubOr/Y}%u&uv6EvW%/rbY1&6Yv6+xbb&vg1+%v%ruYg%W-gvrI/W.v+g+11g6vb+vb1.rxu.6WYr.WW%%urx.&/b6/Wgg1bg&v1+&%m&uxY.WWx/g/&1:uuv+&ubb/%gv116/rxWB%Y&Wxx/bW./oY&1+Y%vgw%bv&:g/.N6u&Ygr%v&1xrfBW&byYWQg6rvv,.b/&+gu6W6W&xYv%ru:x&FYW6&1Y%./W/v/+gbu+ggW.x6%/&g&%&uvx62vWb/vY11/Wbvu+gbW&&g%./6./6Yg%6uxxbgrW1//gR.WrKvW+rb%.1xH.&W+r6YW%burx1lubJ/6gY.%Wbv%+/b.Y.x+.6Wgrbgg%1u&vmz6bY/Wgx.+b+v.+&%+&+vY.%Wvr1W61fu6vYUbbx/%gr+vW&rY+W%g+1x1..W/+/Yu1rgYvx9%br++x+.Y66rg6.%v&.x/IaWu/YYW161.v/+9b&+gxg.x6brv+1%WY/xuBYWW=rgr1/u.v&6xb6&xgb./61r/Yj.u6%xbPvW%//Y.g/6Y/6Ysbb&rg1.&WpYYYY.WW+x%=/W./ug+:v6xr1+6b1&6xm+&WYrWYx1.6rx.Xbb+/bgg1b6vv1gg%X&6xY..Wxr1Yr.+Wtv+ZWbg6%gv116//Y%/%Y&%xx/vW/r.Y&1+6gvgT%bv&^g/.+6u/xYv%x&1xr=+Wu/+Y61gWxvvc.b/&+gu.Y6Wr&Yb%r&.x&.&bu/xYb1vg+v/++bu&ggW.x6%&bbb%&uYx6uubv/rY11u6+v%6ubW&xg%&bW&ruY+%1Y6xbRvW1+%gu166YvW6/b%&/g..&W+r6Yg1Y1/x.B&b*+.gW1b6xv%+r%g+.x+.6Wg+YY1%.u/vpubbY/bgx1.6rv.+&.+6vxx.%Wvr.Y/Y.u6/Y+vbx/1gr.N6&+6+6.guvxv..W//+Yu.%ubrr+%br&Yg&W.66rg+b1/u1x/:xWu/xYW1xu%vrYWb&&Yg6./6brr+11u6YxuzgWW6vY%1ru.r6b.b6&vgbr%6.r/Yo%uugxWavW%/&Y.1u6+rbYYbb&rg1..W9ruYY%Wu6x%4/W./ug+166grV+ub1&/xj.9b+rbYx%%Yux.Xub+/Wgg1b6v&xbx%X&6xY6vW%r1Yr1/u&vv6+bg/bgvu&WAr++u%rYYxx.%WrYug+1Yu6vgu.bv/.g/.F6urY+W%6%.x/}#W&YWgg1xubvv{1bW+/gu.Y6W+1Yr%/&.x&uxW6/xYb1/u1v/+X1uu%gb.v6%r/+.Y/uYr6+xWb/rY11&6?+Y+Y1Wu!g%./6.ruY+.vuxv15WW1/6g4vr6gvW+x%.6+g..bW+rbYg%buvx1+Wb*/6gY1.6xv1+r1+&ux+.WWgu%Yv%1u/rYb/bY/%gxrv6/v.+&%+u&xg.%Wv/{Y/1+uurxYYbx/1grx16&r++6%gu&xv..W//+Yu1YuWv&Ygbr/.g&1&Wurx+b%vY+x/7+Wu/gYW1xu%/b+.bu&Yg6b#Wvrr+1gru<x%uuWW/xY%Wg6&vu++b6+rgb.r61r/YG%uuYv+vrW1//Y.Wv66vW+gbb&vxY&1WIruYY6&u%x19rW.CWg+1W6gv1+vb1&/r^+xWgrbYx%1uru1Iu1+/.gg1%6vv.+/&u&urY{+Wxr1Yr1 u&rb-W%v&/gv.+6/r++u%Y&Wvr>YWr/gY&1gu6vgdbbv&gg/.+6urr+W%v&%v&+&W&/YY6+xubvv 1%ug1gu.x6W%b+1%r&.x&w/W6/xYb1/u1v&+^%WuWgW.v6%uWYf%&u+x6+bWb/rY11&6evu+Yb.&/g%.r6.v.gH%Wugxbu&W1/&g 166YvW+x.gggg..uW+gWYb%%uv&gL&bx+2gY1W6xY1+.%*&&xvu+WgrbYvb{6#v+UubY^1gx116rv.+&%+&6xu+&Wrr.Y/Wv6Yvg<Wbv/%g6&r6&r++66&uvxr.1WW9/Yu1YuWgr+rb//.g&&x66rx+b%/&1x/tC%u&%Yb1vu%v/9.+/&Yv6.%6brr+1%&uTwYRY%W&&Y%1/u.vu++1v&xx1y+61r6YO.+ugxWlxb./%Y.1b6+vb+gbb&vg1t&WRr6YY%.uxx1*r%+&ug+1W6g&%+vb1&/vYW/WYr%Yxvvu/x.o&b+&vgg1%6vrM+/%+&uvxDWWxr1YrYbuuv+26bg&ugv1.6/r++u%Y&Wx& uWrr.Y&%&6uvxDbbv++g/.+6urg+W%x&%rb6bW&/YY6bu6vvrX1+x&+g%&u6Wrx+%Wbu&xuZ+W1 6Yb1vu1x%+ub6&YgW&/6%r/+.%&u+x6!gbYb/Y.1&6#x.+Wbb&xg%.rWg..Y+%6ugxYa1W.//g#/b6Yvb+xb.&rg..&%+&vYx%%uvx.G/}./6vY.86xv1+r%C&&.6.6%gr%Yv%.u/v+Gu%%/bxr./6rrY+&v.&6xg.bb//WY/1xuuvxXWbx/%gr{g6&rY+6%/&bxr.1bu&&Yu1guW&v-%br/.x66.66rv+bx%&.x/n_Wu&vYW1vu%v&z.bu&+xb..6brr+16ru!xuOYWW&YY%1/u.vu++b6&gxi.u61r/YF%:6+xbdxW%7uY.1u6+vW+gbb&vrx;/W+r6YY1xu1x1wr&1/&gv&+6gvb+v%/u+x+.uWY.1Yx%1urx.e&b+/6gug16rv.+/%uugxg.WWxr%Y6/ru&v+a6bb&rgr116/.g+u%g&Wxr.%Wrr.x&.buWvxdbbr/1&r.+bu/1+W%v&%x/../+/+x6.hubvr*1b&&#vx.gW%/1+%%u&.g/-+W6/gg1.Wu1vW+wbW&YgW.x6%&Y+.%uu+x1dgW%/vxqQg6?v6+Y.b&xg%.rb+YrY+%bugbx!rW1//gJ.%6Yvb+xb.&rxG.&bg/%Yg%%uvvWJ&b8/ugY..6xv1+r%)&&x+.6W//.Yv%1u/x/+&bg/Wgx&X6rrL+&%Y&6xg.bb/xYY/1Yuuv.Jbbx/%gb.u6urY+6.+urxr.1Wu/0Y%/uuWvx=%1x&ugu.+66.r+b%r&1x/ jWu/Yg+hLu1v/R.%u&WgW.g6%rvYYr1u8xuVYbb/1Y11r6g1.++b6&gv6..6.r/YBrbuYxbBxW./rY.1&b+/v+xb%&vg../..r6xY.vuxx1<rbp/&1616bgr.+vb.&/x+.ub%rbgr.&urvY!&Yx/Wgg1bW/r/+/%x&uxx.WWxr%Yr1+u&vYk6b//bgr11Wu/6+u%g&W/v.%Wrr.g6u.u6vvDbg%/.g/.)6ur%+W%v&%x&..Wu/+gb(Xubvr(1vu&^gu.Y6Wru+%%/&.xuH+W6/ggh.bu1v/+cbDu+gb.x6%.u+.%uu+xW gWb/vx,WW6SvW+Yv%&xg%.rWv/YYY%Wug/.5.W.//gY1u6r.Y+xb%&r/Y}YWYr6Ygr.uvx.O/bR/ugY1W66/u+/%O&&r/DxWxrbYr%1uW1/wubY/Wv6./6/v.+br&&6xg.b1&/&Y&1Puu1vdWbv/%g&1.6&r+g611&%xr.1W&/2/&1gWWrWS%b//.gu.+rgrggb1%&1x&QRW6/Yxr1v6.rY5.bW&+rx.g6brvgA11uEx%BYW%/xY%1ru./v++bW&gx=.v6.r/gY1GuYxb!x11/rY.1&Wg+&+gb1&vWr.&WaruYY.ruxx1<rb+/&gY16Wvr6+vb.&/uW.uWYrWYx1/urvf2&bY/6gg1b6ur1+/%0&uguN6Wvr%Yr/Yu&vY!6bx/bgv11Wugx+u%x&Wu..%Wrr.Y11WuWvxIbG%&&g&.X6WrY+.rW&%xr..Ch/WYW1gub1&G1b&&=gu.Y6WrxYg.Yu4xu(+.v/%Y%1vu.v/+xrp&YgW.x1&/fYU%&uv1+AgWb/v/r.+6+vu+Yv1&xg1.rW+r&Y+%6Wgr/XrW.//g+1u.+vbgx1?&rxd.&WYr6%b%bWvvg^/b+/ugg1WW.v1Y&%&&&xx.6/.rbYv%16uvWoubr/Wgr1%6rv.+&%g&6xx.bWur1Y&1j6WrvnWbv/%r/1.6&r+Ybu+&bx/.1Y./+Yu1YuWrxM%b//.g6.+6WrgY1%u&1x&<-Yv/YYW1xu%r1X.bu&+gW.g6brvYY1.u^xuTYWY&gY11ru.1W++bW&gg%.v61r/gY6%uYx%ixYu/rY.1&6/rx+xb%&vu6f+W+ruYx%Wu&1xqrW./&&%.x6xvb+vr+&/x+.uWYrWYx%%ub6+DubY/6&..r6rv1+/%I&%%u.WWxr%&Y1uuuv+E6vr/bgr116ur^+u%Y6Wv..1W/r.Yu1+1uvxYb%_/1g&.C66rY%x%x6%r>..Wu/+YW1gW/vrYX%v&ngb.Y/Yrx+%%r6+rvz+W1/gY11vu1v/+_b.&Ygb.xW+rrYS%&6gv/0gW%/vv.1/6=vuYx&u&xg..rY/ruY+%6ugvupvW.//gY1u6gvWYr16&rxE.&W/r6Yg%buvv6n/b+/ugg1W6xv%+61x&&x+.666/WYr%1u/1g,ubg/Wgv1%6rv.Y66v&6xv.bWWr1Y/1wu.vbFbbv/%6/.u6ur++b%guZ%b.1W//Pu61bubvx_%vu/.gu.+66rg+b%vuxrg?+W6/Y&.11u1vr+zb&&v%+.g6brv&Y1+u+xu4rvY/xY%1r+KrY+Yb6&gb..v6.r/YY%uuYxWYx%&//gM1&6Yv6rYb%6vvv./W+ruYg%Wx%x%Yrb%/&gY166xvbg b.uuxb.uWvrW/v%%urx.+6b&/6g/1b6/v1+/%{&uv%.WWvr%Y6%.uuv++b%1/bgr11%&r_+u%Yu%QY.%W&r.6J1Yu6vg<b%W/1g&.p6WrY+b%xu.r?..Wu/+6%1xubvv}1%x&Cg6.Y6brx+%%rugx6(+W6/gYg.xu.v/+;vb&Ygb.x61rr+.%&6g+1=gW1/vW+1&6Xvu+&YW&xg1.rYv/YYY%6uvxbRuvv//g-1u+&rv+vb%&6%r.&W+r6661rurx1R/vg/ugg1W6xv%+rb.&1v%.WWxrbu.1&u&v?M6bY/.bW1%6rv.uY%W&WxgqZxbr1Y/1jYEvbPbbx/%bu1.6ur++b%g&bxv+1%Y/+Y61Yubvxvbb/u.gu.+6Wrg+%%vx/x/Y5b//YYb1xu1vrY6buugvr.g6.rvYb%/uNxu+xb6/xg+1r6+v&++b6&gvI.v6.r/Yx%uugxW+rW./rg91&%Yv6+gbbu/.b./WYruu6%buxx%Zr%+/&gY166vvb+rb1uux+.uWgrW%&%%urx.X&bg/6gx1b6rv1+/%T&%x1.WWxr%+%11uuv+(6vr/bgr116&re+u%Yu%+&.%W&r.%b1+u6vg+Yb./.g&.pxxrb+b%x&.xrXgx./+Y61gg/v.I.b/&Pbb.Y6brx+%%r&.x&T/8b/xY%1vgur+++bu&YgW.&xxrr+.%&Ybvx8xWb/vb+1/6+vu+xbW&xg%+rb6ruYY%6uxxbvxW.u/g/1u6gvW+vb%g.g.+&b%r6Yx%burx1YYb+&Wxr1W6/v%/Yb.&&x+Abb/rbYu%1uuvIJubY/Wxv1%6/v.+b%+&WxgN1bxr1Y&1yb6vYtWbx&..x1.66r+uY%x&bxv.1b./?Y61Yu%vx 1bru+gW.+6Wrg6+%v&1x/7;%z/YYb1xu1vrF.b&&vg..g6brv+v1ru+xusYx1/xY11r6Rv&++b6uv+8.vW_r/6v%uuYxWP6b///gc1&vcrx+xbb&/g1.Wx/ruYY%Wxgv/=/W./&bx166xvb+vb1&/xI..qxrbYv%%xvvuqub+/6gg.lgbv1+/%kg&xb.bWxr%Wu%.uuv+ bbg/bgv-1bYr++6%Y&bxxxbW/&.gA1+uWvg %bvg/g/+:WWrY+b%x&1xr+6Wu&ggv1gu.vvr6b&&ngu;xbvrxY+%ru+x&C+W6/ggv1vu.v/+xbu&ggWZrW&rrYP%&bYx6igWb&/1b1/6Yvu&6bb&xg%.rWvr&YY%6uvxbNrW1&uxx1u6gvW&xb%&rg..&Wgr6Yx%burx1N/bz/%x#1W6xv%,%%1&ux+.6xrrbYr%1u&vI4ubY&%C&1%6&v.&&%+&6xgaY+vr1Y&1-x%vbObbx/.gr.gg.r++6%gxMx...W//xbw1YuWvx%+%>&;g&.+g%rg+%%v&1x/t9Wu/&/%1vu1vr%g%Y&Yg6.g6bruWv%/uhxubrbv/vY%1rgYv&+Yb6&vgb.v61&/gW%6ugxWSvW%bvgLc&W&v6+xbb&rg1WaWI&uY.%Wuvx%y/W.uggY.b6bvb+&b1/%xs.uWY/%g1%%u6x.e6b+/6gg1bWYv1+&% &%xY.bWx/.Yu%.uuv+gWbg/bgvqArvrc+W%Y#gxv.%Wrr.xY1+uWvgV1bv/.g/>YW{rY+b%xb+xr..W&/+xv1gu%vv4.b/&(gu.r61rx+%%r&rv/2YW6/gW.1vu.v/++bu&YgWTr&+rrY+%&bvx6}gWb/Wg&1&6+vu1W%v&vg%.&6.rbW&%6ugxb%1b&/&g01ugvvW+vb%&rg..&W+/8g.%%urx1%gb6/6gY1b6xr+6%b.&&x+brW%r%Yv1YY1vU#ubYvxg1116rv.6W%+&Wxg.1Wvr1Y/mLWxvgwbbx/1grg16u&+Yx%g&%xv..W/YuYuPYW&vx81br&;g&pb6W/vYb%vu+x/u{Wu/YYW.r6Evr+gb&&gg6.g6brvY&%/u+xu2rWW/vY%.&6.v&+Yb6Wxgb.v61/u%1%uuxxW/bW1/rY.1&W+v6+xbb&/g1.&W;/Wgg%Wuvx%rgW./&g+16Wrvb+rb1&&x_.uWYr.gx%%urx...%Q/Wgg1bg&v1+&%k&6xY.WWx/..6%.u6v+r/bg/bgv.xy/rS+6%Yrux1.1Wr/+Y&1vg+vg)bbvvbx+.+6urrWY%x&%xr11bY/YY61gY.vvI.b/&>gu.Y6Wr6gu%/u4x&1gbx/xYb1ru1vW6/bu&YgW%rW/r/+.%bY&x6:gWbrxg&1&6<vu6vbW&vg%.&6.r&Y+.661x%)rW1/&g(g&6g/WY&b%&/g..uW+YgYg.bu.x1l&b{/6gYor6vr.Y.b.&Wx++WWgrbYv.w6YvXQ%bY/%gx1%6rv.Y6%+&WxgSTWvr.Y/.Yu6vY{bbx61gr1.6&/g%&%g&1xv/rW&/EYu1YW9vxC1br&+g&.Y66/vYg%v&.x/gWWu/YYW1xWuvr+ib&&Yg6.g6brugW%/uXxu.ub6/vY%1rgYv&+Yb6&xgb.v61/u.x%uuxxWg.W%/rY.116WvW+xbb&&xu.&W>rWYY%.YWx%erW./Wgb1W6gvb6&b1&&xE.uWYrWYx1g1&vILub+/%g11%6vv1+/%xYCxY.WWx/,g+17u&v+u%bg/%gv.Z6/rH+u.Y6rxv.1Wr/*Y&g_uW/gY&bv/.g/.+6u+W+W.x6vxr7JW&/YY6.1u%r/+&b/&ggug16Wrx+%1&6+x&tvW6/vYb1vu1v/Ybbu&ggW.&6%r/+.1666x6ExWb6rY11/6,rW%TbW&rg%r1WBr&Y+%66+xbzrW1/ugh166Yr%Yvb%&/g.o.W+r6Yg%bu&x1^&b8/6gY1W6xr+YYb.&&x+.+bYr%Yv%1Y6vk26bY/bgx1%6r/+1b%+&bxg+gWvr1Y/1r.uvYEbbx&vx+.J6&rg+6%/Ygxv.1W//&gx1guWv&6xbr/.g&<6Wvrx+b%vY+x/ +Wu/YYW1xu%vbYWbu&Yg6..W/rr+1%&uex%uuWW/xY%.Y66vu++b1+6gb.v61&PYW%6uYxWu/W%//Y.166+v6+g1b6Rg..&Wyr6YYY6uvr%YHW./ug+1W6g+v+v11&&x^.6WYrbYx.&u/r++Yb+/%ggrg6vv1+/1YuWxY..Wxr.Yr%.u&v++Wbg/%gv.Y6/r++u1x6/xx.1Wr6ZY&1+u6rvb6bv&Lg/r&66rY+W%x6/xrTeW&/gY61xubr/+6b/&+gurx6brx+%%r66x&-YW6/xYb1vu1vW+.bu&YgW1WWbr/+.%&Yxx6yxWb/rY11/6jrW1rbW&rg%r&WZr&Y+1hu%x%=rW16vgW166Yv%+x%++%g..&W+u&Y1%%uvx1u6ba/6gY1W6xv%+r%v6xxY.WWg&%g8%.u/v+dubr+Ygx1%6r&OYg%Y&6x/ugWvr1Y/I16xvgCWbx+:gr.-6&rg+6%g&brv+uW&/+Yu1guW6gm11r&_g&.Y66rx+b&1&1r/+xWu/gYW1vu%/++n%6uxg6.r6bb%+.%/uavWluWW/&Y%1&u.v&++b6u.gb.r61rWYP%6uYv%j.W%//Y.+u6+v6+g%1xgg1.uWE1+Yg%Wuxx%+gW./ug+1b6gv%+v1wuYxX.6WY1.Yx%%urx.+bb+/Wgg1%6vv1+/%xuvxY.WWxrxgv1Ru&v+u%bg/%gv1.6/rn+u1xv.xx..Wr.gY&1+u6vurbbv/.g/YgWxrg+W%r&%x6urW&/+Y6+r6/vrE1bW+/gu.Y6W6&Y&%/&.x&uxW6/xYb1vu1v/+#b.u1gb.v6%u%Y6%uu+xW;gbn^bY11/6Uu +%bb&xx+&%6.r&Y++1u1x%HvW1O6gq166Yv%+xb%&rv.+gWYrWYg%%uvu%<&1euvgY1b6xv1+r&&&&r+.1Wgr%Yv%.u/rW=6%x&%gx.R6rY.+&%+&6vvBxWv/YY/1YuuvYaWbxu6gr.j6&rv+6%x&bv/+xW//+Yu+guWvxU%%&g%g&.g66%W+%%v&1x/+rWu/gYW1ru%v/K.%6u%g6.x6bI++1%/uKxu+1WW/vY%1/u.v&++b1uFgb.v61v1Y.%6uYxWu/W%//Y.1u6+v6+g%1vug1.uW^=vYY%WuxvgrrW./ug+gg61v%+v%R&/xxusWYrWYxYr6+vf,&bv++gg1b6vW/YY%+&uxY&1Wxr1Yr%.u&v+{6bub1gr1.6/WuYx%g&Wxx.%W6TrY&1+u66b+/br/1g/&g6urg+W%r&%xr..%&&bYW1xubvr41+r&+vu.66Wrv+%%/&.S+l+%6&YYb1ru1v&+{1x&gx%Eg6%ru+.%.u+x6Rgb1&6Y11W69vW+YbW&xg%>N6.ruY+%1ugx%2v%V&YgE166Y&b+xb%&rv+WrW+rbYgvxurx1n/bf&ugY1b6xv.+r%(&&vg+/Wgr%Yvxbu&vlLubY&vgx116rr(+&%+&6x/(+Wvr1Y/%/6&vg<Wbx+ygr.V6&rY+6%g&bv/%YW//YYuvwubvx:%bb%.g&.Y66b+Y/%r&1xu__W%wuYW1xu%Wx+6bu&+g1&66brv+1xvuWx6yYWW</Y%1/u.v&++b6&gxYx/6.r&YIx/u%xbyxW%/rgg/.6+v6+gg6u5g../WC.bYY%buxx.5rW./&v+7v6xv%+vb.&/&..6%Y/1Yx%1urva>&/6/6vg>&6vv.+/%+&uv%.bbr/vYr1Yu&bY26bg/bx/.%6/rx+u%x&Wxx.%Wr//Y&1Yu6v/hbbr/1xu..6urg+Wlv&%xr..b6Y.Y61vubb%z.b/&?gu.g6Wrv+%%&&.xuP+bb/1Yb1ru1r6++bu&YgW(x6%r/+.%uu+x6qgbl/uY11/6Pv2Y+bb&xg%&u6.ruY+%Wugxbpv%)xWgO1W6Yr1+vb%&rxvtYWYrWYgv16,x.f/bY/ugr&Y6xv%+rv+ugxY.6Wg..Yv%.u/vnPubY/Wg6g.6/rj+&vguvxx.bWvr1YW//uuvY7Wxr&&g/1.6&.x+6%x&bx/.1W//Fxu.%ubvvd%b//.&/.Yb6&<+b%r&1x&;k/Y/YxW1Wu%v/*.bu&+vv.xW1/g+1%6uA&%?YWW/xg..%u.vb++bb&ggb.v61/&Ya%6uYx.lxW1/rx+.g6+vW+g.%&vg1./bYY/YY%%uxbvI/W./&g+.b6gv%+v%d&/x+.ubx/FYx%1ur&Y^&b+/6ggJg6vv.+/%+&uxY.WW&/rYr%.u&x&+ubx/bgv&+6/r++u%g&Wxx.%b&xgY&1gu6&rNbbv/1g%v_6urg+WvWu&x/..W6/+Y1/6ubvv>1x1&Wg6.Y6..W+%%r&.%.AbWW/gYb/&u1v&+ibu&YgW.xWgW&Y_%uu+1+A1W%/vY11/6x.Z+YbW&x%xe+W_r&Y+r%ugx%XvbV//g{1ubY/r+vb1&rxM.&^NrWxg1.uvx._/b+/u1W1Wbxrx+r%V&&xY.6b1r%g/1gu/vg*u.u/Wgx1%W&/Y+&%v&6xv.bWvr1Y/.xuuvgUWb&/%g/1.W6ru+6%x&b/r.1W//:gW6duWvrc%g1&Lg&.+66/r+b%r&1xuZyW6/Yg%.vu%v/n.+1&Yg6.g6b/&+1%&u{x6fYWW/xg+.xu.v&++b+uYg%.v61.6YG%6uYxb#xW%/rx+Wb6+vb+gYY&rg1./Wr/gYg%bux.u++bl/&gg166/.g+vb1&/1bNxWgrWYx/SurvjT&b+/6gg1b6W/6+&%+&u1+TrWvr%Y/%.ub1&*6bg/b%x.u6&r8+%ru&Wxx.%rY/6Yu1+u61rabbr/1gu.:6urYgW1.&1x/..Wu/+/u1xWbruC1b&&(g6.Yrxrxg%1W&.xuj+WW/gx/1rWFrY+ibb&Yxx.x6%rrg+.xu+x1MgW1/vY11/62v%+Ybb&xx+.rWJr&gg.vugx%Lv1.//gZ1uWx+u+xb.&rW/.uW+r6Yg16uvx.A/bY/ugg1WWrrr+r%M&&u+.6WgrbYv16u/v+zubg/Wgx1%66/++&%+&6g6FWWrr1Y//guuvgRWbv/%gr1.W6gv+6%v&buv.1W//OY.xYuWvvR%//&6gu.+6brgY rb&1x/0nr6/%Yb1x6+1%M.b&&+.b.16%rv+1r6ucx6FYWW/xY%1r6v/x+YbW&g.+=T6.r/Y+%uur1Y;xW%/r1x.g6Yv6+/rg&vg1.//Y/xYg%Wux1dIrbz/&gg166gvbgv1u&&x+.uWgrW/g%1Wrv1f&bY/6gx1bv1v1g/1&&uxg.WWvr%x+1;66rbD6br/b6x1.6/rJYW%u&Wx&.%W&r.Y&1+u6rxObbr/1gW.d66rYY%1P&%x/..1u/+Y61g61+gq1bu&>W+.g6Wrx+%%W&.xuU+Wb/gY%1vWT/Y+zb6&Y&/.v6%rr+.1nu+xW!gW%/vY11/6xv.+YbW&xgx<vWdr&Y+r%ugx%LvW.//gm1uWxY.+xb.&r&W.uW+r6Yugbuvx.4/&/&xgg1W6rv%+6rr&&x+.6/6//Yr%1uW1/_ubY/W:b.&6/v.+&rx&6xx.bWvr1Y/10u.r1*bbv/%7+.66ur++W%gu:%b.1W//k.x1%ubvx++v%/.g&.+&Yr1+%%v&1%6slW6/YY%1xu%vrY.1g&YgW.g6%rvr%%&WRv1tYWb/xY11rv&v&g+%r&gg%.v6.r/gW%66xr+pxbT/rxr1u6+v6Yv1+&vxY./WYruYY%WuxrrHrbp/&gv166xvbY/%6&/x+.u1grWYx%%6&k%X&bg/66W1%6vv1+/1/&uxg.WWrr%Y/%.66v646bx/b&o116/r-+u1Y&Wxv.%W/r.Y&1+u1vufbbv/1Y1..66rY+Wr/&%x/..Wu/+Y61g61Yu>1bu&m&x.Y6WrxYggr&.xuP+u//1Y%1v6Jv/+xrF&YgW.x&6/+Y2%&uv1+ngWb/v+W.Y6+vu+Yv1&xg1.r6.r&Y+%6uuu1DrW.//+%.x6gvW+xb%&6%r.&W+r6+X1/urx1J/vg/ugg1W6rv%+rb.6&vb.WWxrbYr%11rv+Yu%%/Wgv1%6/v.%+%+66x&.bWrr1Y&1>Wxvg+%%Y/%gu1.%gr++6%gu1v+.1WW/SYW1YuWvxj%%+/.gu.+61rg+%%v6ZrYmhW6/Yvb1xu%vrY+&r&+gb.gYxrr+1%/uqv/KYWb/xY.1r6Gv&Yg%Y&gg%.v&%r/Yk%uuYr/ xW1/rgf1&6+v6+/%%&vg1./6//&Yg%Wux1B^rbj/&gY166gvbY/6Y&/xY.uu+rWYx%%ubvu ubY/6gx.&6rv1+u%^&%%u.WWxr%Y/1Wuuv+t6vr/bgr116/rJ+u%Yu+ur.1W/r.Yu1%uWvgfbbv&Yb1.j6urY+b1a&1xr..xW/+YW1gu1vvK1b/6!vx.g6brx+1%r%1xuY+bg/gY%1vu.v/bubu6Yxr.x61rrY#%&6bxW+vW1/vg+1/1Fvu+YbWurv+.rWgr&Yg%6ugxbKvb+//g+1u6rvW+vb%u&v&.&WYr6vx%buvx1+u/1/ugx1W+bv1+rb.&&vz.6WxrbY/%1u&vP+W%b/Wgv1%Y.r,+&%+&6vW.bWrr1Y&1}uuvYM.bu/%gr1.u./G+W%g&b%&.1W&/}Y61YuWvx+.u6/.g6.+ggrx+b%vux6/kSW6/Yg+.ou1vr++b&&v%+.g6brvYx1gu+xu>rvY/xY%1rWrrx+Yb6&gb..v6.r/Y_%uuYxW:6%u//gH1&6Wrr+xbb&rg1.Wx/ruYY%Wu1vuL/W./bb&166gvbYb%6&&xA.uxvrWYv%%u&x.S&b+u6x11%6rv1+&%d%&xg+WWbr%Y/%.uuv+bgbgubx.116&rZ+6%Y6rxvB.brr.YW1+6xvxMbbvufgW.F6%rY+%%x&%xr..b6/+YW1g6kvvp.b/uYvY.Y6brxx1%r&.x&+g/&/gY11v+rv&+5bu&Yxx.x61rrY+%&uYx6+vb%/vY.1/Y+v6+YbW&xx&.rWmr&YY%6ugxbfub6//gS1uuur6+vb%&r%Y.&WYr6Yx%buvx1+uux/ugx1WYvv1+rb.&1xW.WWxrbv816u&vP_WbY/.bW1%6rv.xg%%&Wxg.bx&r1Y&1(uuvY?Wbx&g&&.!6ur+xv%.&%xv.1W//xb21YuWvxg&%Y&Ag&.+g%rg+%%vunx/hMWuuYxr1vu1vr+)b&%HgW+gW&rv+.%/u+xuWWWWuxg%1r6Xv&+Yb6u1g%)/W1r/Yg%u%uxW*xW%&&gs1&6vv6+vbb&vg1./b%ruYg%Wu&x%G/W.&6g6166xvbxrb1&/xM?W/BrWYr%%#1vOf&b+/6g&1b6rv1+u%{&6xY(%W%r%Y/%.vvv+56bg/bxg116&r>+6%Y&WxxN+W/r.Y&1+u+rYC%bv/1b6.V66rY+b%x&%xr++&b/+Yb1gvuvvo1b/&rxg.g6brxv%1YuSx&AgW6//bg1vu1v/vK%v&ggW.xxBrrYo%&u+x65gWb/Wx61&6+vuxv%/&vg%./6.rbW&%6ugxbg&b6/&gl1%guvW+xb%brxW.uW+r6Wr%burx1^ubP/ugY0WW.v1+/b.&ux+xuWx&bg%%1u&vj26bYgxgx>%Wgv.+u%+&Wxg+/Wr&{xg1iubvY6Zbx/%gr!+bnr++1%g&1xv.1W//#xg1Yubvx++br&Og&Xg6Wrg+%%vW.x/J>Wu&x1u1xu.vr&/bu&+g6.gWxrv+.%/uYxuygWW&rg11r62v&xUb6&ggb.vbgr/Y+%uugxW{xW%/6xx1&6+v6,6%W&rg1./xgruYg%Wuvx%MrW.&69v166vvbxxb1&/x#..WbrbYv%%16vWBub+/bgg.Dgbv1+/%K%%x1.bWxr%Wu%.uuv+o6bg/bgv.x.ur++6%Y%.v>.1Wrr.Y&1vg+vgwbbv%Yxg.+6urY61%x&1xrw+W&/+Y6VgW/vrh.b/&+gux+6b&xY1%rucx&,YW6YbYbhvWuv/++bu&ggWB.61/&gC%&uxx6YvWb/vY1.uW/vu+rbW&rg%.r6.r&YY%6uxxbUuW1/&gn.WW.vW+vb%W/g..&W+/b1+%bu/x1/.b+/ugY1W6&v%+/b.&6x+.WWg/1Yu%1u&v0WbbY/Wgx1%WAv.+u%+&Wxg.bWv/Yg&1EuuvYyY%g/1gr1.gWr++W%g&%xv.1W/&Y.%1Yu%vxbcbr/.g&./Wxrx+%%v./vg!+Wu/xYW1&gxvro.b&16xr.x6brvW+%/u+xuHYWW/xY%1bWWvu+Yb6%.x&.r61r&Y7%%YuxWNxW%%YgW1u6+v166bb&vg1rcWbr6YY%WY/x%V/W./6g+166g/bg_b.&&xt.6WYW6Yv.%6xx.hub+/Wgg6v6v/1g+%7&6xY.bWx&&Y/.+6uv+Q%bg9Ygv116//YY/%Y&.xx..Wrr.Y&1+66vgG%bv&Yg/.+6u/xY/%x&1xrgTW&/+Y6.vv6vv+Qb/.&g6.Y6WrxY/%ruBx&jgW6/xYb./WLv/++buv.gW.x6%rrg+%&uYx6XxWb/vY11W6+vu+YbW/Wxb./6.r&Wx%6uxxbVrW1//gX.W/rvW+rb%rgg..&W+/e&g%burx1/vbb/6gY1%6xr+6%b.&&x+r&W.r%Yv1YY1vBfubY.6xl116rv.6W%+&Wxg.bWvr1Y/1rWvvgLbbx1.xY.G6&rY+6%/Ygxv.1W/1Ygv1guWv&6xbr/.g&/9Wrrx+b%vY+x/{+Wu/xYW1xu%/rY6bu&Yg6.x6bWx+../6zxusgWW/vY%u.u./&+/b6&xgb.r61&YY+1W6gxW>/W%/+Y.1&6+rb+Wbb&ug1.uWGruYY%W6vx%>/W./bg+1W6gr1Yxb1&&xQY6WYrWYx1.vxx.;6b+.Ygx1b6vv1Yg%w&6xY.%Wxr1Yr.+6Wv+lWbgY&gv116/r^+b%Y&bxx.1Wrr.Y&1v6uvgTbbv/vxr.+6urY61%x&1xr,qW&/+Y6.v/8vv+}b/Ybgu.Y6Wr6/%%ru*x&&vbr/xYb1/u1vW6/bu&YgW/&Wur/+.%bY&x6DgWbq6g61&60vu6vbW&vg%.r6.r&Y+1;6.x%srW1..gb166Yvb+x%++%g..&W+.YY.%%uvvYu1bn/ugY&#WKv1+rb.+Wx+.WWgr1Yv%1u//CYxbg/bgx116r61+u.+ubxg.%Wvr.Y/uuuu/YYrbx/1gr.w6&/b+W1vu&xv7+W/xxYu1YuWrr+&br&gg&.g66rg+b%v6+x/-+Wu/rYW1vu%r&Yxb&&Yg6Yx6brv+11ux1xu(xWW1bY11ru.v&Ygb6&xgb./61r&YO1W6-xWwvW%Xhg<1&6+v6+Wbb&rg1.&W!ruYY%.66x%IrW.r.xJ1W6gvb6&b1&&xZ.6WYrWYx1.r6x.46b+Exgx1b6vrxY+%+&6xY6vbGr1Yr1+u&vv6+bg/bgvu&Wgr++u%Y+1xx.1Wrr.Y&1+u6vuY&br/.g/&%Wvrg+W%v&%x6urW&/+Y6&46&vr_1bW+/gu.Y6Wp1Yu%/&.x&uxW6/xYb1/u1v/+_1uu%gb.v6%r/+.Y/uYr6+.Wb/rY11&6J+Y+Y1W&/g%./6.ruY+.vuxv1+1W1/6g5rW6YvW+x%.&%g..bW+rbYg%buvx1+.b=/6gY1.6xv1+r1+uEx+.WWgu%Yv%1u/rYb/bY/%gxrv6/v.+&%+ubxg.%Wv/ZY/1+uurx+bbx/1gr.W6ur++6%g6vxv..W//+Yu1YuWv&+6br/.g&1&Wurx+b%vY+x/E+Wu/gYW1xu%r&1gb&&gg6..6%rv+1%%.HxuqgWWYggu1/u.v6++b1+6gb.v61+rYb%6uYx.uWW%/rY.6&6%vW+gbb+&g1.&WFruYY%WuxvgYYb:/ug+u%6.v%+vb.&/xxuEWYrWYxuQ6Yv{(&bv++gg1b6v+1Yg%+&uxY&1Wxr1Yr1+u&v+z61gu/gr1.6/r++uY+&brx+6Wr/eY&1Yu6zb_b1vuWg/.+6urg+W1.&1v&>6W&/xY6guubvva1%uu+gu.r6Wrr+%%r&.x&+WW6/xYb1uu1v&+s%W&6gW.v6%u/+.%&u+vbb+Wb//Y1v.6+vu+YbWugg%./6.r6Y+%Wugv1+%W1/&g_6/6YvW+xb%urg..uW+rWYg%buvvYY+be/ugY1YWgv1+rb.+Wx+.WWgr%Yv%1u/rY%%bY/%gx6W6rv.+&%/16xg.%Wvgggg1+uuvxwWb&+xgr1.6&YrYr%x&bxuuvW//QYuW&6/vv5%br+Yg&.Y66rg+b%v&1x%+bW6/gYW6%6uv/I.bu&+g1&66brv+16;ubx6GYW.?WY%1ru.Y1+%bW&ggb&&61r&Ya%WuYxWyx%%u+ga1u6+vW+g+W&rv1<WWFr6YY%bux0r4r%.uvg+1W6gv%+v1u&&vYm6WYr1Yx6_urx.U&%g&/gg.G6vrJ+/%B&uxY+vWxr1Yr1gu&vY:6%v&ugv1.6/u++u%Y&WvrWWWr/+Y&vuuWvgcbbvuug/.+6urx+W%v&%v&7.W&/YY6.1ubvvX1b/&&gu.g6Wrv+%%r&.xb+bW6/gYb%b6%v&+_bu+vgW.v6%r/+.%&u+vb%/Wb//Y1NY6fvu+Y%+&1g1./6.vYY%%Wugx1kvbYs1g)1u6YxvY{b1&rg.&WW+rWYg%buvx1T/brbWgg1b6xx/YY%N&&x+.6W/#gYv%1u/g6+vbg/Wgx&B6rr2+&%g&6xg.b%v&uY&1+uuvgDW+g/1vr.r6&rY+6%x&b.1.1%//WYu1guWvv<%1+&Fx6HY66rr+bgb&.x/_ZbW/WYW1&u%v&j.b&&+g68Y6brr+1%Wu,x6lYb%/6Y%1/u.&u++b6&gx1Wg61ruYzv+ugxWqxW%&YY.1u6+vb+gb%&vv,{/WOr6YY.Wuxx%?rW.&!g+1W6gv%+vb1&/xxtWWYrWYx%x6vvi!&b+a%gg1%6vv.+/%Q&uvxb.Wxr.Yr..u&v+Z6bu%bgv1.6/x.Yv%g&Wxr.%W6hrY&1+u6xY+&br/1gW&/6urY+W%guux/..W&dxY61xubvvL1b/&2g.xx6brv+%%vuWxuc+W6/ggR/bu1v/+Lb&&1gb.x6%.u+.%uu+xb}gWb/vx19Y6+v6+Ybb&x&b./b.&vY+%Wugx%zv////vn116Yvb+xb1&rv6.ubg/rYg%.uvbxj&bK/uxx.r6xr++r%+&&x+.6Wg/xYv%.u/vx;ubg/Wxr Y6rr*+&aY&6xg.bb/YbY/1Yuub6qbbx/%gr x6&rY+6%v&bxr.1bu&%Yu1guWW%B1br/.g&.b66rx+b%r&1x/AmW%&bYW1xu%x%+1bu&+g6&r6brr+1%&uixudYb%x&Y%1&u.b++Yb6&gxYvv61r&YE%%u.xbzxW./rgg/.6+v6+g%euYg../WxCGYY%WuxrY+gb_/&g+/%6gv%+vb1&/x>.uW&&/Yv%1urv/+vbY/6gx1b6u.v+/%B&ux6o&Wvr%Y6/ru&v+s6%&&ugr116/.g+u%g&Wxr.%Wrr.x&.buWvxabbr/1&r.+bu/u+W%v&%x/../+/+x6.uubvrj1b&&avx.gW%rW+%%u&.u+A+W6/gg1.Wu1vW+{bW&YgW.x6%rW+.%uu+x1CgW%/vxT.16zv6+Y.b&xg%.rb+YrY+%bugbxkrW1//g!.&6Yvb+xb.&rxF.&bg/XYg%%uvY.:/b^/ugY^&6xv1+r%d&&x+.6W//-Yv%1u/x/+&bg/Wgx&X6rrz+&%Y&6xg.bb/xYY/1YuuggBWbx/%gbx.6&rY+61%uuxr.1Wu/0Y%/uuWvx{%1w&bgu.+61.6+b%v&1/Yl%W6/YYW//u%v/A.b&&+g6.gWY&++.%&u0r/f.Wb/xY11r6g1.++b6&gv6-Y6.r/Yx/auYxWcx1&&ggE1&6+1%+gb%&vxC./W5ruxY.ruvx1prbC/&&_1WbgrY+vb.&/x+.urWrWxx1xurvHN&bY/6x11%W//Y+/%g&uYx.WWxr%g&.xu&vvl6bv/bgv116/r&+u%g&Wx&.%W/r.g6.gu6vxab.r/1g/.hWWYf+W%r&%W1eEW&/+Y6.6ubvrN1bu&!g6.YW%r1+%%/&.rxnYW6/gYbnYu1v&+{b6&YgW.xW+/r+.%&u+x++YW%/vY1/66fv6+Ybb&xg%.rb+gbY+%bugr&{rW1//grxu6Yvb+x.%ugxf.&Wgr6Y//guvx1n/.P&rgg1W6&.x+rb.&&&+d/WxrbYv/+u/v+RubY/Wgx1%6bW++u%Y&6&geuWrr1Y/19u%1u0Wbx/%/r.b6ur++6rr&bxr.1Wu/{Yu1YWWr.m1b//.gu.+.urxgb.+&1x&D2W6/Y1x1xW%r.{.bu&+gW.gb/rrgn.gu#xbDYbx/vY%1rW+r1++b1&gg1.v61r/Y?1+uYxbqxb+/rg41&Wgr_+gb%&vr../Wtrugxuuuxx.Trg//ug+166grb+vb.&/xY.uWgrWgr1vurv0T&ru/6gg1b6v/u+/%+&uxg.WWxr%Y61xu&v+_6W6&Wgr116/.g+u%g&Wxv.%Wrr.g6Wvu6vv?br%/1g/.M6.rb+b%v&%uWKbWu/+Yb1g6-1bZ1b/&#&1..6brx+%ru&.xu,+W6/gYb1v6x/g++b6&Y&g5+61rrYI%&uv1+egWb/v/r.x6+vu+rrY&xg%.rsx/vYY%6ug%.GvW.//gY1u6YvWgx1&&/x>.&WYr6/Y%%Wvrxk/b+/ugg1Wv%v%gr%&&&xY.6WxrbxS%.6urWUubv/Wgu1%6rv.Y6%W&6x/.bW/r1Y/1NuuvxzWbv/%g61.6ur+Yb1&&bxr.11&/,Yu1Y6%+YC%b&/.Wj.Y66rg+b1x&1x&j5WW/YYb1x6.vu(.bu&+bu.x6brv+11buyx6AYWb/xY%1r6g/x++b6&ggghx6.r/Y*rbuYxbJxW1/rY.1&WgY1+gb1&vb%.&W?ruY&gWuxx1_r+u&vgY166vvb+urv&/xc.u5b/&Yv%%u61rG&b+/6u1.u6rv1+/rg&uxg.WWxr%Yr%.u1r%VWbx/bug.W6&rR+6%Y&.%W.%Wrr.&r11uWvg+Gvb/1g/.t+xr.+b%x&%%u..Wu/+Yb1gubvvY11Y&+g6.Y6brxrb%/6.r+j+WW/gY%1vv/v/gI1r&Ygb.x61rrg6%u6gv+XgW./vY%1/6;vuYx%%&xx+.rW+r&Y+%6ugvbTvW.//gx1u6gvWYr%6&rxl.&1Yr6Yg%b6/Sb4/bY/u661b6xv%+r1&&&xY.6WvrbYr%16uvb=ubg/Wr/116rv.+&%/&6xx.bWrr1Y/1*u%rvRWbx/%Y%.16ur++6rr&bxr.1W&/dYu1Y6%Y&T%b&/.rW.Y66rgYYgv&1x&q7Yu/.Yb1xu.vr+gv.&+g6.g+b/Y+.%/ux1^OYWW/x61.g6Lv&++v%&gg%.v61r/YC%uu&r/_vW1/r6g.v6Yv6+xbb&u%v./WBruur1&uvx%26vr/&g+16Yxru+rb1&/%g.uWgrWYr%%urx.Y&%b/Wgx1b6rv1rr%+6ux6.WWvr%Y/%.v+v+Y6b%/bgr116&rXgx%gu%vu.%Wur./g1Yu6vg+1%W/1gW.96WrY+W%x&%v6..Wu/+Y11gu%vvYK%%&Ng6.Y%brx+%%r6+dr:+Wb/g6x1ru1v/+LbW&Ygb.x6.rrYn%&6gv+GgW%/vbW1/6ovu+Y%1&xg1.rW{r&Y+%6u/v+HvW1//Y/.&6gvW+xr9&rxO.&WYr6Yg%b6/YY0/bY/ub.1W6xv%+bY.&&xY.6gu/uYr%1uuvf)%vu/Wgx1%Ybrb+u%+&1%6.bWvr1W%1%u6vY=Wv//%g/1.6&r++6%guYu/..W&/oW.1.ubvxe%br&gb..+66rgWY1Y&.x/(Qxb/YYb1xu.vrT.b&6+vv.x6%rv+.%/%.x6YYbk/xY11r6sv&b6b66gvr.v6.r/Y+%u6%xb+rb./rgY1&YgvW+gbbu/xr./WxruYx%Wuxx%_r%+/&gY166/vb+rb1uuxY.uWgrWvv%%urx.+6/./6gv1b+%v.+/%f&uvx.WWvr%Y&%.uuv++bb6/bgr111Wr++u%Y&Wrf.%W/r.Yu1+u6vg+8b&/1g/.y6?/++b%x&%%u..Wu/+YW1gubvvY=uW&IgW.Y1.rv+%%ruv6&l+WW/gb/.Yu.v/+Ybu&r%Y.x6%rrW61vuYx6=/vg/vY11/xbrr+gbW&x%H.rWIr&Y+%6ugxbMW%6/&g+1ux+r&+vb%&/g..bx&r6Yg%bgxvW>&bZ/%bu1W6xv%bY%b&ux+.6xrrbYr%1uuvJIubYuWx.116/v.+u%+%uxx+bW.r1Y&1su6vYbxbxu%xg1.6ur++W%g6/xr+kbu/QYb1Yguvx}%bru+vv.+61rg+1%v&1x/2Db&/YYb1x6+vr+!b&ugv+.g6%rvx.%/uoxu+x/u/xY.1r+/vu++b6&gxv.v6.r/YY%uugxW+r%v/rgB1&xgv6+gbb&vx6./W+ruYg%Wuxx%_6bv/&g+16u6rW+rb1&/%g.uWgrWYv%%urx.+6uv/6gv1bx/v1+/%H&.6Y.WWvr%%/1buuv+Hbbg&kbb116/rhb6%.&bxxC+x%r.Y&1+vbrfE%bv/1b6.G66rY+W%x&%xrBv%x/YYW1gv+rYl.b/&+gu.rxYrx+%%rxxvvfYW6//bg1vu1v/%Y%r&ggW.xxQrrYT%&ugx67gWbuvxu1&6+vu+gbW%gg1+rW%r&YY%6uxxbW1W1u/gu1u6gvW+vb%6+x9*6W1r6Yr%bv1x1C/bU&Wgr1W6&v%+&b.&&x+.6WvrbYr%1uWv=96bY&%xx1%6/v.xu%+&6xg{1/gr1Yu1H++vgSWbx/%x/1.6ur++b%g&%xv+zb//8Y61Yrrvxo%br/.x%.+6Wrg+%%v&1x/-x%+/YYW1xuxrv+Rb&&+b%.g6%rv+.%/uNxu+x&./xY.1rr6v&++b6&uxr.r6.r/.r1rugxWVrW%/6br1&6+v61u%u&rg1./xgruYg%Wuxx%LrW./1&g1W6xvb1W%W&&x{.uWYr.WW%%urx.%1b1/Wgg1bg&v1+&%O&WxY.WWx&%x+1#uuv+fWbgbWgr#16.r +6%Y&bxxWrWr&.gr1+uWvgG%bvuug&{Y6brY+1%x+gx/..W&&gg.1g6ovv+ab/&ngu.YW<rx+1%rugx&sYW6&vY%1vu.v/x+bu&YgWirrWrrY+%&#uxW(gWb/vgg1/6+vu+xbW&vg%a&bYr&YY%6b%xb(vW1//gx1u6gvW+vb%&rg..bb+r6Yg%b&bv%t&b</ubv1W6vv%+/b.&&x+sb&/rbY/%1%+vmSubY&+ux1%6/v..g%1&Wxg.1Wv/YW11<uuvY1r%+/1gr.gg.r++6%g/&vY..W// Wb1Yubvx,%br/.g&./brrx+%%vr%vx#+Wu/gYW1&gxvri.b&rIx/.x6bruWv%/uRxu11b&/vY%1rgYv&+Yb6&vgb.v61&/gW%6ugxW;vW%bvg-0&WMv6+xbb&rg1WQW>&uY6%Wuvx%J/W.uggY.b6xvb+&b1+xx+.uWY/%gr%%u6x.(6b+/6gg1bWgv1+&%o&%xY.bWx/.g6%.uuv+gWbg/bgv}qrvrG+W%YZgxv.%Wrr.gW1+uWvg^1bv/.g/JYWYrY+b%x6Wxr..W&/+gr1gu%vvA.b/&dgu.rWxrx+%%r&rv/tYW6/gW.1vu.v/++bu&YgWyr&+rrY+%&6.x6QgWb/W&11/6+vuKg%&&vg%.&6.rbW&%6ugxb.rbW/&gZ1%guvW+xb%&/x%.uW+r6Wr%burx1G/b?/ugY.+.rv1+/b.&ux..WWgrbYv1YY1voKubY/bxY116rv.6W%+&Wxg.1Wvr1Y/*:Wxvgfbbx/1grg16u&+Yr%g&%xv..W/YuYu,Y6vvx91br&mg&Rb6W/v+1%vu+x//xWu/YYW.r66vr+gb&&gg6.g6brvg+%/u+xu!rWW/vY%.&Wbv&+Yb6Wxgb.v61/u%1%uuxxW/bW1/rY.1&6vv6+xbb&/g1.&Wz/WYg%Wuvx%/rbL/&g+166%vb+rb1&&x<.uWYr.g/%%urx...%D/Wgg1bg&v1+&%(&6xY.WWx/..6%.u6v+/6bx/bgv.x /rh+6%Yu+vY.1Wr/+Y&1vg+vgJbbv&xxv.+6urrWY%x&%xr+vbr/YY61gY.vvS.b/&fgu.Y6Wr6r.%/u=x&+/b&/xYb1vu1vW6/bu&YgW?6WWr/+.%&Yxx6_xWb//Y11/6=/uY%bb&vg%./6.W/YY.66gxbErW1/&gm6Y6Y/WYrb%&/g..uW+&vYx116/x1C6b?u/gg1W6xr.+/b.&bx+.bWgrbYv%166v086bY/.gx116r/+gY%+&WxgY%Wvr1Y/.Yv/vY#%bx.vg/1.6&r+YW%g&%xvcdW//+Yu.xWjvxK1br/bg&.+66rggx%v&.x/}+Wu/YYW1&65vrG.b&/&xu.x6brvW+%/u+xuLgWW/xY%.&/gv&+gb6&kgb.v61r%&^%uugxW+.bW//Y.166+v166bb&vg1+YW1r6YY%.YWx%MrW.6gg.1W6gvb6&b1&&xe.uWYrWYx1g1&v*Uub+6vx+1%6vv1+/%xY2xY.WWxu&gx1Vu&v+u%bg/%gv.N6/rc+u.Y6rxv.1Wr/iY&gwuW/g;%bv/.g/.+6u+W+W.xurxr4fW&/YY6.1u%r/Y>b/&ggu1u6Wrx+%1&6+x&UvW6/vYb1vu1v/+rbu&ggW.&6%r/+.166vx6^xWb6rY11/65rW%GbW&rg%r1W#r&Y+%6ubxbdrW1/ugz166Yr%+%b%&/g.6/W+r6Yg%b6%x1m&bc/6gY1W6xr++1b.&&x+.+bYr%Yv%1Y6v* 6bY/bgx1%6r/+1b%+&bxg6WWvr1Y/1r.uvYlbbx6%xx.V6&rg+6%/Ygxv.1W/67g/1guWv&6xbr/.g&g+W&rx+b%vY+x/>+Wu/YYW1xu%vbr+bu&Yg6ggW6rr+1%/u<x%uuWW/xY%Yr6%vu++b6+rgb.r61ruYN%uuYrW+.W1//Y.1u6+6u+x1buYg1.&W2r6YYuxuxr%+vW./ug+1W6g//+r1nu/xP.bWYvuYx%%urr++vb+/1gg116vv1+/%q&WxY.bWx/+Yr1Au&rg+xbg/%gv+.6/r*+u1xxuxx..Wr1/Yu1+u6vgYmbv/.g/.Y6urg+W1r6+xrmBW&&WY61gubvv+1b/&+gu.g6Wrx+%%66gx&:+W6r6gW1ru1v/6gbu&ggW.v6%rr+.16rvx6EvWb&.Y11/6=v.+bbb&vg%x6W%ruY+%bugv,ubW1//g>g%Wavb+xb%+ug..uW+r6Yg%buvvxvub+/6gYg.WYv1+rb.&&xvu+WgrbYvgY6vv+0ubYa1gx116rr++&%+&6rg+/Wrr.Y/1+uu6+8b1x&ggr.96&rY+6&b&brv+0W//+Yu1guWr.01%&&Wg&.x66&r+b%v&1vuSYWu/rYW1ru%vr<.b&&vg6.x6bru+1%&uUvWz.WW/vY%+/u.v&++%bx+gb./61%.Y+%uuYxW^%W%//Y.166+vW+g%1uug1.&W06xYg%Wuxx%++W./ug+1W6gvb+v%Yu+xI.uWYrYgg%1urx.uWb+/Wgg1%6vv1+/1Yv%xY.%Wx6&Y/%.u&v/+xbx/%gvvrWvr++u%x&Wx&uxWrr.Y&xu6&vx)bbv++g/.+6urY+W%x&%xbv+Wu/YY6xW66vr 1b/&Zg%&u6Wrx+%g1u%xuT+W6jrYb1ru1vu+Rbu&YvW,.61r/+.%uu+uuCx%buYY11&6^v6+Y&x&xv%=+6.ruY+%Wugr/=r%#&WgC1b6Y%W+xb%&rv+ivW+r1Yg%1uvx1p/bz&6gY1b6xr++r%<&&vg+gWgr%YvH.u/vE<u%xgugx1.6r%/+u%+&6xgCuWvr.Y/1YuuvgpW%r&+gr.n6&&%+W%g&bxv YW//+Yu1guWvx=%b6&gg&.+66v6YW%r&1x/ugWu/gYW1vu%vr<.%6vvg6.v6bu++.%/uBx.rYWW/vY%vg6%vu++bb&gxR&b61r/YRxr65xb!xb+_%Y.1&6+%/Y+b%&vg1&6W*r6YY%Wuxx%>rbvb6gY1W6g%uYgb.&/xF.uWrNYYx%%urbb+rbY/6gg/.6vv.+/%Y&uxY.W%x&&Y/1au&vY:6+Y/%vvF&6/r++u%g&W.%.%%r/1Y&1Yu6vxJb1:/.xuXv6urv+W6v&%xr..b6&+Y61/ubv/k1b/&Lgu.r6Wrv+%%6&.xuj+bb&1Yb1ru1&&+obu&Yx%WY6%r&+.vzuYx6=gWb/1Y11&6EvW+Ybb&xx.S.6.ruY+L+ugxb(vW1&Wgm166Yvb+xb%&rxg8uW+r6Yg%g6xx.(/bDZbgY1b6xv1+rb.&&vgb1Wgr1YvXvu/vSsub&&vgv116r.MYr%Y&6xv.bWuJvY/1juu1g+ubv/%gr&Y6&rY+6%g&bxv.1W%bYY61guW1v+Wb//.g&.+61.6+b%v&1%&_1W6/YYW//u%v/5.b6&+g6.gbb&;+.%&u5x6?YS6/vx%PYu.vu++bW&g.v.vb1/xY0%6uYxb:x%&//x+;v6+v%+ggr&vg1./bY/+YY%.uxx.}rW./&g+;/6gv%+v%Y&/x+.ubx/.Yx%1ur&2;&b+/6xv666vr-+/x&&6xY.WWx/vYr1_u&vgA6bx/bx/.%6/r++u+x&bxx.%Wr&vY&1Yu6vxDbbv/1gW}26urY+WbWubx/..W&=xY61xubvrJ1b/&;xWbr6Wrr+%+&uIx&^+be%gYb1ru11%+1b6&Yg%.xW+.%+.%&u+1;++W%/vgY/167vu+Y/+uYg1.r6..WY+%WugxbVvW1//grgW6gvb+x/guxxc.&W+r6Y//guvx1h/rr&/gg1W6x.)+r%T&&xg.6Wgrbxv.uu&v+Eubg/W&g11br//+&%Y&6xx.br1r1x/.LuuvgUWbv/%v+.hW6rY+6%r&br&..W//tgW.xuWv&D%b&/.g&.+66//+b%r&1xWl#W6/Yg%.&u%v/D..u&+g6.gW1Yg+1%uuHb+)gWW/xY%Lqu.vu++bb&gg%.vb!/%YS%6uY&+^vW%/rY..W6+vW+gb%&vg1./Wx/gYY%Wuxxx+vb>/&g+/%6gv%+vb.&/x .ubxg.Yx%.ur&vMub+/6gu.r6rv.+/&Wu/xg.WWrr%Y6/ru&v+-6/1&6gr116/.g+u%g&Wxx.%Wrr.Y1.%uWvxLb/g&bg&.T66rY+.rW&%xr..rr/.YW1g6o1b81b/&K.xhS6brx+%ru&.xuA+Wb/gYb1vW1/Y++b6&Ygb.x.br/g.%uu+xWTgW%/v1/1/bzv.+Ybb&xg1.rb6rugg.rugx.Sv%g//gN1uWxrW+x%+&rx+.&W+r6Yg1uuvx.7/bx/ugg1WWr/g+r%H&&/Y.6Wgrbg/ubu/vYAug6/bgx1%6r/u+&%Y&6xv.bWrr1gu.&uuvgOW%g/1gr1.6&/6+6%x&bxr.1W//EY%./uWvxI%W%&1gu.+66.r+b%r&1x&O0Wu/Yg%W&u%v&C.%/&Yg6.gWYbv+1%&uwlu+ Wb/xY.1r6g1.++b6&g.byg6.r/Yx/:uYxWVx&%&xgn1&6+1%+gb%&vg1./WmruY&Y%uvx1dr&.&rgY166gvb+urv&/x?.u&Y/uYv%%ur1Yn&bY/6gv1b6vv1g/1W&6xg.WWvr%/v1HW&rb:6bx/bgr11r>r:gu11&Wxv.%W/r.xg1Y6bvusbb&/1uv.n6urYY%1/&%x6..W6/+Y61gubr1?1b&&{g%.Y6brxY.%b&.xu;+1W/gYb1vWD+v+ObW&YWg.v6%rr+..xu+xWhgW1/vY.1/WY/<+Ybb&x&x./6.r&Y+.qugx%TvW.//gH1u6rrg+xb%&rgre/WYr6Ygr.uvx.e/b+/ugY1WWrg++r%+&&&&.WWgrbYW1&u&v+mu6/&ugv1%6&v.+br&&6xg.bu6/bY&1Iuu1vLWbv/%gr1.6&r+YM1.&%xr.1&./1Y61Yubvx++v%/.g&.+&Y/++%%vuY%1oQWu/Y+p.Yu1vrp.vW&+gW.g61rv+1%/W>rxGgWb/xY11r11vug+bW&gg%.v6.r/%u%uWYrxFxW1/rgk1&WbvWYv1/&vx+./Y+r6YY%W6rrujrbg/&gg166gvb+v%W&/x+.uWrrWYv%%6&vue&bY/6rx1b6vv1Yu&1&uxx.WYbr1Yr%.u&v1F6bx/bg/116&rjYW1r&Wxv.%.Y/yY&1+u6vxqbbr/1g&.A6urY+.%1&%xr..6.&XYW1gub1&i1b&&4g6.Y6WrxY.66&.x6N+.r/xYb1v6xr+++b6&YgvFY61rrY+%&uv1+2gWb/vY&.v6+vu+Yv1&xg1.r6.r&Y+%6uur&7rW.//+%./6gvW+vb%&6%r.&W+r6+Z16urx1,Wv//ugY1Wu1rW+/b.&&%x.6WxrbY/%1u/v7Yu%%/bgv1%6/v.r/%Y66x&.bWrr1Y&17vYvYYW%K/%g/1.6ur+gv%xu1v%.1W6/wWk1guWvx+.b6/.gb.+6brg+b%v&1v1k>W6/YY.1xu1vrY+bW&+gW.g%%rv+1%/6Yd/-YW%/x6v1/u.v&++%&&gg%.vW=r/Y+%u6xvb^xW1/r%g1&6+v6+g1+&vg../W+ruYY%Wu&vvKrW./&Y&.u6xvb+vr+&/x+.uWgrWYx%%6&Yg!&bg/6%/1b6vv1+%gq&uxg.WWg/WY/%.u6v+U1v6/bgv116rr1+6%Y&.%W.%Wrr.g&.iuWvgsbv&/1g&._6urY+W%xugrYczWu/+Y%.Yu%vvV.b/&x%V.Y6WrxY<1vuzx&<vv+/gYb1v61rr++bu&Yb1.x61rrY+%&u+x6Yg%//rY.1/6+vur+bb6xvr.rWPr&YY%6xbxbYv%+//g+1u6gvWY.b1u&v&.&Wxr66%%buvx1+u%6/ugr1W6rv%+rb.&&x/.6WxrbYu%1u&v:+Wb1/Wgv1%%/v.+&%+ubz+.bW/r1u.1+uuvY?W%Y/%g/1.66r++W%gu1v/.1W&/<B/1YuWvxw%b1/.gu.+6Wrg+b%vuYvr?hWu/YYY.gu1vre.vW&+gW.g6%rv+1%/6Y+%-YW%/x5W1ru.v&+/Y6&gg%.vbg/rY+%uuxxWU&vx/rY.1&Wrru+xbb&u%v./W0rux&16uvx%0rvY/&gY166gvb+vb1&%vb.6WgrWg%1bu/x.lub+/1b61b6vv1gf%.&6xY..xWr%Yr%.W1rQcWbg/bb&116&rz+W%Y&Wxx+%%+/qYu1+uWvgvWbru1x{.766rY+b%xxrxr+.b1/+YW1gu%vvYub&uYvr.Y61rxug%r&.x&+gb1/ggF1v6Kv/+fbu&Yxf.x61rrYg%&uYx6+vbu/vY.1/%+vu+YbWur.W.rW+r&uu%WugxbNvbx//g+1u6xvW+vb%u&v6.&WYr6/v%buvx1s/%%/ugg1W6vv%+rb.&bvb.6Wgrb+b1%u&vhmuvv/Wgv1%6/v.+&%+ub+/.bW/r1/u1wuuvY++b1/1g/1.1Y/i+W%g&1xvoYx1/?Yu1Y%vrgf1br/.bW.+6Wrg+b%v&1x/FrHW/gYb1x%/rv+>b&&+g6./xgrv+1%/b6v&wgWW/xbX1r6!v&+gb6&ggb+vbur&Y+%uugxWvgW1urg%1&6Yv6+xbbg1g1+/b&ruYg%Wuvx%Y+bP&6xg166rvbrub.&/x:DWW/rWY&%%u&x.e&b+/6xY1b6rv1+W%-&6xYM%bcr%Y/%.buv+q6bg&1.g116urEu+%g&Wxx.%b/r.Yu1+ubvgd%bvuDgu.066rY_r%x&%xr..Wu/+YW1gu%vvD1b/&xx+.Y6Wrx+x1vu{x&!+x%/gY%1vu.v/+lbuuxX..x6.rrR6%&u+x6Ru+b/vY.1/%.r&+gbW&rg%.6xrr&Y+%6%YvWUrW1/Wb/1u6YvWrg%b&/g..&xxr6Yx%buvx1 /b!/.&x1b6vv%rv%1&ux+.6Wg/_Wb%1u/v*v&%+/bgx1%guv.+u%+&bxg.bWv&1xY1+u6vYhbbxbbg/h.Wbr++W%g&%xvW/W/uMY%1YubvxX1bru6gu_gW%rg+.%vOgx/lVWu&xgY1x6+vr++b&&+g6.gWrrv+.%/uxxuzgWW&rgQ1r6qv&xYb6&ggb;/rbr/YY%um6xbRxW%/rx+1&6Yv6+vbb&rg1HuW&ruYg%Wrbx%nrW./&g%166xvb+rb1&/xo.%b&rWYx%%&%v1*ub+/6br1b6rv1+&%9&uxYJ%&&r%Y&%./iv+n6bg&Yuv116&rtr%1+&bxx..Wr/gW.1+u6vgrQ%x/.g/.xx=rY+W%x.+vvahW&/+W%1gu%vvN1b/&kgu.&.%rv+1%r.gv/aYW6/gYb1ugvv/+Lbu1rx6.v6%rrWY%&uYx6pvWb/vY1*/WWv6+gbW&vg%xvWf&&gu%6uxxbDrW1gIgAIu6/vW+vb%&/g.+gWY/bgV%bu&x1=+bm/ugY.%W&v%+6b.&6x+.6Wgrbg&%1u&vaP%bY/bgx..W.v.+u%+WWxg.bWv&o1v1(uWvY&gbv/%gr1.W&r++W%g&1xv..W/&YYb1YubvxgWb//.g&.+W/rg+%%v&.x/^_Wu/rg/1xu%vrkr%/&Yg6.gg.rv+.%/u+xu*YWW&r5+1r6+v&g.bW&ggb.WW&r&Y+%uj6v6wvW%/&Y.1bg&v6+gbb.%x%.&WCruWv%Wuvx%prW./&g+.V.vv%+rb1..x..6WYrWYx1+Y%x.#&b+.YxY1%6vv166%w&6xY.%Wxr%Yr..WgvYzWbg/%gvg%6&&=YY%Y&bxx.1WrY&Y&E+6vvgp%bv/.g/LW66/xg+%xuUxrg&W&/+Y6.vW0vv+Yb/&Ygu.Y6Wrxgx%ru}x&{vW6/xYb./Wgv/++buWggW.x6%/&%%%&ugx6/WW%/vY11/WYvu+gbW&rg%./6./6Y.%6uxxbYbW.//gw1u6.vW+vb%&/g..&W+r1Yb%buvx1.1b./6gY1Wg/v%+/b.&ux+.6Wg/1.u%1uuvqg_bg/Wgx.g9rv.+u%+?/vY.%Wv/MY/1xgovYfWbx.6xv.y6&rvW+%g&bxv&bbr/+Yu1YY1vx-1br/.g&.+66rug&%r&.x/&+b&/gYW1vu%v66rb&&+g6/xWWrr+1%WY/xu*YWW,Ygb1/u.v&6xb6&xgb./61r/YD.u6%xb5vW%//Y.g/6Y/6+rbb&rg1.&WPYYYY.WW4x%-/W./ug+iv6xr1+%b1&6x7+rWYrWYx1.u1x.Qbb+/bgg1b6vv1gY%J&6xY..Wxr1Yr.+u1v+CWbg6%gv116//Y%/%Y&%xx/vW/r.Y&1+6gvgS%bv&Bg/.+6u/x+b%x&1xrvuW&/+Y61g6/vvc.b/&+gu.Y6Wr&YY%r&.x&.&bu/xYb1vg+v/++bu&ggW.x6%/&.g%&ugx6v%Wb/vY11%66v6+gbWYrxb./6.r6Y+%1Y6xbfvW1+ug.166YvW6/b%&/g..&W+r6Yg1Y1/x.Z&bf+Wx+1b6xv%+r%g+.x+.6WgS1gx%.u/v*ubbY/bgx1.6rv.+&.+6vxx.%Wvr.Y/Y.u6/Y+%bx/1gr.}6&+6+6.guYxv..W//+Yu.%ubrrYubr&Yg&W/66rg+b1/urx/PxWu/xYW1xu%vrYxb&&Yg6./6brr+11uubxuagWW6vY%1ru.r6b.b6&vgbr%6.r/Y{%uuWxWCvW%/&Y.1u6+rbYxbb&rg1._WQruYY%Wu1x%!/W./ug+166grs+6b1&/xK.<b+rbYx%%Yux.Qub+/Wgg1b6v/41W%=&WxY.xWxr%Yr1v6YvY4Wbgggxx1.6/rY+u%rYYxx.%WrYrg/1Yu6vgu.bv/.g/.y6urY+W%66ux/?^W&+Wgu1xubvr#1bW+/gu.Y6Wy1Yb%/&.xbu&W6/gYbub6%v&+Xbu+vgW.v6%r&+.%&u+r6+1W%/rY11&6h6&+g1Wuxg%./6.ruY+ugugrb<WW1/&gP166Y/r+v%.u6g..WW+WWYx%buvrnYUbL/%gY1%6xv%+rb.u+x+.WWg/tYv%.u/rY?6bY/bgx+16rv.+&1gx&xg.1Wv1rY&1IuuvY9bbx/1gr.+6&rY+61v6gxv..W/uuYu1YuWvxYvbr&>g&.Y66rg+b%uu+x/CdWurug61vu%vr6Yb&&Yg6.x6brv+11urxxu;xWWu%Y%1ru.v1/+b6&xgbW+W%r&Ym%WuYx.uWW%/rY.6xWZvW+g%N+bg1./Wmgrg+%buxx%uuW./ug+166gvb+v%x6gx+.6WYYWgg%1urv!Z&bv++gg1b6v+1Yr%+&uxruYWxr%Yr6b6/vY96bg}.gv1.6/rY+u%Y&Wrx+&W//HY&1Yu66YU%1v&.g/.+6urg+W&%&%rre.W&/YY61xub/A^.%u&+gu.v6W%.+1%r&.v6++W6//Yb1/u1v/+XbuuxgW.v6%r6+.%uu+vb+.Wb/rY1+&6ivu+Y%%xYg%.&6.1JYY%6ugxb+*W1/&gn1W6Yvb+x%.uug..uW+g/Yg%buvx1+%bU/6gY1b6xv%+r%g6gx+.6Wgrggx%.u/vpubbY/bgx116rv.+&1gv1xg.1WvgWY/1Suuv&rWbx/1grb+W/rY+6%v&bxuuvW//HYuWx66vv=%b6+rg&.+66xrYW%r&1x/ugWu/gYW1xu%vrK.b1u%gW.x6bgWY%%&upx6kYW.jWY%1ru.Y1Y0bW&gx_&b61r/YTWb6+xb2xW%_uY.1u6+vb+gbb&vv1+YW+r6YY%buxub?/%.&rg+1W6gv%+v&/&/r_+YWYrbYx%1urr6Cu%g&ugg1.6v1%+/%K&uvx+4Wx/+Yr1+u&v+Q6bgu+gv1.6/rx+u%g&WvrtKWr/GY&+Yu6vgQb%/gbg/.Y6u%6+b%x&%xrQvW&/YY61vubvr41%u&rgu.g6W%++%%r&.x&+%W6/xYb1ru1v/+kb%&%gW.x6%v%Y1%uu+x6urWb/rY11&6_vu+Y%%v&g%.&6.%vY+%6ugvYM.W./&gP1FW+vb+xb.&rxg&.W+r6Yg%g6xx.</blHbgY1b6xv%+rb.&&x/+rWxr%Yvbu6rv+lubg/Wg&&x6rv.+&Wbuuxx.bWu8vY/1muuxu+6bv/%gr&Y6&rY+6%v&bxv.1%/&WY61guWvv=%+v&=v&./66rx+b%r&1iiKm%u/1YW1vu%v/8.1g&Yxb+56br&+1Ybu+xuqYb%&+Y%16u.v6++b6&ggb+T61r&YE%%uYxb}xb./WY.1u6+&W+gbb&vv<bWW rWYYvguvx%XrW.xrg+1W6gv1+vb.&/vYb%WYrbYx/rurx.P&b+/6gg1%6vv.+/%I&uvxgbWvr1Yr+pu&v+>6bgXYgv1.6/r++u%g&Wx&uxWrr.Y&1Yu6vxlbbv%.g/.t6urg+W%x&%x/..W&/+Y611ubvv^1b/u+gu.Y6WrY+61/66v%..%uu/xv.WW/r6Y+1%uWv6+Y6%rW+.%&u+x&Yv%+&rx61/6rvu+YbW&Ygr+gbd/.gr%6u&xbmvW1/vY1.6W./L+x1r&rg..&6.&bgv!x6r/+Y6%vu%xW..&1gb.vWT/#Y/%bu/vYpvbY/.g&1ubY&Igx1%6rv%+b166/v&.bW6r1Y/1Ku//u+b%%6+gu1.6&r++6%g&bvug1W6/CYu1YuWvxI%WrW1g&.W66rg+b%gW_vbYg%u&gvYNYWYr6*.%l&+g6.g66v&g%.vWxv1YA%.&YY%1ru.v&g6b6&ggb.v61r/Yt.u61xWPxW%/rY.1u6+v6Ycbb&/g1./Wfr%YYSWuux%_&W./bg+.x6g&bY&b1&ux:^xWYr%YxP%6vx.>6b+/%gg.+6v&1+u%T&WxY!+Wx/vYr%.&Wv+z6bg/1gv1.6//Yv6%g&WxxdxWrr.Y&.gr1vgT%bv&/g/.y6urY1u%x&%xrC+W&/YY61gY.vv41b/&+gu.Y6Wrx6g%r&.x&}YW6/xYb1v..v/+)bu&ggW.x6%rr+.%&u+x601Wb/vY1166Avu+YbW&xg%+61.r&Y/%6ugxbZg1Y&&xYevW/v1+xb%&rg..&W+v6rY%bu6x1{/b://x..bb&/v+r%r&&x+.6W+/.xx.b66r+Y%bv/Wgx1%6rv.+&}vb6xr.bWvr1Y/1p+uW+xWbx&Ygr1.6&v.Y%1Wu%r/.1W1/OYu1Yuu/r+11xugv/y166r6+b%v&1xvYg%%uxxx<YWxvuA.b&&+g6.g6b6vv1.+ujxuDYb%WvY11ru.vb++b6&gvbgg6.r/Y^%uuYvxtxb.x6Y.1u6+vW+gbb&vv}bWW}rWYY1+uxx%yrW.Ivg+166gv1+v%R&/x_Y/WgrbYx%%urx.h&%gx1gg116vr++/%K&uxY/gWx/IYr%.u&v+U6%vvwgv.Y6/rg+u%Y&Wx&.&Wr/+Y&.vu6vxlb%/W.g&.r6urb+W%x&%rrg%Wu//Y61uubv%k1%ub+g6.u6Wr&+%%r&.r&g.WW/6Yb1bu1rs+y%WvrgW.b6%/++.%&u+vb%/Wb/1Y1116Cvu+YbWu+g1.%6./+Y+%6ugxbr;W1/%gR1u6Yv%+xb%v%g..uW+r.Yg1YuvvYx/bS/WgY.v6xv1+r1+buxY.bWgr1Yv%1u//KgubY/%gx1.6rrx+&%+u+xg..Wvr.Y/1-uuvY+1bx/.gr.Y6&r++6%gu/xvpmW//ZYu1YuWvx+&br/.g&.Y66rg+b%v&1x/,?Wu&sYW1xu%vrYzb&&+g6.+6x&6gW1&61r&+Wb./rxb;vbgv&YY1b6/gb.u61r/Y)%/WKr?YWW%&KY.1&6+v&fr1xurrf(&bg&%g/.%u/x%}rW./&g+/6+gub+&b1&/xR.uWYrW/b+%urv&Q&b+/6g+1bbx&+gf.x6Yr++uW/r%Yr%.u&v+/6gbgbgv.g6/rc+u%w6rv%+u%Y/YY&1+u6vgVbUvb1//.g%buvx1_/bC/u%Y.//+Y.1gubvv:b11u+vY+r61rx+%%r&.x&+uryggY.1vu1v/+ buYY6uWx6%r%+.%&u+x&.rWYu/g.fxWv66+YbW&xg%&u6.r&Y+%6ugxbXv1x&/g+1u6Y&v+xb1&rx/.&Wv_+Yg%buv/&;/b+/ugY/16xv%+r%j&&x+.6%g66Yr%1u/vdCubv/WvxYW6/v.+&%+&6xx.b%v6bY&1PuuvYJWb6/%gru16&rY+6%x&bxv.1%/&+Yu1guWvvK%bu/.v&.W66rx+b%r&1x&CRbW/.YW1ru%rx>.b&&+v6Jv6br/+1%uuXxW<Yb%&6Y%1uu.r+++b6&gx1.W61rWYm%1uYxWBxb.x6Y.1%6+r++gbb&vg1+/W+rWYY1,uxx.2rb.&bg+1W6gr6+v%n&/vY+rWYrbYx1&urx.(&%g&%gg116vr&+/%G&uxY..Wxr1Yr1+u&vY46bgu&gv1.6/r++u%Y&WrxzWWr/yY&1Yu6vr_b1vWbg&.+6urg+W%v&%v&xKWu/gY6.+ubvv<11/W1g6.x6Wrr+%%&&.v6(6W6/rYb11u1v/+f%W&%gW.&6%rW+.%&u+vb+bWb/6Y1116(vu+YbW&/g%.&6.r%Y+%bugvbe1W1/&gc./6Yv%+x%.&Ng..uW+/vYg%buvryV6b^/WgY.v6xv%+rb.ufx+.WWgr1Yv%.u/v;YrbY/bgx116rv.+&.+&Wxg.%Wvr.Y/1guu/YY&bx/1gr.A6&rY+61v&%xvszW//1Yu1YuW/x+%br&+g&.g66rv+b%v6xx/#gWu/YYW1xu%vr+%b&&gg6.v6br/+11/WrxuMgWW&YY%1&u.vb6&b6&ggbxv61r&Y-%uYvxWTxW%//Y.1&6+/6v+b%&vg1./WFrbYY.W%Yx14rW./&g+1W6g/bvgb.&/xK.uWY/+Yx%%xvx.Iub+/Wgg1b6v/1Y6%;&6xY.bWx/2Yr..uuv+tWbg/%gv1.6//YYA%Y&%xxOWWrr.Y&8+u.vg)1bv&Xg/.Y6u/xgr%xu8xrHbW&/+Y6.vu1vv+Yb/&xgu.Y6W/r.+%ruxx&t%W6/gYb1vW1v&+Ybu&/gW.r6%/rg/%&uYx6++Wb//Y1.u61vu+gbW&.g%.r6./6Yr%6uvxbH.W1//g_1u66vW+vb%&&g..uW+r6Y6%burx1k&b}/ugYdWWgv%+/b.&ux+.%Wg&brg%.u&vF_6bY/bgx..1/rO+6%+u&xg.bWv&1rv1+uWvYj%bx/.grD+W+r++%%guuxv.1W/&Yg+1Yu.vx++br/.g&RgWvrgY+%vu6x/:EWu/YY11xu.vr+xb&&gg67g6.rv+.%/u1xuUxWW&rY/1r6Cv&+bb6&ggbs/W6r/YY%uubxWOxW%/rg11&6Yv6+vbb&rg1./WYruYg%Wuvx%_rW.u&gb166xvb+rb1&6xy+ubWrWYv%%u/x.Pub+&bgx1b6/v1Yv%R&uxY+WW&r%Y&%.u6v+abbg/bxs1166r!+u%Y&Wxx.%b6r.Y61+ubvg 1bv&1v%.M66rYYu%x&.xr..+u/+Y61gu%vvl1b/&9gu.Y6WrxY/%r&.x&}+bg/gYb1vubvgeY%&&vg.1v6rr&+.1ou+x6TgW6/&vY.bbI/uY/%.&xxY.r6.r&+.%&6xru+6W1&rg?1u6YvuDW1Y66ggC%%x/%g&.66uv.Yv1xubgY.+6xv%+rb%6&vY+g%v&.Yv1uu/v-Gub-r.x%+_Wu/1gr1.u.vrYHWv/rY/1huuv}.11guWvxHxWW&v+6%%&bxv.1Wvu/x&5xWr//Y%%/uYx%.+Wvrg+b%v&brv+.bb&1xx_xW%r.Y%%.&+xY.g6brv+bbW6vrbYr%%ugvr+Gu.v&++b6&ggb.v61r/Y2%uuYxWRxW%/rY.1u6+v6+gbb+&g1.&WPruYY%Wuxvgv&by/ug+.Y6gv%+vb1&/xxucWYrWYx1vurvQX&b+e%gg1%6vrE+/%>&uxY&+Wxr1Yr1qu&vYd6b/+ggv116//r+u%g&Wvrg1W//*Y&1ru6vgAb%/b.g/.Y6ur6+W%x&%rrQ%W&/gY61vubvun1b/u/gu.x6Wr/+%%r&.x&+YW6/xYb1vu1v6+Ib%uvgW.x6%/6+.%uu+r6x+W%/WY11b6kvb+Y.+g+g%.b6./6Y+%Wugx%JvbY<1gs1u6Yr%+xb1&rxg&.W+r6Yg.*uvx. /1UW.gg.+6xrY+r%u&&x+b&Wg/YYv1#u/v+}ub&+&gx116rr%+&%Y&6xv.bWuTvY/1,uurtUWbv/%gr&Y6&rY+6%x&bxv.1W%bYY61guW/x?%b//.g&.+61.6+b%v&1r/NjW6/YYW//u%v/t.bW&+g6.gbb1%+1%&uox6CYW%/xx%16u.vu++bW&gxg.v61/WYm%buYx.:xW%/rY.1.6+vW+gb.&vx_./bYr%YY%buxvr4rW./&gv1.6gvb+v.v&/x+.ubx6bYv%1urv&=&b+/6guA&6rv.+/.x&uxg.WWvr%Y6/ru&v+i61//bgr116W./+u%Y&WrW.%W/r.g6YYuWvx_bb1/1g/.?bu6&+b%v&%x/..W1/+Y6W+ubvrf1bu& g6.Y6W./+%%/&.x%w+W6/gYbrWu1v&+yb6&Ygb.x6%b/+.%&u+xW#gWb/vY.1/6Evu+Y%u&xg%.r6.r1Y+%6ugx6.1%W&&x/.16YvW+xb%&rg.aKW+r6Yg%6&&r%Yv1x&1v)h.6xrr+rb.&&g.y1b&uTg6.+WWrv+%bY&5gx1%6rv%+r1Y6/v&.bW6r1Y/1hu/vrYx1+uYgu1.6&r++6%g&bvug1W/&uYu1YuWvYY.%&6/xu+xb%/&xI116Yg+%.u&vg+gb6/.g6.v6&rvYY%W&brvY6%/u,xuN 6.&%v:irWWrug6b&uxvuQ6616xY4%uuYxu%xg16/WN+.Y+bYux.1Rvu1//+v16vx6W+x6.&r+..urYW6YxuguvgrM&/Y/u+/1bvxv%;xb./xuYxWPgbxYvbru/gWQu66bWgx%66rxxr&%+rbxg%bWr+.&Prw+.%Y&Wxx.W%r&Bx+VgW%vg+Ybv/1g/11bv&+xY1u6.xrj&W&/+Y61+uW//Y/1ru1gvNWW%rxY1%r&.x&..W/&xx/.6ub/rgx1Yu&vxZ/W1&6g&./6./g{gWb/vY1/66sv6+YbW&xg%.r6..WY+%bugx%(vW1//gkr+6Yv1+xb%&rg..&W+v%Yg%%uvv+4/b+/ugY/16xv1+r%+&&x+.6WuW1Yr%.u//&Rubg/Wgx1%66.r+&%+&6rW.bWrr1guY+u6vgoWb./%gr1.6&.x+6%v&bx&.1W//UYu/guWvv{%b&/.gW.+61.6+b%v&1r%4kW6/YxWY6u1vbz.b&&+xr.g6b6++1%%uBxWmYW%/xY%/uu.v.++b%&ggb.vWxb/Y9%.uYvbqxW1/rgr1&6v.++gbb&vx../W+ruYr/Yuxx%Ar1v/&gY166g1.+v%x&/x+.uWYrWxx+Wu/vvl&b//6g&1b6vrg+&%r&ux&.WWxr%Yr/Yu&v&G6b//bgv11b/u1+6%u&WxW.%WWr.Y1x+u6vucb%1/1g&.kWdrY+.rW&%xr..%+/+YW1g6N1bT1b/&<v..Y6brxY.+/u>x1<+b//gYb1vW16v+4b.&Yx+.xWWrr+..Vu+vYGgWb/vgY1/%Pr/+Y%g&xxY.rWgr&gg.gugvvivbc//gZ1u6Y/g+x%/&rxF.&W+r6xg.ruvv&Z/b6/ugW1WWrr++r%6&&xW.6WgrbYv.>u/vu?ubW/Wg.1%Wrr1+&%u&6xr.bW1r1v/.&uuv6>Wbv/%g11.%&1++6%W&bxW.1W1/?Yu%vuWv6p%b1/.gu.+WD=Q+b%r&1vYPZW6/YY%1x6+1%).b&&+xv.g6%rv+1g&u2xuEYWb/xY%1r62v&++b6&gxg.v61r/Yg%uuYxW7xW%.ru.Y&6+r++gbb&vgb166r&Wgg.&6ux%+UW./&g+1&ur/xYr.Vu&vg+%b/&%Y/%%urx.c&b+.6ub6b6vrY+/%Q&uxS+ubuuxYu%.u&v+S6bg.x%u616//++u%Y&WxY.v%W&bgu..WurbYcb/u%vr+x6u/gg%.&u&xr..W&/+%u1gubvvs1b/&wgu+Yb/rx+%%r&.x&PxW6ugxg1vu1v/+ybu&ugW^rWarrYJ%&ugx65gWbuvxg1/6+vu+gbW&ug% &Wvr&Yg%6u/xb7vW1&ux/1u6vvW+vb%&rg.(6&vr6Y/%buWx1U/bi/ux*1b6vv%+6b.&6x+s6W&rbYv%1uuv)e6bY/Wuv1%6rv.+u%+&6xg.bWvr1Y/1Zu.vYIWbx/%x/1.6&r++&%&6.v6YaW<&1xud/W.v/YY1&6vv+qxW.rgY/%v&1x/.1W>&/x.1/WY/&gv1+uxx..gWxrv+1%/&1gbY+%uuYxY.ubgv&+%b6&ggb.g6&&bg%.uuxrAYv1Y&WvYCb6+rY+gbb&vgb+Lb1/.+b5LW+r% rbx/&g+166+/gYr1WubvY.uWYrWY6.uu/x.k&bx/6gx1b6rv1+Wr/&uxY.WW/r%Y/%.ub1&;6bg/bxx116&r4+u1b&bxv.%W/r.Y&1+6br&Gbbr/1gb.U6urYY%+v&1x/..W1/+Y61gWbuW(.b&&hg6.Y6%rxY.66&.xW5+WW/gYb1vu11x+)b6&Yg1.x6.rrg.+ruYxWPgW%/vgY1/b-u.+gbb&xg1.rWYr&Y//&ugx.TvW1//g+1u6gvW+xxY&rg..&W+r6Yg%buvx+X/b+/ugv1W6vv%+6rr&&x+.6bxrbYr%1u/r6_6bg/Wgx1%6rv.Y61r&6xx.bW6r1Y/1luuWg:Wbx/%g/1.6&r++W%x&bxv.1W%/_Yu1YuWr6o%br/.gr1/bg&+gtbW6/ruYg%%rvxg.%Wur6*1%1/xvrpxb.&&+1%.u?xueYWu&%xW.buu/%Y116&gxx.v61r/+1%gW/r&Yx%ruxxr1&6Wv6+gbb&gg+d.b+&Wgg11W&rYY&W.&+g+166gv6R%.g6xv++/%+&xg&%%6Yx.2&b+/&Yr0xWr/bY11v&brrGb%&&Ygg%.u&v++bJx/%gv116urw+u%Yu+r=.1Wrr.Yb1+uWvgP%bv&Yb1.H6urY+.%x&1xr gx./+Y61g6&vv=.b/&)bb.Y6Wrx+%%r&.x&Y+.&/xYb1vu1v/+xbu6Y&+.v6%rr+.%&uYx6+vuE/vgA1/6vvu+YbW&xb6.r6.r&Yg%6uvxbYvRx/&gL1u6YvW+6b%u&+g.&Wgr6Yr%buvx1H/Wg/ugY1W6rv%+/b.&&6Y.6WgrbYr%1u/v9=ubY/Wgx1%W/v.+&%+&6x6.bWvr1Yv1;66/xYI1Y6+gr.66&r++6%+&Prx+6b6&v.u%.Wx/ZY&br&ug&.+66r+m.1%u.ru++bburxBCru%v6_.b&&+g&++b+&b+11rusxu{YWurWxYZ6ugr%gx%%u&v6^uW.&vxx.buv1vu%vrO.b&&+v6uu+g%v&vg1./61rux+.16%/++.%1urgx166gvb+vb1&/g-W&WY/_Yx%%urx%tr%Yu/x&1.6vv1+/%R&uxY.WWxr%gx%.u&v+(&bvuvxbNrbWvbg&.u6Krr11%&&bY&1/u6vgBbbgu1x&VubW&v+W%1&%xr..Wru&xucvW//&Y1%&ugx1.YWgrx+%%r&%x1+rb%u/xW{/&+v/+vbu&YgW.Y%x//g&.bu+v+XgWb/vYb%6ur/WYg1&uug%.%6.r&Y+%&&Wv%Yg%Yugxv+/6YvW+xb%&rg..&W+r6Yg%buvx1u6b>/6gY1W6xv%+r%v6xxY.WWg/+Yv%.u/v+Rubr+Ygx1%6rrx+&%Y&6x/ugWvr1Y/H%uuvgpWbx+^gr.X6&rY+6%g&bxW+6W&/+Yua.uWvvw%b//.gb&&66rg+b>Y&1x&t=bWWgYb1vu%rv>.b&&+xbb/6br/+1%%uQxuZYWWxYY%1/u.v6++bW&gx1gr6.r&Y}1vuYxW*xb.b/Y.166+r/+gbb&vv1f.WLrWYY%%uxvYSrW.&xg+1b6gv.+vb1&/x>p.WYrbYx%%urvYz&bv&.gg1b6v&&+/%+&urYguWv/gYr1xu&v6:61u&bgr.x6/&6+u%g&Wxr.%W6VrY&1+u6/%Ibbr/1v/Y166r&+W%u&%x/..b6WYYW16ubrY 1b/&Mg.vY6Wr6+%1.&.xu-+b+/ggF/bu1v/+e1Y&Ygb.xW+.%+.%&u+/xdgW%/vx1Yv6+v.+Y%w&xx1.rb+6uYY1+ugvbSvW1//v;Y/6grY+x%x&rxg.&W+.%Yg1xuvvUf/bq/uvYYu6vrv+r%/&&xx.6%g66Yr1ru/v&Aub%/WvxYW6/r/+&%u&6vg.b%v6bY&1&uuv6KWbW/%x&gj6ur6+61+&bxv.1%/61Y61WuWv%s%b6/.x6bv66r%+b%%&1x/CHbWxrYW1.u%v1B.b&&+xb6.6b/++11+u#xukYWW&WY%1.u.rx++bb&ggb4661r.Yt1+uYvx=xW%&1Y.1.6+vb+gb1&vx1XuWEr.YY1Wuxvxirbv+vg+1W6gr%+vb.&/xY.uWr?YYx%%urr;T&bY/6g/&g6vv1+/%+&uxg.WWxb1Yr%.u&vYF6bg/bgr116/rU+u%r&Wxx.%Wr//Y&1+u6v+}x1u6Yv/1/W1&r+W%u&%xr..Wr&&gW?^W+vvv>b/&Ogu.Hbg&&x+.rWYgY1(uuuvg%*b/br1Yu1%u6rNar%Y&ugx.66xruY+1E&6xbiW/1rbg+1&rggxD1b1&Wxv%66.v%Y1%guu+gb1&xg6+&1Y6urg%bu?&/gx.vWgY%.%%bu&xgC.6xr&+rb.&&g.+r%Y/%gu;+WW/YYY1cuYgb1%6rv.Y6.S&Wxg.bWur1Y/1H6Wvr^Wbv/%g&1.6&r+g61h&bxr.1W&/!Y61Y6%vrk%bu/.gW.+66rg+b.Y&1x&:GWb/YYW1xu%r.2.b&&+g6.g61rv+1%&u>xuMYWb/xY11ru.rb++b6&gg%.v61r/Yw%uuYxWnx%g/rY.1&6+AW+/bb&vgbuxJ*%rW.gb.116vrYb+vuYvxx=6b&YrW1&66urkY%&b+g1*?1bv&Y1+/uxvrxY61&xr%166bu&ax%6bgx=wY11v6g!+uurv&xxW=&rr.1b61u6pr%bbvxY>x.AvbgY+Wu&v6xrWY&&/+11W:ubk&%1b/xx{r.Yv1gx+%u6vbx&Wx&6/g.?WYu1o61Ebuxrn&.xr{gr+.ubv1x6Wr&b/v.YWx6)ib1YbWx&w6.rrYg&Y+u1rLxbW&&1//.xWr6Y=11xb%x6cb.&rxg6Yg6IrYx1W6uA/u.rW&6x+81rb.xb?1.6rrgbYv6YrxvcWbuY/W.&W66r+Y1&%+x1+B.br&g1Y/6xrrvYW1ux/%.6Wb6&+x16%gv*+Y.1r6xsYu6rr&vxb!ur/..bW166+r1b%vvY+xK(rbxYYW6&r6vrbYu&&+.1bk6b+&11%/vx+r2Yr1xxY%66rbv&bxu6&g^TbY61+6.2%uvr+&Tx/HxrY.6br1v6brub&vaYbxWz+b.Y%Wv&+6Sr/Yx&g+61/^vbb&u1&/4xbrWY+1.x%%v6+b:&/xx6ggW</Yv1b66:&uhrb&WxYX.r%.vb+176/rxbgvWY/xrXbb6Y&Ww&b6WrYY.&1+v1Yn>b/&x1g/Wx/rrYb16x&%:6bbW&Yx.61grnYYP1/6vVguWr/&rx%86r&.*bb1W6Yr.b1vrYYx+l/bvYgWW&/6rr%Y6&u+!1%XWbY&.11/rxYr+Y/1vxg%W6/br&%x66ug+I%YW1Y6m,1urrY&+x&,vrg.Wb/1r6%r6buv+Y%xbmYbFY1Wr&Y6+r&Yv&x+W1&Irb%&61u/+x%rbYY1^x1%r6Yb+&&xv6xgb_&Yr1%6WGuu+r%&bxgoPr1.rbY1+6&rvbxvbY&x/?%bWYuW+&%6brgYV&.+r1gD+b&&v1x/bx&r/Y%1Wxu%+6%bb&gxw6.g/)gY+1&6rmxubr&&/x1TWru.+b%1b6grlb.v/YgxYj&brYxWb&&6/r1YW&6++11wbbg&Q1.//xgrYY&1rxx%b6&b/&1xW66gYT1Yb1g6+a.u/rg&Yxu5rrx.bb&1/61rWb6vYY1x%Rgb+Y.W/&g6YruYr&v+b1u</b1&W16/Yx1r%Yg1+x.%/6gbY&uxr6vg%cuY/116bn6uYr1&%xxB+r../bg1Y6urrbvv%Yux&91bbY6WY&16%rxY+&F+/1x,Ybu&r1v/%xur&Y11bx6%Y61b%&xx+6ag&CxYY1u6/2vu%ru&&x.;br6.Yb11%6xr+bFv&YxxgVub/YvW%&u6&r.Yb&W+Y1.o%bx&+1f/&xxrgYu1/xv%%6ub&&.xb6Wgg#.Y%1x6YGyu&rx&gx6R/rv.%bu1&6.rbbWvgY.x1lxbYYBW&&x6gr6Y/&r+%16#&b.&b1W/gx.r1Yx1YxG%&6xbg&6x/6rg1h6Y&1.6%OWugr.&1xv(YrJ.&bx1g66r/brv1Y6xuE.b%YWWg&.61rvYY&++&1vcgb6&/1r/1x6ruY.1%xW%g6.b1&vxY6+gu;vYg166&Lru1r6&uxAa%rW.gb.116vrYb+vuYvxxy6b&YrW1&66urKY%&b+g1Tm1bv&Y1+/uxvrxY61&xr%166bu&*x%6bgx9>Y11v6g)+uurv&xxWc&rr.1b61u6>r%bbvxY9x._vbgY+Wu&v6xrWY&&/+11W(ub!&%1b/xx4r.Yv1gx+%u6vbx&Wx&6/g.:WYu1l61_buxrf&.xr{gr+.ubv1x6Wr&b/v.YWx6_Mb1YbWx&26.rrYg&Y+u1r(xbW&&1//.xWr6Y911xb%x6lb.&rxg6Yg6srYx1W6u4/u.rW&6x+H1rb.xb;1.6rrgbYv6YrxvBWbuY/W.&W66r+Y1&%+x1+K.br&g1Y/6xrrvYW1ux/%.6Wb6&+x16%gvc+Y.1r6xjYu6rr&vxbLur/..bW166+r1b%vvY+xC-rbxYYW6&r6vrbYu&&+.1bK6b+&11%/vx+rBYr1xxY%66rbv&bxu6&g7LbY61+6.E%uvr+&zx/;xrY.6br1v6brub&vIYbxWT+b.Y%Wv&+6Vr/Yx&g+61/4vbb&u1&/LxbrWY+1.x%%v6+bT&/xx6ggWe/Yv1b66e&ukrb&WxY_.r%.vb+1P6/rxbgvWY/xrTbb6Y&WL&b6WrYY.&1+v1YZdb/&x1g/Wx/rrYb16x&%X6bbW&Yx.61gr(YY}1/6vjguWr/&rx%m6r&.kbb1W6Yr.b1vrYYx+F/bvYgWW&/6rr%Y6&u+O1%JWbY&.11/rxYr+Y/1vxg%W6/br&%x66ug+j%YW1Y6mq1urrY&+x&Bvrg.Wb/1r6%r6buv+Y%xbeYbpY1Wr&Y6+r&Yv&x+W1&Qrb%&61u/+x%rbYY1Rx1%r6Yb+&&xv6xgbQ&Yr1%6W4uu+r%&Y/u+u%vYaWbY+6&rvbxvbg/g/X%bWYuW+ububrgYJ&.+r.+.+b&&v1x/bv/v/Y%1Wxu%+WbWb&gxf6.g/+Y++1&6rJxub////x1qWru.+%b%b6gr-b.v/gYgYH&brYxWbu/u/r1YW&6++.b.bbg&d1.//vYvYY&1rxx%bW/W/&1xW66gY+%+b1g6+A.u//Y/Yxu!rrx.b%/%/61rWb6vYg%g%7gb+Y.W/uYuYruYr&v+b././b1&W16/Yv%v%Yg1+x.%/WYWY&uxr6vg%+&+/116bt6uY/%/%xxp+r../%Y%Y6urrbvv%g&g&k1bbY6WYu%u%rxY+&5+/.Y.Ybu&r1v/%v&v&Y11bx6%YW%W%&xx+6fg&+g+Y1u6/Avu%/&/&x.ybr6.Y%%%%6xr+b,v&gggg?ub/YvW%u&u&r.Yb&W+Y.%.%bx&+1{/&vgvgYu1/xv%%W&W&&.xb6Wgg+1+%1x6Y:eu&/g/gx6^/rv.%%&%&6.rbbWvgg1g1exbYYzW&ugugr6Y/&r+%.&.&b.&b1W/gv1v1Yx1YxT%&WgWg&6x/6rg1+u+&1.6% Wug/1/1xv2Yrz.&%g%g66r/brv1gugu7.b%YWWgu1u1rvYY&++&.g.gb6&/1r/1vuvuY.1%xW%gW1W1&vxY6+gu+x+g166&5ru1/u/uxIa%rW.g%1%16vrYb+vugxgxZ6b&YrW1uuuurqY%&b+g.1.1bv&Y1+/uvxvxY61&xr%1WuWu&Kx%6bgx+.+11v6gc+uu/x/xxWt&rr.1%u%u6Jr%bbvxg.g.VvbgY+WuuxuxrWY&&/+1.u.ubd&%1b/xv.v.Yv1gx+%uWxWx&Wx&6/g.+6+u1-61^bux/./.xrigr+.u%x%x6Wr&b/v.g6g6l{b1YbWxu.u.rrYg&Y+u.x.xbW&&1//.v6v6YU11xb%xW.W.&rxg6Yg6+v+x1W6u9/u./6/6x+<1rb.x%.%.6rrgbYv6gvgv^WbuY/W.u6u6r+Y1&%+x....br&g1Y/6vvvvYW1ux/%.W6W6&+x16%gv+h+.1r6xTYu6/v/vxbdur/..%6%66+r1b%vvgRgBQrbxYYW6uvuvrbYu&&+..6.6b+&11%/vvPvEYr1xxY%6WvWv&bxu6&g!+W+61+6.E%uv/G/hx/fxrY.6%v%v6brub&vNgWgW2+b.Y%WvuBu{r/Yx&g+6.v.vbb&u1&/DvWvWY+1.x%%vW<W?&/xx6ggW+r+v1b66h&u0/W/WxYR.r%.v%7%S6/rxbgvWgrgrqbb6Y&WnuWuWrYY.&1+v.S.>b/&x1g/WvrvrYb16x&%TWWWW&Yx.61gr+++;1/6v#guW/r/rx%96r&.G%W%W6Yr.b1vrg+g+(/bvYgWWururr%Y6&u+A.W.WbY&.11/rv+v+Y/1vxg%WWrWr&%x66ug++b+W1Y6i{1ur/+/+x&,vrg.W%r%r6%r6buv+gbgbMYb4Y1Wru+u+r&Yv&x+W.r.rb%&61u/+vbvbYY1,x1%rW+W+&&xv6xgb+/+r1%6Wmuu+/b/bxgewr1.r%+%+6&rvbxvbg/g/2%bWYuW+ububrgYG&.+r.+.+b&&v1x/bv/v/Y%1Wxu%+WbWb&gx76.g/+Y++1&6ryxub////x1KWru.+%b%b6gr0b.v/gYgY*&brYxWbu/u/r1YW&6++.b.bbg&t1.//vYvYY&1rxx%bW/W/&1xW66gY+%+b1g6+i.u//Y/YxuLrrx.b%/%/61rWb6vYg%g%jgb+Y.W/uYuYruYr&v+b././b1&W16/Yv%v%Yg1+x.%/WYWY&uxr6vg%+&+/116b26uY/%/%xxl+r../%Y%Y6urrbvv%g&g&=1bbY6WYu%u%rxY+&F+/.Y.Ybu&r1v/%v&v&Y11bx6%YW%W%&xx+64g&+g+Y1u6/{vu%/&/&x.Pbr6.Y%%%%6xr+bzv&ggggRub/YvW%u&u&r.Yb&W+Y.%.%bx&+1X/&vgvgYu1/xv%%W&W&&.xb6Wgg+1+%1x6YyMu&/g/gx6#/rv.%%&%&6.rbbWvgg1g1ExbYYLW&ugugr6Y/&r+%.&.&b.&b1W/gv1v1Yx1Yx %&WgWg&6x/6rg1+u+&1.6%ZWug/1/1xvlYrM.&%g%g66r/brv1gugua.b%YWWgu1u1rvYY&++&.g.gb6&/1r/1vuvuY.1%xW%gW1W1&vxY6+gu+x+g166&Zru1/u/uxf,%rW.g%1%16vrYb+vugxgxF6b&YrW1uuuurJY%&b+g.1.1bv&Y1+/uvxvxY61&xr%1WuWu&dx%6bgx+.+11v6gT+uu/x/xxWQ&rr.1%u%u6Rr%bbvxg.g.wvbgY+WuuxuxrWY&&/+1.u.ub?&%1b/xv.v.Yv1gx+%uWxWx&Wx&6/g.+6+u1>617bux/./.xrJgr+.u%x%6%r%+.%&u+x&6D,b1YbWx&86vu+/bW&xg%.x%r/ug6.1ug.%muW1//Y1&r.YbuW+gY1W%bx&+.B/&&x+gYu1/vv%%1u/&&.xbWWggx1%%1x6Y+tu&6xggx6I//v.15uu&6.rb%Wvgr1.1MxbYgIW&bxvgr6Y/ur+1YuW&b.&b.W/g&.+1Yx1Yv*%&1x/g&6x/Wrg1xu%&1.6%+Wug6.g1xv-Y/y.u!xug66r/%rv1ru.u0.b%gWWgb.v1rvYYu++uYxWgb6&/.r/1&6+uY.1%vW%g1./1&vxYW+guxx%g166&+ru166gux0k%/W.x<.u16vrY%+vurx.xI6b&grW1b6vuroY%ub+xY.W1bv&Y.+/u&v+xY61&vr%116/u&Ax%Wbgxx.%11v6g++uu6vgxxW_&/r..f6uu6kr%%bvxr...4vbgg+WubvvxrWY&u/+.Y6Wub_&%.b/x&U+.Yv1gv+%u1v/x&Wx&W/g.x6%u1961+bux6#g.xrdg/+.6#vux6Wr&%/v.r6.6jXb1gbWxbnv.rrYguY+6YvWxbW&&.//.&W+6Y)11vb%x1G/.&rxgWYg6xv%x1W6u+/u.6Wg6x+>1/b.vjJu.6rrg%Yv6rv.vGWbug/W.bWv6r+Y1u%+vY-W.br&g.Y/6&r+vYW1uv/%.1W/6&+x1W%gvxF%.1r6x+Yu66rgvxbGu//.PMWu66+r1%%vvrB.eVrbxgYW6brvvrbYuu&+mYWW6b+&1.%/v&++RYr1xvY%61r/v&bxuW&g{xW%61+6.+%uv6+g=x/Ux/Y.W}ruv6bru%&v#rW.W*+b.g%Wvb+vVr/Yxug+WYrWvbb&u.&/_&b+WY+1.v%%v1+/c&/xxWggWxr%v1b66+&u,6bgWxYB./%.rn+ue6/rx%gvWrr.rRbb6g&WGbbvWrYY.u1+rY+WSb/&x.g/W&/+rYb16v&%o1b/W&Yx.W1grx+%(1/6v+guW6/grx%,6/&.+UbuW6Yr.%1vrr+.+9/bvggWWb/vrr%Y6uu++YbWWbY&..1/r&Y++Y/1vvg%W1//r&%x6Wug+xb%W1Y6;+1ur6Yg+x&Qv/g.b{/ur6%r6%uv+rb.bzYb5g1WrbYv+r&Yvux+bY/Wrb%&6.u/+&%+bYY1yv1%r1Y/+&&xvWxgbx/%r1%6W+uu+6%gbxg^K/1./cYu+6&rv%xvbr/./D%bWguW+b%vbrgY^u.+/YYW+b&&v.x/b&&+/Y%1Wvu%+1%/b&gxMW.g/xY%+1&6r+xub6&g/x1PW/u.YE%ub6gr8%.v/rY.Y(&brgxWbb&v/r1YWu6+YY%Wbbg&^..//&g+YY&1rvx%b1&//&1xWW6gYx%%b1g6++.u/6ggYxuUr/x.%,&u/61rW%6vYr%.%}gb+g.W/bgvYruYruv+%Y&W/b1&W.6/Y&1+%Yg1+v.%/1g/Y&uxrWvg%x&%/116b+6uY61g%xx9+/..&#guY6urr%vv%r&.&F1bbg6WYb1v%rxY+u}+&YgWYbu&r.v/%&u+&Y11bv6%Y11/%&xx+WPg&xg%Y1u6/+vu%6ug&x.Ub/6.gt1u%6xr+%>v&rg.gqub/gvW%buv&r.YbuW+gY1W%bx&+.P/&&x+gYu1/vv%%1u/&&.xbWWggx1%%1x6Y+cu&6xggx6M//v.1>uu&6.rb%Wvgr1.1zxbYg>W&bxvgr6Y/ur+1YuW&b.&b.W/g&.+1Yx1YvR%&1x/g&6x/Wrg1xu%&1.6%+Wug6.g1xvGY/J.u*xug66r/%rv1ru.uB.b%gWWgb.v1rvYYu++uYxWgb6&/.r/1&6+uY.1%vW%g1./1&vxYW+guxx%g166&+ru166gux{s%/W.x0.u16vrY%+vurx.xc6b&grW1b6vur>Y%ub+xY.W1bv&Y.+/u&v+xY61&vr%116/u&Xx%Wbgxx.%11v6g++uu6vgxxWX&/r..06uu6Or%%bvxr...)vbgg+WubvvxrWY&u/+.Y6WubR&%.b/x&z+.Yv1gv+%u1v/x&Wx&W/g.x6%u1061+bux6Fg.xr g/+.67vux6Wr&%/v.r6.6)2b1gbWxb-v.rrYguY+6YvWxbW&&.//.&W+6YS11vb%x12/.&rxgWYg6xv%x1W6u+/u.6Wg6x+-1/b.vE-u.6rrg%Yv6rv.vjWbug/W.bWv6r+Y1u%+vY5W.br&g.Y/6&r+vYW1uv/%.1W/6&+x1W%gvx(%.1r6x+Yu66rgvxbtu//.PXWu66+r1%%vvrk.jDrbxgYW6brvvrbYuu&+jYWW6b+&1.%/v&++;Yr1xvY%61r/v&bxuW&g^xW%61+6.+%uv6+g#x/kx/Y.W,ruv6bru%&v_rW.W(+b.g%Wvb+ver/Yxug+WYrWvbb&u.&/U&b+WY+1.v%%v1+/s&/xxWggWxr%v1b66+&u86bgWxY0./%.rN+uc6/rx%gvWrr.rzbb6g&W-bbv+u%r&Wxx.%WxrAxx.%u6v1Hbbv/1gv1rbY&xgB%/6Yr&Yvb%ugY616ubvvh1bv+%&uv.x&bv&r%rurx&V+W6/+bugv5W.x/+#r&Yv/.x6%rr+%bb6rrt+x1+u+vY%6W&r6grb16%rq+6bx&v+x.Y6x/*.61x&bx1-%bvvW+Wb%&rg..rx1W6u+/u.6WgP/b//ugY1W6Y.6rrgbYv6ugYWg/1Yv%1u/x1Kb%g6xg+_Ybu&YYu1&u.xv++%ruggbFgW%vY+Ybx/%gr1%xvW+&//i11u1.1W1/?Yu1Yuu//Y%%/ubx%!.66+xYD%v&1xvu%pu%.b&xb%v.gv.gv+16YYWxuWv&W/x.&&+u.yW1+b6x1%/.vr+g/YF6xY%xWW/&%/r.6&g6+7%1gbbv0%u./rgguYY6rY.x%Wu&./&.b&v6g).1vb1vY%W.urvgWYx6&g+x.WWu+/6.1&/6v++1/%}vx%%.Wr/g%Yr66ggv+W%ug/bEq&u6/+g1u%Yvr%..%rug.Y&6bgvvgW.uv/1^Y&W6u+v1W%xv&1+..rWx+Y661g/vvb+u/&kcx&%6W+/1%%rv61gT+r%xgYbW=guv/bguu&YXr&.6%+u1.%&vb1v4gr.xvY1WYgWvubvuW&xB&u+6.+W.+%6v11/Hv/+x/gaWxg%vWb/u%&rG6ugW++%.g%br<1u}//gxugYWrg.v%buu.&&?buvWg+..v%1rY1Weu/vxWgxW&x+v.bW6+&681u/WvY+./1 rx1%dW//x%grW6xgr+b%6g&b+AuuW/Yg.u1Yrr1.S%/ux.g&Wbxvrgb.6v&1+YuWWuYv.W1xr&.+M./Wv+g6W1x/rv%+6/u#+xu%WWY/.%1rr6.g++/%vggbbhxur/%g6uuY+ru.W%Yu..1&rb.v+g/.vvg1bYxWru%v6Wux+&6+W.YW,+16r1./+v&+v/x?bxx%rW%/6%ur+66gb+Y%wg1b/V.u+/&gvuxYbrx.r%%u6.u&+b6vbgY.4v11/Y.W+u&vvWxxb&v+r.%WW+u6+16/bvg+O/.V/x.%+W&/v%xrb6vg/+%%WgubYI6ub/gg)u.Y/r..+%&uv.x&bbvv/g%.Wvu1YY6WbugvZW.x/&(++.&Wr+x6b1v//v1+W/6mYx6%bWg/*%.r/6KgY+&%rgxb%Rvu//1gWu6YYr6.b%guV..&/b}vYg&.rvx1%YvW/u1vWW6xY&W+b.gW++.6/1)/Yvu+r/v{%xv%/W1/W%6rY6Wg%+g%+g.b&ATuY/ugruvY%rv./%1uW.6&YbWv%gg.+v.1&YoWYuuvrWvx%&r+/.1Wb+66Y1W/%vx++/Ca&xR%YWu/r%vr%6rg&+1%bg6bgUWu%/xg+u;Y&r2.Y%uur.v&%brv&g1.bv61gYWW%uxv+WKx&&++Y.uW/+v6%1r/&v.+b/WjgxW%%Wx/+%)r&6+gg+u%/gvb1mru&/.gbuWYgrW.%%xu+.}&&b+vggu./vv11YrW&u.vbWWxg&b+%.xWY+;6&1+/gv6+//rE1xr%&W./b%Wrg6bg1+x%YgVbuB+ug/6g/urY1rr.&%.ub.W&gbbv1gx.Yv;1uY+Wgu6v/Wrx1&/+&..W%+W6g1b/1vv+Y/+ ux+%gW6//%rr16/gu+.%%gWbxpbu1/vgYu+Yur+.g%6u/.r&1b/vug..%vW1xYbW1uvvYW+xu&Y+g.6W&+r611//uv*+%/b*xxb%1Wv/Y%+ru6Ygx+6%&grb.!/uu/sg%ubYxrb.1%vuY.+&ubYvxg6.&vr1.Y/Wuu9v%Wbxx&%+1.vWg++6u1Y/xvW+&//m.x/%uWh/%%brx6%g.+v%gg+b6GYux/Wg&u/Y.r/.u%Gu%.b&xb%v.gv.gv+16YYWxuWv&W/x.&&+u.AW1+b6x1%/.vr+g/Y_6xY%xWW/&%/r.6&g6+)%1gbbv_%u./rgguYY6rY.x%Wu&./&.b&v6gf.1vb1vY%W.urvgWYx6&g+x.WWu+/6.1&/6v++1/%_vx%%.Wr/g%Yr66ggv+W%ug/b?9&u6/+g1u%Yvr%..%rug.Y&6bgvvgW.uv/1)Y&W6u+v1W%xv&1+..rWx+Y661g/vvb+u/&jDx&%6W+/1%%rv61gP+r%xgYbWCguv/bguu&Y<r&.6%+u1.%&vb1vHgr.xvY1WYgWvubvuW&x_&u+6.+W.+%6v11/Ev/+x/gPWxg%vWb/u%&r{6ugW++%.g%brq1u_//gxugYWrg.v%buu.&& buvWg+..v%1rY1W#u/vxWgxW&x+v.bW6+&6)1u/WvY+./1Vrx1%?W//x%grW6xgr+b%6g&b+GuuW/Yg.u1Yrr1.R%/ux.g&Wbxvrgb.6v&1+YuWWuYv.W1xr&.+n./Wv+g6W1x/rv%+6/uk+xu%WWY/.%1rr6.g++/%vggbb4xur/%g6uuY+ru.W%Yu..1&rb.v+g/.vvg1bYxWru%v6Wux+&6+W.YWi+16r1./+v&+v/xRbxx%rW%/6%ur+66gb+Y%Ug1b/{.u+/&gvuxYbrx.r%%u6.u&+b6vbgY.Kv11/Y.W+u&vvWxxb&v+r.%WW+u6+16/bvg+ /.H/x.%+W&/v%xrb6vg/+%%WgubYD6ub/ggeu.Y/r..+%&uv.x&bbvv/g%.Wvu1YY6WbugvXW.x/&D++.&Wr+x6b1v//v1+W/6{Yx6%bWg/M%.r/6EgY+&%rgxb%Nvu//1gWu6YYr6.gp.>6YvW+xbW+&&bxbvl%YrY%.uvx1I/bV/ugY1W1xv%b/%g&&x+.&v}WbuY/W.&Wu6r+Y1&%+x1m..br&g1Y/6xrvvYW1ux/%.6WW6&+x16%gvU++.1r6x_Yu6rr/vxbZur/..bW%66+r1b%vvY+g_0rbxYYW6&ruvrbYu&&+.1W.6b+&11%/vx+vtYr1xxY%66rWv&bxu6&gJhb+61+6.a%uvr+/_x/GxrY.6br%v6brub&vpYbgWE+b.Y%Wv&+u8r/Yx&g+61r.vbb&u1&/lxbvWY+1.x%%v6+W4&/xx6ggW4/+v1b66_&u*rb/WxY#.r%.vb+%?6/rxbgvWY/grUbb6Y&Wt&buWrYY.&1+v1+.9b/&x1g/Wx/vrYb16x&%o6bWW&Yx.61grQY+;1/6vHguWr//rx%X6r&.pbb%W6Yr.b1vrYYg+{/bvYgWW&/urr%Y6&u+H1b.WbY&.11/rxYv+Y/1vxg%W6/Wr&%x66ug+y%+W1Y6(:1urrY/+x&Avrg.Wb/%r6%r6buv+Y%gbhYbVY1Wr&Yu+r&Yv&x+W1/.rb%&61u/+x%vbYY1 x1%r6YW+&&xv6xgbQ&+r1%6W7uu+r%/bxg}zr1.rbY%+6&rvbxvbY&g/-%bWYuW+&%ubrgYa&.+r1Y.+b&&v1x/bx&v/Y%1Wxu%+6%Wb&gxL6.g/0g++1&6rAxubr&//x1;Wru.+b%%b6gr}b.v/YggYi&brYxWb&&u/r1YW&6++1%.bbg&Z1.//xgvYY&1rxx%b6&W/&1xW66gY=1+b1g6+;.u/rg/YxuZrrx.bb&%/61rWb6vYY1g%0gb+Y.W/&guYruYr&v+b1&./b1&W16/Yx1v%Yg1+x.%/6gWY&uxr6vg%Vu+/116bJ6uYr1/%xxX+r../bg%Y6urrbvv%Yug&S1bbY6WY&1u%rxY+&i+/1g.Ybu&r1v/%xuv&Y11bx6%Y61W%&xx+6 g&Ax+Y1u6/qvu%ru/&x._br6.Yb1%%6xr+b0v&Yxgg5ub/YvW%&uu&r.Yb&W+Y11.%bx&+1A/&xxvgYu1/xv%%6uW&&.xb6Wggw.+%1x6YD^u&rx/gx6c/rv.%bu%&6.rbbWvgY.g1-xbYYOW&&xugr6Y/&r+%1u.&b.&b1W/gx.v1Yx1Yx-%&6xWg&6x/6rg1}6+&1.6%wWugr./1xvdYr^.&bx%g66r/brv1Y6guV.b%YWWg&.u1rvYY&++&1x.gb6&/1r/1x6vuY.1%xW%g6.W1&vxY6+guQv+g166&cru1r6/uxG!%rW.gb.%16vrYb+vuYvgx46b&YrW1&6uurjY%&b+g1..1bv&Y1+/uxvvxY61&xr%166Wu&_x%6bgxit+11v6g:+uurv/xxW<&rr.1b6%u6_r%bbvxY4g.mvbgY+Wu&vuxrWY&&/+116.ubp&%1b/xx7v.Yv1gx+%u6vWx&Wx&6/g.jW+u1l612buxrs/.xrUgr+.ubv%x6Wr&b/v.YWg6QLb1YbWx&mu.rrYg&Y+u1v.xbW&&1//.xWv6Yq11xb%x6=W.&rxg6Yg6^r+x1W6uc/u.rW/6x+e1rb.xb!%.6rrgbYv6Yrgv}WbuY/W.&Wu6r+Y1&%+x1Q..br&g1Y/6xrvvYW1ux/%.6WW6&+x16%gv!++.1r6x:Yu6rr/vxblur/..bW%66+r1b%vvY+g_RrbxYYW6&ruvrbYu&&+.1W.6b+&11%/vx+v-Yr1xxY%66rWv&bxu6&g8Fb+61+6.f%uvr+/}x/IxrY.6br%v6brub&vyYbgWC+b.Y%Wv&+u4r/Yx&g+61r.vbb&u1&/axbvWY+1.x%%v6+WO&/xx6ggWh/+v1b66^&uArb/WxY#.r%.vb+%f6/rxbgvWY/grIbb6Y&Wl&buWrYY.&1+v1+. b/&x1g/Wx/vrYb16x&%_6bWW&Yx.61griY+C1/6vpguWr//rx%O6r&.mbb%W6Yr.b1vrYYg+4/bvYgWW&/urr%Y6&u+Q1b.WbY&.11/rxYv+Y/1vxg%W6/Wr&%x66ug+8%+W1Y6H;1urrY/+x&7vrg.Wb/%r6%r6buv+Y%gbtYbmY1Wr&Yu+r&Yv&x+W1/.rb%&61u/+x%vbYY1Xx1%r6YW+&&xv6xgbE&+r1%6Weuu+r%/bxgT4r1.rbY%+6&rvbxvbY&g/F%bWYuW+&%ubrgY<&.+r1Y.+b&&v1x/bx&v/Y%1Wxu%+6%Wb&gxc6.g/Mg++1&6r7xubr&//x1LWru.+b%%b6grsb.v/YggY9&brYxWb&&u/r1YW&6++1%.bbg&n1.//xgvYY&1rxx%b6&W/&1xW66gYt1+b1g6+;.u/rg/Yxuqrrx.bb&%/61rWb6vYY1g%sgb+Y.W/&guYruYr&v+b1&./b1&W16/Yx1v%Yg1+x.%/6gWY&uxr6vg%?u+/116bl6uYr1/%xx +r../bg%Y6urrbvv%Yug1gx%vuj1b//1%rxY+&i+/1+gYbu&r1v/%xru&Y11bx6%Y6W.%&xx+6}g&q+vY1u6/{vu%rrW&x._br6.Ybb+%6xr+b7v&Y+/g8ub/YvW%&r%&r.Yb&W+Y1bg%bx&+1w/&x+ugYu1/xv%%6r.&&.xb6Wgg7bv%1x6Yhau&r+Wgx6}/rv.%b/+&6.rbbWvgYb/1exbYYpW&&+%gr6Y/&r+%1/g&b.&b1W/gxbu1Yx1Yx!%&6+.g&6x/6rg1-/v&1.6%TWugrbW1xvZYr7.&bY+g66r/brv1Y//uP.b%YWWg&b%1rvYY&++&1Yggb6&/1r/1x/uuY.1%xW%g6b.1&vxY6+guUYvg166&Sru1r/WuxBy%rW.gb%+16vrYb+vuYY/xd6b&YrW1&/%urVY%&b+g1%g1bv&Y1+/uxYuxY61&xr%16/.u&jx%6bgxq%v11v6gT+uurYWxxWC&rr.1b&+u6ar%bbvxY%/.>vbgY+Wu&Y%xrWY&&/+11&gubQ&%1b/xx%u.Yv1gx+%u6Y.x&Wx&6/g.Q&vu1l61jbuxr%W.xragr+.ubg+x6Wr&b/v.Y&/6e?b1YbWx&%%.rrYg&Y+u1ggxbW&&1//.x&u6Y*11xb%x6%..&rxg6Yg6hgvx1W6uS/u.r&W6x+ 1rb.xb1+.6rrgbYv6Yg/vkWbuY/W.&&%6r+Y1&%+x11g.br&g1Y/6xguvYW1ux/%.6&.6&+x16%gv;1v.1r6xpYu6rgWvxbkur/..bu+66+r1b%vvY1/<prbxYYW6&g%vrbYu&&+.1ug6b+&11%/vx1uhYr1xxY%66g.v&bxu6&g*quv61+6.y%uvr1WLx/(xrY.6bx+v6brub&vFYu/Wi+b.Y%Wv&1%,r/Yx&g+61xgvbb&u1&/SxuuWY+1.x%%v61.y&/xx6ggW=xvv1b66;&uVruWWxYQ.r%.vb.+,6/rxbgvWYx/rEbb6Y&WP&u%WrYY.&1+v1.g_b/&x1g/WxxurYb16x&% 6u.W&Yx.61grL.vJ1/6vdguWrxWrx%{6r&.pb6+W6Yr.b1vrY./+l/bvYgWW&x%rr%Y6&u+-16gWbY&.11/rx.u+Y/1vxg%W6x.r&%x66ug+S6vW1Y6Uo1urr.W+x&8vrg.Wbv+r6%r6buv+Y6/bTYbaY1Wr&.%+r&Yv&x+W1vgrb%&61u/+x6ubYY1{x1%r6..+&&xv6xgbyvvr1%6W)uu+r6Wbxgp!r1.rb{++6&rvbxvbYv//S%bWYuW+&6%brgYX&.+r17g+b&&v1x/bxvu/Y%1Wxu%+66.b&gxm6.g/JFv+1&6r4xubrvW/x1dWru.+bW+b6gr>b.v/YS/Yd&brYxWb&v%/r1YW&6++1Wgbbg&G1.//xMuYY&1rxx%b6v./&1xW66gYLWvb1g6+,.u/rBWYxu_rrx.bbr+/61rWb6vYYW/%Fgb+Y.W/&p%YruYr&v+b1rg/b1&W16/YxWu%Yg1+x.%/6,.Y&uxr6vg%frv/116b<6uYrWW%xx;+r../b++Y6urrbvv%Yr/&_1bbY6WY&W%%rxY+&!+/1+gYbu&r1v/%xru&Y11bx6%Y6W.%&xx+6Kg&M+vY1u6/Lvu%rrW&x.8br6.Ybb+%6xr+bKv&Y+/gDub/YvW%&r%&r.Yb&W+Y1bg%bx&+1_/&x+ugYu1/xv%%6r.&&.xb6WggXbv%1x6YSwu&r+Wgx6z/rv.%b/+&6.rbbWvgYb/1TxbYYyW&&+%gr6Y/&r+%1/g&b.&b1W/gxbu1Yx1Yx!%&6+.g&6x/6rg1s/v&1.6%iWugrbW1xv<Yr<.&bY+g66r/brv1Y//u0.b%YWWg&b%1rvYY&++&1Yggb6&/1r/1x/uuY.1%xW%g6b.1&vxY6+guyYvg166&Aru1r/Wuxn<%rW.gb%+16vrYb+vuYY/xm6b&YrW1&/%uroY%&b+g1%g1bv&Y1+/uxYuxY61&xr%16/.u&Tx%6bgxl%v11v6g0+uurYWxxW=&rr.1b&+u6Sr%bbvxY%/.CvbgY+Wu&Y%xrWY&&/+11&gubV&%1b/xx%u.Yv1gx+%u6Y.x&Wx&6/g.z&vu1A612buxr%W.xr*gr+.ubg+x6Wr&b/v.Y&/6Jpb1YbWx&%%.rrYg&Y+u1ggxbW&&1//.x&u6YE11xb%x6%..&rxg6Yg60gvx1W6uG/u.r&W6x+>1rb.xb1+.6rrgbYv6Yg/vwWbuY/W.&&%6r+Y1&%+x11g.br&g1Y/6xguvYW1ux/%.6&.6&+x16%gvm1v.1r6xSYu6rgWvxbhur/..bu+66+r1b%vvY1/G)rbxYYW6&g%vrbYu&&+.1ug6b+&11%/vx1u{Yr1xxY%66g.v&bxu6&g^zuv61+6.0%uvr1W:x/GxrY.6bx+v6brub&veYu/Wt+b.Y%Wv&1%ru%g%.uxx%(xv+bv&v&ueWuW6/+W%W%.r+.+.%/+g+gvW/x/vgb/&/&W{%u%6u+%%%1+rg.g../gggg/Wuxuvvbu&u&%8.u.6W+.%.1grv.vn+/vgvguWWxWv/bW&W&.++6+6%Y+1+1vr/./_g//g/gWW%x%vub%&%u++g6g6.Yg1g1/ru.u_v/ugug%W.x.vWb.&.ug+v6vW+Yv1v1urW.W //WgWg.b+v+v%%+u+uv+/6/WgY/1/1Wr%.%Iu/%g%x+bgvgv.%gugu/+u6uWvYu1u1%r...CW/.g.xgbvvvr+%vuvuu+W6WW/YW1W1./+9+H%&+x+xvb/v/rg%/u/uW+%6%WuY%1%.+/g?gU.&gxgx/buvurv%uuuu%+.6.WWY.1..g/vXv++&vxvxubWvWr/%WuWu.Y+W+W%g+.+.v//_/+g&/x/xWb%v%ru%%u%6+YgWgW.gg.g.//uJu+v&uxux%b.v.rW%.u.6gYvWvb+gv.v.u/W W+/&WxWx.%+r+r%1+6+6vY/W/bgg/./.W/%D%+u&%x%v+%grgr.1g6g6/YuWubvgu.u.%/.B.+W&.x.vg%vrv/+1v6v6uYWWWb/gW.W..&++++%u+v+vv%/r//g1/6/6WY%W%bug%.%k+&g+g+.ugvgv/%uru/v1u6u6%Y.W.bWg...Hg&v+vY+uvvvvu%WrW//1W6W6.g+b+b%x+!+<v&/+/Ygu/v/vW%%r%/u1%6%W+ggbgb.xg*gR/&u+uYvuuvuv%%.r./W1.6.Wggvbv%+xvqv4u&W+WY/uWvWv.1+/+/%.+W+Wvg/b/%gx/h/CW&%+%Yuu%v%r+1g/g/..gWgW/gubu%vxuNu!%&.+.YWu.v.rg1v/v&+.vWvWugWbW%/xWOW*.u+Y+Y%6+r+rv1///&g./W/WWg%b%%ux%7%++ugYgY.6grgr/1u/u&v.uWuW%g.b.%Wx.Q.+guvYvg+6vrvru1W/W&/.WWWW.x+%+%%v++++vu/Y/gg6/r/rW1%/%&u.%W%b+xg%g%.vg+g+/uuYugv6urur%1./.&W..W.bgxv%v1+vv+v+uuWYWg/6WrWr..+&+&%a+b+bvx/%/1gv/+/+Wu%Y%gu6%r%/+.g&g&.agbgb/xu%u1vvu+u+%u.Y.gW6.r./g.v&vu+ZvbvbuxW%W1/vW+W+.6+g+g%W+/+/v./&/ug_/b/bWx%%%1uv%+%Y+6gggg.Wg/g//.u&uuv9ubub%x.%.1Wv.+.Yg6vgvx+Wv/v/u.W&Wu/wWbWb.v+1+1%r+Y+Yv6/g/xgW////W.%&%uu>%b%%+vg1g1.rgYgY/6uguxvWu/u/%..&.uW<.b.%gvv1v.+rvYvYu6WgWx/WW/W/.y+u+u%++%+%vv/1/.gr/Y/YW6%g%xuW%/%&+2gugu.+g%g%/vu1u.vruYuY%6.g.xWW./.&g7vuv6++v%v%uvW1W./rWYWY.W+x+x%b+&+&vU/u/6g+/%/%Wv%1%.ur%Y%g+Wgxgx.bg&g&/euuu6v+u%u%%v.1..Wr.Y.ggWvxvv+bv&v&uSWuW6/+W%W%.r+.+.%/+g+gvW/x/vgb/&/&WI%u%6u+%%%1+rg.g../gggg/Wuxuvvbu&u&%;.u.6W+.%.1grv.v:+/vgvguWWxWv/bW&W&.++6+6%Y+1+1vr/./Ug//g/gWW%x%vub%&%u++g6g6.Yg1g1/ru.u>v/ugug%W.x.vWb.&.ug+v6vW+Yv1v1urW.Wk//WgWg.b+v+v%%+u+uv+/6/WgY/1/1Wr%.%nu/%g%x+bgvgv.%gugu/+u6uWvYu1u1%r...,W/.g.xgbvvvr+%vuvuu+W6WW/YW1W1./+p+,%&+x+xvb/v/rg%/u/uW+%6%WuY%1%.+/gAg(.&gxgx/buvurv%uuuu%+.6.WWY.1..g/vMv++&vxvxubWvWr/%WuWu.Y+W+W%g+.+.v//(/+g&/x/xWb%v%ru%%u%6+YgWgW.gg.g.//u:u+v&uxux%b.v.rW%.u.6gYvWvb+gv.v.u/WaW+/&WxWx.%+r+r%1+6+6vY/W/bgg/./.W/%8%+u&%x%v+%grgr.1g6g6/YuWubvgu.u.%/.{.+W&.x.vg%vrv/+1v6v6uYWWWb/gW.W..&++++%u+v+vv%/r//g1/6/6WY%W%bug%.%m+&g+g+.ugvgv/%uru/v1u6u6%Y.W.bWg...jg&v+vY+uvvvvu%WrW//1W6W6.g+b+b%x+E+pv&/+/Ygu/v/vW%%r%/u1%6%W+ggbgb.xgng!/&u+uYvuuvuv%%.r./W1.6.Wggvbv%+xvDvwu&W+WY/uWvWv.1+/+/%.+W+Wvg/b/%gx/Z/=W&%+%Yuu%v%r+1g/g/..gWgW/gubu%vxu^u_%&.+.YWu.v.rg1v/v.c6&1x+6%g&bv/+gW//CYu.+uWvx#%%&bXgu.Y66/Y+b%v&1x%vYW6/gYWrru%v/p.b&&+g1&66brv+1vuu_x6(YWW2/Y%1/u.v&++b6&grY6Y61r&Y,1+uYxb_xbv/rgg/.6+v6+g%x&vg../Wx2nYY%WuxrgwrbB/&xgYW6xv%+v%Y&/xp.ubx6rYv%.urr+s&b+/6gg.&6vv.+/%Y&uxg.WWx/xYr1Eu&vYe6bg/bvv;g6/r++u%g&Wx1.%%r/uY&1Yu6vx_b%Y/1v/./6urg+W%v&%x%..b6&,Y61rubr&y1b/&8xWbr6Wr&+%%b&.x&}+W6rrYb1ru1vW+ob6&Yx%gv61r/+.1/u+x6jg1Y&vY.1&6Ar++Ybb&xvg.rWg..Y+%6ugvxpvW.//gx&*6YvW+xx.&rx(.&W+.%Yg%%uvx1S/bH/uv&u&6xv1+r1u&&xY.6WbrbYu/vu/vynu%b/Wgv1%66.r+&%+&6rb.bWrr1guY+u6vgDWb&/%gr1.W6ub+W%v&bv/.1W//:Yu1%uWvv}%b&/.gu.+66/++b%r&1x&7DWu/YxW.xu%v/l.bu&+xx.gbb&Y+1%&uKx65Yb&/xx%1.u.vu++bW&gxg.vb,/&YJ%buYv.kxW%/rx+Wb6+v1+g%Y&vg1./W5vbYY%buxv+9rbV/&xgYW6xv%+v%%&/xG.u%&+&Yx%1ur//f&bY/6xu1b6u.v+/%N&ur6.WWvr%Y6/ru&v+L6%%/bgr116W./+u%Y&Wbr.%W/r.Y&/xu6vx_bbv/1g/.,b./Y+b%v&%&+..Wu/+gv1g6{1bi1b/&F/x.Y6brxY.+/u4xuI+W1/gYb1vW,uY++bW&Yx%.x6%rr+.1.u+xWwgW1/vY.1/6Dr%+Ybb&xg1.r6.r&x+1rugx%yvW.//g61ubYrr+xb1&rxt.&W1r6xg.ruvx.k/b+/ugu1WWrrr+r%Y&&xr.6Wgrbg/WYu/vxOub&/Wgx1%6rvY+&%Y&6x/.bWrr1guY+u6vgoW%g/%gr1.b1?1+6%x&b/..1W&/9g.1Yu.1Wj%br/./Y.+6WrgYRrb&1x/zH1v/YYb1x6+1%!.b&&+Wb.g6%rv+1r6usx6#YWW/xY%1rbvlv++bW&g/W.v6.r/Yb%uur1YJxW%/rr11&6Yv6+/rg&vg1./.%ruYg%W6r&1X/bt/&gv166gvbY/yu&&xY.ubxrWYx%%urv+<&bY/6gv1b6rv1+/1+&uxg.WWvr%Yr%.W&rgZ6bx/bgr11W+rFgu%r&Wxv.%W/r.gv1+W6vx9bbr/1g&.9WNrYY%1Y&%xu..b&/+Y61g61Yul1bW&Og..Y6Wrx+%bu&.xuR+W1/gY%1vWmu&++b6&Yx6.x6%rrxv1&uYxW-g.W/vY.1/Wrvu+rrY&xg%.r11r&YY%6u/1gSvW1//WY1u6gvW+xrZ&rxq.&W+r6Yg%bWWv1<&b+/uu+1W6vv%+ub.&b%&.6Wgrb&x%1u&v{+W)g/bgv1%66v.+&%+ub/1.%W/r1gu1suuvY?W%6/%g/1.66r++W%g&bvu.1W&/-Y61YuWvxY%b%/.gu.+6WrgYr%v61x&cFW6/YYb1x66vrY.1Y&+gW.g6%rvYv%/6YxWaYW1/xY11ru.v&Ygu1&gx*.vWxr/Ym%uuYg1:xW1/rgg1&6Yv6Yv8%&rg../W.ruYY%WW6.6Xrb;/&&.166xvbYWb1&W%/.uWYrW&Y%%u/x.:bv&/6gg1b.vv1+&%5&%%u.WWxr%6&%.uuv+m6vr/bgr116/rs+u%YW+vx.1W/r.u&1+uWvg+%bv&Yb1.^6urY&W%x&1xr++.u/YYW1g6ivv,1b/uY/x.g6%rxY.%r&.x&D+W./gY%1v65v/++bu&Yxg.x61rrYe%&u+x6Ygb!/vY.1/6+vu+bbW6xv+.rW;r&YY%66hxbYv%Y//g+1u6gvW+Wb%u&x+.&Wxr6g&%buvx1+uux/ugr1W66v%+rb.&&gx.6WxrbYu%1u&vV+W*g/bgv1%Wvv.+&%+WFvg.%Wrr1&u1Mu6vYY+bx&+b%1.6&r+/b%g&%xv#Yx1/XYu1Y+%vxm1br/.bW.+6Wrg+b%v&1x/Yrrr/YYb1x++vr+2b&&.g6./xgrv+1%/RxxulgWW/&bx1ru.v&ugb6&xgb{/1.r&Y+%uurxWsxW%&&r61u6gv6Yvbb&vg1./W+ruYg%Wurx%=/W./&xb166xvb+rb1&/xn+ub1rWYv%%u/x.+Yb+u6g&1b6rv1+&%aurxY+WW.r%Y/%.uuv+++bg&1xM1166rN+W%Y&Wxxe.&6r.Yb1+6AvgFbbv/1Y6.P66rY+.%x&1xr++.u/YYW1g6WvvU1b/6r1r.Y6brxu.%ruax&+/W6//bg1vu1v/uYbu&ggW.&xxrr+.%&Ovx6sxWb/v&.1/6*vu+gbW&xg%./6.r&Y+%6uvxb<vW1//g&1u6YvW+Yb;6vv%+rbr/%x/%bu%x1d/b?//YvigWv&+g61xubx&.6Wgrbxv+bu&v+;ubY/Wgr1%br6v+u%Y&6xx.bWrr1Y%/1uuvv}Wbx/%g/1.66r++6x&&bxv.1W//8Yu1YuW1g#%br/.g&.+66rg+bb&&1x&UfWb/YYb1xu%W/X.b&&+gW.g6brv+.%&u7xuTYWW/xY%1r6xv&++b6&gb..v6.r/Yf%uuYxW:xvJ/rg+1&6Yv6+gbb&vWr./WgruYY%Wuxx%_rWY/&gY166rvb+rb1&/6+.uWYrWYv%%urx.Oub+/6gg1b6bv1+/%0&uxu.WWxr%Yx%Y&1/g+W1:u+gv.&6/r=+u%Z/1vb}1%&&cgW v6./vtb%r/1g/.Q6/v6x!.+u1rx+1%+&vYblYWW/uJ1%&6Yv%.Y6.rx+%%r&%rr+r1+/rYb1vu1v/+9&WYY.W./6%rr+.%&u+b6/g.b/&Y11/6Rvu+YxW1Y.%4+6.r&Y+%6xYxbMvW1//gQ1u6Y/WYMb%&rg..&W+rbYg.b6Vx15/b>/ugY116xr.+Wb.&ux+.WWgrbYv.1uWvR_6bY/bgx.+6r/+YU%+&bxg}gWvr1Y/.Y6gvYT1bx&ggr1.6&/g11%gu5xv8gW//oYu1Y6uvvs1br&gg&.g66/gY1%v&1x/J+Wu/gYW1x.1vr>.b&&Yg6.g6brv+1%/uPxuYxWW/xY%1r6&v&++b6&+Y1 rb+&Yxs166vrr{xbx/rY.1&u.x%wu11urvWcbWgY/vg%.uxux66+xW&g+.&6gvb+vbb&/vbR6%r&+xg..WgvYYb%Yu&x/1b61v1+/%Q&/g6Yi%+/1xx.1W+rv_6%Y/bgv116vvrgY.Ou.g6+r%&uYxb%xWYrbY&%u&+.%b/1bsYW6+rb+Br..W%/+Y61gu6/b+.1>6xguog6Wrx+%%x&/r%+1bWu+xW.1WYvuY.1&6rgWkvb.&6YYu.v2uv&g&&x+g6Y/6g.%16W%1Y%.%/YW6rYx%6ugxbNvW1//Y}Y&6YrY+xb%&rg%.jbY&&g/.&66x1+vb*/ugY1u6r/Ygx1gu%rg.%%/&+xv.16brx^ubb/Wgx1%6xvYgG1Y6bvxF.%u&gxu1guuvYkWbx/%gr+g1&rxb6u%v&1xxuubv.1&1Yu.vxn%br/%vr!r%+rgYx%v&1x/.16bu+xuUYWYruggb&&bg6.g6brgYd.b61xb+/%%u6xr.uWxv&+bb6&ggb.g6Y&rgb1b6/+W>+%ruYx61&6rv6+gbb&gvv,&b%/1YvgYW/9vbx+g.&61Y&6r+uYW6.6ru/6krrY6Yx16urx.d&W./1v65+W6/b+61v6Wr&+xb/&YYr1/u&v+q6b+/gv/..b%/ug%.W&1uu+uvur16/%&.gu+q.&Yux+&t.D5dub.+guf/%&r&}/8WYur.%ug,1%Y&Rgu.Y6uvWgY.6uYv%Yg1!&bg..6u1r++:bu&Ygu+Wbb&&g6.WW+vW+r%+/vgv1/6kvu+=bWuvv.7Wb%&bYY%Wur/.g&.+66rg.bO6uWv1b%&rg..&rRr6Yg%buvx1d/b5uuxr1W6xv%+rb.u/x++6W.rbYv%1u/vN+YbY&%v+1%6/v.+6%+&6xg+bW6r1Y&1Tu6vY+%bx&.g.1.66r++%%g&bxv+_bC/?Yb1Y6vvxD%bru+u+.+61rgYg%v&1x/+Yb;/Ygq1x61vrj.b&ugvv.gWYrvgu%/u{xu+x%//xgx1rWWv&++b6uvxx.vWrr/g%%uuYxW+rbg/rg&1&6%v6+gbbu/vx./W6ruY%%Wuxx%+&b&/&gb16WWvb+vb1uuxg.uW1rWgW%%urx.+6%Y/6xQ1bWrv1+/%8&uxg.WWvr%gg%.u6v++6%W/bgv116urQ+6%Yu%&v.1Wrr.g11+u6vgYb*W/.g/.96urYgu%xu.+6..W6/+xg1gubvvw1vx&*gu.Y6%rx+.%r6+&uqYWW/gxY1vu1v/g=,.&ggb.x61rrg%%&6g+1DgW./vxY1/6#vu+Yv&&xg1.rWYr&Yg%6ug%.PvbA//g)1u6YvWgxSW&/x+.&Wgr6gY%bWvux(&bY/ugx1W66v%Y&6g&&xv.6b&rbYv%1u/%%pubx/Wg&1%6&v.+1Yg&Wxv.b%&r1Y&1OuuvY*.vW/%gr1.bWr++W%guI%b.1W//Cvx1Yubvx,%vu/.g6.+66rg+b%v61Y6jzWW/YY%1xu1vrY.%6&+gb.g61rvYx%/6Yv%CYW./xxY1ru.v&++%.&gg1.vWYr/YY%uuYvxmxbP/rY.1&6+v6gg%u&vx+./Wgrug+%W6xv/-rb+/&v+166rvb+vr+&/xY.uWYrWYx%%Wr&%Iubg/6gv1bWxv1g/+r&6xx.WWrr%Yb%.66Yva6b//bx6116/ry+uv.&Wxr.%W6r.Y61+W6u+A%b//1gu.iWrrYY%+v&1xu..%//+Y61gbb1%G1b6&cvg.YWWrx+%%6&.xWn+W6/gYb1vW1/Y+9bb&Yg1.xWbrrg..Yu+x%tgW./vgg1/%Br/+Yb1&xx+.r%or&gg.gugx.nvbr//gS1uWxv%+x%+&rxW.&W+r6Yg66uvv+z/bY/ugg1WWru1+/%Y&&rI.6Wgrbvvv1u/vg)u%b/Wvr1%6b.%+&%x&6xg.bWrr1Yu1<uu1+qWbx/%gr1.6&r++6rY&bxv.1Wu/-Yu1Y6+.Yt%b6/.gu.+6Wrg+1%v&1%r(^Wu/YYW1xu%vrZ.v/&+g6.g61rv+1%/WQ&/RgbM/xY11r6%v&g++w&xx+.vWgr/gg%uu&1utxbx/rg+1&6Yv6+rbb&vb%./WJruYv%Wuxx%Rrgx/&g+166gvb+vb1&/b..uWYrWY&%%urx._&Wx/6g&1b6bv1+&%m&u6g.WWxr%Y/%.u&v+h6br/bgv116brn+u%Y&Wx1.%Wrr.Yr1vb+r&Y+1g//vvZrb&rYYR%x&%xr.%W&&%gWdbubvbs1b/&7g/1vb%/uY1.66xx&U6W6/gYb1gu1/rgg1Y6rvx+gbWrrYg%&u+x6k+%6&6vv.x6Nvu+YbWu5g1.&6.r&Y+%6ugrb+6W1/ug^1W6Yv1+xb%u&g..bW+rWYg%buvrC+Ybq/1gY1b6xv%+r1.uYx+..Wg/+Yv1gu/v7+ubY&+gx116rv.+&%+uxxgS+Wv/(Y/1YuuvYvvbx&ggr1.6&rY+61gu&xvJxW//xYu1YuWvx+ubr&+g&./66rv+b.vu&x/MYWu/xYW1ru%vr+rb&&gg6.v6brr+1%/u+xufYWW/vY%1ru.v6++b6&ggb.661r/YZ%uu/xWBxW%/xY.VxWY&g+g%r&vg1./61r%xu.J6urW..%%&1vJ166/vb+vb1&vv1l1%urWY%%%urx.?rbguuv/.%bu//gr11&uxu.WWxr%Yx%YW6rr+W1/u+xY116/r-+u%1&bxr.%Wrr.Y&1+W6r%lbb//1gu.l61rY+W1r&%x6..Wu/+Y61g61/+H1bb&_gW.Y6Wrxg%%/&.x%:+W./gY.1vu1rb+=b.&Ygb.x6%rr+.%bu+x.9gW1/vgj1/6N6g+Y%+&xg%.rW4r&g+%.ugvYLvbY//gZ1u6Yrv+xb.&rxv.&Wgr6xg1uuvv5Q/bY/ugg1W6xrb+r%+&&xg.6WxrbYv.#u/v8_ubg/Wgx1%6&v.+&%+&6x1.bWvr1Y66%rv+1%/u*xuY6616&ru+6%g&bxgMxbb&gx%a+W%g/X%%K/.g&.+6&vrgx1rWnv&+g%%&/x%1/1v vbWrY/g++r%16r&+1%/uBxuIYWW/xY%1uu.v&++b6&gWbxW11r/Yu%uuYxW_YW%uvvYG+bv/ggY16&vxY./WVruY9.u6u/x{r%7/&g+166+vxg61Wu&v1+&bW/.Yr.bWv/gH&%Yubv/1.%.16x/WY+/WWxl.Y/kYr%.u&v+26bgrb.xyr6/rs+u%Y+1xx.%Wrr.Y&1+u6vgu.bv/.g/.+6urY+W.xbWx/)-W&/YY61rub/vxbb&&+gu.g6Wr%+%.rb%xu0YW6/xYb1bu1ruv+b6&xgW.r6%rr+..&b.xW=vWb//Y11.6{rW1rbW&/g%.W6.r&Y+1br/xb?uW1&Yg21u6Yr%1&b%&Wg..uW+r6Yg%bYYx19ubl/1gY1%6xv%rub.&ux+.WWgr1Yv.krWv(SWbY/.gx1%6rv.)W%+&6xg.1Wvr.Y/1CYbvYPWbx/.gr1.6&/gvW%x&%xvToW//NYu*Y%uvvH1br&5g&.u66/v.P%vu8x/JvWu/YYW.r/+vr+Yb&&/g6.g6b//.Y%/uxxuG/WW/xY%1rYbv&+Yb6&/gb./61/u.x%uuxxWA1W%/rY.1&uxv6+gbb&/g1.&Weru&g%Wuxx%U/W./&g+166gvb+vb1&6x8.uWYrWYW%%urx._rWx/yvv.%bY/g+/%6&uxY.WWYr{g1.>W6rY+%1/u+v/11W&rR+u%Y&ugbYY%g&5xr}aWgr/_11xu%vW.ZW6&xg.%6&%xr..W&r6Y61gubvvS1b/&;vuD16Wrx+%%r&.x6k+%6&PYb1vu1v/+^bb&YgW8/6%r/+.%uu+x6fgbb/WY11/6kv6+Ybb&xg%Gg6.r&Y+%WugxbwvW1//g21u6Yrg+xb%&rg..1W+r6Yg%6Wvv.YK1YubgY.Y6xv%+rb%/bvY+/bx&gg6%16rvtSubY/uYWhYb6vgY%.xu%v&+6bu/.xvaxWbvY+!bx/%gr1%6r/Yg/1&&bvg.1W//IY/1rW6/uYj%1/&vr+vW.&vg+.&WYx/h%Wu/YYW1Y6+rWYW%%6+vu+v%ArvY..uWxxuFbWW/xY%1xbr//gg1v6rvb2rb+/bYQ1+uYxW8xWWr6xx{Wbv/bgY.v61g1./WV/Wx1%Wuxx%m/W./&g+.bW1vb+rb1&1xS.uWY&Wg/%%u/x.Aub+/bggwb6%v1+&%c&6xY.1Wxr%g%%.uuv+7bbg/bgv11W%rj+u%Y&Wxx..Wr/ggx1+u6vg+ubv/.g/+F1/rgYU%xu+xrhgW&u/%/1g6+vv+ub/&+gu./6Wr&Wx%r&.x&DbW6/xYb1ugvv/+?bu&.gW.v6%&rrv%uurx6P/Wb/%Y11/r1vu+/bW&rg%./6.r1W1%6ugxbzbW1/&g#1W6Yv.6Wb%&rg...W+rWYg11%rx.}/b:/6gY1W6xr.r/b.&ux+)+WgrbYv.1u&vZ?6bY/bgx.s6rv.Y/%+&Wxg.1Wvr1Y/1yu.vY_Wbx/%gr.+6&rv+1%g&bxvYxW//+YuqY%uvv+Ybr&gg&.v66&ubu%vugx/+uWu/gYW16u%v66rb&&+g6-b6brr+1%WY/xuFYWWu6Y%1/u.r6vYbW&&gb.r61r/Yn.u%&xb 6W%/6Y.1W6+v6+ub%&Wg1.1WQruYY%WbWx%FWW./&g+.+6gr_6bb1&/xR+%WYrbYx.%%xv{+Yb+&ggg.Q6v&xbx%#ugxY+%Wxr1Yr1xu&vv6+bg/bgv+A6/r++u%rYYxx.%WrugY&1Yu6/gvYbr&&g/.u6ur6+W%xvWxr,uW&/gY61xubvW6Wb/&vgu+06Wrv+%%&&.xbu&W6/gYbVgu1v&+Ub.+.gW.x6%/W+.%uu+xb{gb4)bY11/65r1+Ybb&xg%v/6.r&Y+%WugxbivW1//gM1u6YvW+xb%&rx+.&W+r6Yg%buvx1!/b>/ugY1W6xW1+rb.&&xY.6WgrbYr%1u/vMNubY/Wgx1%66v.+&%+&6xg.bWvr1Y/15uuvYDWv//%g/1.6ur++6%g&bbW.1W&/TY61Yubvxt%Y//.g&.+6Wrg+b%v&.x/mlWu/YY%1xu%vr}.%x&+g6.g66&&g1Lh&.r/..1xu/xY!YWvvu+Y%Y&ggb.v%x//Y+%uuYvNhxW1/rg+1&6v.++gbb&vxg./W+ruYY.vuvx1irb*/&g+16Wv/++vb.&/x+.uWYrWY&/xurx.R&b&/6gx1b6v/&+&%+&uxY.WWxr%g&.xu&vYy6bx/bgv116/b++u%Y&Wxv.%Wrr.Yu1+u6vg*b%u/1g/.96u/++W%x&%xx.rb%uv+1.&W.r&Yg1vuxx6+Tb.&/Yf%r&.x&<+W6/ggxYv6+v/+:bu&YgW.xu%6v+.1+u+x6wgW6/vx%i6Wu/%YW166Yg%.b6.r&Y+%&Wgv%+11-u6gf.Y6YvW+xbW/.v%+W%v/Wx+1.66x1cbbV/ugY1u6Yr1gg1x&&xu.6WgrbYg1x6brgY%1+u%+/1%6Wv.+&%+&&xg>%%/uYY/1%uuvYeWbY&+v&=Tbr&xg61x61v6+bb6uuYu1/uWvxf%bx&Yv++WW.rgYv%v&1x/.1Wvrxg61/6+x/B&b6&+x+.g6brv+bb6&rrW+g%&&uY%1%u.v&++b&&rrKjrb/&uxg%uubxW;xW%/xvr_/bg/vgr1burv+2bWBr%YY%WuxxWYx%xu.gY1W6grv+vb1&/g116%?/1gb.bW&rx+bbx/6gg1b6vv1+/%T&uxY..Wxr%Yr%%u+/x.W1//bgv11Wu&b+u%Y&Wxu.%Wrr.g61%u6vx_b%x/1g/.#bu/1+W%v&%x/..br/+x61uubvr?1b&&Zg6.Y6Wrb+%%/&.x6-+W6/gYb.%u1v/+<bu&Yg%.xW+&++.%&u+rWZgW%/vx1Y%6+v1+Yb.&xv+.rb+gbY+1+ugvv0vW1//g-/r6YrV+x%x&rx+.&W/WbYx1+uvr.P/b+/ugY1W6&.x+rb.&&rY.6Wxrbg/+.u&vvTub&/Wgx1%bru%+u%r&6x&.bbvr1guWxuuv&!Wb%/%gr1.W66Y+W%6&bvx.1W//9Yur.uWvuI%b%/.g6.+b66++%%W&1xWjsbr/YgW96u%vW*.%v&+xo.gbb6g+.%%uFx%eYbr/xg%,bu.v%++%v&gxY.vb16vY+%.uYx.hxb+/rx+Yu6Yr++g%x&vg1./% 6/Yg1YuxvxOrb./&xg+b6grx+v1+&/xz.ubx&YYx1rurv+i&b+/6xv.%6vr&+/1g&uxY.WWx/6Yr1ru&vWi6bv/bgv.66/rr+u%&&WxW.%br/&Y&1ru6v/wbbW/1r/.16ur/+W1r&%v/..1&/1Y61&ubv.81b6&?ru.r6Wru+%%%&.vxJ+bP+lYb1vu1v1+lb6&Yg%.xW+.%+.%&u+v+TgW%/vY1x&6lvu+Ybb&xg%.r6.r&Y+%6ugvgTvW1//gR.56YvW+xbW/uv#+vbr&bgx%bubx1f/be//Yv<%Wur1g61x&&xv.6WgrbYg.b6b//_ubb/Wgx1%6x&rg/.g6vrr+bbr&+gb1>6gvYTWbx/Wg6+rW%/rg&bb66vW+%W//vYu1YuWvY^%1Yu_r+.+Wrrg+b%v&bg%+ub1&1g.1gWgvbY&%%6&x&.g6brv+1gvuTxW>YWW/xY%1rW.rg++bb&gg1.vW_r/gY.ruYx.Hxb+/rY.1&b+/x+g%*&vxY./W+rugx.&uxvYSrbx/&g+16bgv.+v%g&/xv.uWvrWYx1Wurvv:&bY/6gg1b6v//+/%v&uxx.WWrr%YrYuu&v/O6bg/bgr11W/rr+u%&&WxW.%Wrr.Y&.ru6vvZbbW/1gu.nbur&+W%r&%x&..W1/+Y6.+ubv/D1bu&Ig6.Y6W/W+%%r&.xu_+W6/gY11vu1v/+_bW&YgW.x61r/+.%.u+x6DgW6uvvg.uWb/YYv%x&xg%.r%v+vY+%6ugx.?vW.//g+1u6r.Y+xb%&rxY.&WYr6Y//guvx1{/br/ugg1W6x//+/%f&&xY.6Wgrbg/.gu/v+}ubx/Wgx1%66.r+&%+&6xW.bWrr1Y/.6u6vgjWbx/%gr1.W6/r+6%x&bx/.1W//=YuxguWvx8%b//.g&.+6Wrg+b%v&1vvCUWu/YY11xu%vrt.b&b+WgWg6.rv+1%/uCxuxY*WWxY%.)u.v&++b&/rvxar%t/&gg.%6/r%G/.#6urY+W%x&%1rQW&vx/./WUruYB%WWg/t+.1gu+v> &6gr%+vb1&/g1.+%/&&gv.WWvr&+bbguuvY+Z6vr.gu.x&bxY.WWxr%Yr.gg1++A6b6/bgv116vvgj..xubr++YWur.Y&1+u6vgxb+WW1g6.,6urY+W%x+%Wrg.W&/rY61gubvggv%&uuv%.YWFrx+%%r&%rg+6%r&.Y.1vu1v/+7bu=Y6uWx6%r6+.%&u+x&Y+%+ub&D1/68vu+Yv1&xg%.r6.r&Y+%6Wu.uHvW1//gx1u6gvWYJb%&6%r.&W+r6Y/%burx1oWv//ugY1Wb.v%+/b.&&%x.6WgrbYr%1u/v,YuXH/bgx1%6rv.+W%+66&+.%Wvr1Y/1Ku.vYYW#Y/1gr1.6&r++.%g&b.x.1W&/cY61YuWvxY%%+/.gu.+6Wrg+.%v61vrhmW6/YYb1x6gvrY+%W&+gb.gWxrv+1%/WEvWoYW%/xY.1r6%v&Yg1?&gg..vWtr/Yt%u6xrgPxb+/rg&1&6+v6Yv6)&vxg./W+ruYY%Wuxr%B/b+/&gr166vvbYvb.&/x+.uW6rWYr%%6&r+7&bY/6g11b6vv1Yu1%&uxx.WW&r%Yr%.u&rm46bx/bg/116&rU+u1b&Wxv.%W/r.Y&1+W6ru_bbr/1g&.#6brYgW+Y&1x/..Wu/+gX1g61urh.bu& x+.Y6Wrxg%+xu*x6L+Wb/gg61vWDrA+Hbb&Yg%.x6%rrg+1.u+x1Dgbv/vY11/WYr%+Y%s&xg1.r6.r&Y+.+ugx1hvbg//gY1uWY//+xb1&rx/.&Wgr6gv%ruvx.e/bW/ugY1WWrr++r%+&&xv.6WgrbYv1vu/v+oubx/Wgv1%6rrb+&%Y&6xx.bWvr1x/.>uuvgcWbv/%gu1.b&rx+6%x&bxr.1W%/*gW1/uWvrH%b1/.g&.+b6r6+b%/&1xuz{b//YYW1/u%vuJ.b&&+g6.g6b/u+1%uuFxWUYW%/xg%}bu.vu++%Y&gg1.vWY.1Yq%uuYub)xW1/rY./W6+v6+gb%&vg1./%86/Yg%Wuxx%hrbY/&v+Y&6xvb+vb1&/xr.u%Y6uYv%%urx.e&br/6gguW6vv.+/%+&uxY.W%x/%Yr1Ku&vYN6br/bvv.Y6/r++u%g&Wx6.%b&/+Y&1gu6vWLbbv/1v/.r6urx+W%r&%vx..b6/YY61rubrY91b/&nxW4x6Wr&+%1 &.x&d+bbx/Yb16u1v1+Jbu&YgW+x61r&+.%%u+xb4gbb&uY11&6-r++Yb%&xx...6.ruY+1vugxbCv%?ugg-1W6Yv.+xb%&rg.S.W+rWYg%1uvx.T/b}/.gY1b6xv1+rb.&&r+.bWgr%Yv%.u/vg2u1YWugv116rrd+&%/&6vvg%Wr/{Y/1&uuvYzW1xWWg/.+6&rg+61+&bv/o/W//gYu1.uWvx=%%&&1g&.v66r%+b%v&1vu+&Wu//YW1Wu%vrN.b&&6g6.v6br6+1%uuHvu+vWW/vY%11u.v6++%b/%gb.r61/YYd%uuYv%zrW%/&Y.1b6+v6+gbbuWg1.&WprWYY%buxx%+/W./ug+1W6gvb+v11&1xQ.6WYrbYx1{urr.Yxb+/Wgg1%6vrx+/1YuvxY.%Wx/vYr%.u&/++ubg/1gv.76/r1+u%Y6rxxTzWrr.Y&1+u6vgP.bv&4g/.Y6urx+W1xWgxr})W&/uY61vubvvr.b/&igu.g6Wrx+%%r&.x&!+W6//Yb1vu1v/+1bu&YgW.Y6./Wg%1b6rrbyr1>&6x17/Wvr%+Y%z&xg%.r6%r.gY.gW/x.LvW1//gP1uYY6bvx%kb111WxxWvb.6vr%gr^M/b_/ugY1W6xv%+rb.&&x+.6Wg..Yv%.u/v+TubY/WvxYW6/rk+&%Y&6xx.b%vWxY&1+uuvg^Wbr/%grYW6&rY+6%v&bx/.1W%&bY61guWvb^%b//.gu.+61.6+b%v&1x.n)W6/YY./Wu%vra.%u&+gW.g6b.&+1%&u}xu(YWW/xggJY67vu++%r&gg%.v6.r/Yx/NuYxW(xbu/rg#1&6v.++gbb&vx../W+ruYYr1uxx1Xrb+/&g+16Wvg:+v%R&/xg.uWYrWgrW+urvYa&bv/6gg1b6vv++/%+&uxv.WWvr%Y6/ru&v+h6bx/bgr116/b++u%Y&Wxv.%Wrr.Yu1+u6vg=bbv/1g/.M6WrY+W%x&%xr..W&/+Y61gubvvA1Y&&Ngu.Y6brx+%%rujx&e+W6/gxu1vu1v/+:b.&YgW.x6W/Wx+.6Whrb*rWb/vY11/6avu1Yl6&xxY.r6.r&+..16xr.YaW1/WgK1u6YvuS%.n//xY.&W+r6Yg%buvx1,/bX/1gY1W6xvWg%1d6+rv.6%WrbYv%1uvvuY&1/xWx&Xbbxgrgb6+6YvxYYb6g1:6WBWY/rYN1+6 0rZ&brg+xg.YW+r/b1bu&+gb.%WWrvYN1+/.g..+66rg+6b%6gv&+b%%&6YW1Wu%vrU.bru6v&+rb+&/xY%6.r6.r&Y+%6ug%b%1vW++b6&ggb.v61vWv.%buYxWexW%/rY..t1+v6+%bb&vg1.v6g&+gg.%6vrBY6%xu6gx166gvb+vb1&/xbWuWY//Yx%%urx%..%ru1YrJxW1/6YW.Yu1r8.1Wxr%Yr%.u&v+16#Y/bgb116/rK+/1W6Wvv+r%&uYYW1+u6vg#bbv/1Y/Y.6brY+W%x&%xr..6&gwY61/ubvv=1bvu1x1+u61rx+%%r&.x&K+W6WgY.1vu1v/+Jbu&YggWg6%r%+.%&u+x&Xgb%u/xgQvbxvu+/bW&xg%.x6r&6g6.6ugvYJvW1//Y1I%Wgr%gG1Y&rx&.&W+r6Y+b16rr+YY1F&6xvpr6xrr+rb.&&g..Y%&&ugr.bWrru+%bY&Jgx1%6rv%+b.q6uv..bWbr1Y/1Ru/xv:+1r&1vg xY6r++6%g&b%&.1W//VYu1YuWvxY%!x&ng&.+66rgYu%v&1%6GqW6/YYW1xu%vrY._r&YgW.g6%rvg&%/uS//7gW%/xY%1ru.v&Yg+W&gg..vW.r/YH%uWYvvVxb+/rY.1&W_v6+g%.&vxY./WvruYY%WuxvbqrbY/&g+166&vb+u%+&/xy.ubgrWYv%%Wruv^ubu/6g61b6uv1Yu6x&uxb.W%tr%Yr%.u&%1R6bW/bg.116ur0+.11&bxb.%brr.Yu1+uWvg+Bvb/1g/.jWurY+b%xu+%%..W&/+gW1gu%vv+11%&wxe.YbYrx+1%ruv1v?+W%/ggr1vu.v/+Ybu&r%Y.x6%rrYu%&uYx6+v.%/rg+1/W+vu+YbW6x&g./Wgr&YY%66Yxb vbx/&gx1u6/vW+xb%&r/r.&Wxr6Yg%bu6x1GWv//ugY1Wb1v%+/b.6&&/.WWWrbYr%16rvyju.1/Wgb1%6&v.+6%+&6/W.bW%r1Y.1RuuvYg+gx/%g11.brr++W%gu&xvTYx1/RYu1YWuvxy1br&gb..+66rgg1%v&.x/+Y.6/ggg1xu1vrc.b&ugN1.gWvrvYv%/uoxuNY++/xgv1r6&v&++b6&gx+.vWrr/Y*%uuYxWsx.v/rg/1&6gv6+gbb6WY/./W&ruxb%Wuvx%+YW./bb&166gvbg.b1&&xH,W.grbYb%%6.x.)&b+u6/+1%6%v1+.%muYxY.WYbr%Y.%.u6v+p6bg/b6%11W+rIY %Y&Wxx.%6ur.g:1+6xvgG%bv&x%x.R6brYgg%x&1xrd+W&/vb+1gubvvYrb/&+gu+Y1urvY(%ru+x&+gW6&vx/1v6Yv/Y%bu&YgW+xbTrrYg%&uvx6+/Wb&/g11/6vvu+bbW&xg%^&W+r&Y/%66gxbJvW1&ugx1u6uvW+.b%&rg.E6b%r6YW%b6/x1y/b_&Wg.1W6%v%+Wb.&&x+*b>brbY.%1ubv!(ubY&%x%1%W+v.+%%+&6xgE1brr1gg1-u1vYsWbx&.xW1.Wvr+Y%%g&bxv+ib%/Zg/1Y6mvxa%bru+xx.+WurgY1%v&1x/+Yb1/YgW1x6Yvrw.b&&+x&.xW>rvY1%/uYxu+Y%g/xgU1rW/v&+vb66g%/.vW+r/YY%u6/xW+rbu/rgg1&W1v6+gbb6vv6./WxruYr%W6&x%+&bW/&gr166%vb+vb1uuxr.uW&rWg6%%urx.+6%b/6g61bW>v1+/%_uWv/.WWbr%g&%.u&v++b+b/bg1116br}+u%Yu%v1.%b7r.Y%1+u6vg+1%g/1xY.{61rY+W%xu.vg..bx/+Y.1gubvvY*%Y&>xr.YW1rx+%%r6+x1C+b&/gg+1vu1v/YY%W&Yx6.xW.rr+.%&6g+1!gbb/vgg1/62vu+Y%u&vx+.rW.r&Yg%66gr0?vb+//x&1u6rvWgxr&&rxY.&Wgr6Y.%b6/rY,/bx/ux.1W6xv%gr1&&&xv.6W/rbgu%16uv.Zub//Wg11%6rv.Y6%/&6xu.bbgr1Y/106WvgXWbW/%x+1.6&r+Yb%.&bx%.1bu/ZYu1Y6%6%<%b./.g%.+66rgY11J&1v+c-W1/YYW1x6.vb<.%g&+g..g6brvgJ.xu?vvHYb,/xY%1rW+vb++%/&gx..v61r/gY.+uYvu8xbY/rY.1&Wgrg+g%W&vv4./W=rugx6.uxv%Srbx/&g+166gr6+r%Y&/vX.uWxrWgx1rurvYT&%u/6g/1bW/u/+&%g&uxv.WWxr%xr.ru&vxP6br/bgW11Wu/6+u%r&Wxr.%Wrr.Y&1/u6vr-bb//1g&.}WWrr+W%/&%v/..W&/+Y61xubvuD1bu&#gu.Y6Wru+%%u&.x6I+W./ggK.+u1v/+sg+&Ygb.xW%&b+.%.u+r+>gWb/vgx&x6ovb+YgY&xg1.rW+r&Yv/+ugxbyvYv//g+1uWxub+v%_&rxv.&W+r6Ygu/uvv+(/b+/ugx1W66/u+/%Y&&WC.6WxrbYr%1uW1/#ubY/W6g1%6/v.+br&&6xg.bgrr1Y&1C6Wugybb//%x/1.6&r++6xW&bxu.1Wu/ Yu1YuW1v?%bu/.g6.+6.rgYmrb&1x/FGg+/YYb1xW%ux+S%;&+x+.gbgrvYx1+u+v+sYgY/xY11ru.v&+vr+&ggb.vYvr/Y+%uur1YwxW%/r6/1&6Yv6Yg.Y&vxv./b/ruYY%Wu616LrbY/&6x166xvb+/b1&W%/.uWYrWu/%%u/x.Y&../Wgr1b6vv1gY%<6u&(.bW/r%Yu%.6{v+g-/t/bg&11Yrrm+6%YuGxxj+x%r.Y&1++uvgq%bv&Yb1.!6urY&v%x&1xrRgx./+Y61g+%vv_.b/&x%y.Y6Wrx&/%ruRx&k++W/gYb1vu.v/+Tbu&YgW.x6%rrYg%&u+x6Cg^+/vY11/u1/+gr1.6xr(1:&1x/xg1WW6Y6+b%/uWx&{1Wx&4g/1Y6&vY+/b.&1g&.6WuYb+6%.ur++1EW&/xYWb&u+Y*+g%+&Yg1.bW_/x+11Wuxxu*uW6g1gv1Y6%r/++%/x%x6..W1/x+1%u/%gW1.6&r++&16u%rY+gW//&Yu1YuWvYhv166gv&1&W.&/+b1*&1x/>kW/&1x6.vW+/ugg16u6v&{6Wxrv+1%/6Yr&dgWW/xg+1ru.v&Yg1+&gg%.vW^r/Y,%uWYvuFxW1/rgL1&6xv6Yv%x&vx+./W+ruYY%WuxvY4rbc/&gx166gvb+v%b&/x0.uWYrWYr%%urvYn&b+/6gx1b6rv1+/%&&uxY.WWvr%Yr%.u&v+l6bg/bg.116/rE+u%6&Wxx.%Wxrrx6.Yb)rbg#11&+g/.?6urY+Wvx.v&rjFW&/+gx1gubvv:bW6u&x6+xWb//x+1WW+x&zrW6/gYb1gbvr&Yu1%&Yxx.x6%rr+%%eWrr/+x%6uxx/.W6,rg+YbW&xgW+%b1&6gb.%Wgv%+&%g/&g+1b6YvW+xb%&rg.+b.+r6g+%buvx1pvbLuvxgy.W6/bg&1b&WrvAW%+&{g&%1u/vm2.%1/bgx1%6uv.+u%+&Wxg2dxbr1Y/1wubvYNbbx&+b%1.6&r+Y&%g&%xv+a.&/+Y61Y6Yvx*%br6.66.+6Wrg+%%vu/x/*wb6/YYb1xu%vr:.b&6+xY.g6%rv+.%/uxxuYY%v/xY11r6pv&+/b6WgxW.v6.r/Y6%uu6xW+rb+/rg_1&6rv6+gbb&vx&./W+ruYg%Wuvx%+&bx/&gY1666vb+vb1W/v%.uWgrWYv%%u&x._b%b/6gg1bW/v1+&%E&u%v.WWvr%Yr%.u&v+Y6a+/%gr116&r!+%%Y6W&Y.1W/r.Yu1+6Tvggbxv/1g&.?WgrY+1%x&%6/..W&/+YW1gubvvO.b/&kgu.Y6.rx+%%r&.v+L+W6/gY6%%bg/xY+1/6+vxq&6%r1+.%&u+x&.r%Wugxb.bWg/%+Y%Y&xg%.r6%rWgr1WW/r++uW1&+gF1u6Yvuf/1vu/r+dubx&1g&.16Kx1(/bd/ugY1W6xv%+rb.&&x+.6xrrbYr%1u&vB^ubYuW/Y116/v.+u%+&1xg+b.gr.Y&1Au6vYzbbxu%/x.V6ur++W%g&.xv+1.%/+Y61Yubvxe.br&v%r.+6%rg+b%v&.x/0YWu/Y6z1xu%vrM.b&&+g6.gY+rv+1%/u+xukYWW/xYK1r69v&+xb6&xgb.v<.r/Y4%uugxWAxW%//gd1&6+v6+/bb&vg1.&WmruYr%Wuxx%wxbYu+vv166%vb+vb1&vgg++bg&%gv.SW6rxY6b+&ggg1b6vvb_..v6rvg+u%g&rg61Wu&v+A6bgT.gv116/r7+u%Y&Wx6+uW/r.Y&1vu6vxRbbr/1gW&/6urY+W%&&%x/..Wbt&Y61gubv1C1b&&*gu&v6Wrx+%%/&.x&>+%6W+Y%1vu1v/+Tbb&YvWgY61rr+.%&u+x10g1b.vY11/6=vW+Ybb&xx+&%6.r&Y+1vugx%ovW1u+g+1u6YvW+xb%&rg..&W+r6Yg%buvx1K/bF%6gY1W6xv1+rb.&&x+.6WgrbYv1Yu/vicubY&cgx1%6rv%g.1Y6gr/.bW6r1Y/1}u/xvYg%v6+gr+r6&r++6%+yb&1/1Dv.Q/bWY+Wur&%Y+..&&/+.%1gv%vv%r+/& +5.Y&6rx1.Yr&.+uo+&u/g1b1vr/6/+l6rmvvvs%br/.g&.+b6OuuOgb.v61r/Wg%uuYxWfxW%/rY.11W%vW+gbb&ug1.&W#r6YY%.YWx%irW./bg+1W6gr#6bb1&/x7CvWYrbYx%%Yux.h&b+/Wgg1b6v/1v.%+&uxY.WWxr.Yr.+6/v+Mbbg/.gv116/rp+W%Y&Wxx..Wr/iY&.g6%vg2bbv/.g/.h6u/xY1%x&1xr9gW&/+Y61gW/vv{1b/&Ygu.g6Wr&gM%r&.x&R+W6/xYb1v..v/+zbu&ggW.x6%rr+.%&u+x6GrWb/vY11/6bvu+YbW&Yrn+r%&r/g.%/Wbr.+6%6&%g*.x6YvW+xbWuWv%fubg&rg&.,u&r1gPb+/6g11W6xv%gb%.&ux+.6W6rbYr%1u6v:2%vu/Wgx1%6%v.+u%+&6v%.%Wrr1Y&1zuuvY+%%u/%g/1.66r++6%g&bv...W&/ZYu1YuWvx+.%W/.gu.+6Wrg+b%vuY%1m*Wu/Ygr1xu1vro.1Y&YgW.g6brv+1%/6Yv1!YWb/xY.1ru.v&++1x&xg%.v61r/Yc%u6xrQTxW1/rgy1&6+v6+gY%&vg1./W+ruYY%Wuvx%9rW./&gx166gvb+v%&&/xX.uWfrvxu.6Wrx.Y/1&&.vv1b61v1+/%I&/g6Y#%+/1xx.1W+rv#6b%/bgv116vvgg+1g6%vv+A%6&xx61ru6vgtbbv+xg/.+6urY+W%x&%rr++W&/YY61xubv&B11/&xgu.g6Wrv+%%&&.v&e&W6/xYb1ru1v/+zbuubgW.x6%r/+.%&u+xWsgWb/vY11/69vu+Yb%&xg%.r6.r&Y+%6ugxbzvW1//g^x66YvW+xb1&rg..&WYr6Yg%buvvW{/b)/ugY.66xv%+rb%6xvrb6b.&+.v.66bY,Yv%/xWvSpY6rrx+&%+&6x+1.b%/.xW1a6WvYRWbx/Wgup{%+v1Y..r6.vr+vbb/Yg1Mgb2rug}16/.xg.+66rg+6bW6/ru+vWb&/x%-6WY/&0.b1&+g6.g66/xxv1.6+r%EY%//xY%1ru%xbYr1Cuxr+++%Yv6g&16Wrx1Y%1}u6xxXvux/YYx.M/6rxAbb1&%xv%W+bx%^rW./r5+W6/gYb1vu1v/+9bu&YgW.x6%rr+.%&u+x6UgWb/vY11/6,vu+YbW&xg%.r6.r&Y+%6ugxbXvW1//g)1u6YvW+xb%&rg..&W+r6Yg%buvx1(/b_/ugY1W6xv%+rb.&&x+.6WgrbYv%1u/vV4ubY/Wgx1%6rv.+&%+&6xg.bWvr1Y/1JuuvY5Wbx/%gr1.6&r++6%g&bxv.1W//8Yu1YuWvxd%br/.g&.+66rg+b%v&1x/:EWu/YYW1xu%vr^.b&&+g6.g6brv+1%/bk_6gY1W6xvWVWbx/%gr1.6&r++6%g&bxv.1W//TYu1YuWvxQ%br/.g&.+66rg+b%v&1x/?}Wu/YYW1xu%vr4.b&&+g6.g6brv+1%/u^xueYWW/xY%1ru.v&++b6&ggb.v61r/Yd%uuYxWIxW%/rY.1&6+v6+gbb&vg1./WUruYY%Wuxx%XrW./&g+166gvb+vb1&/xm.uWYrWYx%%urx.N&b+/6gg1b6vv1+/%0&uxY.WWxr%Yr%.u&v+-6bg/bgv116/rN+u%Y&Wxx.%Wrr.Y&1+u6vgPbbv/1g/.C6urYYr.xu&v+H6b+u&x6W1bg/v1u116K+x+ubWg.xx.rr6r.Y+uvu6xb.A6%rY+W%x&Wg/+W%x/xY61gubvvm1b//p/&.YWVrx+%%r&%r.+Y%gu/Yb1bu1v/+Pb/r+v=bxu1v&+YYWu+x6!gWbbvY.1&6Mvu+YbW&xv%U+6.ruY+%Wugx1hv%9/bgR1b6Yrg+xb%&rg.++W+rWYg%.uvx.}/%Y/.gY1b6xru+rb.&&x++rWgr%Yv%.u/v+,ubYu+gx116rv.+&%+&6rgzWWvr.Y/1+uuvxCW%ruYgr.Y6&r1+6%g&bxv++W//+Yu1vuWvvc%%&bFgu.Y66r.+b%v&1x/&rWu/gYW1vu%v/#.b&%+gW.x6brv+1%/u}ru+YWW/vY%1/u.v6++%bu/gb.&61/VYL%uuYxW+1W%//Y.1W6+vW+g%1u6g1.&Wn/vYY%Wuxx%kWW./ug+1W6gv%+vb1&uxQ.6WYrWYx%%urr.Yxb+/Wgg1%6vry+/1YucxY.1Wxr1Yr%.u&v++Wbg/%gv.+6/r++u1xbbxv.1Wr/WY&1+u6vguYbv/.g/.+6urg+W%xY8xrTjW&/YY61gubvWr#b&&+guYq6Wrv+%%r&.xbu&W6/gYb+gu1v&+V%Wbggb.v6%rW+.%&u+va+.W%/rY17r67v6+Ybb&xx+&%6.r&Y+.uugx%ivbY81gQ1u6Y&u+xb1&rv+bbW+rWYg1/uvx1p/b0EbgY1%6xv.+rb.&&vgb1Wgr.Yv1uu/v_pubr/rgx116r&b+&%Y&6xg&.Wv/gY/1guuvYcW1xrggr.x6&rr+6%u&brv+WW//vYu1/uWv/l%1r&%g&.r66r&+b%u&1vuL%Wu/uYW1Wu%vr?.b&u%g6.W6brv+1%/uVxu+oWW/WY%1%u.rn++%bu.gb.%61/+Y>%uuYxW./W%/WY..?6+vW+g%Cbvg1.&W_&bYY%buxv+u%W./&g+gb6gv%+v1qb&x+.6WY/0Yx%%urvvv6bY/WggY/6vv.+/%;&uxruYWxr%Yr+6u&vYd6bga.gv1.6/rg+u%Y&Wrx1gWr/OY&1Yu6vuBb1v&gg/.+6urg+W%/&%rrfYW&/YY61xubvup1%uu&gu.v6WrW+%%r&.x&+cW6//Yb1vu1v/+ buurgW./6%ru+.%bu+vb_uWb/uY1.+6Hvu+YbW//g%./6.rbY+%Wugv{ubW1//gfgW6Yvb+xb%+ug..uW+rWYg%buvvxvub+/6gYgr6xv1+rb.&&xvu+WgrbYvYuu/v+Ou%xx.gx116rr6+&%+&6xg&.Wv/fY/1YuuvYiW%rv+gr.Y6&rb+6%g&bxu.uW//+YuYbuWvvN%br+Yg&.r66rr+b%v&1r/+xWu//YW1uu%vb}.1&u/g6.&6br6+1%6uhruCWWW/uY%1Wu.vb++b6&1gb.b61r/Yy%uuYv%+WW%/1Y..Y6+v6+gbb6+g1.bW}/+YY%buxv+xrW./ug+Yb6gv%+v%Y+1xy.uWYW%Yx%1urx.uWb+/Wgg1.6vv1+/.Cu%xY.bWxr1Yr1vu&/++.bg/%gv1.6/rg+u.YuWxx.1Wr/SY&1vu6vgYEbv&+g/.j6urY+W1ru+xr}gW&/WY61gubvv+Yb/&+gu.r6Wrv+%%r. x&n+W6/xYb1vu1v&+2bu&YgW.W6%rr+.%Wu+x6PgWb/vY1Y+r,vb+YbW&xg%.r6./5r+%66xxbpvW1/vY&^1W.rbgY1bu.vg.6%7&ux/%b6r/_YWbs&ggY1W6xvWwu1/uurgZWbru-g6nPu/vx,ubY/WgY-WWW&r+&%&&6xg.bWgr++%QY66r.YNb//%gr1.6&r+%6Yubbv9.1W//_Yuu+uWvx5%br/.g&.+b6/(+b%v&1x/GTW%/YxW.+u%vr-.b&&+g%.gW1ru+1%&u9x.wYWW/xx%.1u.vu++bW&gx+.vbC&+Y}%WuYvYdxW%/rx+4g6+v%+gb1&vg1./bYg%YY%.uxx1arW./&g+.&6xv%+v%Y&/xY.ubY/1Yx%%urvvc&bY/6ggx%6vv1+/%+&uxY.WWxr%Yr%.u&vvA6bg/bgvx&6/rM+u%76gr&Y+%ruY+Yb,/u/v+%1bvbx1kub%/6xf1rWYru+x%6&xxuP+bwr6Yb1Wv1xb++b&xgg6W/66r&1+uuu&x6.1bxrbgY1bugv/:g%G/ux+.+W+r1YruWu/xg.%bgg&Y61euvv++u&1&vgY.gW+YW4xWb/ggubr6Yx1Yg1%u/rg+sb6&&g6%b6Lx1V/bN//x1?6Wv/+gu.g66v6+&b6rbY6%1u/v0H/%u&bv+(Y6rr/+&%+&6x+.x%uuYx/%/61/r+gbx/%grh+b/rY+6%g&1xv.1W/&Ygu1Yubvx+sbr/.g&++W/rg+%%v&.x/lxWu&xY11x6>vr+Lb&&+g6.g6.rv+.%/ugxuoYWW/xxr1ru.v&++b6&vgb.vbvr/Yq%uugxWCvW%/rgE1&6+v6+xbb&vg1./W*ruYY%W");local b=s.WBgrYDpw;s.npciYdRj(function()s._lZqVyAl()b=b+s.YQLMJwvE end)local function r(u,r)if r then return b end;b=u+b;end local u,b,f=t(s.WBgrYDpw,t,r,h,s.vtFDrWDq);local function n()local u,b=s.vtFDrWDq(h,r(s.YQLMJwvE,s.WMDgMTkK),r(s.KFVnpFjF,s.oInhtMsC)+s.pIMdiqxJ);r(s.pIMdiqxJ);return(b*s.gdmxonPB)+u;end;local a=true;local a=s.WBgrYDpw local function c()local g=b();local r=b();local e=s.YQLMJwvE;local g=(u(r,s.YQLMJwvE,s.WEaowSob)*(s.pIMdiqxJ^s.yvifGbPb))+g;local b=u(r,s.gTXsTdMQ,s.IkpyZYQH);local r=((-s.YQLMJwvE)^u(r,s.yvifGbPb));if(b==s.WBgrYDpw)then if(g==a)then return r*s.WBgrYDpw;else b=s.YQLMJwvE;e=s.WBgrYDpw;end;elseif(b==s.zuFQOoIW)then return(g==0)and(r*(1/0))or(r*(0/0));end;return s.AOWV_u_i(r,b-1023)*(e+(g/(2^52)));end;local _=b;local function p(b)local u;if(not b)then b=_();if(b==0)then return'';end;end;u=s.mjfgsaHk(h,r(1,3),r(5,6)+b-1);r(b)local r=""for b=(1+a),#u do r=r..s.mjfgsaHk(u,b,b)end return r;end;local _=#s.ITuUeTzE(o('\49.\48'))~=1 local r=b;local function gr(...)return{...},s.XPiLaAAh('#',...)end local function ur()local r={};local h={};local o={};local a={o,h,nil,r};local r=b()local t={}for g=1,r do local u=f();local r;if(u==1)then r=(f()~=#{});elseif(u==3)then local b=c();if _ and s.riMMMSdU(s.ITuUeTzE(b),'.(\48+)$')then b=s.ppECHYUI(b);end r=b;elseif(u==0)then r=p();end;t[g]=r;end;for h=1,b()do local r=f();if(u(r,1,1)==0)then local l=u(r,2,3);local f=u(r,4,6);local r={n(),n(),nil,nil};if(l==0)then r[e]=n();r[d]=n();elseif(l==#{1})then r[e]=b();elseif(l==k[2])then r[e]=b()-(2^16)elseif(l==k[3])then r[e]=b()-(2^16)r[d]=n();end;if(u(f,1,1)==1)then r[g]=t[r[g]]end if(u(f,2,2)==1)then r[e]=t[r[e]]end if(u(f,3,3)==1)then r[d]=t[r[d]]end o[h]=r;end end;a[3]=f();for r=1,b()do h[r-(#{1})]=ur();end;return a;end;local function br(u,r,b)local g=r;local g=b;return o(s.riMMMSdU(s.riMMMSdU(({s.npciYdRj(u)})[2],r),b))end local function _(y,f,h)local function br(...)local n,m,p,br,a,b,o,j,k,rr,c,u;local r=0;while-1<r do if r<=2 then if r>0 then if 2>r then p=t(6,65,3,55,y);a=gr br=0;else b=-41;o=-1;end else n=t(6,2,1,98,y);m=t(6,70,2,50,y);end else if r>=5 then if r>=2 then repeat if 5~=r then r=-2;break;end;u=t(7);until true;else r=-2;end else if r>1 then repeat if 3~=r then rr=s.XPiLaAAh('#',...)-1;c={};break;end;j={};k={...};until true;else j={};k={...};end end end r=r+1;end;for r=0,rr do if(r>=p)then j[r-p]=k[r+1];else u[r]=k[r+1];end;end;local rr=rr-p+1 local r;local t;local function k(...)while true do end end while true do if b<-40 then b=b+42 end r=n[b];t=r[z];if t>=177 then if 266>t then if t>220 then if 243<=t then if t<=253 then if 248<=t then if t<251 then if 248<t then if 247<t then repeat if t<250 then u[r[g]]=f[r[e]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=f[r[e]];b=b+1;r=n[b];u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];do return end;break;end;local l;for t=0,9 do if t>4 then if t>6 then if 8>t then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];else if 7<=t then repeat if t~=9 then u[r[g]]=u[r[e]];b=b+1;r=n[b];break;end;l=r[g]u[l]=u[l](u[l+1])until true;else u[r[g]]=u[r[e]];b=b+1;r=n[b];end end else if t~=1 then for l=49,85 do if 5<t then u[r[g]]=h[r[e]];b=b+1;r=n[b];break;end;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];break;end;else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end end else if 1<t then if 3>t then l=r[g]u[l](u[l+1])b=b+1;r=n[b];else if t>-1 then for l=11,52 do if 4~=t then u[r[g]]=f[r[e]];b=b+1;r=n[b];break;end;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];break;end;else u[r[g]]=f[r[e]];b=b+1;r=n[b];end end else if t~=-1 then for d=44,70 do if 1>t then u[r[g]]=h[r[e]];b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];break;end;else u(r[g],r[e]);b=b+1;r=n[b];end end end end until true;else local l;for t=0,9 do if t>4 then if t>6 then if 8>t then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];else if 7<=t then repeat if t~=9 then u[r[g]]=u[r[e]];b=b+1;r=n[b];break;end;l=r[g]u[l]=u[l](u[l+1])until true;else u[r[g]]=u[r[e]];b=b+1;r=n[b];end end else if t~=1 then for l=49,85 do if 5<t then u[r[g]]=h[r[e]];b=b+1;r=n[b];break;end;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];break;end;else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end end else if 1<t then if 3>t then l=r[g]u[l](u[l+1])b=b+1;r=n[b];else if t>-1 then for l=11,52 do if 4~=t then u[r[g]]=f[r[e]];b=b+1;r=n[b];break;end;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];break;end;else u[r[g]]=f[r[e]];b=b+1;r=n[b];end end else if t~=-1 then for d=44,70 do if 1>t then u[r[g]]=h[r[e]];b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];break;end;else u(r[g],r[e]);b=b+1;r=n[b];end end end end end else local b=r[g]local e={u[b](u[b+1])};local g=0;for r=b,r[d]do g=g+1;u[r]=e[g];end end else if t<252 then local g=r[g];local n=u[g]local d=u[g+2];if(d>0)then if(n>u[g+1])then b=r[e];else u[g+3]=n;end elseif(n<u[g+1])then b=r[e];else u[g+3]=n;end else if 250<=t then repeat if 252~=t then local l,t,o,s,h,d,a;for d=0,4 do if d>1 then if 3>d then d=0;while d>-1 do if 3>d then if 1<=d then if-1<d then for r=27,90 do if 1<d then o=e;break;end;t=g;break;end;else t=g;end else l=r;end else if d>4 then if 4<d then for r=37,62 do if 6~=d then u(h,s);break;end;d=-2;break;end;else u(h,s);end else if d~=2 then repeat if d~=4 then s=l[o];break;end;h=l[t];until true;else h=l[t];end end end d=d+1 end b=b+1;r=n[b];else if d~=1 then for t=35,77 do if 4>d then f[r[e]]=u[r[g]];b=b+1;r=n[b];break;end;b=r[e];break;end;else f[r[e]]=u[r[g]];b=b+1;r=n[b];end end else if d==0 then d=0;while d>-1 do if d>2 then if 4>=d then if d==3 then s=l[o];else h=l[t];end else if d>2 then for r=14,93 do if 6>d then u(h,s);break;end;d=-2;break;end;else d=-2;end end else if d>=1 then if-1~=d then for r=22,65 do if d~=1 then o=e;break;end;t=g;break;end;else t=g;end else l=r;end end d=d+1 end b=b+1;r=n[b];else a=r[g]u[a](u[a+1])b=b+1;r=n[b];end end end break;end;local f,s;for t=0,6 do if t<3 then if 1>t then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];else if t<2 then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];else f=r[g];s=u[r[e]];u[f+1]=s;u[f]=s[r[d]];b=b+1;r=n[b];end end else if 4<t then if t>=4 then repeat if 6~=t then f=r[g]u[f](l(u,f+1,r[e]))b=b+1;r=n[b];break;end;u[r[g]]=h[r[e]];until true;else u[r[g]]=h[r[e]];end else if t>=1 then for d=38,65 do if t~=4 then u(r[g],r[e]);b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];break;end;else u(r[g],r[e]);b=b+1;r=n[b];end end end end until true;else local t,l,o,s,h,d,a;for d=0,4 do if d>1 then if 3>d then d=0;while d>-1 do if 3>d then if 1<=d then if-1<d then for r=27,90 do if 1<d then o=e;break;end;l=g;break;end;else l=g;end else t=r;end else if d>4 then if 4<d then for r=37,62 do if 6~=d then u(h,s);break;end;d=-2;break;end;else u(h,s);end else if d~=2 then repeat if d~=4 then s=t[o];break;end;h=t[l];until true;else h=t[l];end end end d=d+1 end b=b+1;r=n[b];else if d~=1 then for t=35,77 do if 4>d then f[r[e]]=u[r[g]];b=b+1;r=n[b];break;end;b=r[e];break;end;else f[r[e]]=u[r[g]];b=b+1;r=n[b];end end else if d==0 then d=0;while d>-1 do if d>2 then if 4>=d then if d==3 then s=t[o];else h=t[l];end else if d>2 then for r=14,93 do if 6>d then u(h,s);break;end;d=-2;break;end;else d=-2;end end else if d>=1 then if-1~=d then for r=22,65 do if d~=1 then o=e;break;end;l=g;break;end;else l=g;end else t=r;end end d=d+1 end b=b+1;r=n[b];else a=r[g]u[a](u[a+1])b=b+1;r=n[b];end end end end end end else if 244>=t then if 239<=t then repeat if 243~=t then local t;for d=0,4 do if 1>=d then if d>-3 then repeat if d>0 then t=r[g]u[t](u[t+1])b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];until true;else u(r[g],r[e]);b=b+1;r=n[b];end else if d<3 then u(r[g],r[e]);b=b+1;r=n[b];else if d>0 then for t=17,86 do if d>3 then b=r[e];break;end;f[r[e]]=u[r[g]];b=b+1;r=n[b];break;end;else f[r[e]]=u[r[g]];b=b+1;r=n[b];end end end end break;end;local b=r[g]u[b](l(u,b+1,r[e]))until true;else local t;for d=0,4 do if 1>=d then if d>-3 then repeat if d>0 then t=r[g]u[t](u[t+1])b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];until true;else u(r[g],r[e]);b=b+1;r=n[b];end else if d<3 then u(r[g],r[e]);b=b+1;r=n[b];else if d>0 then for t=17,86 do if d>3 then b=r[e];break;end;f[r[e]]=u[r[g]];b=b+1;r=n[b];break;end;else f[r[e]]=u[r[g]];b=b+1;r=n[b];end end end end end else if 245<t then if t>=242 then for l=17,57 do if t~=247 then local l,k,s,o,a,t,p,c;for t=0,7 do if 4<=t then if 5<t then if 3<=t then for l=28,66 do if 7~=t then p=r[g];c=u[r[e]];u[p+1]=c;u[p]=c[r[d]];b=b+1;r=n[b];break;end;u[r[g]]=h[r[e]];break;end;else u[r[g]]=h[r[e]];end else if t>1 then for l=44,62 do if t~=4 then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];break;end;u[r[g]]=f[r[e]];b=b+1;r=n[b];break;end;else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end end else if t>1 then if 0<=t then for f=27,98 do if t<3 then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];break;end;t=0;while t>-1 do if 3>t then if 0>=t then l=r;else if t>=0 then repeat if t~=1 then s=e;break;end;k=g;until true;else s=e;end end else if t>4 then if t>4 then repeat if t~=5 then t=-2;break;end;u(a,o);until true;else t=-2;end else if t>1 then for r=31,52 do if t>3 then a=l[k];break;end;o=l[s];break;end;else o=l[s];end end end t=t+1 end b=b+1;r=n[b];break;end;else t=0;while t>-1 do if 3>t then if 0>=t then l=r;else if t>=0 then repeat if t~=1 then s=e;break;end;k=g;until true;else s=e;end end else if t>4 then if t>4 then repeat if t~=5 then t=-2;break;end;u(a,o);until true;else t=-2;end else if t>1 then for r=31,52 do if t>3 then a=l[k];break;end;o=l[s];break;end;else o=l[s];end end end t=t+1 end b=b+1;r=n[b];end else if 0==t then u[r[g]]=h[r[e]];b=b+1;r=n[b];else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end end end end break;end;u[r[g]]={};break;end;else u[r[g]]={};end else local t,_,j,m,t,t,o,f,k,p,a,c,s;for t=0,6 do if t>2 then if 5<=t then if 4~=t then repeat if 5~=t then u[r[g]]=u[r[e]][r[d]];break;end;o=r[g]u[o](u[o+1])b=b+1;r=n[b];until true;else u[r[g]]=u[r[e]][r[d]];end else if 2<=t then for d=28,68 do if t<4 then u[r[g]]=h[r[e]];b=b+1;r=n[b];break;end;t=0;while t>-1 do if t<=3 then if t>=2 then if-1<t then for r=17,87 do if t>2 then a=u;break;end;p=e;break;end;else a=u;end else if t>0 then k=g;else f=r;end end else if 6<=t then if t~=3 then repeat if t<7 then u[s]=c;break;end;t=-2;until true;else t=-2;end else if 1~=t then repeat if t>4 then s=f[k];break;end;c=a[f[p]];until true;else s=f[k];end end end t=t+1 end b=b+1;r=n[b];break;end;else t=0;while t>-1 do if t<=3 then if t>=2 then if-1<t then for r=17,87 do if t>2 then a=u;break;end;p=e;break;end;else a=u;end else if t>0 then k=g;else f=r;end end else if 6<=t then if t~=3 then repeat if t<7 then u[s]=c;break;end;t=-2;until true;else t=-2;end else if 1~=t then repeat if t>4 then s=f[k];break;end;c=a[f[p]];until true;else s=f[k];end end end t=t+1 end b=b+1;r=n[b];end end else if 0>=t then t=0;while t>-1 do if t>2 then if 5<=t then if t~=5 then t=-2;else u(s,m);end else if 0<=t then for r=27,67 do if 4~=t then m=f[j];break;end;s=f[_];break;end;else s=f[_];end end else if t>0 then if t<2 then _=g;else j=e;end else f=r;end end t=t+1 end b=b+1;r=n[b];else if-1<t then repeat if t>1 then u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];break;end;o=r[g]u[o]=u[o](l(u,o+1,r[e]))b=b+1;r=n[b];until true;else u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];end end end end end end end else if t>=260 then if t>=263 then if 264>t then for t=0,6 do if t<3 then if 1<=t then if t==2 then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];else u[r[g]][r[e]]=r[d];b=b+1;r=n[b];end else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end else if t<5 then if 3~=t then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end else if t>3 then for l=25,70 do if 6>t then u[r[g]]=h[r[e]];b=b+1;r=n[b];break;end;u[r[g]]=u[r[e]][r[d]];break;end;else u[r[g]]=u[r[e]][r[d]];end end end end else if t~=260 then repeat if 264<t then local g=r[g];local d=u[g+2];local n=u[g]+d;u[g]=n;if(d>0)then if(n<=u[g+1])then b=r[e];u[g+3]=n;end elseif(n>=u[g+1])then b=r[e];u[g+3]=n;end break;end;local k,l,a,f,o,s,t;k=r[g]u[k](u[k+1])b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=h[r[e]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];t=0;while t>-1 do if t<3 then if 1>t then l=r;else if-1<=t then for r=45,54 do if 1~=t then f=e;break;end;a=g;break;end;else f=e;end end else if 4>=t then if 3==t then o=l[f];else s=l[a];end else if 5==t then u(s,o);else t=-2;end end end t=t+1 end b=b+1;r=n[b];t=0;while t>-1 do if t>=3 then if 5>t then if 4==t then s=l[a];else o=l[f];end else if 5~=t then t=-2;else u(s,o);end end else if 0<t then if 2>t then a=g;else f=e;end else l=r;end end t=t+1 end until true;else local k,l,s,f,a,o,t;k=r[g]u[k](u[k+1])b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=h[r[e]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];t=0;while t>-1 do if t<3 then if 1>t then l=r;else if-1<=t then for r=45,54 do if 1~=t then f=e;break;end;s=g;break;end;else f=e;end end else if 4>=t then if 3==t then a=l[f];else o=l[s];end else if 5==t then u(o,a);else t=-2;end end end t=t+1 end b=b+1;r=n[b];t=0;while t>-1 do if t>=3 then if 5>t then if 4==t then o=l[s];else a=l[f];end else if 5~=t then t=-2;else u(o,a);end end else if 0<t then if 2>t then s=g;else f=e;end else l=r;end end t=t+1 end end end else if 260<t then if t>=257 then for b=39,57 do if t~=262 then u[r[g]]=(not u[r[e]]);break;end;local r=r[g]local g,b=a(u[r](u[r+1]))o=b+r-1 local b=0;for r=r,o do b=b+1;u[r]=g[b];end;break;end;else local r=r[g]local g,b=a(u[r](u[r+1]))o=b+r-1 local b=0;for r=r,o do b=b+1;u[r]=g[b];end;end else local t;for d=0,4 do if 2>d then if 0==d then u(r[g],r[e]);b=b+1;r=n[b];else t=r[g]u[t](u[t+1])b=b+1;r=n[b];end else if d<3 then u(r[g],r[e]);b=b+1;r=n[b];else if d~=0 then repeat if 4>d then f[r[e]]=u[r[g]];b=b+1;r=n[b];break;end;b=r[e];until true;else f[r[e]]=u[r[g]];b=b+1;r=n[b];end end end end end end else if t<257 then if t<255 then local f,s;for t=0,6 do if t>2 then if 5>t then if t~=3 then u(r[g],r[e]);b=b+1;r=n[b];else u(r[g],r[e]);b=b+1;r=n[b];end else if 4<t then for d=28,82 do if 5~=t then u[r[g]]=h[r[e]];break;end;f=r[g]u[f](l(u,f+1,r[e]))b=b+1;r=n[b];break;end;else u[r[g]]=h[r[e]];end end else if t>0 then if 2~=t then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];else f=r[g];s=u[r[e]];u[f+1]=s;u[f]=s[r[d]];b=b+1;r=n[b];end else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end end end else if 255==t then local t;for d=0,4 do if d>1 then if 3>d then u(r[g],r[e]);b=b+1;r=n[b];else if d>=-1 then for t=38,61 do if 3<d then b=r[e];break;end;f[r[e]]=u[r[g]];b=b+1;r=n[b];break;end;else b=r[e];end end else if 0==d then u(r[g],r[e]);b=b+1;r=n[b];else t=r[g]u[t](u[t+1])b=b+1;r=n[b];end end end else local t,h;for f=0,4 do if f<=1 then if-3<f then for h=32,62 do if 0~=f then t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];break;end;u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];break;end;else u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];end else if 2<f then if f==4 then u[r[g]][r[e]]=r[d];else u[r[g]]={};b=b+1;r=n[b];end else t=r[g];h=u[r[e]];u[t+1]=h;u[t]=h[r[d]];b=b+1;r=n[b];end end end end end else if 257<t then if t==259 then local l;for t=0,6 do if t<=2 then if t<1 then l=r[g]u[l](u[l+1])b=b+1;r=n[b];else if-2<=t then for l=41,72 do if t>1 then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];break;end;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];break;end;else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end end else if 4>=t then if t~=2 then repeat if t~=3 then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];break;end;u[r[g]]=h[r[e]];b=b+1;r=n[b];until true;else u[r[g]]=h[r[e]];b=b+1;r=n[b];end else if 1<t then for d=26,52 do if t>5 then u(r[g],r[e]);break;end;u(r[g],r[e]);b=b+1;r=n[b];break;end;else u(r[g],r[e]);b=b+1;r=n[b];end end end end else local t,f;u[r[g]][r[e]]=r[d];b=b+1;r=n[b];u[r[g]][r[e]]=r[d];b=b+1;r=n[b];t=r[g]u[t]=u[t](l(u,t+1,r[e]))b=b+1;r=n[b];t=r[g];f=u[r[e]];u[t+1]=f;u[t]=f[r[d]];b=b+1;r=n[b];u[r[g]]={};b=b+1;r=n[b];u[r[g]][r[e]]=r[d];b=b+1;r=n[b];u[r[g]][r[e]]=r[d];end else local t,f;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];t=r[g];f=u[r[e]];u[t+1]=f;u[t]=f[r[d]];b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];u[r[g]]=h[r[e]];end end end end else if 231>=t then if t>=226 then if t<=228 then if t<=226 then local f;for t=0,6 do if t>=3 then if 4<t then if 5<t then u[r[g]]=u[r[e]];else u[r[g]]=h[r[e]];b=b+1;r=n[b];end else if t>3 then u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];else f=r[g]u[f]=u[f](l(u,f+1,r[e]))b=b+1;r=n[b];end end else if 1<=t then if t>-3 then repeat if t>1 then u(r[g],r[e]);b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];until true;else u(r[g],r[e]);b=b+1;r=n[b];end else u(r[g],r[e]);b=b+1;r=n[b];end end end else if 226<t then for h=26,97 do if t~=228 then local t,s;for h=0,6 do if h>=3 then if 4<h then if h==5 then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];else u[r[g]][r[e]]=u[r[d]];end else if 3==h then t=r[g]u[t]=u[t](l(u,t+1,r[e]))b=b+1;r=n[b];else u[r[g]]=f[r[e]];b=b+1;r=n[b];end end else if 1>h then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];else if h>1 then u(r[g],r[e]);b=b+1;r=n[b];else t=r[g];s=u[r[e]];u[t+1]=s;u[t]=s[r[d]];b=b+1;r=n[b];end end end end break;end;local t,f;u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];t=r[g];f=u[r[e]];u[t+1]=f;u[t]=f[r[d]];b=b+1;r=n[b];u[r[g]]={};b=b+1;r=n[b];u[r[g]][r[e]]=r[d];b=b+1;r=n[b];u[r[g]][r[e]]=r[d];b=b+1;r=n[b];u[r[g]][r[e]]=r[d];break;end;else local t,f;u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];t=r[g];f=u[r[e]];u[t+1]=f;u[t]=f[r[d]];b=b+1;r=n[b];u[r[g]]={};b=b+1;r=n[b];u[r[g]][r[e]]=r[d];b=b+1;r=n[b];u[r[g]][r[e]]=r[d];b=b+1;r=n[b];u[r[g]][r[e]]=r[d];end end else if t>=230 then if t~=230 then local t,a,h,l,o,d,s;for d=0,4 do if d<=1 then if d>=-1 then for f=29,91 do if d>0 then s=r[g]u[s](u[s+1])b=b+1;r=n[b];break;end;d=0;while d>-1 do if 2>=d then if d<1 then t=r;else if-3~=d then repeat if 1~=d then h=e;break;end;a=g;until true;else h=e;end end else if 5<=d then if 1<=d then for r=10,75 do if 5~=d then d=-2;break;end;u(o,l);break;end;else u(o,l);end else if d>-1 then repeat if 3~=d then o=t[a];break;end;l=t[h];until true;else l=t[h];end end end d=d+1 end b=b+1;r=n[b];break;end;else s=r[g]u[s](u[s+1])b=b+1;r=n[b];end else if 3>d then d=0;while d>-1 do if 2<d then if d>4 then if d>5 then d=-2;else u(o,l);end else if 0<d then repeat if 3<d then o=t[a];break;end;l=t[h];until true;else l=t[h];end end else if d<=0 then t=r;else if 1<d then h=e;else a=g;end end end d=d+1 end b=b+1;r=n[b];else if d~=-1 then repeat if d<4 then f[r[e]]=u[r[g]];b=b+1;r=n[b];break;end;b=r[e];until true;else b=r[e];end end end end else local j,t,t,a,o,s,t,t,t,t,t,p,m,t,h,c,z,l,k,f,_;for t=0,6 do if 2<t then if 4<t then if 4<t then for p=23,88 do if 5~=t then t=0;while t>-1 do if t<3 then if 0<t then if 1<t then o=e;else a=g;end else l=r;end else if t>4 then if 6==t then t=-2;else u(f,s);end else if 1~=t then for r=43,58 do if 3<t then f=l[a];break;end;s=l[o];break;end;else s=l[o];end end end t=t+1 end break;end;t=0;while t>-1 do if t>=3 then if t<=4 then if t==3 then f=l[h];else _=u[k];for r=1+k,l[z]do _=_..u[r];end;end else if 4<=t then for r=30,65 do if 5<t then t=-2;break;end;u[f]=_;break;end;else t=-2;end end else if t<1 then h=g;c=e;z=d;else if 1==t then l=r;else k=l[c];end end end t=t+1 end b=b+1;r=n[b];break;end;else t=0;while t>-1 do if t<3 then if 0<t then if 1<t then o=e;else a=g;end else l=r;end else if t>4 then if 6==t then t=-2;else u(f,s);end else if 1~=t then for r=43,58 do if 3<t then f=l[a];break;end;s=l[o];break;end;else s=l[o];end end end t=t+1 end end else if t~=2 then for d=47,61 do if 3~=t then t=0;while t>-1 do if t>3 then if 6<=t then if 7~=t then u[f]=m;else t=-2;end else if 0~=t then repeat if t~=5 then m=p[l[c]];break;end;f=l[h];until true;else f=l[h];end end else if t>1 then if 1<=t then for r=45,82 do if t~=3 then c=e;break;end;p=u;break;end;else p=u;end else if t>-3 then repeat if 1~=t then l=r;break;end;h=g;until true;else h=g;end end end t=t+1 end b=b+1;r=n[b];break;end;t=0;while t>-1 do if t>2 then if 4<t then if t~=3 then for r=27,72 do if 6>t then u(f,s);break;end;t=-2;break;end;else t=-2;end else if t~=0 then for r=48,82 do if 4~=t then s=l[o];break;end;f=l[a];break;end;else f=l[a];end end else if t<1 then l=r;else if t~=-1 then repeat if 2>t then a=g;break;end;o=e;until true;else a=g;end end end t=t+1 end b=b+1;r=n[b];break;end;else t=0;while t>-1 do if t>3 then if 6<=t then if 7~=t then u[f]=m;else t=-2;end else if 0~=t then repeat if t~=5 then m=p[l[c]];break;end;f=l[h];until true;else f=l[h];end end else if t>1 then if 1<=t then for r=45,82 do if t~=3 then c=e;break;end;p=u;break;end;else p=u;end else if t>-3 then repeat if 1~=t then l=r;break;end;h=g;until true;else h=g;end end end t=t+1 end b=b+1;r=n[b];end end else if 1<=t then if t>1 then j=r[g];k=u[r[e]];u[j+1]=k;u[j]=k[r[d]];b=b+1;r=n[b];else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end end end end else u[r[g]][r[e]]=u[r[d]];end end else if 223<=t then if t<=223 then local r=r[g]u[r]=u[r](l(u,r+1,o))else if 222~=t then for l=24,93 do if 224~=t then local b=r[g];local g=u[r[e]];u[b+1]=g;u[b]=g[r[d]];break;end;local t;for d=0,4 do if 1<d then if d<3 then u(r[g],r[e]);b=b+1;r=n[b];else if 2<=d then repeat if 3<d then b=r[e];break;end;f[r[e]]=u[r[g]];b=b+1;r=n[b];until true;else f[r[e]]=u[r[g]];b=b+1;r=n[b];end end else if-1<=d then for l=31,64 do if 0<d then t=r[g]u[t](u[t+1])b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];break;end;else u(r[g],r[e]);b=b+1;r=n[b];end end end break;end;else local t;for d=0,4 do if 1<d then if d<3 then u(r[g],r[e]);b=b+1;r=n[b];else if 2<=d then repeat if 3<d then b=r[e];break;end;f[r[e]]=u[r[g]];b=b+1;r=n[b];until true;else f[r[e]]=u[r[g]];b=b+1;r=n[b];end end else if-1<=d then for l=31,64 do if 0<d then t=r[g]u[t](u[t+1])b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];break;end;else u(r[g],r[e]);b=b+1;r=n[b];end end end end end else if 218<=t then repeat if t~=222 then local t,l,h,o,s,d,a;for d=0,4 do if 2<=d then if 2>=d then d=0;while d>-1 do if 2>=d then if 0>=d then t=r;else if d>-3 then repeat if 2>d then l=g;break;end;h=e;until true;else l=g;end end else if d>=5 then if d>1 then for r=47,76 do if d<6 then u(s,o);break;end;d=-2;break;end;else d=-2;end else if d>=2 then repeat if d>3 then s=t[l];break;end;o=t[h];until true;else s=t[l];end end end d=d+1 end b=b+1;r=n[b];else if 1<=d then for t=21,96 do if d~=4 then f[r[e]]=u[r[g]];b=b+1;r=n[b];break;end;b=r[e];break;end;else f[r[e]]=u[r[g]];b=b+1;r=n[b];end end else if d<1 then d=0;while d>-1 do if 3<=d then if 4<d then if 4<=d then for r=48,78 do if 5~=d then d=-2;break;end;u(s,o);break;end;else u(s,o);end else if 2<d then for r=20,61 do if d<4 then o=t[h];break;end;s=t[l];break;end;else o=t[h];end end else if d<1 then t=r;else if d~=0 then for r=42,95 do if 2~=d then l=g;break;end;h=e;break;end;else h=e;end end end d=d+1 end b=b+1;r=n[b];else a=r[g]u[a](u[a+1])b=b+1;r=n[b];end end end break;end;u[r[g]]=u[r[e]][r[d]];until true;else u[r[g]]=u[r[e]][r[d]];end end end else if 236<t then if 239<t then if t<241 then local t,o,h,l,s,d,a;for d=0,4 do if d<=1 then if d>0 then a=r[g]u[a](u[a+1])b=b+1;r=n[b];else d=0;while d>-1 do if d>=3 then if 4>=d then if-1<d then for r=27,87 do if d>3 then s=t[o];break;end;l=t[h];break;end;else l=t[h];end else if d>=3 then repeat if 5~=d then d=-2;break;end;u(s,l);until true;else d=-2;end end else if 1<=d then if d~=1 then h=e;else o=g;end else t=r;end end d=d+1 end b=b+1;r=n[b];end else if 2<d then if 1~=d then repeat if 3~=d then b=r[e];break;end;f[r[e]]=u[r[g]];b=b+1;r=n[b];until true;else f[r[e]]=u[r[g]];b=b+1;r=n[b];end else d=0;while d>-1 do if d<=2 then if d>=1 then if d<2 then o=g;else h=e;end else t=r;end else if d>4 then if d>4 then for r=35,59 do if d<6 then u(s,l);break;end;d=-2;break;end;else u(s,l);end else if d~=0 then for r=26,69 do if 4>d then l=t[h];break;end;s=t[o];break;end;else l=t[h];end end end d=d+1 end b=b+1;r=n[b];end end end else if 242~=t then local t,f;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];t=r[g];f=u[r[e]];u[t+1]=f;u[t]=f[r[d]];b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];u[r[g]]=h[r[e]];else do return u[r[g]]end end end else if 238<=t then if 238==t then local t;for d=0,4 do if d>1 then if d<=2 then u(r[g],r[e]);b=b+1;r=n[b];else if-1<=d then for t=42,62 do if 4>d then f[r[e]]=u[r[g]];b=b+1;r=n[b];break;end;b=r[e];break;end;else f[r[e]]=u[r[g]];b=b+1;r=n[b];end end else if d~=-3 then repeat if 0~=d then t=r[g]u[t](u[t+1])b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];until true;else u(r[g],r[e]);b=b+1;r=n[b];end end end else local t;u[r[g]]=f[r[e]];b=b+1;r=n[b];u[r[g]]=f[r[e]];b=b+1;r=n[b];u[r[g]]=u[r[e]];b=b+1;r=n[b];t=r[g]u[t]=u[t](u[t+1])b=b+1;r=n[b];u[r[g]][u[r[e]]]=u[r[d]];b=b+1;r=n[b];do return end;end else local t,f;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];t=r[g];f=u[r[e]];u[t+1]=f;u[t]=f[r[d]];b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];u[r[g]]=h[r[e]];end end else if t<=233 then if t>232 then if(u[r[g]]<r[d])then b=b+1;else b=r[e];end;else local s,o,f,t,l,h,n;local b=0;while b>-1 do if 3<=b then if 5<=b then if b>=4 then for r=10,52 do if b>5 then b=-2;break;end;u[h]=n;break;end;else u[h]=n;end else if 0<b then repeat if 3<b then n=u[l];for r=1+l,t[f]do n=n..u[r];end;break;end;h=t[s];until true;else n=u[l];for r=1+l,t[f]do n=n..u[r];end;end end else if b>0 then if 2==b then l=t[o];else t=r;end else s=g;o=e;f=d;end end b=b+1 end end else if 234<t then if t==236 then local o,p,s,f,c,k,a,t;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];o=r[g];p=u[r[e]];u[o+1]=p;u[o]=p[r[d]];b=b+1;r=n[b];t=0;while t>-1 do if t>=3 then if t<=4 then if t~=3 then a=s[f];else k=s[c];end else if t==6 then t=-2;else u(a,k);end end else if 1<=t then if-1<=t then repeat if t>1 then c=e;break;end;f=g;until true;else f=g;end else s=r;end end t=t+1 end b=b+1;r=n[b];t=0;while t>-1 do if t>=3 then if 4>=t then if 0~=t then repeat if t>3 then a=s[f];break;end;k=s[c];until true;else a=s[f];end else if 5<t then t=-2;else u(a,k);end end else if t>0 then if-2<=t then repeat if t>1 then c=e;break;end;f=g;until true;else f=g;end else s=r;end end t=t+1 end b=b+1;r=n[b];o=r[g]u[o](l(u,o+1,r[e]))b=b+1;r=n[b];u[r[g]]=h[r[e]];else local r=r[g];o=r+rr-1;for b=r,o do local r=j[b-r];u[b]=r;end;end else for t=0,5 do if t>=3 then if 4<=t then if 3<=t then for l=49,88 do if 5>t then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];break;end;if(u[r[g]]~=u[r[d]])then b=b+1;else b=r[e];end;break;end;else if(u[r[g]]~=u[r[d]])then b=b+1;else b=r[e];end;end else u[r[g]]=f[r[e]];b=b+1;r=n[b];end else if t<1 then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];else if t~=-3 then for l=11,86 do if t~=1 then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];break;end;u[r[g]]=u[r[e]][u[r[d]]];b=b+1;r=n[b];break;end;else u[r[g]]=u[r[e]][u[r[d]]];b=b+1;r=n[b];end end end end end end end end end else if t<199 then if 188>t then if t>=182 then if t<=184 then if 182<t then if t<184 then local f,s;for t=0,7 do if t>=4 then if t<=5 then if t==5 then u[r[g]][r[e]]=r[d];b=b+1;r=n[b];else u[r[g]][r[e]]=r[d];b=b+1;r=n[b];end else if 2<=t then for l=10,94 do if t<7 then u[r[g]]=h[r[e]];b=b+1;r=n[b];break;end;u[r[g]]=u[r[e]][r[d]];break;end;else u[r[g]]=h[r[e]];b=b+1;r=n[b];end end else if t<=1 then if 1>t then u[r[g]][r[e]]=r[d];b=b+1;r=n[b];else f=r[g]u[f]=u[f](l(u,f+1,r[e]))b=b+1;r=n[b];end else if 0<t then repeat if 3>t then f=r[g];s=u[r[e]];u[f+1]=s;u[f]=s[r[d]];b=b+1;r=n[b];break;end;u[r[g]]={};b=b+1;r=n[b];until true;else u[r[g]]={};b=b+1;r=n[b];end end end end else local t;for f=0,4 do if 1<f then if f>2 then if 0<f then repeat if f<4 then t=r[g]u[t]=u[t](l(u,t+1,r[e]))b=b+1;r=n[b];break;end;if(u[r[g]]~=r[d])then b=b+1;else b=r[e];end;until true;else t=r[g]u[t]=u[t](l(u,t+1,r[e]))b=b+1;r=n[b];end else u(r[g],r[e]);b=b+1;r=n[b];end else if f>=-2 then repeat if f>0 then u(r[g],r[e]);b=b+1;r=n[b];break;end;u[r[g]]=u[r[e]];b=b+1;r=n[b];until true;else u(r[g],r[e]);b=b+1;r=n[b];end end end end else local t,p,k,_,s,c;for k=0,7 do if k>=4 then if k>=6 then if k~=2 then for f=31,86 do if 7~=k then t=r[g]c={u[t](l(u,t+1,o))};s=0;for r=t,r[d]do s=s+1;u[r]=c[s];end b=b+1;r=n[b];break;end;b=r[e];break;end;else t=r[g]c={u[t](l(u,t+1,o))};s=0;for r=t,r[d]do s=s+1;u[r]=c[s];end b=b+1;r=n[b];end else if 5>k then t=r[g];p=u[r[e]];u[t+1]=p;u[t]=p[r[d]];b=b+1;r=n[b];else t=r[g]c,_=a(u[t](u[t+1]))o=_+t-1 s=0;for r=t,o do s=s+1;u[r]=c[s];end;b=b+1;r=n[b];end end else if 2<=k then if k~=-1 then for t=30,88 do if 2<k then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];break;end;u[r[g]]=f[r[e]];b=b+1;r=n[b];break;end;else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end else if 1~=k then u[r[g]]();b=b+1;r=n[b];else u[r[g]]=h[r[e]];b=b+1;r=n[b];end end end end end else if 185>=t then local d;for t=0,4 do if t<2 then if-4<=t then repeat if t<1 then u(r[g],r[e]);b=b+1;r=n[b];break;end;d=r[g]u[d](u[d+1])b=b+1;r=n[b];until true;else d=r[g]u[d](u[d+1])b=b+1;r=n[b];end else if 3>t then u(r[g],r[e]);b=b+1;r=n[b];else if 4==t then b=r[e];else f[r[e]]=u[r[g]];b=b+1;r=n[b];end end end end else if t~=182 then repeat if 187>t then u[r[g]][r[e]]=r[d];break;end;local r=r[g]u[r]=u[r]()until true;else u[r[g]][r[e]]=r[d];end end end else if 178>=t then if t>173 then for f=39,80 do if 177<t then local f,s;for t=0,6 do if 3>t then if t>=1 then if t~=0 then repeat if 1<t then f=r[g];s=u[r[e]];u[f+1]=s;u[f]=s[r[d]];b=b+1;r=n[b];break;end;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];until true;else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end else if 5>t then if 1<t then repeat if t<4 then u(r[g],r[e]);b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];until true;else u(r[g],r[e]);b=b+1;r=n[b];end else if t>=3 then for d=30,83 do if 6>t then f=r[g]u[f](l(u,f+1,r[e]))b=b+1;r=n[b];break;end;u[r[g]]=h[r[e]];break;end;else u[r[g]]=h[r[e]];end end end end break;end;local t,f;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];t=r[g];f=u[r[e]];u[t+1]=f;u[t]=f[r[d]];b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];u[r[g]]=h[r[e]];break;end;else local t,f;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];t=r[g];f=u[r[e]];u[t+1]=f;u[t]=f[r[d]];b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];u[r[g]]=h[r[e]];end else if t<=179 then local t,h;for f=0,7 do if f>3 then if 6>f then if 4<f then u[r[g]][r[e]]=r[d];b=b+1;r=n[b];else u[r[g]][r[e]]=r[d];b=b+1;r=n[b];end else if 3<=f then repeat if f>6 then b=r[e];break;end;t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];until true;else t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];end end else if f>1 then if 3>f then u[r[g]][r[e]]=r[d];b=b+1;r=n[b];else u[r[g]][r[e]]=r[d];b=b+1;r=n[b];end else if 0==f then t=r[g];h=u[r[e]];u[t+1]=h;u[t]=h[r[d]];b=b+1;r=n[b];else u[r[g]]={};b=b+1;r=n[b];end end end end else if t>=178 then for f=17,52 do if t~=180 then local b=r[g];local g=u[b];for r=b+1,r[e]do s.ZQQnUsIF(g,u[r])end;break;end;local f,h,s;for t=0,6 do if 2>=t then if t<=0 then f=r[g];h=u[r[e]];u[f+1]=h;u[f]=h[r[d]];b=b+1;r=n[b];else if t>-1 then for d=26,58 do if 2>t then u(r[g],r[e]);b=b+1;r=n[b];break;end;u[r[g]]=u[r[e]];b=b+1;r=n[b];break;end;else u[r[g]]=u[r[e]];b=b+1;r=n[b];end end else if t>=5 then if 1<t then for d=32,77 do if t<6 then f=r[g]u[f](l(u,f+1,r[e]))b=b+1;r=n[b];break;end;b=r[e];break;end;else b=r[e];end else if t~=3 then h=r[e];s=u[h]for r=h+1,r[d]do s=s..u[r];end;u[r[g]]=s;b=b+1;r=n[b];else u(r[g],r[e]);b=b+1;r=n[b];end end end end break;end;else local h,f,s;for t=0,6 do if 2>=t then if t<=0 then h=r[g];f=u[r[e]];u[h+1]=f;u[h]=f[r[d]];b=b+1;r=n[b];else if t>-1 then for d=26,58 do if 2>t then u(r[g],r[e]);b=b+1;r=n[b];break;end;u[r[g]]=u[r[e]];b=b+1;r=n[b];break;end;else u[r[g]]=u[r[e]];b=b+1;r=n[b];end end else if t>=5 then if 1<t then for d=32,77 do if t<6 then h=r[g]u[h](l(u,h+1,r[e]))b=b+1;r=n[b];break;end;b=r[e];break;end;else b=r[e];end else if t~=3 then f=r[e];s=u[f]for r=f+1,r[d]do s=s..u[r];end;u[r[g]]=s;b=b+1;r=n[b];else u(r[g],r[e]);b=b+1;r=n[b];end end end end end end end end else if t>=193 then if t<196 then if t>=194 then if t~=190 then repeat if t>194 then local t,f;t=r[g]u[t]=u[t](l(u,t+1,r[e]))b=b+1;r=n[b];u[r[g]]=h[r[e]];b=b+1;r=n[b];t=r[g];f=u[r[e]];u[t+1]=f;u[t]=f[r[d]];b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];t=r[g]u[t]=u[t](l(u,t+1,r[e]))b=b+1;r=n[b];u[r[g]]=h[r[e]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];if not u[r[g]]then b=b+1;else b=r[e];end;break;end;local t,l,s,h,o,d,a;for d=0,4 do if d>=2 then if 2>=d then d=0;while d>-1 do if 3>d then if 0>=d then t=r;else if-2~=d then repeat if 1<d then s=e;break;end;l=g;until true;else l=g;end end else if 5>d then if d~=3 then o=t[l];else h=t[s];end else if 1~=d then repeat if d~=6 then u(o,h);break;end;d=-2;until true;else u(o,h);end end end d=d+1 end b=b+1;r=n[b];else if d~=-1 then repeat if d~=4 then f[r[e]]=u[r[g]];b=b+1;r=n[b];break;end;b=r[e];until true;else f[r[e]]=u[r[g]];b=b+1;r=n[b];end end else if 0<d then a=r[g]u[a](u[a+1])b=b+1;r=n[b];else d=0;while d>-1 do if d>2 then if 4<d then if 5<d then d=-2;else u(o,h);end else if d>1 then for r=15,95 do if 4~=d then h=t[s];break;end;o=t[l];break;end;else h=t[s];end end else if 0>=d then t=r;else if d~=-1 then repeat if d<2 then l=g;break;end;s=e;until true;else l=g;end end end d=d+1 end b=b+1;r=n[b];end end end until true;else local t,h,s,l,o,d,a;for d=0,4 do if d>=2 then if 2>=d then d=0;while d>-1 do if 3>d then if 0>=d then t=r;else if-2~=d then repeat if 1<d then s=e;break;end;h=g;until true;else h=g;end end else if 5>d then if d~=3 then o=t[h];else l=t[s];end else if 1~=d then repeat if d~=6 then u(o,l);break;end;d=-2;until true;else u(o,l);end end end d=d+1 end b=b+1;r=n[b];else if d~=-1 then repeat if d~=4 then f[r[e]]=u[r[g]];b=b+1;r=n[b];break;end;b=r[e];until true;else f[r[e]]=u[r[g]];b=b+1;r=n[b];end end else if 0<d then a=r[g]u[a](u[a+1])b=b+1;r=n[b];else d=0;while d>-1 do if d>2 then if 4<d then if 5<d then d=-2;else u(o,l);end else if d>1 then for r=15,95 do if 4~=d then l=t[s];break;end;o=t[h];break;end;else l=t[s];end end else if 0>=d then t=r;else if d~=-1 then repeat if d<2 then h=g;break;end;s=e;until true;else h=g;end end end d=d+1 end b=b+1;r=n[b];end end end end else local d;for t=0,4 do if 1>=t then if t>-2 then for l=40,79 do if 1~=t then u(r[g],r[e]);b=b+1;r=n[b];break;end;d=r[g]u[d](u[d+1])b=b+1;r=n[b];break;end;else d=r[g]u[d](u[d+1])b=b+1;r=n[b];end else if t<3 then u(r[g],r[e]);b=b+1;r=n[b];else if t~=-1 then repeat if t<4 then f[r[e]]=u[r[g]];b=b+1;r=n[b];break;end;b=r[e];until true;else b=r[e];end end end end end else if t<197 then local t;t=r[g]u[t]=u[t](l(u,t+1,r[e]))b=b+1;r=n[b];u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];u[r[g]]=h[r[e]];b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];t=r[g]u[t](u[t+1])b=b+1;r=n[b];u[r[g]]=f[r[e]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];else if 194~=t then for l=38,61 do if 197~=t then local t;for d=0,4 do if d>1 then if 2>=d then u(r[g],r[e]);b=b+1;r=n[b];else if 2<d then for t=39,57 do if d>3 then b=r[e];break;end;f[r[e]]=u[r[g]];b=b+1;r=n[b];break;end;else b=r[e];end end else if-1~=d then repeat if 1~=d then u(r[g],r[e]);b=b+1;r=n[b];break;end;t=r[g]u[t](u[t+1])b=b+1;r=n[b];until true;else u(r[g],r[e]);b=b+1;r=n[b];end end end break;end;for t=0,4 do if 1<t then if t>=3 then if 3==t then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];else if(u[r[g]]<r[d])then b=b+1;else b=r[e];end;end else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end else if t>=-3 then repeat if 1~=t then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];break;end;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];until true;else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end end end break;end;else local t;for d=0,4 do if d>1 then if 2>=d then u(r[g],r[e]);b=b+1;r=n[b];else if 2<d then for t=39,57 do if d>3 then b=r[e];break;end;f[r[e]]=u[r[g]];b=b+1;r=n[b];break;end;else b=r[e];end end else if-1~=d then repeat if 1~=d then u(r[g],r[e]);b=b+1;r=n[b];break;end;t=r[g]u[t](u[t+1])b=b+1;r=n[b];until true;else u(r[g],r[e]);b=b+1;r=n[b];end end end end end end else if 190>t then if t>=185 then for h=37,76 do if t~=189 then local t;for f=0,4 do if 2<=f then if f>2 then if-1<=f then repeat if f~=3 then u[r[g]][r[e]]=u[r[d]];break;end;t=r[g]u[t]=u[t](u[t+1])b=b+1;r=n[b];until true;else t=r[g]u[t]=u[t](u[t+1])b=b+1;r=n[b];end else u[r[g]]=u[r[e]]+u[r[d]];b=b+1;r=n[b];end else if 1>f then u(r[g],r[e]);b=b+1;r=n[b];else t=r[g]u[t]=u[t](l(u,t+1,r[e]))b=b+1;r=n[b];end end end break;end;f[r[e]]=u[r[g]];break;end;else f[r[e]]=u[r[g]];end else if t<191 then local d;for t=0,4 do if 2<=t then if 3<=t then if 3~=t then b=r[e];else f[r[e]]=u[r[g]];b=b+1;r=n[b];end else u(r[g],r[e]);b=b+1;r=n[b];end else if-4~=t then for l=44,67 do if 0<t then d=r[g]u[d](u[d+1])b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];break;end;else d=r[g]u[d](u[d+1])b=b+1;r=n[b];end end end else if t~=188 then repeat if 192>t then local d;u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];d=r[g]u[d]=u[d](l(u,d+1,r[e]))break;end;local t;u[r[g]]=h[r[e]];b=b+1;r=n[b];u[r[g]]=u[r[e]];b=b+1;r=n[b];t=r[g]u[t](u[t+1])b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=h[r[e]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];until true;else local t;u[r[g]]=h[r[e]];b=b+1;r=n[b];u[r[g]]=u[r[e]];b=b+1;r=n[b];t=r[g]u[t](u[t+1])b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=h[r[e]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];end end end end end else if t>=210 then if t>214 then if 217<t then if t<=218 then local t;u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];t=r[g]u[t]=u[t](l(u,t+1,r[e]))b=b+1;r=n[b];u[r[g]][r[e]]=u[r[d]];else if t==219 then local o,p,f,a,s,c,k,t;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];o=r[g];p=u[r[e]];u[o+1]=p;u[o]=p[r[d]];b=b+1;r=n[b];t=0;while t>-1 do if 2<t then if 4>=t then if t~=2 then repeat if 3~=t then k=f[a];break;end;c=f[s];until true;else c=f[s];end else if 4<=t then for r=26,89 do if t~=6 then u(k,c);break;end;t=-2;break;end;else t=-2;end end else if t>0 then if t>-1 then for r=30,58 do if t<2 then a=g;break;end;s=e;break;end;else s=e;end else f=r;end end t=t+1 end b=b+1;r=n[b];t=0;while t>-1 do if 3>t then if t>=1 then if-2~=t then repeat if 1~=t then s=e;break;end;a=g;until true;else a=g;end else f=r;end else if 4>=t then if t~=2 then for r=31,86 do if 3~=t then k=f[a];break;end;c=f[s];break;end;else k=f[a];end else if 3~=t then for r=34,55 do if 6>t then u(k,c);break;end;t=-2;break;end;else t=-2;end end end t=t+1 end b=b+1;r=n[b];o=r[g]u[o](l(u,o+1,r[e]))b=b+1;r=n[b];u[r[g]]=h[r[e]];else u[r[g]]=u[r[e]]-r[d];end end else if t<=215 then u[r[g]][u[r[e]]]=u[r[d]];else if t>216 then local t;for d=0,4 do if d<2 then if 0==d then u(r[g],r[e]);b=b+1;r=n[b];else t=r[g]u[t](u[t+1])b=b+1;r=n[b];end else if d>2 then if d>2 then repeat if d~=3 then b=r[e];break;end;f[r[e]]=u[r[g]];b=b+1;r=n[b];until true;else f[r[e]]=u[r[g]];b=b+1;r=n[b];end else u(r[g],r[e]);b=b+1;r=n[b];end end end else local t,s,o,h,l,d,a;for d=0,4 do if 2<=d then if d<=2 then d=0;while d>-1 do if d>=3 then if 4<d then if 3~=d then repeat if d~=6 then u(l,h);break;end;d=-2;until true;else d=-2;end else if d==3 then h=t[o];else l=t[s];end end else if d<=0 then t=r;else if 1==d then s=g;else o=e;end end end d=d+1 end b=b+1;r=n[b];else if d>=0 then repeat if d>3 then b=r[e];break;end;f[r[e]]=u[r[g]];b=b+1;r=n[b];until true;else b=r[e];end end else if 1>d then d=0;while d>-1 do if d>2 then if 4>=d then if 2<d then for r=31,74 do if d~=4 then h=t[o];break;end;l=t[s];break;end;else l=t[s];end else if d>2 then for r=28,98 do if 6~=d then u(l,h);break;end;d=-2;break;end;else u(l,h);end end else if 0<d then if 1==d then s=g;else o=e;end else t=r;end end d=d+1 end b=b+1;r=n[b];else a=r[g]u[a](u[a+1])b=b+1;r=n[b];end end end end end end else if t>211 then if 212<t then if t>=211 then for f=16,93 do if t>213 then local t,f;u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];t=r[g];f=u[r[e]];u[t+1]=f;u[t]=f[r[d]];b=b+1;r=n[b];u[r[g]]={};b=b+1;r=n[b];u[r[g]][r[e]]=r[d];b=b+1;r=n[b];u[r[g]][r[e]]=r[d];b=b+1;r=n[b];u[r[g]]=h[r[e]];break;end;local f,s;for t=0,6 do if t>2 then if t>=5 then if t~=4 then for d=24,69 do if 5<t then u[r[g]]=h[r[e]];break;end;f=r[g]u[f](l(u,f+1,r[e]))b=b+1;r=n[b];break;end;else u[r[g]]=h[r[e]];end else if 3<t then u(r[g],r[e]);b=b+1;r=n[b];else u(r[g],r[e]);b=b+1;r=n[b];end end else if t<=0 then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];else if t>0 then repeat if t~=2 then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];break;end;f=r[g];s=u[r[e]];u[f+1]=s;u[f]=s[r[d]];b=b+1;r=n[b];until true;else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end end end end break;end;else local f,s;for t=0,6 do if t>2 then if t>=5 then if t~=4 then for d=24,69 do if 5<t then u[r[g]]=h[r[e]];break;end;f=r[g]u[f](l(u,f+1,r[e]))b=b+1;r=n[b];break;end;else u[r[g]]=h[r[e]];end else if 3<t then u(r[g],r[e]);b=b+1;r=n[b];else u(r[g],r[e]);b=b+1;r=n[b];end end else if t<=0 then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];else if t>0 then repeat if t~=2 then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];break;end;f=r[g];s=u[r[e]];u[f+1]=s;u[f]=s[r[d]];b=b+1;r=n[b];until true;else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end end end end end else local n,d,t,f,l;local b=0;while b>-1 do if 3<=b then if b<5 then if b~=4 then f=n[t];else l=n[d];end else if b>4 then repeat if 6>b then u(l,f);break;end;b=-2;until true;else b=-2;end end else if b>0 then if b>-2 then for r=41,58 do if 1~=b then t=e;break;end;d=g;break;end;else d=g;end else n=r;end end b=b+1 end end else if t>=206 then for f=12,88 do if 211~=t then local t,f;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];t=r[g];f=u[r[e]];u[t+1]=f;u[t]=f[r[d]];b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];u[r[g]]=h[r[e]];break;end;local t,h,l,f,s,d;for d=0,6 do if d<3 then if 1>d then d=0;while d>-1 do if d<=2 then if d>=1 then if d>-1 then for r=31,83 do if d~=1 then l=e;break;end;h=g;break;end;else h=g;end else t=r;end else if d<=4 then if 2<=d then for r=49,52 do if 4>d then f=t[l];break;end;s=t[h];break;end;else f=t[l];end else if d>=3 then for r=41,92 do if 5~=d then d=-2;break;end;u(s,f);break;end;else d=-2;end end end d=d+1 end b=b+1;r=n[b];else if-3<d then repeat if 1~=d then d=0;while d>-1 do if d<3 then if 0<d then if 1<d then l=e;else h=g;end else t=r;end else if 4>=d then if d>3 then s=t[h];else f=t[l];end else if 1~=d then for r=15,61 do if 5~=d then d=-2;break;end;u(s,f);break;end;else u(s,f);end end end d=d+1 end b=b+1;r=n[b];break;end;d=0;while d>-1 do if d<=2 then if d<1 then t=r;else if 0<d then for r=48,75 do if 1~=d then l=e;break;end;h=g;break;end;else l=e;end end else if 5<=d then if d~=6 then u(s,f);else d=-2;end else if 3<d then s=t[h];else f=t[l];end end end d=d+1 end b=b+1;r=n[b];until true;else d=0;while d>-1 do if d<=2 then if d<1 then t=r;else if 0<d then for r=48,75 do if 1~=d then l=e;break;end;h=g;break;end;else l=e;end end else if 5<=d then if d~=6 then u(s,f);else d=-2;end else if 3<d then s=t[h];else f=t[l];end end end d=d+1 end b=b+1;r=n[b];end end else if d<=4 then if-1<d then repeat if d~=3 then d=0;while d>-1 do if 3>d then if 0>=d then t=r;else if-3<=d then repeat if 1<d then l=e;break;end;h=g;until true;else l=e;end end else if d>4 then if 2~=d then for r=38,69 do if 6>d then u(s,f);break;end;d=-2;break;end;else u(s,f);end else if d>1 then for r=29,98 do if 4>d then f=t[l];break;end;s=t[h];break;end;else f=t[l];end end end d=d+1 end b=b+1;r=n[b];break;end;d=0;while d>-1 do if 2>=d then if d<=0 then t=r;else if d>-1 then repeat if 1~=d then l=e;break;end;h=g;until true;else h=g;end end else if 4>=d then if 0<=d then for r=13,85 do if d~=3 then s=t[h];break;end;f=t[l];break;end;else s=t[h];end else if 3<=d then repeat if d~=5 then d=-2;break;end;u(s,f);until true;else d=-2;end end end d=d+1 end b=b+1;r=n[b];until true;else d=0;while d>-1 do if 3>d then if 0>=d then t=r;else if-3<=d then repeat if 1<d then l=e;break;end;h=g;until true;else l=e;end end else if d>4 then if 2~=d then for r=38,69 do if 6>d then u(s,f);break;end;d=-2;break;end;else u(s,f);end else if d>1 then for r=29,98 do if 4>d then f=t[l];break;end;s=t[h];break;end;else f=t[l];end end end d=d+1 end b=b+1;r=n[b];end else if d==5 then d=0;while d>-1 do if d>=3 then if d>=5 then if 5==d then u(s,f);else d=-2;end else if d<4 then f=t[l];else s=t[h];end end else if 1>d then t=r;else if d~=1 then l=e;else h=g;end end end d=d+1 end b=b+1;r=n[b];else d=0;while d>-1 do if 2<d then if d>=5 then if d>=4 then for r=43,69 do if 6~=d then u(s,f);break;end;d=-2;break;end;else d=-2;end else if d>=2 then for r=14,79 do if d~=4 then f=t[l];break;end;s=t[h];break;end;else f=t[l];end end else if 1<=d then if-2<d then repeat if 1~=d then l=e;break;end;h=g;until true;else h=g;end else t=r;end end d=d+1 end end end end end break;end;else local t,f;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];t=r[g];f=u[r[e]];u[t+1]=f;u[t]=f[r[d]];b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];u[r[g]]=h[r[e]];end end end else if t>=204 then if t<207 then if t>=205 then if t~=203 then for l=32,55 do if t~=206 then local l;for t=0,9 do if 5<=t then if t>=7 then if 8>t then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];else if t~=4 then repeat if 9>t then u[r[g]]=u[r[e]];b=b+1;r=n[b];break;end;u[r[g]]=u[r[e]];until true;else u[r[g]]=u[r[e]];end end else if t~=3 then for d=36,75 do if 5<t then u[r[g]]=h[r[e]];b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];break;end;else u[r[g]]=h[r[e]];b=b+1;r=n[b];end end else if 2<=t then if 2>=t then u[r[g]]=h[r[e]];b=b+1;r=n[b];else if t~=3 then l=r[g]u[l]=u[l]()b=b+1;r=n[b];else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end end else if-1~=t then repeat if 0~=t then l=r[g]u[l](u[l+1])b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];until true;else l=r[g]u[l](u[l+1])b=b+1;r=n[b];end end end end break;end;local r=r[g]u[r](u[r+1])break;end;else local r=r[g]u[r](u[r+1])end else local t,h;for f=0,4 do if f<=1 then if-4<=f then repeat if f<1 then u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];break;end;t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];until true;else u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];end else if f<3 then t=r[g];h=u[r[e]];u[t+1]=h;u[t]=h[r[d]];b=b+1;r=n[b];else if f~=3 then u[r[g]][r[e]]=r[d];else u[r[g]]={};b=b+1;r=n[b];end end end end end else if 208>t then local l,t,c,f,h,s,k,a,o;local n=0;while n>-1 do if 2<n then if n>4 then if 5==n then b=o;else n=-2;end else if 4==n then o=k==a and t[s]or 1+c;else k=l[f];a=l[h];end end else if 1>n then l=u;else if 0~=n then repeat if n~=2 then t=r;c=b;break;end;f=t[g];h=t[d];s=e;until true;else f=t[g];h=t[d];s=e;end end end n=n+1 end else if t~=204 then repeat if t<209 then if(u[r[g]]<r[d])then b=r[e];else b=b+1;end;break;end;local t;for d=0,4 do if d>=2 then if d<=2 then u(r[g],r[e]);b=b+1;r=n[b];else if 1~=d then for t=43,69 do if 3~=d then b=r[e];break;end;f[r[e]]=u[r[g]];b=b+1;r=n[b];break;end;else b=r[e];end end else if-3~=d then for l=45,89 do if d>0 then t=r[g]u[t](u[t+1])b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];break;end;else t=r[g]u[t](u[t+1])b=b+1;r=n[b];end end end until true;else local t;for d=0,4 do if d>=2 then if d<=2 then u(r[g],r[e]);b=b+1;r=n[b];else if 1~=d then for t=43,69 do if 3~=d then b=r[e];break;end;f[r[e]]=u[r[g]];b=b+1;r=n[b];break;end;else b=r[e];end end else if-3~=d then for l=45,89 do if d>0 then t=r[g]u[t](u[t+1])b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];break;end;else t=r[g]u[t](u[t+1])b=b+1;r=n[b];end end end end end end else if t<201 then if t~=198 then for d=27,65 do if 200>t then local t;for d=0,4 do if d>1 then if d>=3 then if 3~=d then b=r[e];else f[r[e]]=u[r[g]];b=b+1;r=n[b];end else u(r[g],r[e]);b=b+1;r=n[b];end else if-3~=d then repeat if d~=0 then t=r[g]u[t](u[t+1])b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];until true;else u(r[g],r[e]);b=b+1;r=n[b];end end end break;end;local t,h,o,s,l,d,a;for d=0,4 do if d>=2 then if 3>d then d=0;while d>-1 do if 3>d then if d>0 then if-2<d then for r=11,62 do if d~=2 then h=g;break;end;o=e;break;end;else o=e;end else t=r;end else if d>4 then if d~=5 then d=-2;else u(l,s);end else if 2~=d then for r=23,73 do if d<4 then s=t[o];break;end;l=t[h];break;end;else l=t[h];end end end d=d+1 end b=b+1;r=n[b];else if d~=4 then f[r[e]]=u[r[g]];b=b+1;r=n[b];else b=r[e];end end else if d~=-2 then for f=49,54 do if 0~=d then a=r[g]u[a](u[a+1])b=b+1;r=n[b];break;end;d=0;while d>-1 do if 3>d then if d>=1 then if d<2 then h=g;else o=e;end else t=r;end else if 4>=d then if 0<d then for r=38,65 do if d>3 then l=t[h];break;end;s=t[o];break;end;else l=t[h];end else if 4<=d then for r=12,65 do if d~=6 then u(l,s);break;end;d=-2;break;end;else u(l,s);end end end d=d+1 end b=b+1;r=n[b];break;end;else d=0;while d>-1 do if 3>d then if d>=1 then if d<2 then h=g;else o=e;end else t=r;end else if 4>=d then if 0<d then for r=38,65 do if d>3 then l=t[h];break;end;s=t[o];break;end;else l=t[h];end else if 4<=d then for r=12,65 do if d~=6 then u(l,s);break;end;d=-2;break;end;else u(l,s);end end end d=d+1 end b=b+1;r=n[b];end end end break;end;else local t;for d=0,4 do if d>1 then if d>=3 then if 3~=d then b=r[e];else f[r[e]]=u[r[g]];b=b+1;r=n[b];end else u(r[g],r[e]);b=b+1;r=n[b];end else if-3~=d then repeat if d~=0 then t=r[g]u[t](u[t+1])b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];until true;else u(r[g],r[e]);b=b+1;r=n[b];end end end end else if t>201 then if 203~=t then local b=r[g];local g=u[r[e]];u[b+1]=g;u[b]=g[u[r[d]]];else local r=r[g];do return l(u,r,o)end;end else local d;for t=0,4 do if t>1 then if 3<=t then if t~=4 then f[r[e]]=u[r[g]];b=b+1;r=n[b];else b=r[e];end else u(r[g],r[e]);b=b+1;r=n[b];end else if-3<=t then repeat if t>0 then d=r[g]u[d](u[d+1])b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];until true;else d=r[g]u[d](u[d+1])b=b+1;r=n[b];end end end end end end end end end else if 310<=t then if t>=332 then if t>=343 then if t<349 then if 345>=t then if 343>=t then local o=m[r[e]];local l;local t={};l=s.MotxJhxP({},{__index=function(b,r)local r=t[r];return r[1][r[2]];end,__newindex=function(u,r,b)local r=t[r]r[1][r[2]]=b;end;});for g=1,r[d]do b=b+1;local r=n[b];if r[z]==143 then t[g-1]={u,r[e]};else t[g-1]={f,r[e]};end;c[#c+1]=t;end;u[r[g]]=_(o,l,h);else if 341<=t then for f=33,79 do if t~=344 then local b=r[g];do return u[b](l(u,b+1,r[e]))end;break;end;local f,h,t;u(r[g],r[e]);b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];f=r[e];h=u[f]for r=f+1,r[d]do h=h..u[r];end;u[r[g]]=h;b=b+1;r=n[b];t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];t=r[g];f=u[r[e]];u[t+1]=f;u[t]=f[r[d]];b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];t=r[g]u[t]=u[t](l(u,t+1,r[e]))break;end;else local f,h,t;u(r[g],r[e]);b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];f=r[e];h=u[f]for r=f+1,r[d]do h=h..u[r];end;u[r[g]]=h;b=b+1;r=n[b];t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];t=r[g];f=u[r[e]];u[t+1]=f;u[t]=f[r[d]];b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];t=r[g]u[t]=u[t](l(u,t+1,r[e]))end end else if 346<t then if t>343 then for s=19,85 do if t>347 then local t;for d=0,4 do if d>=2 then if d>=3 then if-1<d then for t=19,87 do if 3<d then b=r[e];break;end;f[r[e]]=u[r[g]];b=b+1;r=n[b];break;end;else f[r[e]]=u[r[g]];b=b+1;r=n[b];end else u(r[g],r[e]);b=b+1;r=n[b];end else if d>0 then t=r[g]u[t](u[t+1])b=b+1;r=n[b];else u(r[g],r[e]);b=b+1;r=n[b];end end end break;end;local t,k,p,c,s;for f=0,9 do if 5<=f then if 7<=f then if f>7 then if f==9 then t=r[g];k=u[r[e]];u[t+1]=k;u[t]=k[r[d]];else t=r[g]u[t]=u[t]()b=b+1;r=n[b];end else t=r[g]u[t]=u[t](l(u,t+1,o))b=b+1;r=n[b];end else if 1<=f then repeat if f<6 then u(r[g],r[e]);b=b+1;r=n[b];break;end;t=r[g]p,c=a(u[t](l(u,t+1,r[e])))o=c+t-1 s=0;for r=t,o do s=s+1;u[r]=p[s];end;b=b+1;r=n[b];until true;else t=r[g]p,c=a(u[t](l(u,t+1,r[e])))o=c+t-1 s=0;for r=t,o do s=s+1;u[r]=p[s];end;b=b+1;r=n[b];end end else if 2<=f then if f<=2 then u[r[g]]=h[r[e]];b=b+1;r=n[b];else if 4==f then t=r[g];k=u[r[e]];u[t+1]=k;u[t]=k[r[d]];b=b+1;r=n[b];else u[r[g]]=h[r[e]];b=b+1;r=n[b];end end else if-2<f then for d=47,80 do if f<1 then u(r[g],r[e]);b=b+1;r=n[b];break;end;t=r[g]u[t](u[t+1])b=b+1;r=n[b];break;end;else t=r[g]u[t](u[t+1])b=b+1;r=n[b];end end end end break;end;else local t,k,c,p,s;for f=0,9 do if 5<=f then if 7<=f then if f>7 then if f==9 then t=r[g];k=u[r[e]];u[t+1]=k;u[t]=k[r[d]];else t=r[g]u[t]=u[t]()b=b+1;r=n[b];end else t=r[g]u[t]=u[t](l(u,t+1,o))b=b+1;r=n[b];end else if 1<=f then repeat if f<6 then u(r[g],r[e]);b=b+1;r=n[b];break;end;t=r[g]c,p=a(u[t](l(u,t+1,r[e])))o=p+t-1 s=0;for r=t,o do s=s+1;u[r]=c[s];end;b=b+1;r=n[b];until true;else t=r[g]c,p=a(u[t](l(u,t+1,r[e])))o=p+t-1 s=0;for r=t,o do s=s+1;u[r]=c[s];end;b=b+1;r=n[b];end end else if 2<=f then if f<=2 then u[r[g]]=h[r[e]];b=b+1;r=n[b];else if 4==f then t=r[g];k=u[r[e]];u[t+1]=k;u[t]=k[r[d]];b=b+1;r=n[b];else u[r[g]]=h[r[e]];b=b+1;r=n[b];end end else if-2<f then for d=47,80 do if f<1 then u(r[g],r[e]);b=b+1;r=n[b];break;end;t=r[g]u[t](u[t+1])b=b+1;r=n[b];break;end;else t=r[g]u[t](u[t+1])b=b+1;r=n[b];end end end end end else local g=r[g];local d=r[d];local n=g+2 local g={u[g](u[g+1],u[n])};for r=1,d do u[n+r]=g[r];end;local g=g[1]if g then u[n]=g b=r[e];else b=b+1;end;end end else if t<352 then if t<350 then u[r[g]]=u[r[e]]-u[r[d]];else if 349<t then for f=24,69 do if 350~=t then u[r[g]]=_(m[r[e]],nil,h);break;end;local t,s;for f=0,6 do if f<3 then if f>=1 then if f>-3 then for l=18,56 do if 2~=f then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];break;end;t=r[g];s=u[r[e]];u[t+1]=s;u[t]=s[r[d]];b=b+1;r=n[b];break;end;else t=r[g];s=u[r[e]];u[t+1]=s;u[t]=s[r[d]];b=b+1;r=n[b];end else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end else if f<5 then if 3~=f then u(r[g],r[e]);b=b+1;r=n[b];else u(r[g],r[e]);b=b+1;r=n[b];end else if 4<=f then for d=34,56 do if 6>f then t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];break;end;u[r[g]]=h[r[e]];break;end;else u[r[g]]=h[r[e]];end end end end break;end;else local t,s;for f=0,6 do if f<3 then if f>=1 then if f>-3 then for l=18,56 do if 2~=f then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];break;end;t=r[g];s=u[r[e]];u[t+1]=s;u[t]=s[r[d]];b=b+1;r=n[b];break;end;else t=r[g];s=u[r[e]];u[t+1]=s;u[t]=s[r[d]];b=b+1;r=n[b];end else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end else if f<5 then if 3~=f then u(r[g],r[e]);b=b+1;r=n[b];else u(r[g],r[e]);b=b+1;r=n[b];end else if 4<=f then for d=34,56 do if 6>f then t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];break;end;u[r[g]]=h[r[e]];break;end;else u[r[g]]=h[r[e]];end end end end end end else if t>352 then if t>351 then for s=18,72 do if 354~=t then local t;for d=0,4 do if d<2 then if d>-3 then repeat if d<1 then u(r[g],r[e]);b=b+1;r=n[b];break;end;t=r[g]u[t](u[t+1])b=b+1;r=n[b];until true;else u(r[g],r[e]);b=b+1;r=n[b];end else if 3>d then u(r[g],r[e]);b=b+1;r=n[b];else if 2<=d then repeat if 4>d then f[r[e]]=u[r[g]];b=b+1;r=n[b];break;end;b=r[e];until true;else f[r[e]]=u[r[g]];b=b+1;r=n[b];end end end end break;end;local t,o;for s=0,9 do if 5>s then if 1<s then if 2<s then if s==3 then t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];else u[r[g]]=h[r[e]];b=b+1;r=n[b];end else u(r[g],r[e]);b=b+1;r=n[b];end else if-3~=s then repeat if s<1 then u[r[g]]=f[r[e]];b=b+1;r=n[b];break;end;t=r[g];o=u[r[e]];u[t+1]=o;u[t]=o[r[d]];b=b+1;r=n[b];until true;else u[r[g]]=f[r[e]];b=b+1;r=n[b];end end else if 6>=s then if s~=1 then for d=40,76 do if s~=6 then u[r[g]]();b=b+1;r=n[b];break;end;u[r[g]]=f[r[e]];b=b+1;r=n[b];break;end;else u[r[g]]=f[r[e]];b=b+1;r=n[b];end else if 7>=s then t=r[g];o=u[r[e]];u[t+1]=o;u[t]=o[r[d]];b=b+1;r=n[b];else if s>6 then for d=28,68 do if s<9 then u(r[g],r[e]);b=b+1;r=n[b];break;end;t=r[g]u[t](l(u,t+1,r[e]))break;end;else t=r[g]u[t](l(u,t+1,r[e]))end end end end end break;end;else local t,o;for s=0,9 do if 5>s then if 1<s then if 2<s then if s==3 then t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];else u[r[g]]=h[r[e]];b=b+1;r=n[b];end else u(r[g],r[e]);b=b+1;r=n[b];end else if-3~=s then repeat if s<1 then u[r[g]]=f[r[e]];b=b+1;r=n[b];break;end;t=r[g];o=u[r[e]];u[t+1]=o;u[t]=o[r[d]];b=b+1;r=n[b];until true;else u[r[g]]=f[r[e]];b=b+1;r=n[b];end end else if 6>=s then if s~=1 then for d=40,76 do if s~=6 then u[r[g]]();b=b+1;r=n[b];break;end;u[r[g]]=f[r[e]];b=b+1;r=n[b];break;end;else u[r[g]]=f[r[e]];b=b+1;r=n[b];end else if 7>=s then t=r[g];o=u[r[e]];u[t+1]=o;u[t]=o[r[d]];b=b+1;r=n[b];else if s>6 then for d=28,68 do if s<9 then u(r[g],r[e]);b=b+1;r=n[b];break;end;t=r[g]u[t](l(u,t+1,r[e]))break;end;else t=r[g]u[t](l(u,t+1,r[e]))end end end end end end else local f,p,s,c,o,a,k,t;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];f=r[g];p=u[r[e]];u[f+1]=p;u[f]=p[r[d]];b=b+1;r=n[b];t=0;while t>-1 do if t<=2 then if t<=0 then s=r;else if t~=-1 then for r=32,74 do if 2>t then c=g;break;end;o=e;break;end;else c=g;end end else if 4<t then if t>3 then for r=42,91 do if 5~=t then t=-2;break;end;u(k,a);break;end;else t=-2;end else if 3<t then k=s[c];else a=s[o];end end end t=t+1 end b=b+1;r=n[b];t=0;while t>-1 do if 3<=t then if t>4 then if t>3 then repeat if t~=5 then t=-2;break;end;u(k,a);until true;else u(k,a);end else if t==3 then a=s[o];else k=s[c];end end else if t>0 then if-2~=t then repeat if 2~=t then c=g;break;end;o=e;until true;else o=e;end else s=r;end end t=t+1 end b=b+1;r=n[b];f=r[g]u[f](l(u,f+1,r[e]))b=b+1;r=n[b];u[r[g]]=h[r[e]];end end end else if 336<t then if 340<=t then if t>340 then if 340<t then repeat if t<342 then u[r[g]][r[e]]=r[d];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];u[r[g]]=f[r[e]];b=b+1;r=n[b];u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];u[r[g]][r[e]]=r[d];break;end;local t;t=r[g]u[t](u[t+1])b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=h[r[e]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);until true;else local t;t=r[g]u[t](u[t+1])b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=h[r[e]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);end else for d=0,6 do if d>=3 then if d<5 then if d~=2 then for t=39,91 do if d>3 then u(r[g],r[e]);b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];break;end;else u(r[g],r[e]);b=b+1;r=n[b];end else if d~=4 then for t=27,61 do if 5<d then u(r[g],r[e]);break;end;u(r[g],r[e]);b=b+1;r=n[b];break;end;else u(r[g],r[e]);b=b+1;r=n[b];end end else if 1<=d then if 0<=d then repeat if 1<d then u(r[g],r[e]);b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];until true;else u(r[g],r[e]);b=b+1;r=n[b];end else u(r[g],r[e]);b=b+1;r=n[b];end end end end else if t>337 then if 339==t then local t,f;u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];t=r[g];f=u[r[e]];u[t+1]=f;u[t]=f[r[d]];b=b+1;r=n[b];u[r[g]]={};b=b+1;r=n[b];u[r[g]][r[e]]=r[d];b=b+1;r=n[b];t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];t=r[g];f=u[r[e]];u[t+1]=f;u[t]=f[r[d]];else if u[r[g]]then b=b+1;else b=r[e];end;end else local d;for t=0,4 do if t<=1 then if t>-1 then for l=19,87 do if 0<t then d=r[g]u[d](u[d+1])b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];break;end;else d=r[g]u[d](u[d+1])b=b+1;r=n[b];end else if t>=3 then if 4==t then b=r[e];else f[r[e]]=u[r[g]];b=b+1;r=n[b];end else u(r[g],r[e]);b=b+1;r=n[b];end end end end end else if t>=334 then if t>=335 then if t~=332 then for s=37,94 do if 336>t then for d=0,6 do if 3>d then if d>0 then if-1<=d then repeat if d~=1 then u(r[g],r[e]);b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];until true;else u(r[g],r[e]);b=b+1;r=n[b];end else u(r[g],r[e]);b=b+1;r=n[b];end else if 5>d then if d~=2 then repeat if 3<d then u(r[g],r[e]);b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];until true;else u(r[g],r[e]);b=b+1;r=n[b];end else if 2<=d then for t=24,58 do if d~=6 then u(r[g],r[e]);b=b+1;r=n[b];break;end;u(r[g],r[e]);break;end;else u(r[g],r[e]);end end end end break;end;local t,s;u[r[g]]=f[r[e]];b=b+1;r=n[b];t=r[g];s=u[r[e]];u[t+1]=s;u[t]=s[r[d]];b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];u[r[g]]=h[r[e]];b=b+1;r=n[b];u[r[g]]();b=b+1;r=n[b];u[r[g]]=f[r[e]];b=b+1;r=n[b];t=r[g];s=u[r[e]];u[t+1]=s;u[t]=s[r[d]];b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];t=r[g]u[t](l(u,t+1,r[e]))break;end;else for d=0,6 do if 3>d then if d>0 then if-1<=d then repeat if d~=1 then u(r[g],r[e]);b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];until true;else u(r[g],r[e]);b=b+1;r=n[b];end else u(r[g],r[e]);b=b+1;r=n[b];end else if 5>d then if d~=2 then repeat if 3<d then u(r[g],r[e]);b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];until true;else u(r[g],r[e]);b=b+1;r=n[b];end else if 2<=d then for t=24,58 do if d~=6 then u(r[g],r[e]);b=b+1;r=n[b];break;end;u(r[g],r[e]);break;end;else u(r[g],r[e]);end end end end end else local l;for t=0,6 do if t>=3 then if t<=4 then if t<4 then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];else u[r[g]]=h[r[e]];b=b+1;r=n[b];end else if t>5 then u(r[g],r[e]);else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end end else if 0>=t then u[r[g]]=u[r[e]];b=b+1;r=n[b];else if-2<=t then repeat if 1~=t then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];break;end;l=r[g]u[l](u[l+1])b=b+1;r=n[b];until true;else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end end end end end else if 332==t then local g=r[g];local b=u[r[e]];u[g+1]=b;u[g]=b[u[r[d]]];else local t,f;u[r[g]][r[e]]=r[d];b=b+1;r=n[b];u[r[g]][r[e]]=r[d];b=b+1;r=n[b];t=r[g]u[t]=u[t](l(u,t+1,r[e]))b=b+1;r=n[b];t=r[g];f=u[r[e]];u[t+1]=f;u[t]=f[r[d]];b=b+1;r=n[b];u[r[g]]={};b=b+1;r=n[b];u[r[g]][r[e]]=r[d];b=b+1;r=n[b];u[r[g]][r[e]]=r[d];end end end end else if 320<t then if 325>=t then if 322<t then if t<324 then local f;for t=0,6 do if t>=3 then if t<5 then if-1<=t then repeat if t~=4 then u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];break;end;u[r[g]]=h[r[e]];b=b+1;r=n[b];until true;else u[r[g]]=h[r[e]];b=b+1;r=n[b];end else if t>2 then for l=26,81 do if 5~=t then u[r[g]]=u[r[e]][r[d]];break;end;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];break;end;else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end end else if t<1 then u[r[g]]=u[r[e]];b=b+1;r=n[b];else if 2~=t then u[r[g]]=u[r[e]];b=b+1;r=n[b];else f=r[g]u[f]=u[f](l(u,f+1,r[e]))b=b+1;r=n[b];end end end end else if 325~=t then local t,h;for f=0,6 do if f>=3 then if 4>=f then if 4>f then u[r[g]][r[e]]=r[d];b=b+1;r=n[b];else u[r[g]][r[e]]=r[d];b=b+1;r=n[b];end else if f~=5 then t=r[g]u[t]=u[t](l(u,t+1,r[e]))else u[r[g]][r[e]]=r[d];b=b+1;r=n[b];end end else if f>0 then if f>0 then for l=41,78 do if f~=1 then u[r[g]]={};b=b+1;r=n[b];break;end;t=r[g];h=u[r[e]];u[t+1]=h;u[t]=h[r[d]];b=b+1;r=n[b];break;end;else t=r[g];h=u[r[e]];u[t+1]=h;u[t]=h[r[d]];b=b+1;r=n[b];end else t=r[g]u[t]=u[t](l(u,t+1,r[e]))b=b+1;r=n[b];end end end else local r=r[g]local g,b=a(u[r](u[r+1]))o=b+r-1 local b=0;for r=r,o do b=b+1;u[r]=g[b];end;end end else if t>320 then for f=16,95 do if t~=321 then local t,s,k,c,f;u[r[g]]=h[r[e]];b=b+1;r=n[b];u[r[g]]=h[r[e]];b=b+1;r=n[b];t=r[g];s=u[r[e]];u[t+1]=s;u[t]=s[r[d]];b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];t=r[g]k,c=a(u[t](l(u,t+1,r[e])))o=c+t-1 f=0;for r=t,o do f=f+1;u[r]=k[f];end;b=b+1;r=n[b];t=r[g]u[t]=u[t](l(u,t+1,o))b=b+1;r=n[b];u[r[g]]();b=b+1;r=n[b];do return end;break;end;u[r[g]]=h[r[e]];break;end;else u[r[g]]=h[r[e]];end end else if t<=328 then if 326<t then if 327~=t then local t,f;t=r[g];f=u[r[e]];u[t+1]=f;u[t]=f[r[d]];b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];u[r[g]]=h[r[e]];b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];t=r[g]u[t](u[t+1])b=b+1;r=n[b];b=r[e];else u[r[g]]=u[r[e]][u[r[d]]];end else local b=r[g];local g=u[r[e]];u[b+1]=g;u[b]=g[r[d]];end else if 329<t then if t>=328 then repeat if 330<t then local t;for d=0,4 do if d<2 then if d>-3 then for l=41,68 do if d~=1 then u(r[g],r[e]);b=b+1;r=n[b];break;end;t=r[g]u[t](u[t+1])b=b+1;r=n[b];break;end;else u(r[g],r[e]);b=b+1;r=n[b];end else if 3>d then u(r[g],r[e]);b=b+1;r=n[b];else if 4>d then f[r[e]]=u[r[g]];b=b+1;r=n[b];else b=r[e];end end end end break;end;local d;for t=0,4 do if 1<t then if t>=3 then if 3<t then b=r[e];else f[r[e]]=u[r[g]];b=b+1;r=n[b];end else u(r[g],r[e]);b=b+1;r=n[b];end else if t~=-4 then for l=18,98 do if 0~=t then d=r[g]u[d](u[d+1])b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];break;end;else d=r[g]u[d](u[d+1])b=b+1;r=n[b];end end end until true;else local t;for d=0,4 do if d<2 then if d>-3 then for l=41,68 do if d~=1 then u(r[g],r[e]);b=b+1;r=n[b];break;end;t=r[g]u[t](u[t+1])b=b+1;r=n[b];break;end;else u(r[g],r[e]);b=b+1;r=n[b];end else if 3>d then u(r[g],r[e]);b=b+1;r=n[b];else if 4>d then f[r[e]]=u[r[g]];b=b+1;r=n[b];else b=r[e];end end end end end else local t,h;for f=0,4 do if 2<=f then if f>=3 then if f>=-1 then for t=36,98 do if 4>f then u[r[g]]={};b=b+1;r=n[b];break;end;u[r[g]][r[e]]=r[d];break;end;else u[r[g]]={};b=b+1;r=n[b];end else t=r[g];h=u[r[e]];u[t+1]=h;u[t]=h[r[d]];b=b+1;r=n[b];end else if 1>f then u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];else t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];end end end end end end else if t>=315 then if 317>=t then if 315>=t then local t,h;for l=0,6 do if l>2 then if 5<=l then if l>4 then for f=17,77 do if 5~=l then u(r[g],r[e]);break;end;t=r[g];h=u[r[e]];u[t+1]=h;u[t]=h[r[d]];b=b+1;r=n[b];break;end;else u(r[g],r[e]);end else if l<4 then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end end else if 1>l then u(r[g],r[e]);b=b+1;r=n[b];else if 0~=l then for d=17,94 do if l~=1 then u[r[g]]=f[r[e]];b=b+1;r=n[b];break;end;t=r[g]u[t](u[t+1])b=b+1;r=n[b];break;end;else t=r[g]u[t](u[t+1])b=b+1;r=n[b];end end end end else if 313<=t then for s=21,76 do if 317>t then local t,f;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];t=r[g];f=u[r[e]];u[t+1]=f;u[t]=f[r[d]];b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];u[r[g]]=h[r[e]];break;end;for t=0,6 do if 2<t then if 5<=t then if t>2 then repeat if 5<t then u(r[g],r[e]);break;end;u(r[g],r[e]);b=b+1;r=n[b];until true;else u(r[g],r[e]);b=b+1;r=n[b];end else if t~=4 then u[r[g]]=h[r[e]];b=b+1;r=n[b];else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end end else if 1<=t then if t>-2 then for l=21,78 do if 1~=t then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];break;end;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];break;end;else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end else u[r[g]]=f[r[e]];b=b+1;r=n[b];end end end break;end;else local t,f;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];t=r[g];f=u[r[e]];u[t+1]=f;u[t]=f[r[d]];b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];u[r[g]]=h[r[e]];end end else if 319<=t then if 317~=t then for f=36,63 do if 320>t then local t,s;for f=0,6 do if 3<=f then if 4<f then if f>=4 then repeat if f<6 then t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];break;end;u[r[g]]=h[r[e]];until true;else t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];end else if-1~=f then repeat if 3~=f then u(r[g],r[e]);b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];until true;else u(r[g],r[e]);b=b+1;r=n[b];end end else if 1<=f then if-2~=f then repeat if f<2 then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];break;end;t=r[g];s=u[r[e]];u[t+1]=s;u[t]=s[r[d]];b=b+1;r=n[b];until true;else t=r[g];s=u[r[e]];u[t+1]=s;u[t]=s[r[d]];b=b+1;r=n[b];end else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end end end break;end;u[r[g]]=#u[r[e]];break;end;else u[r[g]]=#u[r[e]];end else u[r[g]]=u[r[e]][r[d]];end end else if 311<t then if 313>t then if(u[r[g]]==r[d])then b=b+1;else b=r[e];end;else if 312~=t then for l=20,94 do if t~=313 then local d;for t=0,4 do if t<=1 then if-3~=t then for l=19,78 do if t>0 then d=r[g]u[d](u[d+1])b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];break;end;else d=r[g]u[d](u[d+1])b=b+1;r=n[b];end else if 3>t then u(r[g],r[e]);b=b+1;r=n[b];else if-1~=t then repeat if t>3 then b=r[e];break;end;f[r[e]]=u[r[g]];b=b+1;r=n[b];until true;else f[r[e]]=u[r[g]];b=b+1;r=n[b];end end end end break;end;local l,s,f;for t=0,7 do if t>=4 then if t<=5 then if 5==t then u[r[g]]=u[r[e]];b=b+1;r=n[b];else u[r[g]]=h[r[e]];b=b+1;r=n[b];end else if t<7 then l=r[g]s={u[l](u[l+1])};f=0;for r=l,r[d]do f=f+1;u[r]=s[f];end b=b+1;r=n[b];else b=r[e];end end else if t>1 then if 2<t then l=r[g]u[l](u[l+1])b=b+1;r=n[b];else u(r[g],r[e]);b=b+1;r=n[b];end else if-2<=t then repeat if t~=1 then u[r[g]]=h[r[e]];b=b+1;r=n[b];break;end;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];until true;else u[r[g]]=h[r[e]];b=b+1;r=n[b];end end end end break;end;else local t;for d=0,4 do if d<=1 then if-3~=d then for l=19,78 do if d>0 then t=r[g]u[t](u[t+1])b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];break;end;else t=r[g]u[t](u[t+1])b=b+1;r=n[b];end else if 3>d then u(r[g],r[e]);b=b+1;r=n[b];else if-1~=d then repeat if d>3 then b=r[e];break;end;f[r[e]]=u[r[g]];b=b+1;r=n[b];until true;else f[r[e]]=u[r[g]];b=b+1;r=n[b];end end end end end end else if 309~=t then for f=36,76 do if t<311 then local f,k,s,p,o,a,c,t;for t=0,6 do if t>2 then if t<=4 then if 3~=t then t=0;while t>-1 do if t<3 then if 1>t then s=r;else if-2~=t then repeat if t>1 then o=e;break;end;p=g;until true;else o=e;end end else if 5>t then if 2<t then for r=15,80 do if t<4 then a=s[o];break;end;c=s[p];break;end;else a=s[o];end else if 2<=t then repeat if 5<t then t=-2;break;end;u(c,a);until true;else u(c,a);end end end t=t+1 end b=b+1;r=n[b];else t=0;while t>-1 do if 3>t then if 0<t then if-1~=t then repeat if 2~=t then p=g;break;end;o=e;until true;else o=e;end else s=r;end else if 4<t then if 4~=t then repeat if 5~=t then t=-2;break;end;u(c,a);until true;else t=-2;end else if 4>t then a=s[o];else c=s[p];end end end t=t+1 end b=b+1;r=n[b];end else if 1<=t then repeat if 5~=t then u[r[g]]=h[r[e]];break;end;f=r[g]u[f](l(u,f+1,r[e]))b=b+1;r=n[b];until true;else u[r[g]]=h[r[e]];end end else if t<=0 then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];else if-1<=t then for l=46,53 do if 1<t then f=r[g];k=u[r[e]];u[f+1]=k;u[f]=k[r[d]];b=b+1;r=n[b];break;end;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];break;end;else f=r[g];k=u[r[e]];u[f+1]=k;u[f]=k[r[d]];b=b+1;r=n[b];end end end end break;end;local t,f;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];t=r[g];f=u[r[e]];u[t+1]=f;u[t]=f[r[d]];b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];u[r[g]]=h[r[e]];break;end;else local f,a,o,p,s,k,c,t;for t=0,6 do if t>2 then if t<=4 then if 3~=t then t=0;while t>-1 do if t<3 then if 1>t then o=r;else if-2~=t then repeat if t>1 then s=e;break;end;p=g;until true;else s=e;end end else if 5>t then if 2<t then for r=15,80 do if t<4 then k=o[s];break;end;c=o[p];break;end;else k=o[s];end else if 2<=t then repeat if 5<t then t=-2;break;end;u(c,k);until true;else u(c,k);end end end t=t+1 end b=b+1;r=n[b];else t=0;while t>-1 do if 3>t then if 0<t then if-1~=t then repeat if 2~=t then p=g;break;end;s=e;until true;else s=e;end else o=r;end else if 4<t then if 4~=t then repeat if 5~=t then t=-2;break;end;u(c,k);until true;else t=-2;end else if 4>t then k=o[s];else c=o[p];end end end t=t+1 end b=b+1;r=n[b];end else if 1<=t then repeat if 5~=t then u[r[g]]=h[r[e]];break;end;f=r[g]u[f](l(u,f+1,r[e]))b=b+1;r=n[b];until true;else u[r[g]]=h[r[e]];end end else if t<=0 then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];else if-1<=t then for l=46,53 do if 1<t then f=r[g];a=u[r[e]];u[f+1]=a;u[f]=a[r[d]];b=b+1;r=n[b];break;end;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];break;end;else f=r[g];a=u[r[e]];u[f+1]=a;u[f]=a[r[d]];b=b+1;r=n[b];end end end end end end end end end else if 287>=t then if 277>t then if t>270 then if t<=273 then if 271>=t then local t,h;for f=0,6 do if 2>=f then if 1>f then t=r[g]u[t]=u[t](l(u,t+1,r[e]))b=b+1;r=n[b];else if-3~=f then repeat if 1<f then u[r[g]]={};b=b+1;r=n[b];break;end;t=r[g];h=u[r[e]];u[t+1]=h;u[t]=h[r[d]];b=b+1;r=n[b];until true;else u[r[g]]={};b=b+1;r=n[b];end end else if 4<f then if 3~=f then for h=12,66 do if f~=6 then u[r[g]][r[e]]=r[d];b=b+1;r=n[b];break;end;t=r[g]u[t]=u[t](l(u,t+1,r[e]))break;end;else u[r[g]][r[e]]=r[d];b=b+1;r=n[b];end else if f~=-1 then for t=16,85 do if f~=3 then u[r[g]][r[e]]=r[d];b=b+1;r=n[b];break;end;u[r[g]][r[e]]=r[d];b=b+1;r=n[b];break;end;else u[r[g]][r[e]]=r[d];b=b+1;r=n[b];end end end end else if 271<t then repeat if t~=272 then local t;u[r[g]]=h[r[e]];b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];t=r[g]u[t](u[t+1])b=b+1;r=n[b];u[r[g]]=f[r[e]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=h[r[e]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=u[r[e]];b=b+1;r=n[b];t=r[g]u[t]=u[t](u[t+1])break;end;if(u[r[g]]==r[d])then b=b+1;else b=r[e];end;until true;else if(u[r[g]]==r[d])then b=b+1;else b=r[e];end;end end else if t<=274 then local t,h;for f=0,4 do if 2<=f then if f>=3 then if 3<f then u[r[g]][r[e]]=r[d];else u[r[g]]={};b=b+1;r=n[b];end else t=r[g];h=u[r[e]];u[t+1]=h;u[t]=h[r[d]];b=b+1;r=n[b];end else if f~=-2 then repeat if f>0 then t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];break;end;u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];until true;else t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];end end end else if 275<t then local r=r[g]u[r](u[r+1])else local t,f;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];t=r[g];f=u[r[e]];u[t+1]=f;u[t]=f[r[d]];b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];u[r[g]]=h[r[e]];end end end else if t>267 then if 269<=t then if t>269 then local t;for f=0,1 do if 1>f then t=r[g]u[t]=u[t](l(u,t+1,r[e]))b=b+1;r=n[b];else u[r[g]][r[e]]=u[r[d]];end end else local b=r[g]local g,r=a(u[b](l(u,b+1,r[e])))o=r+b-1 local r=0;for b=b,o do r=r+1;u[b]=g[r];end;end else local l,a,s,o,k,p,_,c,t;for t=0,6 do if 2<t then if 4>=t then if t~=0 then repeat if t<4 then u[r[g]]=h[r[e]];b=b+1;r=n[b];break;end;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];until true;else u[r[g]]=h[r[e]];b=b+1;r=n[b];end else if 4<=t then for d=21,96 do if 5<t then l=r[g]u[l]=u[l](u[l+1])break;end;t=0;while t>-1 do if t>=4 then if 6>t then if t>3 then repeat if 4~=t then c=s[o];break;end;_=p[s[k]];until true;else c=s[o];end else if 3~=t then for r=26,70 do if 7~=t then u[c]=_;break;end;t=-2;break;end;else t=-2;end end else if 2>t then if t~=-4 then for b=28,66 do if 1~=t then s=r;break;end;o=g;break;end;else o=g;end else if 1<t then repeat if t~=3 then k=e;break;end;p=u;until true;else k=e;end end end t=t+1 end b=b+1;r=n[b];break;end;else l=r[g]u[l]=u[l](u[l+1])end end else if 1>t then u[r[g]]=f[r[e]];b=b+1;r=n[b];else if-2<t then repeat if t>1 then u[r[g]]=f[r[e]];b=b+1;r=n[b];break;end;l=r[g];a=u[r[e]];u[l+1]=a;u[l]=a[r[d]];b=b+1;r=n[b];until true;else u[r[g]]=f[r[e]];b=b+1;r=n[b];end end end end end else if 265<=t then repeat if t~=266 then local t,s;for f=0,6 do if f>=3 then if f>=5 then if f~=4 then for d=12,86 do if 5~=f then u[r[g]]=h[r[e]];break;end;t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];break;end;else t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];end else if f>2 then for d=23,86 do if 3~=f then u(r[g],r[e]);b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];break;end;else u(r[g],r[e]);b=b+1;r=n[b];end end else if f>0 then if f~=0 then repeat if 2~=f then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];break;end;t=r[g];s=u[r[e]];u[t+1]=s;u[t]=s[r[d]];b=b+1;r=n[b];until true;else t=r[g];s=u[r[e]];u[t+1]=s;u[t]=s[r[d]];b=b+1;r=n[b];end else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end end end break;end;if(u[r[g]]==u[r[d]])then b=b+1;else b=r[e];end;until true;else if(u[r[g]]==u[r[d]])then b=b+1;else b=r[e];end;end end end else if t>=282 then if t<=284 then if t<283 then u[r[g]]=(r[e]~=0);else if 282<t then for f=31,59 do if t~=284 then local f,p,s,k,c,a,o,t;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];f=r[g];p=u[r[e]];u[f+1]=p;u[f]=p[r[d]];b=b+1;r=n[b];t=0;while t>-1 do if 3<=t then if t<=4 then if t<4 then a=s[c];else o=s[k];end else if 3~=t then repeat if t~=5 then t=-2;break;end;u(o,a);until true;else u(o,a);end end else if 1>t then s=r;else if-3~=t then repeat if 1<t then c=e;break;end;k=g;until true;else k=g;end end end t=t+1 end b=b+1;r=n[b];t=0;while t>-1 do if 3<=t then if 4>=t then if t==3 then a=s[c];else o=s[k];end else if t~=6 then u(o,a);else t=-2;end end else if t<=0 then s=r;else if t<2 then k=g;else c=e;end end end t=t+1 end b=b+1;r=n[b];f=r[g]u[f](l(u,f+1,r[e]))b=b+1;r=n[b];u[r[g]]=h[r[e]];break;end;if not u[r[g]]then b=b+1;else b=r[e];end;break;end;else if not u[r[g]]then b=b+1;else b=r[e];end;end end else if 286<=t then if t~=285 then repeat if t<287 then local a,t,t,p,s,k,t,t,m,j,z,h,c,o,_;for t=0,9 do if 5>t then if 1>=t then if-3<=t then repeat if 0~=t then u[r[g]]=u[r[e]]-r[d];b=b+1;r=n[b];break;end;u[r[g]]=f[r[e]];b=b+1;r=n[b];until true;else u[r[g]]=f[r[e]];b=b+1;r=n[b];end else if 2<t then if 0~=t then for l=27,53 do if t~=4 then u[r[g]]=f[r[e]];b=b+1;r=n[b];break;end;a=r[g];c=u[r[e]];u[a+1]=c;u[a]=c[r[d]];b=b+1;r=n[b];break;end;else u[r[g]]=f[r[e]];b=b+1;r=n[b];end else f[r[e]]=u[r[g]];b=b+1;r=n[b];end end else if t<=6 then if t~=4 then for d=49,97 do if 5~=t then u[r[g]]=f[r[e]];b=b+1;r=n[b];break;end;t=0;while t>-1 do if t>2 then if t<5 then if t==3 then k=h[s];else o=h[p];end else if t>5 then t=-2;else u(o,k);end end else if 1<=t then if t>=-3 then for r=18,82 do if t~=2 then p=g;break;end;s=e;break;end;else s=e;end else h=r;end end t=t+1 end b=b+1;r=n[b];break;end;else t=0;while t>-1 do if t>2 then if t<5 then if t==3 then k=h[s];else o=h[p];end else if t>5 then t=-2;else u(o,k);end end else if 1<=t then if t>=-3 then for r=18,82 do if t~=2 then p=g;break;end;s=e;break;end;else s=e;end else h=r;end end t=t+1 end b=b+1;r=n[b];end else if t>7 then if 4<t then for f=29,73 do if 8<t then a=r[g]u[a](l(u,a+1,r[e]))break;end;t=0;while t>-1 do if t>=3 then if 5<=t then if 4<=t then for r=15,68 do if t<6 then u[o]=_;break;end;t=-2;break;end;else t=-2;end else if t>=1 then repeat if t~=3 then _=u[c];for r=1+c,h[z]do _=_..u[r];end;break;end;o=h[m];until true;else o=h[m];end end else if 1<=t then if t>1 then c=h[j];else h=r;end else m=g;j=e;z=d;end end t=t+1 end b=b+1;r=n[b];break;end;else a=r[g]u[a](l(u,a+1,r[e]))end else t=0;while t>-1 do if 3<=t then if 4<t then if t>=2 then for r=17,60 do if t<6 then u(o,k);break;end;t=-2;break;end;else t=-2;end else if t>2 then for r=28,62 do if 3~=t then o=h[p];break;end;k=h[s];break;end;else k=h[s];end end else if 1<=t then if 0<=t then repeat if t>1 then s=e;break;end;p=g;until true;else s=e;end else h=r;end end t=t+1 end b=b+1;r=n[b];end end end end break;end;local f,p,k,j,_,m,c,t,y,z,s;u[r[g]]=h[r[e]];b=b+1;r=n[b];u[r[g]]=h[r[e]];b=b+1;r=n[b];f=r[g];p=u[r[e]];u[f+1]=p;u[f]=p[r[d]];b=b+1;r=n[b];t=0;while t>-1 do if 2>=t then if 1<=t then if t~=-1 then repeat if 1<t then _=e;break;end;j=g;until true;else _=e;end else k=r;end else if t>4 then if t>2 then repeat if 6>t then u(c,m);break;end;t=-2;until true;else u(c,m);end else if t>=2 then for r=21,75 do if t~=4 then m=k[_];break;end;c=k[j];break;end;else c=k[j];end end end t=t+1 end b=b+1;r=n[b];f=r[g]y,z=a(u[f](l(u,f+1,r[e])))o=z+f-1 s=0;for r=f,o do s=s+1;u[r]=y[s];end;b=b+1;r=n[b];f=r[g]u[f]=u[f](l(u,f+1,o))b=b+1;r=n[b];u[r[g]]();b=b+1;r=n[b];do return end;until true;else local f,j,c,p,m,_,k,t,y,z,s;u[r[g]]=h[r[e]];b=b+1;r=n[b];u[r[g]]=h[r[e]];b=b+1;r=n[b];f=r[g];j=u[r[e]];u[f+1]=j;u[f]=j[r[d]];b=b+1;r=n[b];t=0;while t>-1 do if 2>=t then if 1<=t then if t~=-1 then repeat if 1<t then m=e;break;end;p=g;until true;else m=e;end else c=r;end else if t>4 then if t>2 then repeat if 6>t then u(k,_);break;end;t=-2;until true;else u(k,_);end else if t>=2 then for r=21,75 do if t~=4 then _=c[m];break;end;k=c[p];break;end;else k=c[p];end end end t=t+1 end b=b+1;r=n[b];f=r[g]y,z=a(u[f](l(u,f+1,r[e])))o=z+f-1 s=0;for r=f,o do s=s+1;u[r]=y[s];end;b=b+1;r=n[b];f=r[g]u[f]=u[f](l(u,f+1,o))b=b+1;r=n[b];u[r[g]]();b=b+1;r=n[b];do return end;end else local r=r[g]u[r]=u[r]()end end else if 278<t then if 280<=t then if 276<=t then for s=17,68 do if t<281 then local t;for d=0,4 do if d<=1 then if-4~=d then for l=25,84 do if d<1 then u(r[g],r[e]);b=b+1;r=n[b];break;end;t=r[g]u[t](u[t+1])b=b+1;r=n[b];break;end;else t=r[g]u[t](u[t+1])b=b+1;r=n[b];end else if d>2 then if d>2 then repeat if 4~=d then f[r[e]]=u[r[g]];b=b+1;r=n[b];break;end;b=r[e];until true;else f[r[e]]=u[r[g]];b=b+1;r=n[b];end else u(r[g],r[e]);b=b+1;r=n[b];end end end break;end;local t,s;for f=0,6 do if 3>f then if f<=0 then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];else if f>=-3 then repeat if 1<f then t=r[g];s=u[r[e]];u[t+1]=s;u[t]=s[r[d]];b=b+1;r=n[b];break;end;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];until true;else t=r[g];s=u[r[e]];u[t+1]=s;u[t]=s[r[d]];b=b+1;r=n[b];end end else if 4>=f then if f>3 then u(r[g],r[e]);b=b+1;r=n[b];else u(r[g],r[e]);b=b+1;r=n[b];end else if 1~=f then for d=40,69 do if 5~=f then u[r[g]]=h[r[e]];break;end;t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];break;end;else u[r[g]]=h[r[e]];end end end end break;end;else local d;for t=0,4 do if t<=1 then if-4~=t then for l=25,84 do if t<1 then u(r[g],r[e]);b=b+1;r=n[b];break;end;d=r[g]u[d](u[d+1])b=b+1;r=n[b];break;end;else d=r[g]u[d](u[d+1])b=b+1;r=n[b];end else if t>2 then if t>2 then repeat if 4~=t then f[r[e]]=u[r[g]];b=b+1;r=n[b];break;end;b=r[e];until true;else f[r[e]]=u[r[g]];b=b+1;r=n[b];end else u(r[g],r[e]);b=b+1;r=n[b];end end end end else local d;for t=0,4 do if 2<=t then if 2>=t then u(r[g],r[e]);b=b+1;r=n[b];else if t>-1 then repeat if 3~=t then b=r[e];break;end;f[r[e]]=u[r[g]];b=b+1;r=n[b];until true;else b=r[e];end end else if-1~=t then for l=26,71 do if t~=1 then u(r[g],r[e]);b=b+1;r=n[b];break;end;d=r[g]u[d](u[d+1])b=b+1;r=n[b];break;end;else d=r[g]u[d](u[d+1])b=b+1;r=n[b];end end end end else if t>=275 then for s=34,82 do if 277~=t then local f,k,s,a,o,t,c;for t=0,6 do if 2>=t then if 0<t then if 0~=t then for d=30,57 do if 2>t then t=0;while t>-1 do if t>=3 then if 5>t then if t>=0 then repeat if 4>t then a=f[s];break;end;o=f[k];until true;else o=f[k];end else if t==5 then u(o,a);else t=-2;end end else if 1>t then f=r;else if t<2 then k=g;else s=e;end end end t=t+1 end b=b+1;r=n[b];break;end;t=0;while t>-1 do if t<3 then if 1<=t then if 2>t then k=g;else s=e;end else f=r;end else if 4>=t then if t>=0 then for r=13,93 do if 3~=t then o=f[k];break;end;a=f[s];break;end;else a=f[s];end else if 4~=t then for r=36,67 do if t~=5 then t=-2;break;end;u(o,a);break;end;else t=-2;end end end t=t+1 end b=b+1;r=n[b];break;end;else t=0;while t>-1 do if t<3 then if 1<=t then if 2>t then k=g;else s=e;end else f=r;end else if 4>=t then if t>=0 then for r=13,93 do if 3~=t then o=f[k];break;end;a=f[s];break;end;else a=f[s];end else if 4~=t then for r=36,67 do if t~=5 then t=-2;break;end;u(o,a);break;end;else t=-2;end end end t=t+1 end b=b+1;r=n[b];end else t=0;while t>-1 do if 3<=t then if 4<t then if 6~=t then u(o,a);else t=-2;end else if t~=3 then o=f[k];else a=f[s];end end else if t<1 then f=r;else if t>-3 then repeat if 2>t then k=g;break;end;s=e;until true;else s=e;end end end t=t+1 end b=b+1;r=n[b];end else if 5<=t then if 1<=t then for l=34,78 do if t~=5 then u[r[g]]=h[r[e]];break;end;u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];break;end;else u[r[g]]=h[r[e]];end else if t>2 then repeat if t>3 then c=r[g]u[c]=u[c](l(u,c+1,r[e]))b=b+1;r=n[b];break;end;t=0;while t>-1 do if t<3 then if t>0 then if t~=-3 then repeat if t~=1 then s=e;break;end;k=g;until true;else s=e;end else f=r;end else if t<=4 then if 0<=t then for r=41,67 do if t<4 then a=f[s];break;end;o=f[k];break;end;else o=f[k];end else if t~=4 then repeat if t~=6 then u(o,a);break;end;t=-2;until true;else u(o,a);end end end t=t+1 end b=b+1;r=n[b];until true;else t=0;while t>-1 do if t<3 then if t>0 then if t~=-3 then repeat if t~=1 then s=e;break;end;k=g;until true;else s=e;end else f=r;end else if t<=4 then if 0<=t then for r=41,67 do if t<4 then a=f[s];break;end;o=f[k];break;end;else o=f[k];end else if t~=4 then repeat if t~=6 then u(o,a);break;end;t=-2;until true;else u(o,a);end end end t=t+1 end b=b+1;r=n[b];end end end end break;end;local t;for d=0,4 do if 1>=d then if-4~=d then repeat if d~=1 then u(r[g],r[e]);b=b+1;r=n[b];break;end;t=r[g]u[t](u[t+1])b=b+1;r=n[b];until true;else u(r[g],r[e]);b=b+1;r=n[b];end else if 3>d then u(r[g],r[e]);b=b+1;r=n[b];else if d~=-1 then for t=46,81 do if d<4 then f[r[e]]=u[r[g]];b=b+1;r=n[b];break;end;b=r[e];break;end;else b=r[e];end end end end break;end;else local t;for d=0,4 do if 1>=d then if-4~=d then repeat if d~=1 then u(r[g],r[e]);b=b+1;r=n[b];break;end;t=r[g]u[t](u[t+1])b=b+1;r=n[b];until true;else u(r[g],r[e]);b=b+1;r=n[b];end else if 3>d then u(r[g],r[e]);b=b+1;r=n[b];else if d~=-1 then for t=46,81 do if d<4 then f[r[e]]=u[r[g]];b=b+1;r=n[b];break;end;b=r[e];break;end;else b=r[e];end end end end end end end end else if 299>t then if t<=292 then if t>=290 then if t<291 then local g=r[g];local n=u[g]local d=u[g+2];if(d>0)then if(n>u[g+1])then b=r[e];else u[g+3]=n;end elseif(n<u[g+1])then b=r[e];else u[g+3]=n;end else if t>291 then if not u[r[g]]then b=b+1;else b=r[e];end;else local t;for d=0,4 do if d>=2 then if 3>d then u(r[g],r[e]);b=b+1;r=n[b];else if 3<d then b=r[e];else f[r[e]]=u[r[g]];b=b+1;r=n[b];end end else if d>0 then t=r[g]u[t](u[t+1])b=b+1;r=n[b];else u(r[g],r[e]);b=b+1;r=n[b];end end end end end else if t>=284 then for s=30,79 do if t>288 then local t;for d=0,4 do if 2<=d then if d<=2 then u(r[g],r[e]);b=b+1;r=n[b];else if 3<d then b=r[e];else f[r[e]]=u[r[g]];b=b+1;r=n[b];end end else if 1~=d then u(r[g],r[e]);b=b+1;r=n[b];else t=r[g]u[t](u[t+1])b=b+1;r=n[b];end end end break;end;local s,o,a,k,c,p,t;s=r[g]u[s]=u[s](l(u,s+1,r[e]))b=b+1;r=n[b];u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];u[r[g]]=h[r[e]];b=b+1;r=n[b];t=0;while t>-1 do if t<=2 then if 0>=t then o=r;else if 2>t then a=g;else k=e;end end else if t<5 then if t~=4 then c=o[k];else p=o[a];end else if t==6 then t=-2;else u(p,c);end end end t=t+1 end b=b+1;r=n[b];s=r[g]u[s](u[s+1])b=b+1;r=n[b];u[r[g]]=f[r[e]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];break;end;else local t;for d=0,4 do if 2<=d then if d<=2 then u(r[g],r[e]);b=b+1;r=n[b];else if 3<d then b=r[e];else f[r[e]]=u[r[g]];b=b+1;r=n[b];end end else if 1~=d then u(r[g],r[e]);b=b+1;r=n[b];else t=r[g]u[t](u[t+1])b=b+1;r=n[b];end end end end end else if t>295 then if 296>=t then local t,f;u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];t=r[g]u[t]=u[t](l(u,t+1,r[e]))b=b+1;r=n[b];t=r[g];f=u[r[e]];u[t+1]=f;u[t]=f[r[d]];b=b+1;r=n[b];t=r[g]u[t](u[t+1])b=b+1;r=n[b];do return end;else if 295~=t then for d=47,55 do if 297<t then local d;for t=0,4 do if t>=2 then if t>2 then if 1~=t then for d=24,79 do if t<4 then f[r[e]]=u[r[g]];b=b+1;r=n[b];break;end;b=r[e];break;end;else b=r[e];end else u(r[g],r[e]);b=b+1;r=n[b];end else if-2~=t then repeat if 0~=t then d=r[g]u[d](u[d+1])b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];until true;else d=r[g]u[d](u[d+1])b=b+1;r=n[b];end end end break;end;local t;for d=0,4 do if d>1 then if d<=2 then u(r[g],r[e]);b=b+1;r=n[b];else if 0<d then repeat if 4>d then f[r[e]]=u[r[g]];b=b+1;r=n[b];break;end;b=r[e];until true;else b=r[e];end end else if d>-4 then for l=35,61 do if d<1 then u(r[g],r[e]);b=b+1;r=n[b];break;end;t=r[g]u[t](u[t+1])b=b+1;r=n[b];break;end;else u(r[g],r[e]);b=b+1;r=n[b];end end end break;end;else local t;for d=0,4 do if d>1 then if d<=2 then u(r[g],r[e]);b=b+1;r=n[b];else if 0<d then repeat if 4>d then f[r[e]]=u[r[g]];b=b+1;r=n[b];break;end;b=r[e];until true;else b=r[e];end end else if d>-4 then for l=35,61 do if d<1 then u(r[g],r[e]);b=b+1;r=n[b];break;end;t=r[g]u[t](u[t+1])b=b+1;r=n[b];break;end;else u(r[g],r[e]);b=b+1;r=n[b];end end end end end else if t>=294 then if 295~=t then local l;for t=0,9 do if 4<t then if 7<=t then if t>7 then if 9>t then u[r[g]]=u[r[e]];b=b+1;r=n[b];else l=r[g]u[l]=u[l](u[l+1])end else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end else if 4<t then for l=25,67 do if t~=5 then u[r[g]]=h[r[e]];b=b+1;r=n[b];break;end;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];break;end;else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end end else if t>=2 then if t>=3 then if-1~=t then for l=11,85 do if 4>t then u[r[g]]=f[r[e]];b=b+1;r=n[b];break;end;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];break;end;else u[r[g]]=f[r[e]];b=b+1;r=n[b];end else l=r[g]u[l](u[l+1])b=b+1;r=n[b];end else if-1<=t then repeat if t>0 then u(r[g],r[e]);b=b+1;r=n[b];break;end;u[r[g]]=h[r[e]];b=b+1;r=n[b];until true;else u(r[g],r[e]);b=b+1;r=n[b];end end end end else local r=r[g]u[r]=u[r](u[r+1])end else local t,f;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];t=r[g];f=u[r[e]];u[t+1]=f;u[t]=f[r[d]];b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];u[r[g]]=h[r[e]];end end end else if t<=303 then if 301>t then if t~=297 then for n=22,72 do if 300>t then local b=r[g]local g,r=a(u[b](l(u,b+1,r[e])))o=r+b-1 local r=0;for b=b,o do r=r+1;u[b]=g[r];end;break;end;b=r[e];break;end;else local b=r[g]local g,r=a(u[b](l(u,b+1,r[e])))o=r+b-1 local r=0;for b=b,o do r=r+1;u[b]=g[r];end;end else if 301<t then if 298~=t then for f=29,66 do if t~=303 then u[r[g]]={};break;end;local t,s,c,k,f;u[r[g]]=h[r[e]];b=b+1;r=n[b];u[r[g]]=h[r[e]];b=b+1;r=n[b];t=r[g];s=u[r[e]];u[t+1]=s;u[t]=s[r[d]];b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];t=r[g]c,k=a(u[t](l(u,t+1,r[e])))o=k+t-1 f=0;for r=t,o do f=f+1;u[r]=c[f];end;b=b+1;r=n[b];t=r[g]u[t]=u[t](l(u,t+1,o))b=b+1;r=n[b];u[r[g]]();b=b+1;r=n[b];do return end;break;end;else local t,s,c,k,f;u[r[g]]=h[r[e]];b=b+1;r=n[b];u[r[g]]=h[r[e]];b=b+1;r=n[b];t=r[g];s=u[r[e]];u[t+1]=s;u[t]=s[r[d]];b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];t=r[g]c,k=a(u[t](l(u,t+1,r[e])))o=k+t-1 f=0;for r=t,o do f=f+1;u[r]=c[f];end;b=b+1;r=n[b];t=r[g]u[t]=u[t](l(u,t+1,o))b=b+1;r=n[b];u[r[g]]();b=b+1;r=n[b];do return end;end else local t,l,s,o,h,d,a;for d=0,4 do if d<=1 then if d~=0 then a=r[g]u[a](u[a+1])b=b+1;r=n[b];else d=0;while d>-1 do if 2>=d then if 0<d then if-2~=d then for r=49,69 do if d~=2 then l=g;break;end;s=e;break;end;else l=g;end else t=r;end else if 4>=d then if 4~=d then o=t[s];else h=t[l];end else if d==5 then u(h,o);else d=-2;end end end d=d+1 end b=b+1;r=n[b];end else if d>2 then if d==4 then b=r[e];else f[r[e]]=u[r[g]];b=b+1;r=n[b];end else d=0;while d>-1 do if 3<=d then if d<=4 then if 0<=d then repeat if 3~=d then h=t[l];break;end;o=t[s];until true;else h=t[l];end else if 6>d then u(h,o);else d=-2;end end else if 1<=d then if d~=2 then l=g;else s=e;end else t=r;end end d=d+1 end b=b+1;r=n[b];end end end end end else if t<=306 then if 305>t then u[r[g]]=h[r[e]];else if t>304 then repeat if 306>t then local t,h;for f=0,5 do if 2>=f then if f>=1 then if f<2 then t=r[g];h=u[r[e]];u[t+1]=h;u[t]=h[r[d]];b=b+1;r=n[b];else u(r[g],r[e]);b=b+1;r=n[b];end else t=r[g]u[t]=u[t](u[t+1])b=b+1;r=n[b];end else if 4>f then u(r[g],r[e]);b=b+1;r=n[b];else if 5>f then t=r[g]u[t]=u[t](l(u,t+1,r[e]))b=b+1;r=n[b];else if(u[r[g]]~=r[d])then b=b+1;else b=r[e];end;end end end end break;end;local t,f;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];t=r[g];f=u[r[e]];u[t+1]=f;u[t]=f[r[d]];b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];u[r[g]]=h[r[e]];until true;else local t,f;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];t=r[g];f=u[r[e]];u[t+1]=f;u[t]=f[r[d]];b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];u[r[g]]=h[r[e]];end end else if 308<=t then if 306<=t then for h=11,97 do if t~=308 then local d;for t=0,4 do if 1>=t then if-3<=t then for l=16,64 do if t<1 then u(r[g],r[e]);b=b+1;r=n[b];break;end;d=r[g]u[d](u[d+1])b=b+1;r=n[b];break;end;else d=r[g]u[d](u[d+1])b=b+1;r=n[b];end else if t>=3 then if 4==t then b=r[e];else f[r[e]]=u[r[g]];b=b+1;r=n[b];end else u(r[g],r[e]);b=b+1;r=n[b];end end end break;end;local f,t,h;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u[r[g]]=u[r[e]];b=b+1;r=n[b];f=r[e];t=u[f]for r=f+1,r[d]do t=t..u[r];end;u[r[g]]=t;b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];h=r[g]u[h](l(u,h+1,r[e]))b=b+1;r=n[b];b=r[e];break;end;else local h,t,f;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u[r[g]]=u[r[e]];b=b+1;r=n[b];h=r[e];t=u[h]for r=h+1,r[d]do t=t..u[r];end;u[r[g]]=t;b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];f=r[g]u[f](l(u,f+1,r[e]))b=b+1;r=n[b];b=r[e];end else local f;for t=0,9 do if 4<t then if 6<t then if t>7 then if t==8 then u[r[g]][r[e]]=r[d];b=b+1;r=n[b];else f=r[g]u[f]=u[f](l(u,f+1,r[e]))end else u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];end else if t>=3 then repeat if t>5 then u[r[g]]=(r[e]~=0);b=b+1;r=n[b];break;end;u[r[g]][r[e]]=r[d];b=b+1;r=n[b];until true;else u[r[g]][r[e]]=r[d];b=b+1;r=n[b];end end else if t>1 then if 3>t then u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];else if t>1 then for l=30,57 do if t>3 then u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];break;end;u[r[g]]=(r[e]~=0);b=b+1;r=n[b];break;end;else u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];end end else if t>-1 then for l=30,76 do if 1>t then u[r[g]][r[e]]=r[d];b=b+1;r=n[b];break;end;u[r[g]]=(r[e]~=0);b=b+1;r=n[b];break;end;else u[r[g]][r[e]]=r[d];b=b+1;r=n[b];end end end end end end end end end end end else if t>=88 then if 132>t then if 110>t then if t<99 then if t>=93 then if 95<t then if 96>=t then local f,t,l,o,s,h,a,k,c;local n=0;while n>-1 do if n<=2 then if n<1 then f=u;else if n>0 then for u=41,92 do if 1<n then o=t[g];s=t[d];h=e;break;end;t=r;l=b;break;end;else t=r;l=b;end end else if 5>n then if n~=3 then c=a==k and t[h]or 1+l;else a=f[o];k=f[s];end else if n>4 then repeat if n~=5 then n=-2;break;end;b=c;until true;else n=-2;end end end n=n+1 end else if t>=93 then repeat if t<98 then do return end;break;end;local l,t;u[r[g]]=f[r[e]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];f[r[e]]=u[r[g]];b=b+1;r=n[b];u[r[g]]=f[r[e]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];l=r[g];t=u[r[e]];u[l+1]=t;u[l]=t[r[d]];until true;else local t,l;u[r[g]]=f[r[e]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];f[r[e]]=u[r[g]];b=b+1;r=n[b];u[r[g]]=f[r[e]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];t=r[g];l=u[r[e]];u[t+1]=l;u[t]=l[r[d]];end end else if 94<=t then if t>93 then for l=41,73 do if 95~=t then local l,s;for t=0,7 do if t<4 then if t<2 then if 1==t then l=r[g];s=u[r[e]];u[l+1]=s;u[l]=s[r[d]];b=b+1;r=n[b];else u[r[g]]=f[r[e]];b=b+1;r=n[b];end else if t>0 then for l=13,77 do if t~=2 then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];break;end;u[r[g]]=h[r[e]];b=b+1;r=n[b];break;end;else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end end else if 5>=t then if t~=4 then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];else u[r[g]]=h[r[e]];b=b+1;r=n[b];end else if t~=2 then repeat if 6<t then l=r[g]u[l]=u[l](u[l+1])break;end;u[r[g]]=u[r[e]];b=b+1;r=n[b];until true;else u[r[g]]=u[r[e]];b=b+1;r=n[b];end end end end break;end;if(r[g]<u[r[d]])then b=b+1;else b=r[e];end;break;end;else local l,s;for t=0,7 do if t<4 then if t<2 then if 1==t then l=r[g];s=u[r[e]];u[l+1]=s;u[l]=s[r[d]];b=b+1;r=n[b];else u[r[g]]=f[r[e]];b=b+1;r=n[b];end else if t>0 then for l=13,77 do if t~=2 then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];break;end;u[r[g]]=h[r[e]];b=b+1;r=n[b];break;end;else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end end else if 5>=t then if t~=4 then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];else u[r[g]]=h[r[e]];b=b+1;r=n[b];end else if t~=2 then repeat if 6<t then l=r[g]u[l]=u[l](u[l+1])break;end;u[r[g]]=u[r[e]];b=b+1;r=n[b];until true;else u[r[g]]=u[r[e]];b=b+1;r=n[b];end end end end end else local s,a,k,c,o,p,t;for t=0,6 do if t>=3 then if t<=4 then if t>2 then for d=25,91 do if t>3 then s=r[g]u[s](u[s+1])b=b+1;r=n[b];break;end;t=0;while t>-1 do if 3>t then if t<1 then a=r;else if-3<t then for r=29,62 do if 2>t then k=g;break;end;c=e;break;end;else k=g;end end else if t>4 then if 3~=t then repeat if t<6 then u(p,o);break;end;t=-2;until true;else u(p,o);end else if t~=0 then for r=26,98 do if t~=3 then p=a[k];break;end;o=a[c];break;end;else o=a[c];end end end t=t+1 end b=b+1;r=n[b];break;end;else s=r[g]u[s](u[s+1])b=b+1;r=n[b];end else if 2~=t then repeat if 6>t then u[r[g]]=f[r[e]];b=b+1;r=n[b];break;end;u[r[g]]=u[r[e]][r[d]];until true;else u[r[g]]=f[r[e]];b=b+1;r=n[b];end end else if 0>=t then s=r[g]u[s]=u[s](l(u,s+1,r[e]))b=b+1;r=n[b];else if t~=-3 then repeat if 2>t then u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];break;end;u[r[g]]=h[r[e]];b=b+1;r=n[b];until true;else u[r[g]]=h[r[e]];b=b+1;r=n[b];end end end end end end else if t<=89 then if 84<t then for f=30,52 do if 89>t then local g=r[g]local e={u[g](l(u,g+1,o))};local b=0;for r=g,r[d]do b=b+1;u[r]=e[b];end break;end;u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);break;end;else local b=r[g]local e={u[b](l(u,b+1,o))};local g=0;for r=b,r[d]do g=g+1;u[r]=e[g];end end else if 91>t then local t;for d=0,4 do if d>=2 then if 3<=d then if 4~=d then f[r[e]]=u[r[g]];b=b+1;r=n[b];else b=r[e];end else u(r[g],r[e]);b=b+1;r=n[b];end else if d>-4 then repeat if 0~=d then t=r[g]u[t](u[t+1])b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];until true;else u(r[g],r[e]);b=b+1;r=n[b];end end end else if t>89 then for d=31,54 do if 92~=t then local r=r[g]u[r]=u[r](l(u,r+1,o))break;end;local t,o,l,h,s,d,a;for d=0,4 do if d>=2 then if d>=3 then if d>-1 then repeat if d>3 then b=r[e];break;end;f[r[e]]=u[r[g]];b=b+1;r=n[b];until true;else b=r[e];end else d=0;while d>-1 do if 2>=d then if 1>d then t=r;else if d~=1 then l=e;else o=g;end end else if 4>=d then if 2<d then for r=23,95 do if 4>d then h=t[l];break;end;s=t[o];break;end;else s=t[o];end else if 6~=d then u(s,h);else d=-2;end end end d=d+1 end b=b+1;r=n[b];end else if-3~=d then repeat if d~=0 then a=r[g]u[a](u[a+1])b=b+1;r=n[b];break;end;d=0;while d>-1 do if 2>=d then if d>0 then if d==2 then l=e;else o=g;end else t=r;end else if 5>d then if d~=0 then repeat if d~=4 then h=t[l];break;end;s=t[o];until true;else h=t[l];end else if 2~=d then for r=35,76 do if d~=6 then u(s,h);break;end;d=-2;break;end;else d=-2;end end end d=d+1 end b=b+1;r=n[b];until true;else d=0;while d>-1 do if 2>=d then if d>0 then if d==2 then l=e;else o=g;end else t=r;end else if 5>d then if d~=0 then repeat if d~=4 then h=t[l];break;end;s=t[o];until true;else h=t[l];end else if 2~=d then for r=35,76 do if d~=6 then u(s,h);break;end;d=-2;break;end;else d=-2;end end end d=d+1 end b=b+1;r=n[b];end end end break;end;else local t,o,l,h,s,d,a;for d=0,4 do if d>=2 then if d>=3 then if d>-1 then repeat if d>3 then b=r[e];break;end;f[r[e]]=u[r[g]];b=b+1;r=n[b];until true;else b=r[e];end else d=0;while d>-1 do if 2>=d then if 1>d then t=r;else if d~=1 then l=e;else o=g;end end else if 4>=d then if 2<d then for r=23,95 do if 4>d then h=t[l];break;end;s=t[o];break;end;else s=t[o];end else if 6~=d then u(s,h);else d=-2;end end end d=d+1 end b=b+1;r=n[b];end else if-3~=d then repeat if d~=0 then a=r[g]u[a](u[a+1])b=b+1;r=n[b];break;end;d=0;while d>-1 do if 2>=d then if d>0 then if d==2 then l=e;else o=g;end else t=r;end else if 5>d then if d~=0 then repeat if d~=4 then h=t[l];break;end;s=t[o];until true;else h=t[l];end else if 2~=d then for r=35,76 do if d~=6 then u(s,h);break;end;d=-2;break;end;else d=-2;end end end d=d+1 end b=b+1;r=n[b];until true;else d=0;while d>-1 do if 2>=d then if d>0 then if d==2 then l=e;else o=g;end else t=r;end else if 5>d then if d~=0 then repeat if d~=4 then h=t[l];break;end;s=t[o];until true;else h=t[l];end else if 2~=d then for r=35,76 do if d~=6 then u(s,h);break;end;d=-2;break;end;else d=-2;end end end d=d+1 end b=b+1;r=n[b];end end end end end end end else if 104>t then if 101<=t then if t<=101 then local t;u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];t=r[g]u[t]=u[t](l(u,t+1,r[e]))b=b+1;r=n[b];u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];u[r[g]]=h[r[e]];else if 98~=t then for d=35,83 do if 103>t then local t;for d=0,4 do if 1>=d then if d>-1 then repeat if 0~=d then t=r[g]u[t](u[t+1])b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];until true;else t=r[g]u[t](u[t+1])b=b+1;r=n[b];end else if 3<=d then if 1<d then repeat if 4>d then f[r[e]]=u[r[g]];b=b+1;r=n[b];break;end;b=r[e];until true;else b=r[e];end else u(r[g],r[e]);b=b+1;r=n[b];end end end break;end;local t;for d=0,4 do if d>1 then if 3>d then u(r[g],r[e]);b=b+1;r=n[b];else if d==4 then b=r[e];else f[r[e]]=u[r[g]];b=b+1;r=n[b];end end else if d<1 then u(r[g],r[e]);b=b+1;r=n[b];else t=r[g]u[t](u[t+1])b=b+1;r=n[b];end end end break;end;else local t;for d=0,4 do if d>1 then if 3>d then u(r[g],r[e]);b=b+1;r=n[b];else if d==4 then b=r[e];else f[r[e]]=u[r[g]];b=b+1;r=n[b];end end else if d<1 then u(r[g],r[e]);b=b+1;r=n[b];else t=r[g]u[t](u[t+1])b=b+1;r=n[b];end end end end end else if 99~=t then local d;for t=0,4 do if t>1 then if 3<=t then if t>=2 then repeat if 3<t then b=r[e];break;end;f[r[e]]=u[r[g]];b=b+1;r=n[b];until true;else f[r[e]]=u[r[g]];b=b+1;r=n[b];end else u(r[g],r[e]);b=b+1;r=n[b];end else if t~=-3 then for l=25,61 do if t~=1 then u(r[g],r[e]);b=b+1;r=n[b];break;end;d=r[g]u[d](u[d+1])b=b+1;r=n[b];break;end;else d=r[g]u[d](u[d+1])b=b+1;r=n[b];end end end else local d;for t=0,4 do if 1<t then if 2<t then if 3==t then f[r[e]]=u[r[g]];b=b+1;r=n[b];else b=r[e];end else u(r[g],r[e]);b=b+1;r=n[b];end else if-4~=t then for l=34,74 do if t~=1 then u(r[g],r[e]);b=b+1;r=n[b];break;end;d=r[g]u[d](u[d+1])b=b+1;r=n[b];break;end;else d=r[g]u[d](u[d+1])b=b+1;r=n[b];end end end end end else if t<107 then if 104<t then if t~=106 then local l;for t=0,6 do if 2<t then if t>=5 then if t~=2 then for d=31,85 do if t~=6 then u[r[g]]=f[r[e]];b=b+1;r=n[b];break;end;l=r[g]u[l](u[l+1])break;end;else u[r[g]]=f[r[e]];b=b+1;r=n[b];end else if-1<=t then repeat if 3<t then u[r[g]]=h[r[e]];b=b+1;r=n[b];break;end;u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];until true;else u[r[g]]=h[r[e]];b=b+1;r=n[b];end end else if 1>t then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];else if t>=-1 then for l=34,61 do if 1<t then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];break;end;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];break;end;else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end end end end else for d=0,6 do if 3>d then if d>0 then if 1~=d then u(r[g],r[e]);b=b+1;r=n[b];else u(r[g],r[e]);b=b+1;r=n[b];end else u(r[g],r[e]);b=b+1;r=n[b];end else if 5<=d then if 2~=d then repeat if d~=5 then u(r[g],r[e]);break;end;u(r[g],r[e]);b=b+1;r=n[b];until true;else u(r[g],r[e]);b=b+1;r=n[b];end else if d>=2 then for t=42,73 do if d~=3 then u(r[g],r[e]);b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];break;end;else u(r[g],r[e]);b=b+1;r=n[b];end end end end end else for r=r[g],r[e]do u[r]=nil;end;end else if 108>t then local t,c,s,p,f,k;for s=0,5 do if s>=3 then if s<4 then t=r[g]k,p=a(u[t](u[t+1]))o=p+t-1 f=0;for r=t,o do f=f+1;u[r]=k[f];end;b=b+1;r=n[b];else if s~=1 then for h=17,52 do if s~=4 then b=r[e];break;end;t=r[g]k={u[t](l(u,t+1,o))};f=0;for r=t,r[d]do f=f+1;u[r]=k[f];end b=b+1;r=n[b];break;end;else b=r[e];end end else if 1>s then u[r[g]]=h[r[e]];b=b+1;r=n[b];else if 0<s then for l=33,62 do if 2~=s then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];break;end;t=r[g];c=u[r[e]];u[t+1]=c;u[t]=c[r[d]];b=b+1;r=n[b];break;end;else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end end end end else if t<109 then local r=r[g];local b=u[r];for r=r+1,o do s.ZQQnUsIF(b,u[r])end;else local f,h,o,n,t,s,l;local b=0;while b>-1 do if 3<=b then if 5>b then if 2<=b then for r=48,64 do if 4>b then s=n[f];break;end;l=u[t];for r=1+t,n[o]do l=l..u[r];end;break;end;else s=n[f];end else if b>3 then for r=38,71 do if 5<b then b=-2;break;end;u[s]=l;break;end;else b=-2;end end else if 0>=b then f=g;h=e;o=d;else if 0<=b then for u=19,53 do if b<2 then n=r;break;end;t=n[h];break;end;else t=n[h];end end end b=b+1 end end end end end end else if t<121 then if t>=115 then if 117<t then if t>=119 then if 120~=t then local t;for d=0,4 do if 2>d then if d==0 then u(r[g],r[e]);b=b+1;r=n[b];else t=r[g]u[t](u[t+1])b=b+1;r=n[b];end else if 2<d then if 2~=d then repeat if d<4 then f[r[e]]=u[r[g]];b=b+1;r=n[b];break;end;b=r[e];until true;else b=r[e];end else u(r[g],r[e]);b=b+1;r=n[b];end end end else local t,n,l,d,h,f;local b=0;while b>-1 do if b<=3 then if 1>=b then if-1<b then for u=26,75 do if 0~=b then n=g;break;end;t=r;break;end;else n=g;end else if b>0 then repeat if 2<b then d=u;break;end;l=e;until true;else d=u;end end else if b<=5 then if 4~=b then f=t[n];else h=d[t[l]];end else if b>=2 then for r=22,94 do if b<7 then u[f]=h;break;end;b=-2;break;end;else b=-2;end end end b=b+1 end end else local t;for d=0,4 do if d<=1 then if-4<d then for l=36,59 do if 0~=d then t=r[g]u[t](u[t+1])b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];break;end;else u(r[g],r[e]);b=b+1;r=n[b];end else if 3<=d then if d~=4 then f[r[e]]=u[r[g]];b=b+1;r=n[b];else b=r[e];end else u(r[g],r[e]);b=b+1;r=n[b];end end end end else if t<116 then local o,p,s,c,k,a,f,t;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];o=r[g];p=u[r[e]];u[o+1]=p;u[o]=p[r[d]];b=b+1;r=n[b];t=0;while t>-1 do if 2<t then if t<5 then if t>-1 then for r=38,81 do if t<4 then a=s[k];break;end;f=s[c];break;end;else f=s[c];end else if t>2 then for r=20,92 do if 5<t then t=-2;break;end;u(f,a);break;end;else u(f,a);end end else if 0<t then if-3<=t then for r=15,54 do if t~=1 then k=e;break;end;c=g;break;end;else k=e;end else s=r;end end t=t+1 end b=b+1;r=n[b];t=0;while t>-1 do if 3<=t then if t<5 then if t==4 then f=s[c];else a=s[k];end else if 3~=t then repeat if 5<t then t=-2;break;end;u(f,a);until true;else u(f,a);end end else if t>=1 then if t>=0 then repeat if t~=1 then k=e;break;end;c=g;until true;else k=e;end else s=r;end end t=t+1 end b=b+1;r=n[b];o=r[g]u[o](l(u,o+1,r[e]))b=b+1;r=n[b];u[r[g]]=h[r[e]];else if t~=114 then repeat if t>116 then u[r[g]]=f[r[e]];break;end;local l,h;for t=0,6 do if 2<t then if t<5 then if t~=-1 then repeat if t<4 then u[r[g]]=#u[r[e]];b=b+1;r=n[b];break;end;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];until true;else u[r[g]]=#u[r[e]];b=b+1;r=n[b];end else if t>=4 then repeat if 6~=t then u[r[g]]=#u[r[e]];b=b+1;r=n[b];break;end;u[r[g]]=u[r[e]]-u[r[d]];until true;else u[r[g]]=u[r[e]]-u[r[d]];end end else if t>0 then if t~=-2 then for s=18,98 do if t<2 then l=r[g];h=u[r[e]];u[l+1]=h;u[l]=h[r[d]];b=b+1;r=n[b];break;end;u[r[g]]=f[r[e]];b=b+1;r=n[b];break;end;else u[r[g]]=f[r[e]];b=b+1;r=n[b];end else u[r[g]]=f[r[e]];b=b+1;r=n[b];end end end until true;else local h,l;for t=0,6 do if 2<t then if t<5 then if t~=-1 then repeat if t<4 then u[r[g]]=#u[r[e]];b=b+1;r=n[b];break;end;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];until true;else u[r[g]]=#u[r[e]];b=b+1;r=n[b];end else if t>=4 then repeat if 6~=t then u[r[g]]=#u[r[e]];b=b+1;r=n[b];break;end;u[r[g]]=u[r[e]]-u[r[d]];until true;else u[r[g]]=u[r[e]]-u[r[d]];end end else if t>0 then if t~=-2 then for s=18,98 do if t<2 then h=r[g];l=u[r[e]];u[h+1]=l;u[h]=l[r[d]];b=b+1;r=n[b];break;end;u[r[g]]=f[r[e]];b=b+1;r=n[b];break;end;else u[r[g]]=f[r[e]];b=b+1;r=n[b];end else u[r[g]]=f[r[e]];b=b+1;r=n[b];end end end end end end else if t<=111 then if 106<=t then for f=39,94 do if 110~=t then local t;u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];u[r[g]]=h[r[e]];b=b+1;r=n[b];u[r[g]]=u[r[e]];b=b+1;r=n[b];t=r[g]u[t](u[t+1])b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=h[r[e]];break;end;local t,h;for f=0,6 do if f>2 then if 4>=f then if 1<f then repeat if 3~=f then t=r[g]u[t]=u[t](l(u,t+1,r[e]))b=b+1;r=n[b];break;end;u[r[g]][r[e]]=r[d];b=b+1;r=n[b];until true;else t=r[g]u[t]=u[t](l(u,t+1,r[e]))b=b+1;r=n[b];end else if f~=4 then for l=19,75 do if 5<f then u[r[g]]={};break;end;t=r[g];h=u[r[e]];u[t+1]=h;u[t]=h[r[d]];b=b+1;r=n[b];break;end;else t=r[g];h=u[r[e]];u[t+1]=h;u[t]=h[r[d]];b=b+1;r=n[b];end end else if f>=1 then if f>=0 then repeat if f>1 then u[r[g]][r[e]]=r[d];b=b+1;r=n[b];break;end;u[r[g]][r[e]]=r[d];b=b+1;r=n[b];until true;else u[r[g]][r[e]]=r[d];b=b+1;r=n[b];end else u[r[g]]={};b=b+1;r=n[b];end end end break;end;else local t,h;for f=0,6 do if f>2 then if 4>=f then if 1<f then repeat if 3~=f then t=r[g]u[t]=u[t](l(u,t+1,r[e]))b=b+1;r=n[b];break;end;u[r[g]][r[e]]=r[d];b=b+1;r=n[b];until true;else t=r[g]u[t]=u[t](l(u,t+1,r[e]))b=b+1;r=n[b];end else if f~=4 then for l=19,75 do if 5<f then u[r[g]]={};break;end;t=r[g];h=u[r[e]];u[t+1]=h;u[t]=h[r[d]];b=b+1;r=n[b];break;end;else t=r[g];h=u[r[e]];u[t+1]=h;u[t]=h[r[d]];b=b+1;r=n[b];end end else if f>=1 then if f>=0 then repeat if f>1 then u[r[g]][r[e]]=r[d];b=b+1;r=n[b];break;end;u[r[g]][r[e]]=r[d];b=b+1;r=n[b];until true;else u[r[g]][r[e]]=r[d];b=b+1;r=n[b];end else u[r[g]]={};b=b+1;r=n[b];end end end end else if 112<t then if 113<t then u[r[g]][r[e]]=r[d];b=b+1;r=n[b];u[r[g]]=f[r[e]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]][r[e]]=r[d];b=b+1;r=n[b];u[r[g]]=h[r[e]];b=b+1;r=n[b];u[r[g]]();b=b+1;r=n[b];u[r[g]]=h[r[e]];b=b+1;r=n[b];u[r[g]][r[e]]=r[d];b=b+1;r=n[b];b=r[e];else local f,s,a,k,o,h,t,c;for t=0,9 do if t>4 then if t>=7 then if 7>=t then u[r[g]][r[e]]=r[d];b=b+1;r=n[b];else if t~=7 then for h=16,66 do if t>8 then u[r[g]]=u[r[e]][r[d]];break;end;f=r[g]u[f](l(u,f+1,r[e]))b=b+1;r=n[b];break;end;else u[r[g]]=u[r[e]][r[d]];end end else if 2<t then repeat if 5<t then u[r[g]][r[e]]=r[d];b=b+1;r=n[b];break;end;u[r[g]][r[e]]=r[d];b=b+1;r=n[b];until true;else u[r[g]][r[e]]=r[d];b=b+1;r=n[b];end end else if t<=1 then if t>-4 then repeat if 0~=t then t=0;while t>-1 do if 2>=t then if t<=0 then s=r;else if 1<t then k=e;else a=g;end end else if t<=4 then if t>-1 then for r=31,98 do if 4~=t then o=s[k];break;end;h=s[a];break;end;else h=s[a];end else if t>=4 then repeat if 5~=t then t=-2;break;end;u(h,o);until true;else u(h,o);end end end t=t+1 end b=b+1;r=n[b];break;end;f=r[g]u[f](l(u,f+1,r[e]))b=b+1;r=n[b];until true;else t=0;while t>-1 do if 2>=t then if t<=0 then s=r;else if 1<t then k=e;else a=g;end end else if t<=4 then if t>-1 then for r=31,98 do if 4~=t then o=s[k];break;end;h=s[a];break;end;else h=s[a];end else if t>=4 then repeat if 5~=t then t=-2;break;end;u(h,o);until true;else u(h,o);end end end t=t+1 end b=b+1;r=n[b];end else if t<3 then f=r[g];c=u[r[e]];u[f+1]=c;u[f]=c[r[d]];b=b+1;r=n[b];else if t>=0 then for l=38,83 do if t>3 then u[r[g]][r[e]]=r[d];b=b+1;r=n[b];break;end;u[r[g]]={};b=b+1;r=n[b];break;end;else u[r[g]][r[e]]=r[d];b=b+1;r=n[b];end end end end end end else if(u[r[g]]<r[d])then b=r[e];else b=b+1;end;end end end else if t>=126 then if t>=129 then if t<130 then local f,s,k,a,o,t,c;for t=0,6 do if t<3 then if 0>=t then t=0;while t>-1 do if t>2 then if t>=5 then if t~=1 then repeat if t>5 then t=-2;break;end;u(o,a);until true;else t=-2;end else if t~=4 then a=f[k];else o=f[s];end end else if t<=0 then f=r;else if-3<=t then for r=28,62 do if 1~=t then k=e;break;end;s=g;break;end;else s=g;end end end t=t+1 end b=b+1;r=n[b];else if t~=2 then t=0;while t>-1 do if 2<t then if 4>=t then if-1<t then repeat if 3~=t then o=f[s];break;end;a=f[k];until true;else o=f[s];end else if t~=4 then repeat if t~=5 then t=-2;break;end;u(o,a);until true;else u(o,a);end end else if t<=0 then f=r;else if 0~=t then repeat if t~=2 then s=g;break;end;k=e;until true;else s=g;end end end t=t+1 end b=b+1;r=n[b];else t=0;while t>-1 do if 3<=t then if 4>=t then if t>0 then repeat if t~=3 then o=f[s];break;end;a=f[k];until true;else a=f[k];end else if t~=6 then u(o,a);else t=-2;end end else if 1<=t then if 2~=t then s=g;else k=e;end else f=r;end end t=t+1 end b=b+1;r=n[b];end end else if t>4 then if t~=5 then u[r[g]]=h[r[e]];else u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];end else if 0~=t then for d=11,91 do if t>3 then c=r[g]u[c]=u[c](l(u,c+1,r[e]))b=b+1;r=n[b];break;end;t=0;while t>-1 do if 3>t then if 0>=t then f=r;else if-2~=t then for r=27,63 do if t<2 then s=g;break;end;k=e;break;end;else s=g;end end else if t<5 then if 4>t then a=f[k];else o=f[s];end else if t==5 then u(o,a);else t=-2;end end end t=t+1 end b=b+1;r=n[b];break;end;else c=r[g]u[c]=u[c](l(u,c+1,r[e]))b=b+1;r=n[b];end end end end else if 131==t then local t;for d=0,4 do if 2>d then if 1==d then t=r[g]u[t](u[t+1])b=b+1;r=n[b];else u(r[g],r[e]);b=b+1;r=n[b];end else if 2<d then if d>=2 then repeat if 4~=d then f[r[e]]=u[r[g]];b=b+1;r=n[b];break;end;b=r[e];until true;else f[r[e]]=u[r[g]];b=b+1;r=n[b];end else u(r[g],r[e]);b=b+1;r=n[b];end end end else h[r[e]]=u[r[g]];end end else if t>126 then if 128==t then u[r[g]][r[e]]=r[d];else do return end;end else u[r[g]]=u[r[e]]-r[d];end end else if 123<=t then if 124<=t then if t>=122 then for l=22,54 do if 124<t then local t;for d=0,4 do if d<2 then if 1~=d then u(r[g],r[e]);b=b+1;r=n[b];else t=r[g]u[t](u[t+1])b=b+1;r=n[b];end else if 2>=d then u(r[g],r[e]);b=b+1;r=n[b];else if d~=4 then f[r[e]]=u[r[g]];b=b+1;r=n[b];else b=r[e];end end end end break;end;u[r[g]]=u[r[e]]%r[d];break;end;else local t;for d=0,4 do if d<2 then if 1~=d then u(r[g],r[e]);b=b+1;r=n[b];else t=r[g]u[t](u[t+1])b=b+1;r=n[b];end else if 2>=d then u(r[g],r[e]);b=b+1;r=n[b];else if d~=4 then f[r[e]]=u[r[g]];b=b+1;r=n[b];else b=r[e];end end end end end else if u[r[g]]then b=b+1;else b=r[e];end;end else if 122~=t then local o,p,f,s,k,c,a,t;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];o=r[g];p=u[r[e]];u[o+1]=p;u[o]=p[r[d]];b=b+1;r=n[b];t=0;while t>-1 do if 3<=t then if t>4 then if 3<t then repeat if t~=5 then t=-2;break;end;u(a,c);until true;else t=-2;end else if 1<t then for r=40,71 do if t<4 then c=f[k];break;end;a=f[s];break;end;else a=f[s];end end else if t>0 then if t~=-2 then repeat if 1<t then k=e;break;end;s=g;until true;else k=e;end else f=r;end end t=t+1 end b=b+1;r=n[b];t=0;while t>-1 do if 2>=t then if t>=1 then if t>-3 then repeat if 2>t then s=g;break;end;k=e;until true;else s=g;end else f=r;end else if 5<=t then if 6==t then t=-2;else u(a,c);end else if-1<t then for r=24,91 do if t~=3 then a=f[s];break;end;c=f[k];break;end;else a=f[s];end end end t=t+1 end b=b+1;r=n[b];o=r[g]u[o](l(u,o+1,r[e]))b=b+1;r=n[b];u[r[g]]=h[r[e]];else local t,h,s,l,f,d;for d=0,6 do if 2>=d then if 0<d then if-3~=d then repeat if d~=1 then d=0;while d>-1 do if d<=2 then if 1>d then t=r;else if d~=1 then s=e;else h=g;end end else if 5>d then if d~=0 then repeat if 3~=d then f=t[h];break;end;l=t[s];until true;else l=t[s];end else if 5<d then d=-2;else u(f,l);end end end d=d+1 end b=b+1;r=n[b];break;end;d=0;while d>-1 do if 3<=d then if 4<d then if 4<=d then repeat if d>5 then d=-2;break;end;u(f,l);until true;else u(f,l);end else if d<4 then l=t[s];else f=t[h];end end else if 0<d then if d>=-1 then repeat if d~=2 then h=g;break;end;s=e;until true;else h=g;end else t=r;end end d=d+1 end b=b+1;r=n[b];until true;else d=0;while d>-1 do if 3<=d then if 4<d then if 4<=d then repeat if d>5 then d=-2;break;end;u(f,l);until true;else u(f,l);end else if d<4 then l=t[s];else f=t[h];end end else if 0<d then if d>=-1 then repeat if d~=2 then h=g;break;end;s=e;until true;else h=g;end else t=r;end end d=d+1 end b=b+1;r=n[b];end else d=0;while d>-1 do if 3<=d then if d<5 then if 3==d then l=t[s];else f=t[h];end else if 5~=d then d=-2;else u(f,l);end end else if 0<d then if d==2 then s=e;else h=g;end else t=r;end end d=d+1 end b=b+1;r=n[b];end else if d>=5 then if d>3 then for o=11,79 do if d~=6 then d=0;while d>-1 do if d<3 then if 1>d then t=r;else if d>=-2 then for r=17,76 do if d~=2 then h=g;break;end;s=e;break;end;else h=g;end end else if 4<d then if d>2 then repeat if 5~=d then d=-2;break;end;u(f,l);until true;else u(f,l);end else if 4==d then f=t[h];else l=t[s];end end end d=d+1 end b=b+1;r=n[b];break;end;d=0;while d>-1 do if d>=3 then if 5>d then if d>-1 then repeat if d<4 then l=t[s];break;end;f=t[h];until true;else l=t[s];end else if 3<=d then for r=19,72 do if 5<d then d=-2;break;end;u(f,l);break;end;else u(f,l);end end else if d>=1 then if-3<=d then repeat if 1<d then s=e;break;end;h=g;until true;else h=g;end else t=r;end end d=d+1 end break;end;else d=0;while d>-1 do if d<3 then if 1>d then t=r;else if d>=-2 then for r=17,76 do if d~=2 then h=g;break;end;s=e;break;end;else h=g;end end else if 4<d then if d>2 then repeat if 5~=d then d=-2;break;end;u(f,l);until true;else u(f,l);end else if 4==d then f=t[h];else l=t[s];end end end d=d+1 end b=b+1;r=n[b];end else if d>1 then repeat if d<4 then d=0;while d>-1 do if d<=2 then if d<1 then t=r;else if d>=-2 then for r=28,52 do if d~=2 then h=g;break;end;s=e;break;end;else s=e;end end else if 4>=d then if 4>d then l=t[s];else f=t[h];end else if d~=6 then u(f,l);else d=-2;end end end d=d+1 end b=b+1;r=n[b];break;end;d=0;while d>-1 do if d>2 then if 4<d then if d>=2 then repeat if d<6 then u(f,l);break;end;d=-2;until true;else d=-2;end else if d>=0 then for r=44,60 do if d>3 then f=t[h];break;end;l=t[s];break;end;else l=t[s];end end else if d<1 then t=r;else if 1<d then s=e;else h=g;end end end d=d+1 end b=b+1;r=n[b];until true;else d=0;while d>-1 do if d>2 then if 4<d then if d>=2 then repeat if d<6 then u(f,l);break;end;d=-2;until true;else d=-2;end else if d>=0 then for r=44,60 do if d>3 then f=t[h];break;end;l=t[s];break;end;else l=t[s];end end else if d<1 then t=r;else if 1<d then s=e;else h=g;end end end d=d+1 end b=b+1;r=n[b];end end end end end end end end end else if 153>=t then if t<143 then if 137<=t then if 140<=t then if 141>t then u[r[g]]();else if 138~=t then repeat if t~=141 then local t,f;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];t=r[g];f=u[r[e]];u[t+1]=f;u[t]=f[r[d]];b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];u[r[g]]=h[r[e]];break;end;local b=r[g]u[b]=u[b](l(u,b+1,r[e]))until true;else local b=r[g]u[b]=u[b](l(u,b+1,r[e]))end end else if t>=138 then if 135<=t then for f=19,90 do if t~=139 then local f,s;for t=0,6 do if 2<t then if t>4 then if t>3 then repeat if 5~=t then u[r[g]]=h[r[e]];break;end;f=r[g]u[f](l(u,f+1,r[e]))b=b+1;r=n[b];until true;else u[r[g]]=h[r[e]];end else if t~=0 then for d=46,82 do if t~=3 then u(r[g],r[e]);b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];break;end;else u(r[g],r[e]);b=b+1;r=n[b];end end else if 1>t then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];else if 0~=t then repeat if 2>t then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];break;end;f=r[g];s=u[r[e]];u[f+1]=s;u[f]=s[r[d]];b=b+1;r=n[b];until true;else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end end end end break;end;u[r[g]]=_(m[r[e]],nil,h);break;end;else local f,s;for t=0,6 do if 2<t then if t>4 then if t>3 then repeat if 5~=t then u[r[g]]=h[r[e]];break;end;f=r[g]u[f](l(u,f+1,r[e]))b=b+1;r=n[b];until true;else u[r[g]]=h[r[e]];end else if t~=0 then for d=46,82 do if t~=3 then u(r[g],r[e]);b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];break;end;else u(r[g],r[e]);b=b+1;r=n[b];end end else if 1>t then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];else if 0~=t then repeat if 2>t then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];break;end;f=r[g];s=u[r[e]];u[f+1]=s;u[f]=s[r[d]];b=b+1;r=n[b];until true;else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end end end end end else local t;for d=0,4 do if 2<=d then if d>=3 then if d~=-1 then repeat if d>3 then b=r[e];break;end;f[r[e]]=u[r[g]];b=b+1;r=n[b];until true;else f[r[e]]=u[r[g]];b=b+1;r=n[b];end else u(r[g],r[e]);b=b+1;r=n[b];end else if-4<=d then for l=32,81 do if d~=1 then u(r[g],r[e]);b=b+1;r=n[b];break;end;t=r[g]u[t](u[t+1])b=b+1;r=n[b];break;end;else u(r[g],r[e]);b=b+1;r=n[b];end end end end end else if t<134 then if t>=129 then for s=44,64 do if t>132 then local t,a,l,h,o,d,s;for d=0,4 do if d>=2 then if d<=2 then d=0;while d>-1 do if d<=2 then if d<=0 then t=r;else if 1==d then a=g;else l=e;end end else if 4<d then if 4<d then for r=27,72 do if 5<d then d=-2;break;end;u(o,h);break;end;else u(o,h);end else if d>=2 then for r=35,74 do if d~=3 then o=t[a];break;end;h=t[l];break;end;else h=t[l];end end end d=d+1 end b=b+1;r=n[b];else if 3~=d then b=r[e];else f[r[e]]=u[r[g]];b=b+1;r=n[b];end end else if-3~=d then for f=43,61 do if 1~=d then d=0;while d>-1 do if d<=2 then if 1>d then t=r;else if-1<d then repeat if 2>d then a=g;break;end;l=e;until true;else l=e;end end else if 5<=d then if d~=5 then d=-2;else u(o,h);end else if d~=1 then for r=36,79 do if 4>d then h=t[l];break;end;o=t[a];break;end;else h=t[l];end end end d=d+1 end b=b+1;r=n[b];break;end;s=r[g]u[s](u[s+1])b=b+1;r=n[b];break;end;else s=r[g]u[s](u[s+1])b=b+1;r=n[b];end end end break;end;local t,f;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];t=r[g];f=u[r[e]];u[t+1]=f;u[t]=f[r[d]];b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];u[r[g]]=h[r[e]];break;end;else local t,f;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];t=r[g];f=u[r[e]];u[t+1]=f;u[t]=f[r[d]];b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];u[r[g]]=h[r[e]];end else if 134>=t then u[r[g]]();else if t~=131 then repeat if 136>t then u[r[g]]=u[r[e]]+r[d];break;end;local t,o;for s=0,5 do if s<=2 then if s>0 then if s>-2 then repeat if s<2 then t=r[g];o=u[r[e]];u[t+1]=o;u[t]=o[r[d]];b=b+1;r=n[b];break;end;u[r[g]]=f[r[e]];b=b+1;r=n[b];until true;else t=r[g];o=u[r[e]];u[t+1]=o;u[t]=o[r[d]];b=b+1;r=n[b];end else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end else if s<4 then t=r[g]u[t]=u[t](l(u,t+1,r[e]))b=b+1;r=n[b];else if 5~=s then h[r[e]]=u[r[g]];b=b+1;r=n[b];else b=r[e];end end end end until true;else u[r[g]]=u[r[e]]+r[d];end end end end else if t>147 then if t>150 then if 152<=t then if t>148 then for l=40,98 do if 152<t then local d,n,f,l,t;local b=0;while b>-1 do if 2>=b then if b<1 then d=r;else if 0<b then repeat if b~=1 then f=e;break;end;n=g;until true;else n=g;end end else if b<5 then if b>0 then repeat if 4>b then l=d[f];break;end;t=d[n];until true;else t=d[n];end else if b>5 then b=-2;else u(t,l);end end end b=b+1 end break;end;local s,k,l,o,a,t;for t=0,6 do if 2>=t then if 0>=t then u[r[g]][r[e]]=r[d];b=b+1;r=n[b];else if t>=-1 then repeat if 1<t then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];break;end;u[r[g]]=f[r[e]];b=b+1;r=n[b];until true;else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end end else if t>=5 then if 1<t then for d=25,92 do if t<6 then u[r[g]]=h[r[e]];b=b+1;r=n[b];break;end;t=0;while t>-1 do if 3>t then if t<=0 then s=r;else if t>=-1 then for r=48,54 do if t<2 then k=g;break;end;l=e;break;end;else l=e;end end else if 4>=t then if 4>t then o=s[l];else a=s[k];end else if 1<=t then for r=36,71 do if t~=6 then u(a,o);break;end;t=-2;break;end;else t=-2;end end end t=t+1 end break;end;else u[r[g]]=h[r[e]];b=b+1;r=n[b];end else if t~=3 then u[r[g]][r[e]]=r[d];b=b+1;r=n[b];else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end end end end break;end;else local l,o,s,k,a,t;for t=0,6 do if 2>=t then if 0>=t then u[r[g]][r[e]]=r[d];b=b+1;r=n[b];else if t>=-1 then repeat if 1<t then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];break;end;u[r[g]]=f[r[e]];b=b+1;r=n[b];until true;else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end end else if t>=5 then if 1<t then for d=25,92 do if t<6 then u[r[g]]=h[r[e]];b=b+1;r=n[b];break;end;t=0;while t>-1 do if 3>t then if t<=0 then l=r;else if t>=-1 then for r=48,54 do if t<2 then o=g;break;end;s=e;break;end;else s=e;end end else if 4>=t then if 4>t then k=l[s];else a=l[o];end else if 1<=t then for r=36,71 do if t~=6 then u(a,k);break;end;t=-2;break;end;else t=-2;end end end t=t+1 end break;end;else u[r[g]]=h[r[e]];b=b+1;r=n[b];end else if t~=3 then u[r[g]][r[e]]=r[d];b=b+1;r=n[b];else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end end end end end else b=r[e];end else if t<149 then if(r[g]<u[r[d]])then b=b+1;else b=r[e];end;else if 149~=t then u[r[g]]=f[r[e]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];do return end;else if(u[r[g]]==u[r[d]])then b=b+1;else b=r[e];end;end end end else if 144<t then if 145>=t then local b=r[g]local e={u[b](u[b+1])};local g=0;for r=b,r[d]do g=g+1;u[r]=e[g];end else if t~=144 then repeat if 147>t then u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);break;end;u[r[g]]=f[r[e]];until true;else u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);end end else if 144==t then local f,o,c,k,s,a,p,t;for t=0,6 do if t>2 then if t<5 then if t~=4 then t=0;while t>-1 do if t>=4 then if t<6 then if t>3 then repeat if 4<t then p=o[c];break;end;a=s[o[k]];until true;else a=s[o[k]];end else if t==6 then u[p]=a;else t=-2;end end else if t>=2 then if-2<t then for r=35,86 do if t>2 then s=u;break;end;k=e;break;end;else s=u;end else if t==1 then c=g;else o=r;end end end t=t+1 end b=b+1;r=n[b];else f=r[g]u[f](u[f+1])b=b+1;r=n[b];end else if t==5 then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];else u[r[g]]=u[r[e]][r[d]];end end else if 1<=t then if 1<t then u[r[g]]=h[r[e]];b=b+1;r=n[b];else u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];end else f=r[g]u[f]=u[f](l(u,f+1,r[e]))b=b+1;r=n[b];end end end else local n,h,d,f,l,t;local b=0;while b>-1 do if 4>b then if b>1 then if b>=0 then repeat if 2~=b then f=u;break;end;d=e;until true;else d=e;end else if-1~=b then for u=47,57 do if b~=1 then n=r;break;end;h=g;break;end;else n=r;end end else if b<6 then if 5==b then t=n[h];else l=f[n[d]];end else if 4<b then for r=31,59 do if 6<b then b=-2;break;end;u[t]=l;break;end;else b=-2;end end end b=b+1 end end end end end else if t<165 then if 158>=t then if t<156 then if t>154 then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=h[r[e]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);else local t,f;u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];t=r[g];f=u[r[e]];u[t+1]=f;u[t]=f[r[d]];b=b+1;r=n[b];u[r[g]]={};b=b+1;r=n[b];u[r[g]][r[e]]=r[d];b=b+1;r=n[b];u[r[g]][r[e]]=r[d];b=b+1;r=n[b];u[r[g]]=h[r[e]];end else if t<157 then local t,a,m,j,t,t,s,f,_,p,k,c,o;for t=0,6 do if 2>=t then if 1<=t then if 2==t then u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];else s=r[g]u[s]=u[s](l(u,s+1,r[e]))b=b+1;r=n[b];end else t=0;while t>-1 do if 3>t then if t>=1 then if t>-2 then for r=33,92 do if 2~=t then a=g;break;end;m=e;break;end;else a=g;end else f=r;end else if t>4 then if t<6 then u(o,j);else t=-2;end else if 2<t then for r=14,58 do if 3<t then o=f[a];break;end;j=f[m];break;end;else o=f[a];end end end t=t+1 end b=b+1;r=n[b];end else if 5>t then if t>3 then t=0;while t>-1 do if t<=3 then if 2<=t then if 1<=t then for r=11,53 do if t<3 then p=e;break;end;k=u;break;end;else k=u;end else if-3<t then for b=12,97 do if 0~=t then _=g;break;end;f=r;break;end;else f=r;end end else if 5>=t then if t~=0 then repeat if 5>t then c=k[f[p]];break;end;o=f[_];until true;else c=k[f[p]];end else if t>=2 then repeat if t>6 then t=-2;break;end;u[o]=c;until true;else t=-2;end end end t=t+1 end b=b+1;r=n[b];else u[r[g]]=h[r[e]];b=b+1;r=n[b];end else if t~=4 then repeat if t>5 then u[r[g]]=u[r[e]][r[d]];break;end;s=r[g]u[s](u[s+1])b=b+1;r=n[b];until true;else u[r[g]]=u[r[e]][r[d]];end end end end else if 158>t then local n=r[g];local d=r[d];local g=n+2 local n={u[n](u[n+1],u[g])};for r=1,d do u[g+r]=n[r];end;local n=n[1]if n then u[g]=n b=r[e];else b=b+1;end;else local o=m[r[e]];local l;local t={};l=s.MotxJhxP({},{__index=function(b,r)local r=t[r];return r[1][r[2]];end,__newindex=function(u,r,b)local r=t[r]r[1][r[2]]=b;end;});for g=1,r[d]do b=b+1;local r=n[b];if r[z]==143 then t[g-1]={u,r[e]};else t[g-1]={f,r[e]};end;c[#c+1]=t;end;u[r[g]]=_(o,l,h);end end end else if t<=161 then if 159<t then if 156~=t then for f=26,70 do if 160<t then local f,h;for t=0,4 do if 1>=t then if t>-2 then for h=33,74 do if 0<t then f=r[g]u[f](l(u,f+1,r[e]))b=b+1;r=n[b];break;end;u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];break;end;else u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];end else if 2<t then if t>1 then for l=41,95 do if 3<t then u[r[g]][r[e]]=r[d];break;end;u[r[g]]={};b=b+1;r=n[b];break;end;else u[r[g]][r[e]]=r[d];end else f=r[g];h=u[r[e]];u[f+1]=h;u[f]=h[r[d]];b=b+1;r=n[b];end end end break;end;local r=r[g];local b=u[r];for r=r+1,o do s.ZQQnUsIF(b,u[r])end;break;end;else local f,h;for t=0,4 do if 1>=t then if t>-2 then for h=33,74 do if 0<t then f=r[g]u[f](l(u,f+1,r[e]))b=b+1;r=n[b];break;end;u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];break;end;else u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];end else if 2<t then if t>1 then for l=41,95 do if 3<t then u[r[g]][r[e]]=r[d];break;end;u[r[g]]={};b=b+1;r=n[b];break;end;else u[r[g]][r[e]]=r[d];end else f=r[g];h=u[r[e]];u[f+1]=h;u[f]=h[r[d]];b=b+1;r=n[b];end end end end else local t,s;for f=0,6 do if 3<=f then if f>=5 then if f~=4 then repeat if 5<f then u[r[g]]=h[r[e]];break;end;t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];until true;else t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];end else if 4==f then u(r[g],r[e]);b=b+1;r=n[b];else u(r[g],r[e]);b=b+1;r=n[b];end end else if f<=0 then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];else if f>0 then for l=41,82 do if f~=1 then t=r[g];s=u[r[e]];u[t+1]=s;u[t]=s[r[d]];b=b+1;r=n[b];break;end;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];break;end;else t=r[g];s=u[r[e]];u[t+1]=s;u[t]=s[r[d]];b=b+1;r=n[b];end end end end end else if t<=162 then local t,f;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];t=r[g];f=u[r[e]];u[t+1]=f;u[t]=f[r[d]];b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];u[r[g]]=h[r[e]];else if 159~=t then repeat if t~=163 then local d;for t=0,4 do if 2<=t then if t>=3 then if 3==t then f[r[e]]=u[r[g]];b=b+1;r=n[b];else b=r[e];end else u(r[g],r[e]);b=b+1;r=n[b];end else if-1<t then repeat if t<1 then u(r[g],r[e]);b=b+1;r=n[b];break;end;d=r[g]u[d](u[d+1])b=b+1;r=n[b];until true;else d=r[g]u[d](u[d+1])b=b+1;r=n[b];end end end break;end;local n=r[g];local g={};for r=1,#c do local r=c[r];for b=0,#r do local b=r[b];local e=b[1];local r=b[2];if e==u and r>=n then g[r]=e[r];b[1]=g;end;end;end;until true;else local n=r[g];local e={};for r=1,#c do local r=c[r];for b=0,#r do local b=r[b];local g=b[1];local r=b[2];if g==u and r>=n then e[r]=g[r];b[1]=e;end;end;end;end end end end else if 170<t then if t<174 then if 172>t then local t;for d=0,4 do if 1>=d then if d>-2 then for l=16,78 do if d~=0 then t=r[g]u[t](u[t+1])b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];break;end;else u(r[g],r[e]);b=b+1;r=n[b];end else if 2<d then if 3<d then b=r[e];else f[r[e]]=u[r[g]];b=b+1;r=n[b];end else u(r[g],r[e]);b=b+1;r=n[b];end end end else if 168~=t then repeat if t>172 then if(u[r[g]]~=r[d])then b=b+1;else b=r[e];end;break;end;do return u[r[g]]end until true;else do return u[r[g]]end end end else if t<=174 then local t;for d=0,4 do if d>=2 then if 3<=d then if d~=4 then f[r[e]]=u[r[g]];b=b+1;r=n[b];else b=r[e];end else u(r[g],r[e]);b=b+1;r=n[b];end else if 0<d then t=r[g]u[t](u[t+1])b=b+1;r=n[b];else u(r[g],r[e]);b=b+1;r=n[b];end end end else if t==176 then local f;for t=0,6 do if t<3 then if t<1 then u(r[g],r[e]);b=b+1;r=n[b];else if 1<t then u(r[g],r[e]);b=b+1;r=n[b];else u(r[g],r[e]);b=b+1;r=n[b];end end else if t<=4 then if t==4 then f=r[g]u[f]=u[f](l(u,f+1,r[e]))b=b+1;r=n[b];else u(r[g],r[e]);b=b+1;r=n[b];end else if 1~=t then for l=33,78 do if 5~=t then u[r[g]]=h[r[e]];break;end;u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];break;end;else u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];end end end end else for t=0,6 do if t<3 then if t<1 then u[r[g]]=f[r[e]];b=b+1;r=n[b];else if 2~=t then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end end else if t>4 then if t==6 then u(r[g],r[e]);else u(r[g],r[e]);b=b+1;r=n[b];end else if t~=0 then repeat if t>3 then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];break;end;u[r[g]]=h[r[e]];b=b+1;r=n[b];until true;else u[r[g]]=h[r[e]];b=b+1;r=n[b];end end end end end end end else if t>=168 then if t<=168 then local t,f;u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];t=r[g];f=u[r[e]];u[t+1]=f;u[t]=f[r[d]];b=b+1;r=n[b];u[r[g]]={};b=b+1;r=n[b];u[r[g]][r[e]]=r[d];b=b+1;r=n[b];u[r[g]][r[e]]=r[d];b=b+1;r=n[b];u[r[g]][r[e]]=r[d];else if t>166 then repeat if t~=169 then local t;for d=0,4 do if 1>=d then if d~=-1 then repeat if d~=0 then t=r[g]u[t](u[t+1])b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];until true;else t=r[g]u[t](u[t+1])b=b+1;r=n[b];end else if d>=3 then if d~=1 then for t=27,62 do if 4>d then f[r[e]]=u[r[g]];b=b+1;r=n[b];break;end;b=r[e];break;end;else f[r[e]]=u[r[g]];b=b+1;r=n[b];end else u(r[g],r[e]);b=b+1;r=n[b];end end end break;end;for r=r[g],r[e]do u[r]=nil;end;until true;else for r=r[g],r[e]do u[r]=nil;end;end end else if t>=166 then if t>163 then for l=29,91 do if t~=167 then local t,h,o,s,l,d,a;for d=0,4 do if d<=1 then if-1~=d then repeat if d~=1 then d=0;while d>-1 do if d>=3 then if d>4 then if d~=3 then repeat if d>5 then d=-2;break;end;u(l,s);until true;else u(l,s);end else if 0<d then repeat if d~=3 then l=t[h];break;end;s=t[o];until true;else l=t[h];end end else if 0>=d then t=r;else if d>=-1 then repeat if d>1 then o=e;break;end;h=g;until true;else h=g;end end end d=d+1 end b=b+1;r=n[b];break;end;a=r[g]u[a](u[a+1])b=b+1;r=n[b];until true;else d=0;while d>-1 do if d>=3 then if d>4 then if d~=3 then repeat if d>5 then d=-2;break;end;u(l,s);until true;else u(l,s);end else if 0<d then repeat if d~=3 then l=t[h];break;end;s=t[o];until true;else l=t[h];end end else if 0>=d then t=r;else if d>=-1 then repeat if d>1 then o=e;break;end;h=g;until true;else h=g;end end end d=d+1 end b=b+1;r=n[b];end else if 2<d then if d~=2 then for t=24,90 do if 4>d then f[r[e]]=u[r[g]];b=b+1;r=n[b];break;end;b=r[e];break;end;else b=r[e];end else d=0;while d>-1 do if 2<d then if 5<=d then if 1<=d then repeat if 5<d then d=-2;break;end;u(l,s);until true;else d=-2;end else if d>3 then l=t[h];else s=t[o];end end else if d>0 then if d>=-1 then for r=49,64 do if 1<d then o=e;break;end;h=g;break;end;else o=e;end else t=r;end end d=d+1 end b=b+1;r=n[b];end end end break;end;for t=0,6 do if 3>t then if 0>=t then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];else if-1<t then repeat if t>1 then u(r[g],r[e]);b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];until true;else u(r[g],r[e]);b=b+1;r=n[b];end end else if 5<=t then if t>1 then repeat if t<6 then u(r[g],r[e]);b=b+1;r=n[b];break;end;u(r[g],r[e]);until true;else u(r[g],r[e]);b=b+1;r=n[b];end else if t~=-1 then for d=48,87 do if 4~=t then u(r[g],r[e]);b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];break;end;else u(r[g],r[e]);b=b+1;r=n[b];end end end end break;end;else for t=0,6 do if 3>t then if 0>=t then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];else if-1<t then repeat if t>1 then u(r[g],r[e]);b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];until true;else u(r[g],r[e]);b=b+1;r=n[b];end end else if 5<=t then if t>1 then repeat if t<6 then u(r[g],r[e]);b=b+1;r=n[b];break;end;u(r[g],r[e]);until true;else u(r[g],r[e]);b=b+1;r=n[b];end else if t~=-1 then for d=48,87 do if 4~=t then u(r[g],r[e]);b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];break;end;else u(r[g],r[e]);b=b+1;r=n[b];end end end end end else local l;for t=0,6 do if 3<=t then if t>4 then if 3<t then repeat if t>5 then u[r[g]]=h[r[e]];break;end;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];until true;else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end else if t>=0 then for f=17,67 do if t<4 then l=r[g]u[l](u[l+1])b=b+1;r=n[b];break;end;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];break;end;else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end end else if t<=0 then u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];else if 0<=t then repeat if 1<t then u[r[g]]=u[r[e]];b=b+1;r=n[b];break;end;u[r[g]]=h[r[e]];b=b+1;r=n[b];until true;else u[r[g]]=u[r[e]];b=b+1;r=n[b];end end end end end end end end end end else if t>43 then if t<=65 then if 55>t then if t>48 then if t>51 then if t>52 then if 49<t then for f=34,94 do if t<54 then local t;for f=0,6 do if 2<f then if f>4 then if 5~=f then t=r[g]u[t](u[t+1])else u[r[g]]=u[r[e]];b=b+1;r=n[b];end else if f~=4 then u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];else u[r[g]]=h[r[e]];b=b+1;r=n[b];end end else if 0<f then if-3<=f then repeat if f~=1 then t=r[g]u[t]=u[t](l(u,t+1,r[e]))b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];until true;else u(r[g],r[e]);b=b+1;r=n[b];end else u(r[g],r[e]);b=b+1;r=n[b];end end end break;end;local f,h,s,o,c,k,a,t;for t=0,6 do if t<=2 then if 1>t then u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];else if-1~=t then for s=36,97 do if 2>t then f=r[g]u[f](l(u,f+1,r[e]))b=b+1;r=n[b];break;end;f=r[g];h=u[r[e]];u[f+1]=h;u[f]=h[r[d]];b=b+1;r=n[b];break;end;else f=r[g];h=u[r[e]];u[f+1]=h;u[f]=h[r[d]];b=b+1;r=n[b];end end else if t<5 then if 4~=t then u[r[g]]={};b=b+1;r=n[b];else u[r[g]][r[e]]=r[d];b=b+1;r=n[b];end else if 6~=t then f=r[g]u[f](l(u,f+1,r[e]))b=b+1;r=n[b];else t=0;while t>-1 do if t<=2 then if 1<=t then if t==1 then o=g;else c=e;end else s=r;end else if 4<t then if 6==t then t=-2;else u(a,k);end else if t>=0 then for r=41,69 do if 3~=t then a=s[o];break;end;k=s[c];break;end;else a=s[o];end end end t=t+1 end end end end end break;end;else local t;for f=0,6 do if 2<f then if f>4 then if 5~=f then t=r[g]u[t](u[t+1])else u[r[g]]=u[r[e]];b=b+1;r=n[b];end else if f~=4 then u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];else u[r[g]]=h[r[e]];b=b+1;r=n[b];end end else if 0<f then if-3<=f then repeat if f~=1 then t=r[g]u[t]=u[t](l(u,t+1,r[e]))b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];until true;else u(r[g],r[e]);b=b+1;r=n[b];end else u(r[g],r[e]);b=b+1;r=n[b];end end end end else local t;for d=0,4 do if 1<d then if d<3 then u(r[g],r[e]);b=b+1;r=n[b];else if 3==d then f[r[e]]=u[r[g]];b=b+1;r=n[b];else b=r[e];end end else if d>=-3 then for l=19,98 do if d>0 then t=r[g]u[t](u[t+1])b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];break;end;else u(r[g],r[e]);b=b+1;r=n[b];end end end end else if t>49 then if 51~=t then local t;u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];t=r[g]u[t]=u[t](l(u,t+1,r[e]))b=b+1;r=n[b];u[r[g]]=u[r[e]]-u[r[d]];b=b+1;r=n[b];u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];u[r[g]][r[e]]=r[d];b=b+1;r=n[b];u[r[g]][r[e]]=r[d];b=b+1;r=n[b];u[r[g]][r[e]]=r[d];else local t,f,s;for h=0,9 do if h<5 then if 1<h then if 2>=h then u[r[g]]={};b=b+1;r=n[b];else if 0~=h then repeat if 3<h then t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];break;end;u[r[g]][r[e]]=r[d];b=b+1;r=n[b];until true;else t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];end end else if h>-3 then for l=41,54 do if 1>h then u[r[g]]=#u[r[e]];b=b+1;r=n[b];break;end;t=r[g];f=u[r[e]];u[t+1]=f;u[t]=f[r[d]];b=b+1;r=n[b];break;end;else t=r[g];f=u[r[e]];u[t+1]=f;u[t]=f[r[d]];b=b+1;r=n[b];end end else if h<7 then if h<6 then t=r[g];f=u[r[e]];u[t+1]=f;u[t]=f[r[d]];b=b+1;r=n[b];else u(r[g],r[e]);b=b+1;r=n[b];end else if 8>h then u[r[g]]=u[r[e]];b=b+1;r=n[b];else if 9~=h then u(r[g],r[e]);b=b+1;r=n[b];else f=r[e];s=u[f]for r=f+1,r[d]do s=s..u[r];end;u[r[g]]=s;end end end end end end else local t,a,l,h,o,d,s;for d=0,4 do if 1<d then if d<=2 then d=0;while d>-1 do if 2<d then if 4<d then if d~=6 then u(o,h);else d=-2;end else if 2<=d then repeat if 4>d then h=t[l];break;end;o=t[a];until true;else h=t[l];end end else if d>0 then if d<2 then a=g;else l=e;end else t=r;end end d=d+1 end b=b+1;r=n[b];else if 1<=d then repeat if 3~=d then b=r[e];break;end;f[r[e]]=u[r[g]];b=b+1;r=n[b];until true;else f[r[e]]=u[r[g]];b=b+1;r=n[b];end end else if d>=-2 then for f=48,84 do if d<1 then d=0;while d>-1 do if 3>d then if 0<d then if d==2 then l=e;else a=g;end else t=r;end else if 5>d then if d>-1 then for r=23,57 do if d~=4 then h=t[l];break;end;o=t[a];break;end;else h=t[l];end else if d>=1 then for r=38,94 do if 6>d then u(o,h);break;end;d=-2;break;end;else d=-2;end end end d=d+1 end b=b+1;r=n[b];break;end;s=r[g]u[s](u[s+1])b=b+1;r=n[b];break;end;else s=r[g]u[s](u[s+1])b=b+1;r=n[b];end end end end end else if t>45 then if t<47 then local b=r[g]u[b](l(u,b+1,r[e]))else if 46<t then repeat if 47~=t then local t;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=u[r[e]];b=b+1;r=n[b];t=r[g];do return u[t](l(u,t+1,r[e]))end;b=b+1;r=n[b];t=r[g];do return l(u,t,o)end;b=b+1;r=n[b];do return end;break;end;local t,s;for f=0,6 do if f>2 then if 4<f then if 1~=f then for d=47,56 do if f~=6 then t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];break;end;u[r[g]]=h[r[e]];break;end;else t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];end else if f~=0 then for d=48,62 do if f~=4 then u(r[g],r[e]);b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];break;end;else u(r[g],r[e]);b=b+1;r=n[b];end end else if f>0 then if f>-1 then for l=42,91 do if f~=1 then t=r[g];s=u[r[e]];u[t+1]=s;u[t]=s[r[d]];b=b+1;r=n[b];break;end;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];break;end;else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end end end until true;else local f,s;for t=0,6 do if t>2 then if 4<t then if 1~=t then for d=47,56 do if t~=6 then f=r[g]u[f](l(u,f+1,r[e]))b=b+1;r=n[b];break;end;u[r[g]]=h[r[e]];break;end;else f=r[g]u[f](l(u,f+1,r[e]))b=b+1;r=n[b];end else if t~=0 then for d=48,62 do if t~=4 then u(r[g],r[e]);b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];break;end;else u(r[g],r[e]);b=b+1;r=n[b];end end else if t>0 then if t>-1 then for l=42,91 do if t~=1 then f=r[g];s=u[r[e]];u[f+1]=s;u[f]=s[r[d]];b=b+1;r=n[b];break;end;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];break;end;else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end end end end end else if 45>t then local t,k,p,c,f,s;u[r[g]]=h[r[e]];b=b+1;r=n[b];u[r[g]]=h[r[e]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];t=r[g];k=u[r[e]];u[t+1]=k;u[t]=k[r[d]];b=b+1;r=n[b];t=r[g]s,c=a(u[t](u[t+1]))o=c+t-1 f=0;for r=t,o do f=f+1;u[r]=s[f];end;b=b+1;r=n[b];t=r[g]s={u[t](l(u,t+1,o))};f=0;for r=t,r[d]do f=f+1;u[r]=s[f];end b=b+1;r=n[b];b=r[e];else local t;for f=0,4 do if 2>f then if-1~=f then for d=48,81 do if 1~=f then u(r[g],r[e]);b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];break;end;else u(r[g],r[e]);b=b+1;r=n[b];end else if f>2 then if 0~=f then repeat if 3<f then u[r[g]][r[e]]=u[r[d]];break;end;t=r[g]u[t]=u[t](l(u,t+1,r[e]))b=b+1;r=n[b];until true;else t=r[g]u[t]=u[t](l(u,t+1,r[e]))b=b+1;r=n[b];end else u(r[g],r[e]);b=b+1;r=n[b];end end end end end end else if 60>t then if 57>t then if t~=53 then for b=36,70 do if 56>t then local g=r[g]local e={u[g](l(u,g+1,o))};local b=0;for r=g,r[d]do b=b+1;u[r]=e[b];end break;end;u[r[g]]=#u[r[e]];break;end;else local b=r[g]local e={u[b](l(u,b+1,o))};local g=0;for r=b,r[d]do g=g+1;u[r]=e[g];end end else if 57<t then if t~=55 then for s=37,53 do if t~=59 then local t;u[r[g]]=h[r[e]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];t=r[g]u[t]=u[t]()b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];t=r[g]u[t]=u[t](l(u,t+1,r[e]))b=b+1;r=n[b];u[r[g]]=u[r[e]]+u[r[d]];b=b+1;r=n[b];u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];u[r[g]]=h[r[e]];break;end;local d;for t=0,4 do if t>1 then if t>2 then if 3==t then f[r[e]]=u[r[g]];b=b+1;r=n[b];else b=r[e];end else u(r[g],r[e]);b=b+1;r=n[b];end else if-4<t then for l=31,89 do if 0~=t then d=r[g]u[d](u[d+1])b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];break;end;else d=r[g]u[d](u[d+1])b=b+1;r=n[b];end end end break;end;else local d;for t=0,4 do if t>1 then if t>2 then if 3==t then f[r[e]]=u[r[g]];b=b+1;r=n[b];else b=r[e];end else u(r[g],r[e]);b=b+1;r=n[b];end else if-4<t then for l=31,89 do if 0~=t then d=r[g]u[d](u[d+1])b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];break;end;else d=r[g]u[d](u[d+1])b=b+1;r=n[b];end end end end else if(u[r[g]]~=r[d])then b=b+1;else b=r[e];end;end end else if t>=63 then if t<64 then local t;for d=0,4 do if d<=1 then if d>0 then t=r[g]u[t](u[t+1])b=b+1;r=n[b];else u(r[g],r[e]);b=b+1;r=n[b];end else if d>2 then if 3==d then f[r[e]]=u[r[g]];b=b+1;r=n[b];else b=r[e];end else u(r[g],r[e]);b=b+1;r=n[b];end end end else if t>64 then local s,o,h,l,t,d,a;for d=0,4 do if d<=1 then if 1>d then d=0;while d>-1 do if 3>d then if 1<=d then if d~=0 then repeat if 2~=d then o=g;break;end;h=e;until true;else h=e;end else s=r;end else if 4>=d then if d<4 then l=s[h];else t=s[o];end else if d>=2 then repeat if d<6 then u(t,l);break;end;d=-2;until true;else u(t,l);end end end d=d+1 end b=b+1;r=n[b];else a=r[g]u[a](u[a+1])b=b+1;r=n[b];end else if 2>=d then d=0;while d>-1 do if 3<=d then if d>4 then if 4<=d then for r=26,57 do if d~=6 then u(t,l);break;end;d=-2;break;end;else u(t,l);end else if d~=3 then t=s[o];else l=s[h];end end else if d<1 then s=r;else if d~=-3 then repeat if 2~=d then o=g;break;end;h=e;until true;else h=e;end end end d=d+1 end b=b+1;r=n[b];else if d==4 then b=r[e];else f[r[e]]=u[r[g]];b=b+1;r=n[b];end end end end else local g=r[g];local d=u[g+2];local n=u[g]+d;u[g]=n;if(d>0)then if(n<=u[g+1])then b=r[e];u[g+3]=n;end elseif(n>=u[g+1])then b=r[e];u[g+3]=n;end end end else if 60<t then if 61~=t then local a,p,f,k,c,o,s,t;for t=0,6 do if 2>=t then if 1<=t then if 0<=t then repeat if 2>t then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];break;end;a=r[g];p=u[r[e]];u[a+1]=p;u[a]=p[r[d]];b=b+1;r=n[b];until true;else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end else if 5<=t then if t==5 then a=r[g]u[a](l(u,a+1,r[e]))b=b+1;r=n[b];else u[r[g]]=h[r[e]];end else if t==4 then t=0;while t>-1 do if t>2 then if t<=4 then if t~=-1 then repeat if 3~=t then s=f[k];break;end;o=f[c];until true;else s=f[k];end else if 5<t then t=-2;else u(s,o);end end else if 0>=t then f=r;else if 1<t then c=e;else k=g;end end end t=t+1 end b=b+1;r=n[b];else t=0;while t>-1 do if t<3 then if t>=1 then if t>0 then repeat if t~=2 then k=g;break;end;c=e;until true;else k=g;end else f=r;end else if t>=5 then if 4<=t then for r=21,85 do if t>5 then t=-2;break;end;u(s,o);break;end;else u(s,o);end else if t~=1 then for r=39,67 do if 4>t then o=f[c];break;end;s=f[k];break;end;else o=f[c];end end end t=t+1 end b=b+1;r=n[b];end end end end else local t;u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];t=r[g]u[t]=u[t](l(u,t+1,r[e]))b=b+1;r=n[b];u[r[g]][r[e]]=u[r[d]];end else local r=r[g]u[r]=u[r](u[r+1])end end end end else if t>=77 then if 82<=t then if t>84 then if t<=85 then local f,s;for t=0,6 do if t<3 then if 1<=t then if t==2 then f=r[g];s=u[r[e]];u[f+1]=s;u[f]=s[r[d]];b=b+1;r=n[b];else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end else if t>4 then if t>1 then for d=45,92 do if 6>t then f=r[g]u[f](l(u,f+1,r[e]))b=b+1;r=n[b];break;end;u[r[g]]=h[r[e]];break;end;else u[r[g]]=h[r[e]];end else if t~=-1 then repeat if 4~=t then u(r[g],r[e]);b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];until true;else u(r[g],r[e]);b=b+1;r=n[b];end end end end else if 86~=t then local f;for t=0,6 do if t<3 then if 1>t then u(r[g],r[e]);b=b+1;r=n[b];else if t>0 then repeat if t~=1 then u(r[g],r[e]);b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];until true;else u(r[g],r[e]);b=b+1;r=n[b];end end else if t<5 then if-1<=t then for h=14,93 do if 3~=t then u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];break;end;f=r[g]u[f]=u[f](l(u,f+1,r[e]))b=b+1;r=n[b];break;end;else f=r[g]u[f]=u[f](l(u,f+1,r[e]))b=b+1;r=n[b];end else if 3<t then for d=15,79 do if 6>t then u[r[g]]=h[r[e]];b=b+1;r=n[b];break;end;u[r[g]]=u[r[e]];break;end;else u[r[g]]=u[r[e]];end end end end else local b=r[g];do return u[b](l(u,b+1,r[e]))end;end end else if 82<t then if 80<t then for b=45,78 do if t>83 then u[r[g]]=u[r[e]][u[r[d]]];break;end;u[r[g]]=u[r[e]]+u[r[d]];break;end;else u[r[g]]=u[r[e]][u[r[d]]];end else local t;for f=0,4 do if 2>f then if-4<=f then repeat if 1>f then u(r[g],r[e]);b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];until true;else u(r[g],r[e]);b=b+1;r=n[b];end else if f<3 then u(r[g],r[e]);b=b+1;r=n[b];else if f~=0 then repeat if 3~=f then u[r[g]][r[e]]=u[r[d]];break;end;t=r[g]u[t]=u[t](l(u,t+1,r[e]))b=b+1;r=n[b];until true;else t=r[g]u[t]=u[t](l(u,t+1,r[e]))b=b+1;r=n[b];end end end end end end else if 79<=t then if t<80 then local f,s;for t=0,6 do if t>2 then if 5>t then if 3<t then u(r[g],r[e]);b=b+1;r=n[b];else u(r[g],r[e]);b=b+1;r=n[b];end else if 5~=t then u[r[g]]=h[r[e]];else f=r[g]u[f](l(u,f+1,r[e]))b=b+1;r=n[b];end end else if 0<t then if t>=-3 then repeat if t>1 then f=r[g];s=u[r[e]];u[f+1]=s;u[f]=s[r[d]];b=b+1;r=n[b];break;end;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];until true;else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end end end else if t==81 then local t,s,k,p,f,c;for k=0,4 do if k<2 then if k~=-1 then for l=13,96 do if k~=1 then u[r[g]]=h[r[e]];b=b+1;r=n[b];break;end;t=r[g];s=u[r[e]];u[t+1]=s;u[t]=s[r[d]];b=b+1;r=n[b];break;end;else t=r[g];s=u[r[e]];u[t+1]=s;u[t]=s[r[d]];b=b+1;r=n[b];end else if k>2 then if 0~=k then for h=12,85 do if k~=3 then b=r[e];break;end;t=r[g]c={u[t](l(u,t+1,o))};f=0;for r=t,r[d]do f=f+1;u[r]=c[f];end b=b+1;r=n[b];break;end;else b=r[e];end else t=r[g]c,p=a(u[t](u[t+1]))o=p+t-1 f=0;for r=t,o do f=f+1;u[r]=c[f];end;b=b+1;r=n[b];end end end else local t;for d=0,4 do if d>=2 then if 2>=d then u(r[g],r[e]);b=b+1;r=n[b];else if 1~=d then for t=20,76 do if d~=4 then f[r[e]]=u[r[g]];b=b+1;r=n[b];break;end;b=r[e];break;end;else b=r[e];end end else if d<1 then u(r[g],r[e]);b=b+1;r=n[b];else t=r[g]u[t](u[t+1])b=b+1;r=n[b];end end end end end else if 73<t then for l=32,52 do if 78~=t then local t;for d=0,4 do if d<=1 then if-4~=d then repeat if d~=0 then t=r[g]u[t](u[t+1])b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];until true;else u(r[g],r[e]);b=b+1;r=n[b];end else if 2<d then if d>0 then for t=33,82 do if 3~=d then b=r[e];break;end;f[r[e]]=u[r[g]];b=b+1;r=n[b];break;end;else b=r[e];end else u(r[g],r[e]);b=b+1;r=n[b];end end end break;end;local h,t,l;h=r[g];t=u[r[e]];u[h+1]=t;u[h]=t[r[d]];b=b+1;r=n[b];u[r[g]]={};b=b+1;r=n[b];u[r[g]][r[e]]=r[d];b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u[r[g]]=f[r[e]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];t=r[e];l=u[t]for r=t+1,r[d]do l=l..u[r];end;u[r[g]]=l;b=b+1;r=n[b];u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];u[r[g]][r[e]]=r[d];break;end;else local t;for d=0,4 do if d<=1 then if-4~=d then repeat if d~=0 then t=r[g]u[t](u[t+1])b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];until true;else u(r[g],r[e]);b=b+1;r=n[b];end else if 2<d then if d>0 then for t=33,82 do if 3~=d then b=r[e];break;end;f[r[e]]=u[r[g]];b=b+1;r=n[b];break;end;else b=r[e];end else u(r[g],r[e]);b=b+1;r=n[b];end end end end end end else if 70<t then if 73>=t then if t<72 then local t;for d=0,4 do if 2<=d then if 2>=d then u(r[g],r[e]);b=b+1;r=n[b];else if d>3 then b=r[e];else f[r[e]]=u[r[g]];b=b+1;r=n[b];end end else if-1~=d then for l=47,74 do if 1~=d then u(r[g],r[e]);b=b+1;r=n[b];break;end;t=r[g]u[t](u[t+1])b=b+1;r=n[b];break;end;else u(r[g],r[e]);b=b+1;r=n[b];end end end else if t==72 then local t;for d=0,4 do if d>1 then if d>=3 then if d>=1 then for t=43,76 do if 3~=d then b=r[e];break;end;f[r[e]]=u[r[g]];b=b+1;r=n[b];break;end;else b=r[e];end else u(r[g],r[e]);b=b+1;r=n[b];end else if d>=-2 then for l=27,53 do if 1>d then u(r[g],r[e]);b=b+1;r=n[b];break;end;t=r[g]u[t](u[t+1])b=b+1;r=n[b];break;end;else u(r[g],r[e]);b=b+1;r=n[b];end end end else local t,l,o,s,h,d,a;for d=0,4 do if 2<=d then if d>2 then if-1<=d then repeat if 4~=d then f[r[e]]=u[r[g]];b=b+1;r=n[b];break;end;b=r[e];until true;else b=r[e];end else d=0;while d>-1 do if 2<d then if 5<=d then if d~=6 then u(h,s);else d=-2;end else if d<4 then s=t[o];else h=t[l];end end else if 0<d then if d~=-3 then for r=47,73 do if d<2 then l=g;break;end;o=e;break;end;else l=g;end else t=r;end end d=d+1 end b=b+1;r=n[b];end else if 0<d then a=r[g]u[a](u[a+1])b=b+1;r=n[b];else d=0;while d>-1 do if d<=2 then if d<=0 then t=r;else if d==1 then l=g;else o=e;end end else if d<=4 then if-1<=d then repeat if d>3 then h=t[l];break;end;s=t[o];until true;else h=t[l];end else if d>=3 then repeat if d>5 then d=-2;break;end;u(h,s);until true;else u(h,s);end end end d=d+1 end b=b+1;r=n[b];end end end end end else if t>=75 then if 75==t then local f,s;for t=0,6 do if t<=2 then if 0>=t then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];else if 1~=t then f=r[g];s=u[r[e]];u[f+1]=s;u[f]=s[r[d]];b=b+1;r=n[b];else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end end else if t<5 then if 0~=t then for d=22,79 do if 4~=t then u(r[g],r[e]);b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];break;end;else u(r[g],r[e]);b=b+1;r=n[b];end else if 6==t then u[r[g]]=h[r[e]];else f=r[g]u[f](l(u,f+1,r[e]))b=b+1;r=n[b];end end end end else u[r[g]]=u[r[e]]+r[d];end else local t,f;u[r[g]]={};b=b+1;r=n[b];u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];t=r[g]u[t]=u[t](l(u,t+1,r[e]))b=b+1;r=n[b];t=r[g];f=u[r[e]];u[t+1]=f;u[t]=f[r[d]];b=b+1;r=n[b];t=r[g]u[t](u[t+1])b=b+1;r=n[b];do return end;end end else if 68<=t then if t>68 then if 67<=t then for d=38,82 do if 69<t then u[r[g]]=(r[e]~=0);break;end;local d;for t=0,4 do if 1<t then if t<=2 then u(r[g],r[e]);b=b+1;r=n[b];else if t>1 then repeat if t~=3 then b=r[e];break;end;f[r[e]]=u[r[g]];b=b+1;r=n[b];until true;else f[r[e]]=u[r[g]];b=b+1;r=n[b];end end else if t>=-4 then repeat if t<1 then u(r[g],r[e]);b=b+1;r=n[b];break;end;d=r[g]u[d](u[d+1])b=b+1;r=n[b];until true;else d=r[g]u[d](u[d+1])b=b+1;r=n[b];end end end break;end;else u[r[g]]=(r[e]~=0);end else local f,h;for t=0,4 do if t>1 then if 3>t then f=r[g];h=u[r[e]];u[f+1]=h;u[f]=h[r[d]];b=b+1;r=n[b];else if 2<t then repeat if 3~=t then u[r[g]][r[e]]=r[d];break;end;u[r[g]]={};b=b+1;r=n[b];until true;else u[r[g]][r[e]]=r[d];end end else if t>-2 then for h=23,73 do if t>0 then f=r[g]u[f](l(u,f+1,r[e]))b=b+1;r=n[b];break;end;u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];break;end;else u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];end end end end else if t~=63 then for l=42,61 do if t>66 then if(u[r[g]]<r[d])then b=b+1;else b=r[e];end;break;end;local t;for d=0,4 do if 2>d then if-2<=d then repeat if 1~=d then u(r[g],r[e]);b=b+1;r=n[b];break;end;t=r[g]u[t](u[t+1])b=b+1;r=n[b];until true;else u(r[g],r[e]);b=b+1;r=n[b];end else if d<=2 then u(r[g],r[e]);b=b+1;r=n[b];else if 0<d then repeat if 3~=d then b=r[e];break;end;f[r[e]]=u[r[g]];b=b+1;r=n[b];until true;else b=r[e];end end end end break;end;else if(u[r[g]]<r[d])then b=b+1;else b=r[e];end;end end end end end else if t>=22 then if t>=33 then if 38<=t then if 41<=t then if t<=41 then local l,h;for t=0,6 do if t<3 then if t<1 then u[r[g]]=f[r[e]];b=b+1;r=n[b];else if 0<t then for f=44,54 do if 1<t then u[r[g]]={};b=b+1;r=n[b];break;end;l=r[g];h=u[r[e]];u[l+1]=h;u[l]=h[r[d]];b=b+1;r=n[b];break;end;else u[r[g]]={};b=b+1;r=n[b];end end else if 5<=t then if 5==t then u[r[g]][r[e]]=r[d];b=b+1;r=n[b];else u[r[g]][r[e]]=r[d];end else if 2<=t then for l=30,68 do if t~=4 then u[r[g]][r[e]]=r[d];b=b+1;r=n[b];break;end;u[r[g]][r[e]]=r[d];b=b+1;r=n[b];break;end;else u[r[g]][r[e]]=r[d];b=b+1;r=n[b];end end end end else if 38<=t then for f=20,67 do if 42<t then local f,_,k,j,m,s,p,t,y,z,c;u[r[g]]=h[r[e]];b=b+1;r=n[b];u[r[g]]=h[r[e]];b=b+1;r=n[b];f=r[g];_=u[r[e]];u[f+1]=_;u[f]=_[r[d]];b=b+1;r=n[b];t=0;while t>-1 do if t>2 then if t<5 then if t>2 then for r=44,95 do if t~=4 then s=k[m];break;end;p=k[j];break;end;else s=k[m];end else if t~=2 then for r=13,92 do if t~=6 then u(p,s);break;end;t=-2;break;end;else u(p,s);end end else if t<1 then k=r;else if t>-1 then repeat if 1<t then m=e;break;end;j=g;until true;else j=g;end end end t=t+1 end b=b+1;r=n[b];f=r[g]y,z=a(u[f](l(u,f+1,r[e])))o=z+f-1 c=0;for r=f,o do c=c+1;u[r]=y[c];end;b=b+1;r=n[b];f=r[g]u[f]=u[f](l(u,f+1,o))b=b+1;r=n[b];u[r[g]]();b=b+1;r=n[b];do return end;break;end;u[r[g]]=(not u[r[e]]);break;end;else u[r[g]]=(not u[r[e]]);end end else if t<39 then u[r[g]][r[e]]=u[r[d]];else if t>39 then local j,k,c,s,p,j,t,o,l,_,a,m,f;t=0;while t>-1 do if 4<=t then if t>5 then if 4~=t then repeat if t~=6 then t=-2;break;end;u[f]=p;until true;else t=-2;end else if 2~=t then for r=24,61 do if 4~=t then f=l[k];break;end;p=s[l[c]];break;end;else f=l[k];end end else if 1>=t then if t<1 then l=r;else k=g;end else if-2<=t then for r=37,87 do if 3~=t then c=e;break;end;s=u;break;end;else s=u;end end end t=t+1 end b=b+1;r=n[b];o=r[g]u[o](u[o+1])b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=h[r[e]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];t=0;while t>-1 do if t>=3 then if 4<t then if 5~=t then t=-2;else u(f,m);end else if t~=3 then f=l[_];else m=l[a];end end else if t<1 then l=r;else if 0~=t then for r=49,83 do if 1<t then a=e;break;end;_=g;break;end;else a=e;end end end t=t+1 end else local t,h;for f=0,8 do if f<4 then if f>=2 then if-2<=f then repeat if f>2 then u(r[g],r[e]);b=b+1;r=n[b];break;end;t=r[g];h=u[r[e]];u[t+1]=h;u[t]=h[r[d]];b=b+1;r=n[b];until true;else u(r[g],r[e]);b=b+1;r=n[b];end else if-2<f then for h=16,94 do if f>0 then t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];break;end;u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];break;end;else t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];end end else if 6<=f then if 7<=f then if f~=4 then for t=20,80 do if f~=8 then u[r[g]]={};b=b+1;r=n[b];break;end;u[r[g]][r[e]]=r[d];break;end;else u[r[g]][r[e]]=r[d];end else t=r[g];h=u[r[e]];u[t+1]=h;u[t]=h[r[d]];b=b+1;r=n[b];end else if f~=2 then for d=48,92 do if 5~=f then u(r[g],r[e]);b=b+1;r=n[b];break;end;t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];break;end;else t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];end end end end end end end else if t>=35 then if t<36 then local t;for d=0,4 do if 2<=d then if 2>=d then u(r[g],r[e]);b=b+1;r=n[b];else if 2<d then repeat if 3<d then b=r[e];break;end;f[r[e]]=u[r[g]];b=b+1;r=n[b];until true;else f[r[e]]=u[r[g]];b=b+1;r=n[b];end end else if d==0 then u(r[g],r[e]);b=b+1;r=n[b];else t=r[g]u[t](u[t+1])b=b+1;r=n[b];end end end else if 32<=t then repeat if t~=36 then local l,h,a,s,t,d,o;for d=0,4 do if 2>d then if-2~=d then for f=14,55 do if d~=0 then o=r[g]u[o](u[o+1])b=b+1;r=n[b];break;end;d=0;while d>-1 do if d<3 then if d>0 then if d>1 then a=e;else h=g;end else l=r;end else if d<=4 then if d>=1 then for r=48,57 do if 3~=d then t=l[h];break;end;s=l[a];break;end;else t=l[h];end else if 2~=d then repeat if 5~=d then d=-2;break;end;u(t,s);until true;else u(t,s);end end end d=d+1 end b=b+1;r=n[b];break;end;else o=r[g]u[o](u[o+1])b=b+1;r=n[b];end else if d<3 then d=0;while d>-1 do if d<3 then if 0>=d then l=r;else if-2<d then for r=28,95 do if 1<d then a=e;break;end;h=g;break;end;else h=g;end end else if d<5 then if 0<=d then for r=35,65 do if d>3 then t=l[h];break;end;s=l[a];break;end;else t=l[h];end else if d~=4 then repeat if 5<d then d=-2;break;end;u(t,s);until true;else u(t,s);end end end d=d+1 end b=b+1;r=n[b];else if 0<=d then repeat if d~=4 then f[r[e]]=u[r[g]];b=b+1;r=n[b];break;end;b=r[e];until true;else f[r[e]]=u[r[g]];b=b+1;r=n[b];end end end end break;end;local t;for d=0,4 do if d<=1 then if d~=-4 then repeat if 0~=d then t=r[g]u[t](u[t+1])b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];until true;else u(r[g],r[e]);b=b+1;r=n[b];end else if 3>d then u(r[g],r[e]);b=b+1;r=n[b];else if 2<=d then repeat if d~=3 then b=r[e];break;end;f[r[e]]=u[r[g]];b=b+1;r=n[b];until true;else b=r[e];end end end end until true;else local t;for d=0,4 do if d<=1 then if d~=-4 then repeat if 0~=d then t=r[g]u[t](u[t+1])b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];until true;else u(r[g],r[e]);b=b+1;r=n[b];end else if 3>d then u(r[g],r[e]);b=b+1;r=n[b];else if 2<=d then repeat if d~=3 then b=r[e];break;end;f[r[e]]=u[r[g]];b=b+1;r=n[b];until true;else b=r[e];end end end end end end else if t>=32 then for l=40,67 do if 33<t then for t=0,4 do if 1<t then if t<=2 then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];else if t>2 then repeat if t~=3 then if(u[r[g]]~=r[d])then b=b+1;else b=r[e];end;break;end;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];until true;else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end end else if-2~=t then for l=19,62 do if 1>t then u[r[g]]=f[r[e]];b=b+1;r=n[b];break;end;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];break;end;else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end end end break;end;local t;for d=0,4 do if d<=1 then if-4<d then repeat if d~=1 then u(r[g],r[e]);b=b+1;r=n[b];break;end;t=r[g]u[t](u[t+1])b=b+1;r=n[b];until true;else u(r[g],r[e]);b=b+1;r=n[b];end else if d>2 then if d>=0 then repeat if 3~=d then b=r[e];break;end;f[r[e]]=u[r[g]];b=b+1;r=n[b];until true;else f[r[e]]=u[r[g]];b=b+1;r=n[b];end else u(r[g],r[e]);b=b+1;r=n[b];end end end break;end;else for t=0,4 do if 1<t then if t<=2 then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];else if t>2 then repeat if t~=3 then if(u[r[g]]~=r[d])then b=b+1;else b=r[e];end;break;end;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];until true;else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end end else if-2~=t then for l=19,62 do if 1>t then u[r[g]]=f[r[e]];b=b+1;r=n[b];break;end;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];break;end;else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end end end end end end else if 26<t then if t<=29 then if 28>t then for t=0,6 do if t<3 then if t>=1 then if 2==t then u(r[g],r[e]);b=b+1;r=n[b];else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end else u[r[g]]=h[r[e]];b=b+1;r=n[b];end else if t<5 then if t==3 then u(r[g],r[e]);b=b+1;r=n[b];else u(r[g],r[e]);b=b+1;r=n[b];end else if t>3 then for d=33,53 do if t<6 then u(r[g],r[e]);b=b+1;r=n[b];break;end;u(r[g],r[e]);break;end;else u(r[g],r[e]);end end end end else if t>24 then for d=13,53 do if t~=28 then local t;for d=0,4 do if 1>=d then if-4<d then repeat if d<1 then u(r[g],r[e]);b=b+1;r=n[b];break;end;t=r[g]u[t](u[t+1])b=b+1;r=n[b];until true;else u(r[g],r[e]);b=b+1;r=n[b];end else if 2>=d then u(r[g],r[e]);b=b+1;r=n[b];else if 4==d then b=r[e];else f[r[e]]=u[r[g]];b=b+1;r=n[b];end end end end break;end;local d;for t=0,4 do if t<=1 then if t~=-4 then repeat if t<1 then u(r[g],r[e]);b=b+1;r=n[b];break;end;d=r[g]u[d](u[d+1])b=b+1;r=n[b];until true;else d=r[g]u[d](u[d+1])b=b+1;r=n[b];end else if t>2 then if t~=4 then f[r[e]]=u[r[g]];b=b+1;r=n[b];else b=r[e];end else u(r[g],r[e]);b=b+1;r=n[b];end end end break;end;else local t;for d=0,4 do if 1>=d then if-4<d then repeat if d<1 then u(r[g],r[e]);b=b+1;r=n[b];break;end;t=r[g]u[t](u[t+1])b=b+1;r=n[b];until true;else u(r[g],r[e]);b=b+1;r=n[b];end else if 2>=d then u(r[g],r[e]);b=b+1;r=n[b];else if 4==d then b=r[e];else f[r[e]]=u[r[g]];b=b+1;r=n[b];end end end end end end else if t>30 then if t==31 then u[r[g]]=u[r[e]]%r[d];else local t;for d=0,4 do if d<2 then if d~=-4 then repeat if d~=1 then u(r[g],r[e]);b=b+1;r=n[b];break;end;t=r[g]u[t](u[t+1])b=b+1;r=n[b];until true;else u(r[g],r[e]);b=b+1;r=n[b];end else if d<3 then u(r[g],r[e]);b=b+1;r=n[b];else if d==3 then f[r[e]]=u[r[g]];b=b+1;r=n[b];else b=r[e];end end end end end else local t,f;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];t=r[g];f=u[r[e]];u[t+1]=f;u[t]=f[r[d]];b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];u[r[g]]=h[r[e]];end end else if t<24 then if t~=21 then for f=47,72 do if 22~=t then local f,s,o,a,k,c,t;f=r[g]u[f]=u[f](l(u,f+1,r[e]))b=b+1;r=n[b];h[r[e]]=u[r[g]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=h[r[e]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];t=0;while t>-1 do if 2<t then if t>4 then if t<6 then u(c,k);else t=-2;end else if t<4 then k=s[a];else c=s[o];end end else if t<=0 then s=r;else if t~=-1 then for r=27,75 do if 1~=t then a=e;break;end;o=g;break;end;else o=g;end end end t=t+1 end break;end;local t,s,l,f,h,d;d=0;while d>-1 do if 2>=d then if d<=0 then t=r;else if d>-2 then for r=16,96 do if 2~=d then s=g;break;end;l=e;break;end;else l=e;end end else if 5<=d then if 1<d then repeat if 6~=d then u(h,f);break;end;d=-2;until true;else u(h,f);end else if d>-1 then for r=26,68 do if d~=3 then h=t[s];break;end;f=t[l];break;end;else f=t[l];end end end d=d+1 end b=b+1;r=n[b];d=0;while d>-1 do if 2>=d then if 0<d then if-3~=d then for r=12,83 do if 2~=d then s=g;break;end;l=e;break;end;else l=e;end else t=r;end else if d>=5 then if d~=3 then for r=29,89 do if d<6 then u(h,f);break;end;d=-2;break;end;else u(h,f);end else if d==3 then f=t[l];else h=t[s];end end end d=d+1 end b=b+1;r=n[b];d=0;while d>-1 do if d<3 then if d>0 then if d>=0 then repeat if 1<d then l=e;break;end;s=g;until true;else s=g;end else t=r;end else if d>4 then if d<6 then u(h,f);else d=-2;end else if d>=0 then repeat if d<4 then f=t[l];break;end;h=t[s];until true;else h=t[s];end end end d=d+1 end b=b+1;r=n[b];d=0;while d>-1 do if d>2 then if 5>d then if 1<=d then repeat if d>3 then h=t[s];break;end;f=t[l];until true;else h=t[s];end else if d>=3 then repeat if d<6 then u(h,f);break;end;d=-2;until true;else u(h,f);end end else if 1>d then t=r;else if d>=-1 then for r=38,80 do if d~=1 then l=e;break;end;s=g;break;end;else l=e;end end end d=d+1 end b=b+1;r=n[b];d=0;while d>-1 do if 3>d then if d<=0 then t=r;else if d==1 then s=g;else l=e;end end else if 4>=d then if d~=1 then repeat if 4>d then f=t[l];break;end;h=t[s];until true;else f=t[l];end else if d~=2 then for r=39,54 do if 6~=d then u(h,f);break;end;d=-2;break;end;else d=-2;end end end d=d+1 end b=b+1;r=n[b];d=0;while d>-1 do if d>2 then if d<=4 then if-1<d then repeat if 3<d then h=t[s];break;end;f=t[l];until true;else f=t[l];end else if d==6 then d=-2;else u(h,f);end end else if 1<=d then if d>=-2 then repeat if 2~=d then s=g;break;end;l=e;until true;else l=e;end else t=r;end end d=d+1 end b=b+1;r=n[b];d=0;while d>-1 do if 2>=d then if 1>d then t=r;else if d>=-1 then for r=17,78 do if d>1 then l=e;break;end;s=g;break;end;else s=g;end end else if d<5 then if 4~=d then f=t[l];else h=t[s];end else if 6~=d then u(h,f);else d=-2;end end end d=d+1 end break;end;else local f,s,o,a,k,c,t;f=r[g]u[f]=u[f](l(u,f+1,r[e]))b=b+1;r=n[b];h[r[e]]=u[r[g]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=h[r[e]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];t=0;while t>-1 do if 2<t then if t>4 then if t<6 then u(c,k);else t=-2;end else if t<4 then k=s[a];else c=s[o];end end else if t<=0 then s=r;else if t~=-1 then for r=27,75 do if 1~=t then a=e;break;end;o=g;break;end;else o=g;end end end t=t+1 end end else if t<25 then local t,s;for f=0,6 do if f<=2 then if f<1 then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];else if f>=-1 then for l=18,74 do if 1<f then t=r[g];s=u[r[e]];u[t+1]=s;u[t]=s[r[d]];b=b+1;r=n[b];break;end;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];break;end;else t=r[g];s=u[r[e]];u[t+1]=s;u[t]=s[r[d]];b=b+1;r=n[b];end end else if f>4 then if 5<f then u[r[g]]=h[r[e]];else t=r[g]u[t](l(u,t+1,r[e]))b=b+1;r=n[b];end else if f==4 then u(r[g],r[e]);b=b+1;r=n[b];else u(r[g],r[e]);b=b+1;r=n[b];end end end end else if t>=21 then repeat if t<26 then u[r[g]][u[r[e]]]=u[r[d]];break;end;u[r[g]]=u[r[e]]-u[r[d]];until true;else u[r[g]]=u[r[e]]-u[r[d]];end end end end end else if 11<=t then if 16>t then if 12<t then if t<14 then local t;for d=0,4 do if d<=1 then if d~=-2 then repeat if d<1 then u(r[g],r[e]);b=b+1;r=n[b];break;end;t=r[g]u[t](u[t+1])b=b+1;r=n[b];until true;else u(r[g],r[e]);b=b+1;r=n[b];end else if 2>=d then u(r[g],r[e]);b=b+1;r=n[b];else if d>=1 then for t=36,97 do if d~=3 then b=r[e];break;end;f[r[e]]=u[r[g]];b=b+1;r=n[b];break;end;else f[r[e]]=u[r[g]];b=b+1;r=n[b];end end end end else if 12<=t then repeat if 15>t then local k,p,f,a,s,o,c,t;for t=0,6 do if 2<t then if 5<=t then if t>5 then u[r[g]]=h[r[e]];else k=r[g]u[k](l(u,k+1,r[e]))b=b+1;r=n[b];end else if 4~=t then t=0;while t>-1 do if t<3 then if t>0 then if 0<=t then for r=20,66 do if 2~=t then a=g;break;end;s=e;break;end;else a=g;end else f=r;end else if t<=4 then if t>=2 then for r=33,92 do if t~=4 then o=f[s];break;end;c=f[a];break;end;else o=f[s];end else if t>5 then t=-2;else u(c,o);end end end t=t+1 end b=b+1;r=n[b];else t=0;while t>-1 do if t<3 then if 1>t then f=r;else if-2<t then for r=33,88 do if t~=2 then a=g;break;end;s=e;break;end;else a=g;end end else if t<=4 then if t~=0 then repeat if t~=3 then c=f[a];break;end;o=f[s];until true;else o=f[s];end else if 4~=t then for r=34,84 do if 6>t then u(c,o);break;end;t=-2;break;end;else t=-2;end end end t=t+1 end b=b+1;r=n[b];end end else if t<1 then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];else if 0~=t then for l=13,91 do if t>1 then k=r[g];p=u[r[e]];u[k+1]=p;u[k]=p[r[d]];b=b+1;r=n[b];break;end;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];break;end;else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end end end end break;end;local t;t=r[g]u[t](u[t+1])b=b+1;r=n[b];u[r[g]]=h[r[e]];b=b+1;r=n[b];u[r[g]]=h[r[e]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=h[r[e]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=h[r[e]];until true;else local s,p,f,k,a,o,c,t;for t=0,6 do if 2<t then if 5<=t then if t>5 then u[r[g]]=h[r[e]];else s=r[g]u[s](l(u,s+1,r[e]))b=b+1;r=n[b];end else if 4~=t then t=0;while t>-1 do if t<3 then if t>0 then if 0<=t then for r=20,66 do if 2~=t then k=g;break;end;a=e;break;end;else k=g;end else f=r;end else if t<=4 then if t>=2 then for r=33,92 do if t~=4 then o=f[a];break;end;c=f[k];break;end;else o=f[a];end else if t>5 then t=-2;else u(c,o);end end end t=t+1 end b=b+1;r=n[b];else t=0;while t>-1 do if t<3 then if 1>t then f=r;else if-2<t then for r=33,88 do if t~=2 then k=g;break;end;a=e;break;end;else k=g;end end else if t<=4 then if t~=0 then repeat if t~=3 then c=f[k];break;end;o=f[a];until true;else o=f[a];end else if 4~=t then for r=34,84 do if 6>t then u(c,o);break;end;t=-2;break;end;else t=-2;end end end t=t+1 end b=b+1;r=n[b];end end else if t<1 then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];else if 0~=t then for l=13,91 do if t>1 then s=r[g];p=u[r[e]];u[s+1]=p;u[s]=p[r[d]];b=b+1;r=n[b];break;end;u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];break;end;else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end end end end end end else if 10<=t then for l=22,96 do if t~=12 then for d=0,6 do if d<3 then if d>=1 then if d>=-3 then for t=22,53 do if 1~=d then u(r[g],r[e]);b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];break;end;else u(r[g],r[e]);b=b+1;r=n[b];end else u(r[g],r[e]);b=b+1;r=n[b];end else if d>=5 then if 1~=d then repeat if 5~=d then u(r[g],r[e]);break;end;u(r[g],r[e]);b=b+1;r=n[b];until true;else u(r[g],r[e]);end else if 3<d then u(r[g],r[e]);b=b+1;r=n[b];else u(r[g],r[e]);b=b+1;r=n[b];end end end end break;end;local l,k,f,o,a,c,t,s;u[r[g]]=h[r[e]];b=b+1;r=n[b];t=0;while t>-1 do if t>=4 then if 5>=t then if 0<=t then repeat if t<5 then a=o[l[f]];break;end;c=l[k];until true;else a=o[l[f]];end else if t>=2 then repeat if t~=6 then t=-2;break;end;u[c]=a;until true;else t=-2;end end else if 1>=t then if t>=-4 then repeat if t<1 then l=r;break;end;k=g;until true;else l=r;end else if t>-2 then for r=18,57 do if t<3 then f=e;break;end;o=u;break;end;else f=e;end end end t=t+1 end b=b+1;r=n[b];s=r[g]u[s](u[s+1])b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=h[r[e]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];break;end;else for d=0,6 do if d<3 then if d>=1 then if d>=-3 then for t=22,53 do if 1~=d then u(r[g],r[e]);b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];break;end;else u(r[g],r[e]);b=b+1;r=n[b];end else u(r[g],r[e]);b=b+1;r=n[b];end else if d>=5 then if 1~=d then repeat if 5~=d then u(r[g],r[e]);break;end;u(r[g],r[e]);b=b+1;r=n[b];until true;else u(r[g],r[e]);end else if 3<d then u(r[g],r[e]);b=b+1;r=n[b];else u(r[g],r[e]);b=b+1;r=n[b];end end end end end end else if t>18 then if t>=20 then if t>=16 then for f=39,62 do if t>20 then h[r[e]]=u[r[g]];break;end;local t,h;for f=0,5 do if 2<f then if f<=3 then u[r[g]]=u[r[e]];b=b+1;r=n[b];else if f~=5 then u(r[g],r[e]);b=b+1;r=n[b];else t=r[g]u[t](l(u,t+1,r[e]))end end else if f>0 then if f~=-2 then for l=25,52 do if f<2 then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];break;end;t=r[g];h=u[r[e]];u[t+1]=h;u[t]=h[r[d]];b=b+1;r=n[b];break;end;else t=r[g];h=u[r[e]];u[t+1]=h;u[t]=h[r[d]];b=b+1;r=n[b];end else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end end end break;end;else local t,h;for f=0,5 do if 2<f then if f<=3 then u[r[g]]=u[r[e]];b=b+1;r=n[b];else if f~=5 then u(r[g],r[e]);b=b+1;r=n[b];else t=r[g]u[t](l(u,t+1,r[e]))end end else if f>0 then if f~=-2 then for l=25,52 do if f<2 then u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];break;end;t=r[g];h=u[r[e]];u[t+1]=h;u[t]=h[r[d]];b=b+1;r=n[b];break;end;else t=r[g];h=u[r[e]];u[t+1]=h;u[t]=h[r[d]];b=b+1;r=n[b];end else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];end end end end else local b=r[g];local g=u[b];for r=b+1,r[e]do s.ZQQnUsIF(g,u[r])end;end else if t>=17 then if 18==t then local t;for d=0,4 do if 1<d then if 2>=d then u(r[g],r[e]);b=b+1;r=n[b];else if 4>d then f[r[e]]=u[r[g]];b=b+1;r=n[b];else b=r[e];end end else if d~=1 then u(r[g],r[e]);b=b+1;r=n[b];else t=r[g]u[t](u[t+1])b=b+1;r=n[b];end end end else local l;for t=0,9 do if 5>t then if 2>t then if t~=-4 then repeat if 1~=t then u[r[g]]=h[r[e]];b=b+1;r=n[b];break;end;u[r[g]]=u[r[e]];b=b+1;r=n[b];until true;else u[r[g]]=u[r[e]];b=b+1;r=n[b];end else if t<=2 then l=r[g]u[l](u[l+1])b=b+1;r=n[b];else if 4~=t then u[r[g]]=h[r[e]];b=b+1;r=n[b];else u(r[g],r[e]);b=b+1;r=n[b];end end end else if t<7 then if t>=3 then repeat if t>5 then u[r[g]]=h[r[e]];b=b+1;r=n[b];break;end;l=r[g]u[l](u[l+1])b=b+1;r=n[b];until true;else u[r[g]]=h[r[e]];b=b+1;r=n[b];end else if 8<=t then if 9==t then h[r[e]]=u[r[g]];else u[r[g]]=u[r[e]]+u[r[d]];b=b+1;r=n[b];end else u(r[g],r[e]);b=b+1;r=n[b];end end end end end else u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];u[r[g]]=u[r[e]][r[d]];b=b+1;r=n[b];for r=r[g],r[e]do u[r]=nil;end;b=b+1;r=n[b];u(r[g],r[e]);b=b+1;r=n[b];for r=r[g],r[e]do u[r]=nil;end;b=b+1;r=n[b];u(r[g],r[e]);end end end else if 4>=t then if 1>=t then if-1<=t then for s=37,57 do if t~=0 then local t;for f=0,6 do if f<=2 then if 1>f then u(r[g],r[e]);b=b+1;r=n[b];else if f>=0 then repeat if 1~=f then t=r[g]u[t]=u[t](l(u,t+1,r[e]))b=b+1;r=n[b];break;end;u(r[g],r[e]);b=b+1;r=n[b];until true;else t=r[g]u[t]=u[t](l(u,t+1,r[e]))b=b+1;r=n[b];end end else if f>=5 then if 6~=f then u[r[g]]=u[r[e]];b=b+1;r=n[b];else t=r[g]u[t](u[t+1])end else if f>2 then for t=24,93 do if 4~=f then u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];break;end;u[r[g]]=h[r[e]];b=b+1;r=n[b];break;end;else u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];end end end end break;end;f[r[e]]=u[r[g]];break;end;else f[r[e]]=u[r[g]];end else if 2>=t then local r=r[g];o=r+rr-1;for b=r,o do local r=j[b-r];u[b]=r;end;else if 3==t then local f,s;for t=0,6 do if 2>=t then if 1<=t then if-3<t then for h=20,56 do if t~=2 then f=r[g]u[f](l(u,f+1,r[e]))b=b+1;r=n[b];break;end;f=r[g];s=u[r[e]];u[f+1]=s;u[f]=s[r[d]];b=b+1;r=n[b];break;end;else f=r[g];s=u[r[e]];u[f+1]=s;u[f]=s[r[d]];b=b+1;r=n[b];end else u[r[g]][r[e]]=u[r[d]];b=b+1;r=n[b];end else if t>=5 then if 2~=t then for l=34,56 do if 6>t then u[r[g]][r[e]]=r[d];b=b+1;r=n[b];break;end;u[r[g]]=h[r[e]];break;end;else u[r[g]]=h[r[e]];end else if t~=0 then repeat if t>3 then u[r[g]][r[e]]=r[d];b=b+1;r=n[b];break;end;u[r[g]]={};b=b+1;r=n[b];until true;else u[r[g]]={};b=b+1;r=n[b];end end end end else local t;for d=0,4 do if 2<=d then if 2<d then if 1~=d then for t=10,75 do if d<4 then f[r[e]]=u[r[g]];b=b+1;r=n[b];break;end;b=r[e];break;end;else f[r[e]]=u[r[g]];b=b+1;r=n[b];end else u(r[g],r[e]);b=b+1;r=n[b];end else if-2<d then repeat if 1~=d then u(r[g],r[e]);b=b+1;r=n[b];break;end;t=r[g]u[t](u[t+1])b=b+1;r=n[b];until true;else u(r[g],r[e]);b=b+1;r=n[b];end end end end end end else if t>7 then if t<=8 then local t,a,o,l,s,d,h;for d=0,4 do if d<2 then if d~=-3 then repeat if 0<d then h=r[g]u[h](u[h+1])b=b+1;r=n[b];break;end;d=0;while d>-1 do if d>2 then if 4>=d then if 4==d then s=t[a];else l=t[o];end else if 4~=d then repeat if d>5 then d=-2;break;end;u(s,l);until true;else u(s,l);end end else if d>=1 then if d~=2 then a=g;else o=e;end else t=r;end end d=d+1 end b=b+1;r=n[b];until true;else h=r[g]u[h](u[h+1])b=b+1;r=n[b];end else if d>2 then if 2<=d then for t=34,69 do if 3~=d then b=r[e];break;end;f[r[e]]=u[r[g]];b=b+1;r=n[b];break;end;else b=r[e];end else d=0;while d>-1 do if d<=2 then if d>=1 then if-2<=d then for r=14,87 do if 2>d then a=g;break;end;o=e;break;end;else o=e;end else t=r;end else if 5<=d then if 4<d then repeat if d>5 then d=-2;break;end;u(s,l);until true;else u(s,l);end else if 1<=d then for r=31,68 do if d<4 then l=t[o];break;end;s=t[a];break;end;else l=t[o];end end end d=d+1 end b=b+1;r=n[b];end end end else if 7<t then repeat if t<10 then local f;for t=0,4 do if 1>=t then if t==0 then u(r[g],r[e]);b=b+1;r=n[b];else u(r[g],r[e]);b=b+1;r=n[b];end else if 3<=t then if 1<t then repeat if 3<t then u[r[g]][r[e]]=u[r[d]];break;end;f=r[g]u[f]=u[f](l(u,f+1,r[e]))b=b+1;r=n[b];until true;else u[r[g]][r[e]]=u[r[d]];end else u(r[g],r[e]);b=b+1;r=n[b];end end end break;end;local t;for d=0,4 do if 1<d then if 3>d then u(r[g],r[e]);b=b+1;r=n[b];else if 4==d then b=r[e];else f[r[e]]=u[r[g]];b=b+1;r=n[b];end end else if 1>d then u(r[g],r[e]);b=b+1;r=n[b];else t=r[g]u[t](u[t+1])b=b+1;r=n[b];end end end until true;else local f;for t=0,4 do if 1>=t then if t==0 then u(r[g],r[e]);b=b+1;r=n[b];else u(r[g],r[e]);b=b+1;r=n[b];end else if 3<=t then if 1<t then repeat if 3<t then u[r[g]][r[e]]=u[r[d]];break;end;f=r[g]u[f]=u[f](l(u,f+1,r[e]))b=b+1;r=n[b];until true;else u[r[g]][r[e]]=u[r[d]];end else u(r[g],r[e]);b=b+1;r=n[b];end end end end end else if 5>=t then local r=r[g];do return l(u,r,o)end;else if t~=7 then local b=r[g]u[b]=u[b](l(u,b+1,r[e]))else local n=r[g];local e={};for r=1,#c do local r=c[r];for b=0,#r do local r=r[b];local g=r[1];local b=r[2];if g==u and b>=n then e[b]=g[b];r[1]=e;end;end;end;end end end end end end end end end b=1+b;end;end;return br end;local g=0xff;local d={};local t=(1);local e='';(function(b)local u=b local n=0x00 local r=0x00 u={(function(d)if n>0x29 then return d end n=n+1 r=(r+0xc4d-d)%0x3d return(r%0x03==0x1 and(function(u)if not b[u]then r=r+0x01 b[u]=(0xe9);end return true end)'ASvgD'and u[0x2](0x101+d))or(r%0x03==0x2 and(function(u)if not b[u]then r=r+0x01 b[u]=(0x6d);e='\37';g={function()g()end};e=e..'\100\43';end return true end)'Ynsze'and u[0x3](d+0x3df))or(r%0x03==0x0 and(function(u)if not b[u]then r=r+0x01 b[u]=(0x6e);end return true end)'ZliCS'and u[0x1](d+0xd6))or d end),(function(g)if n>0x2d then return g end n=n+1 r=(r+0xef6-g)%0x4f return(r%0x03==0x1 and(function(u)if not b[u]then r=r+0x01 b[u]=(0xed);end return true end)'JXCzY'and u[0x3](0x217+g))or(r%0x03==0x2 and(function(u)if not b[u]then r=r+0x01 b[u]=(0xf5);end return true end)'KvBxD'and u[0x2](g+0x37e))or(r%0x03==0x0 and(function(u)if not b[u]then r=r+0x01 b[u]=(0x5a);end return true end)'oztyO'and u[0x1](g+0x344))or g end),(function(f)if n>0x2c then return f end n=n+1 r=(r+0xb30-f)%0x14 return(r%0x03==0x0 and(function(u)if not b[u]then r=r+0x01 b[u]=(0x59);d[t]=er();t=t+g;end return true end)'tmOPW'and u[0x2](0x20d+f))or(r%0x03==0x2 and(function(u)if not b[u]then r=r+0x01 b[u]=(0xa);e={e..'\58 a',e};d[t]=ur();t=t+((not s.bz_BupgB)and 1 or 0);e[1]='\58'..e[1];g[2]=0xff;end return true end)'TYxPQ'and u[0x3](f+0x119))or(r%0x03==0x1 and(function(u)if not b[u]then r=r+0x01 b[u]=(0xc9);g[2]=(g[2]*(br(function()d()end,l(e))-br(g[1],l(e))))+1;d[t]={};g=g[2];t=t+g;end return true end)'upLIo'and u[0x1](f+0x2a7))or f end)}u[0x1](0x2541)end){};local r=_(l(d));d[2]={};d[1]=r(d[1])fHrmPyoDMjFtOAi=nil;r=_(l(d))return r(...);end return gr((function()local b={}local r=0x01;local u;if s.bz_BupgB then u=s.bz_BupgB(gr)else u=''end if s.riMMMSdU(u,s.WZCZJGGC)then r=r+0;else r=r+1;end b[r]=0x02;b[b[r]+0x01]=0x03;return b;end)(),...)end)((function(u,r,b,g,e,n)local n;if 4<=u then if u<=5 then if 1<=u then for n=31,61 do if u~=5 then local u=g;local t,d,n=e(2);do return function()local e,b,r,g=r(b,u(u,u),u(u,u)+3);u(4);return(g*t)+(r*d)+(b*n)+e;end;end;break;end;local u=g;do return function()local r=r(b,u(u,u),u(u,u));u(1);return r;end;end;break;end;else local u=g;local t,n,d=e(2);do return function()local e,b,r,g=r(b,u(u,u),u(u,u)+3);u(4);return(g*t)+(r*n)+(b*d)+e;end;end;end else if 7>u then do return e[b]end;else if 7~=u then do return b(u,nil,b);end else do return setmetatable({},{['__\99\97\108\108']=function(r,e,u,g,b)if b then return r[b]elseif g then return r else r[e]=u end end})end end end end else if u>1 then if-1~=u then repeat if u<3 then do return 16777216,65536,256 end;break;end;do return r(1),r(4,e,g,b,r),r(5,e,g,b)end;until true;else do return r(1),r(4,e,g,b,r),r(5,e,g,b)end;end else if-2<=u then repeat if 1>u then do return r(1),r(4,e,g,b,r),r(5,e,g,b)end;break;end;do return function(u,r,b)if b then local r=(u/2^(r-1))%2^((b-1)-(r-1)+1);return r-r%1;else local r=2^(r-1);return(u%(r+r)>=r)and 1 or 0;end;end;end;until true;else do return r(1),r(4,e,g,b,r),r(5,e,g,b)end;end end end end),...)
+--ladder breaker | sss is pidor (premium)
+local premium_users = {"Yaros1979", "abororoumn", "LYBLY_COCATb6969", "poedatelxyevnazavt11"}
+local name = game.Players.LocalPlayer.Name
+
+--check premium
+local function checkprem(n)
+	local premium_user = false
+	for i, p in pairs(premium_users) do
+		if n == p then
+			premium_user = true
+		end
+	end
+	return premium_user
+end
+
+--start
+print("[LadderBreaker]: checking username")
+if checkprem(name) then
+	print("[LadderBreaker]: premium user, loading")
+	print("[LadderBreaker]: version: premium")
+
+	--server
+	local Players = game:GetService("Players")
+	local Player = Players.LocalPlayer
+	local ReplicatedStorage = game:GetService("ReplicatedStorage")
+	local StarterGui = game:GetService("StarterGui")
+	local instance = (_G.chatSpyInstance or 0) + 1
+	local TweenService = game:GetService("TweenService")
+	local RunService = game:GetService("RunService")
+	local saymsg = game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest")
+	local getmsg = game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("OnMessageDoneFiltering")
+
+	--counter variables
+	local AmountOfPlayers
+	local AllPlayers
+	local TimeOfExecutedLB = 0
+	local minutesOfExecutedLB = 0
+	local osk = 1
+	local savePos = nil 
+	local breakingSpeed = 0.07
+	local SavedCheckpoint
+	local posit = Player.Character.HumanoidRootPart.Position.Y
+	local bangDefense
+	local speed
+	local repeattimes = 3
+
+	--toggle variables
+	local breakFullLadderEnabled
+	local breakLadderEnabled
+	local invisBreakingEnabled
+	local oskSpamEnabled
+	local antiSpyEnabled
+	local chatBypassEnabled
+	local chatBypassEnabled2
+	local antiVoidenabled
+	local antiSitEnabled
+	local antiWarpEnabled
+	local autoDropDolce
+	local autoGrabDolce
+	local ladderTransparency = 0.5
+	local cmds
+	local enabledNoc
+	local Clip = false
+	local fn
+	local repeatmsg
+	local detected
+	local oldpos
+	local cheaterAlerts = {
+		"ЧИТЕР",
+		"ХАКЕР",
+		"читер",
+		"хакер",
+		"читы",
+		"эксплоитер",
+		"эксплоит",
+		"скрипт",
+		"скрипты",
+		"СКРИПТ",
+		"СКРИПТЫ",
+		"ЭКСПЛОИТ",
+		"ЭКСПЛОИТЕР",
+		"ДЕЛЬТА",
+		"дельта",
+		"ФУ ЧИТЕР",
+		"фу читер",
+		"читер вымри",
+		"ЭТО ЧИТЕР",
+		"РЕБЯТА ЭТО ЧИТЕР",
+		"РЕПОРТ",
+		"репорт",
+		"ребята это читер",
+		"ЧИТЕР ВЫМРИ",
+		"РЕПОРТАЖ",
+		"БАН КИНУ",
+		"КИДАЕМ РЕПОРТЫ"
+	}
+
+	--properties
+	local csc1 = 160
+	local csc2 = 0
+	local csc3 = 160
+	privateProperties = {
+		Color = Color3.fromRGB(csc1, csc2, csc3); 
+		Font = Enum.Font.SourceSansBold;
+		TextSize = 18;
+	}
+
+	--functions
+	local function ChangeFov(Fov, Time)
+		TweenService:Create(workspace.Camera, TweenInfo.new(Time), {FieldOfView = Fov}):Play()
+	end
+
+	local function random()
+		local length = math.random(10,20)
+		local array = {}
+		for i = 1, length do
+			array[i] = string.char(math.random(32, 126))
+		end
+		return table.concat(array)
+	end
+	fn = random()
+
+	local function brkldrfull()
+		while breakFullLadderEnabled == true do
+			pcall(function()
+				local Player = game.Players.LocalPlayer
+				local breakingSpeed = 0.05
+				noclipping = RunService.Stepped:Connect(noclip)
+				Player.Character.HumanoidRootPart.Size = Vector3.new(1.5,1.5,1.5)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(90.2871323, 142.19899, -241.016586, 0.216689184, -4.79452353e-08, -0.976240635, -6.84476973e-08, 1, -6.4304956e-08, 0.976240635, 8.0755612e-08, 0.216689184)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(91.0978851, 140.298981, -238.744034, 0.451353669, -9.80752262e-08, -0.89234513, 3.78280376e-08, 1, -9.07736251e-08, 0.89234513, 7.21534521e-09, 0.451353669)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(91.6046371, 139.298996, -237.295547, 0.44760713, 5.99268688e-08, -0.894230306, -2.39691129e-08, 1, 5.5017285e-08, 0.894230306, -3.19222071e-09, 0.44760713)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(92.9826508, 138.298996, -236.002441, 0.560875833, 2.02255208e-08, -0.827899933, 1.60691194e-08, 1, 3.53162264e-08, 0.827899933, -3.31116397e-08, 0.560875833)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(94.6445465, 136.298996, -233.878571, 0.678971052, 2.75740355e-08, -0.734165013, 2.43300722e-08, 1, 6.0059314e-08, 0.734165013, -5.86408255e-08, 0.678971052)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(96.3649826, 135.298996, -232.799728, 0.737124205, -7.15544459e-08, -0.675757289, 4.51176092e-08, 1, -5.66729561e-08, 0.675757289, 1.12864544e-08, 0.737124205)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(98.2008362, 133.298996, -231.302521, 0.832671225, -7.37861754e-08, -0.553767622, 5.41573719e-08, 1, -5.18103427e-08, 0.553767622, 1.31503812e-08, 0.832671225)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(100.045044, 132.298996, -230.338242, 0.898028553, -1.85680875e-08, -0.439937174, 4.47176696e-08, 1, 4.90744121e-08, 0.439937174, -6.37431867e-08, 0.898028553)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(102.621155, 130.298996, -229.510193, 0.975852668, -9.59031183e-08, -0.218429893, 1.01547307e-07, 1, 1.4613792e-08, 0.218429893, -3.64418753e-08, 0.975852668)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(104.224251, 129.298996, -229.041656, 0.989499152, -4.17768646e-08, -0.144538477, 4.8952419e-08, 1, 4.60881751e-08, 0.144538477, -5.26797201e-08, 0.989499152)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(105.747269, 128.298965, -228.67215, 0.990291774, 2.31010642e-08, -0.139004305, -2.69731437e-08, 1, -2.59719943e-08, 0.139004305, 2.94692359e-08, 0.990291774)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(107.090187, 127.301003, -228.880722, 0.998178422, 1.11795488e-08, 0.0603306815, -1.04699032e-08, 1, -1.20787185e-08, -0.0603306815, 1.142506e-08, 0.998178422)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(108.413338, 126.298996, -228.716553, 0.999167681, -6.68114719e-09, 0.0407914072, 2.30229569e-09, 1, 1.07394378e-07, -0.0407914072, -1.07211072e-07, 0.999167681)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(109.961189, 125.298996, -229.40242, 0.978919268, 9.81815962e-09, 0.204247564, 2.64855471e-09, 1, -6.07639095e-08, -0.204247564, 6.00239218e-08, 0.978919268)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(111.531853, 124.298996, -229.330017, 0.958375871, 2.94830205e-08, 0.285509497, -7.94839583e-10, 1, -1.0059653e-07, -0.285509497, 9.61823545e-08, 0.958375871)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(113.806046, 122.298996, -230.324554, 0.921631157, -2.16754015e-09, 0.388066947, 1.21990595e-09, 1, 2.68829048e-09, -0.388066947, -2.00420724e-09, 0.921631157)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(115.568855, 121.299004, -231.170425, 0.896044672, -4.62760319e-08, 0.443963975, 4.74952131e-08, 1, 8.37500735e-09, -0.443963975, 1.35817819e-08, 0.896044672)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(116.907997, 120.299004, -232.019852, 0.785785735, 9.36495752e-08, 0.618498802, -1.09982103e-07, 1, -1.16850796e-08, -0.618498802, -5.8841831e-08, 0.785785735)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(117.750374, 119.299004, -232.964508, 0.766403079, -5.49552901e-08, 0.642359972, 3.03970005e-08, 1, 4.92853474e-08, -0.642359972, -1.82466255e-08, 0.766403079)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(118.971375, 118.299004, -233.847092, 0.680802226, 5.91350862e-08, 0.732467234, 1.54345638e-08, 1, -9.5079983e-08, -0.732467234, 7.6035974e-08, 0.680802226)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(119.779747, 117.299004, -235.016525, 0.620363712, 4.14338537e-08, 0.784314275, -1.25519701e-08, 1, -4.28999805e-08, -0.784314275, 1.67689027e-08, 0.620363712)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(120.715286, 116.299004, -236.171967, 0.604902804, -6.95124882e-08, 0.796299279, 1.30869937e-08, 1, 7.73529862e-08, -0.796299279, -3.6369876e-08, 0.604902804)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(121.504257, 115.299004, -237.414734, 0.532548904, -5.04965456e-08, 0.846399248, -2.90271629e-08, 1, 7.79241347e-08, -0.846399248, -6.60669812e-08, 0.532548904)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(122.117371, 114.299004, -238.541702, 0.42217344, 9.86871118e-09, 0.906515062, 7.67946595e-09, 1, -1.44628345e-08, -0.906515062, 1.30673765e-08, 0.42217344)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(123.046234, 112.299004, -241.616653, 0.274375856, 2.04904804e-08, 0.961622536, -2.82256245e-08, 1, -1.32547333e-08, -0.961622536, -2.3505617e-08, 0.274375856)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(123.593735, 111.299004, -242.749542, 0.229756922, 4.71209738e-08, 0.973248065, -1.40535565e-08, 1, -4.50985489e-08, -0.973248065, -3.31589267e-09, 0.229756922)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(123.748993, 110.299004, -244.383392, 0.119748861, -4.74855621e-09, 0.992804229, -3.66719299e-09, 1, 5.22529886e-09, -0.992804229, -4.26652802e-09, 0.119748861)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(123.89962, 110.299995, -246.38942, 0.0361889414, 7.96216e-08, 0.999344945, 4.05463432e-08, 1, -8.11420762e-08, -0.999344945, 4.34562288e-08, 0.0361889414)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(123.635635, 108.299004, -248.081543, -0.0769171864, -8.11551217e-08, 0.99703747, -3.16514637e-09, 1, 8.11520806e-08, -0.99703747, 3.08622039e-09, -0.0769171864)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(123.577309, 107.299004, -249.108566, -0.0518187359, -4.53069084e-08, 0.998656511, -5.51531354e-09, 1, 4.50816771e-08, -0.998656511, -3.17182836e-09, -0.0518187359)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(123.393623, 106.299004, -250.494919, -0.231385753, 1.13640709e-07, 0.972862065, -2.45591263e-08, 1, -1.22651855e-07, -0.972862065, -5.22725365e-08, -0.231385753)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(122.710434, 105.299004, -251.976761, -0.37035495, -1.64589515e-08, 0.928890288, 9.04863739e-10, 1, 1.80797155e-08, -0.928890288, 7.53643103e-09, -0.37035495)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(122.158119, 104.299988, -252.889267, -0.42040509, 4.45564652e-09, 0.907336533, -8.9301827e-10, 1, -5.32445865e-09, -0.907336533, -3.04869774e-09, -0.42040509)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(121.294701, 103.301003, -254.337387, -0.535623789, 7.37801074e-08, 0.844456732, -2.1261263e-08, 1, -1.00855551e-07, -0.844456732, -7.19748456e-08, -0.535623789)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(120.681671, 102.301003, -255.877136, -0.642682076, -1.67137824e-08, 0.76613301, -9.52543489e-10, 1, 2.10167173e-08, -0.76613301, 1.27772921e-08, -0.642682076)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(119.662415, 101.301003, -256.994781, -0.632999241, 7.13252604e-08, 0.774152458, 1.55037903e-08, 1, -7.9456413e-08, -0.774152458, -3.82935497e-08, -0.632999241)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(118.77874, 100.301003, -257.984833, -0.716385543, -1.71869772e-08, 0.697704613, -6.95620761e-09, 1, 1.74911428e-08, -0.697704613, 7.67702435e-09, -0.716385543)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(117.64502, 99.3009949, -259.123322, -0.800759912, -3.11203081e-08, 0.598985434, -1.72060801e-08, 1, 2.89529076e-08, -0.598985434, 1.28781359e-08, -0.800759912)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(117.64502, 99.3009949, -259.123322, -0.800759912, -3.11203081e-08, 0.598985434, -1.72060801e-08, 1, 2.89529076e-08, -0.598985434, 1.28781359e-08, -0.800759912)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(115.316833, 97.3010025, -260.57663, -0.82039547, 3.2885076e-08, 0.571796536, -1.97802628e-08, 1, -8.58919407e-08, -0.571796536, -8.17756458e-08, -0.82039547)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(113.726326, 96.3009949, -261.376984, -0.909036577, -2.97304226e-08, 0.416716367, 2.12505196e-08, 1, 1.17700978e-07, -0.416716367, 1.15849929e-07, -0.909036577)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(112.365425, 95.3010025, -261.610168, -0.927964509, 4.85544689e-08, 0.372668564, 1.68661192e-08, 1, -8.8291074e-08, -0.372668564, -7.56455094e-08, -0.927964509)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(110.901733, 94.3010025, -262.06958, -0.987205684, 9.71211875e-08, 0.159452155, 8.6838071e-08, 1, -7.14581248e-08, -0.159452155, -5.66973455e-08, -0.987205684)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(109.692291, 93.3010025, -262.383759, -0.980488539, -3.64462593e-08, 0.196576193, -2.91028233e-08, 1, 4.02453324e-08, -0.196576193, 3.37391626e-08, -0.980488539)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(108.489365, 92.3010025, -262.534027, -0.986067474, -5.87416409e-08, 0.166345671, -6.76184087e-08, 1, -4.76999169e-08, -0.166345671, -5.82833692e-08, -0.986067474)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(106.537674, 91.3010025, -262.720703, -0.999931037, -2.24309482e-09, -0.0117414938, -2.20549312e-09, 1, -3.21542015e-09, 0.0117414938, -3.1893026e-09, -0.999931037)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(104.887077, 90.3010025, -262.596161, -0.995300889, 5.40037242e-08, -0.0968301743, 4.66026435e-08, 1, 7.86952157e-08, 0.0968301743, 7.38128776e-08, -0.995300889)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(103.820724, 89.3010025, -262.438812, -0.987907588, 3.34804504e-08, -0.155043945, 2.65912661e-08, 1, 4.6507715e-08, 0.155043945, 4.18225063e-08, -0.987907588)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(102.105492, 88.3010025, -262.006592, -0.968392909, -7.10715824e-08, -0.249429628, -4.31664198e-08, 1, -1.17345841e-07, 0.249429628, -1.02869897e-07, -0.968392909)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(100.995506, 87.3010025, -261.777893, -0.952094436, 1.24691383e-07, -0.305804104, 1.16673007e-07, 1, 4.44979555e-08, 0.305804104, 6.68717082e-09, -0.952094436)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(99.2935104, 86.3010025, -261.273956, -0.929972231, 6.24183443e-08, -0.367629796, 5.68595304e-08, 1, 2.59515431e-08, 0.367629796, 3.23095661e-09, -0.929972231)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(98.2667007, 85.3010025, -260.794861, -0.897156298, -4.42727313e-08, -0.441713184, -4.57311806e-08, 1, -7.34574401e-09, 0.441713184, 1.36097853e-08, -0.897156298)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(97.1793594, 84.3010025, -259.237549, -0.834665418, -7.94021702e-08, -0.550757349, -7.1248671e-08, 1, -3.6192656e-08, 0.550757349, 9.03196895e-09, -0.834665418)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(95.887558, 83.3010025, -258.414917, -0.805086672, 1.28317652e-07, -0.593157232, 1.10091491e-07, 1, 6.69037732e-08, 0.593157232, -1.14382317e-08, -0.805086672)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(94.8851013, 82.3010025, -257.492767, -0.723361731, 1.1667273e-07, -0.690469325, 9.37954212e-08, 1, 7.07123604e-08, 0.690469325, -1.36122464e-08, -0.723361731)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(93.9190674, 81.3010025, -256.479492, -0.641820073, 9.16277614e-08, -0.76685524, 6.77392435e-08, 1, 6.27906687e-08, 0.76685524, -1.16458834e-08, -0.641820073)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(93.1807861, 80.3010025, -255.430206, -0.617946088, -7.19211712e-08, -0.786220491, -5.26583044e-08, 1, -5.00892341e-08, 0.786220491, 1.04485922e-08, -0.617946088)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(92.3184738, 79.3010025, -254.313919, -0.522809267, -4.44631958e-08, -0.852449715, 5.04990183e-08, 1, -8.31304803e-08, 0.852449715, -8.65092531e-08, -0.522809267)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(91.3926468, 78.3010025, -252.766205, -0.457059085, 3.93542399e-09, -0.889436364, -2.19847376e-10, 1, 4.53760096e-09, 0.889436364, 2.26949193e-09, -0.457059085)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(90.8795319, 77.3010025, -251.461411, -0.356288821, -1.12123402e-07, -0.934375882, 1.88049931e-08, 1, -1.27168747e-07, 0.934375882, -6.28797352e-08, -0.356288821)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(90.5267105, 76.3010025, -250.176254, -0.263333082, 1.13872396e-07, -0.96470499, -2.37062618e-08, 1, 1.24509612e-07, 0.96470499, 5.5657047e-08, -0.263333082)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(90.1674194, 75.3010025, -248.859985, -0.270067543, 4.81445603e-08, -0.962841392, -8.44487946e-09, 1, 5.23712949e-08, 0.962841392, 2.22748664e-08, -0.270067543)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(89.7181473, 74.3009949, -246.990936, -0.123625994, -9.58061293e-08, -0.992328882, 5.18873868e-08, 1, -1.03010962e-07, 0.992328882, -6.42241886e-08, -0.123625994)
+				task.wait(breakingSpeed)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(89.7181473, 74.3009949, -246.990936, -0.123625994, -9.58061293e-08, -0.992328882, 5.18873868e-08, 1, -1.03010962e-07, 0.992328882, -6.42241886e-08, -0.123625994)
+				task.wait(0.35)
+				noclipping:Disconnect()
+				task.wait()
+			end)
+		end
+	end
+
+	local function noclip()
+		if Clip == false and Player.Character ~= nil then
+			for _, child in pairs(Player.Character:GetDescendants()) do
+				if child:IsA("BasePart") and child.CanCollide == true and child.Name ~= fn then
+					child.CanCollide = false
+				end
+			end
+		end
+	end
+
+	local function stairs()
+		for i, v in pairs(workspace.Stairs:GetDescendants()) do
+			if v:IsA("Part") then
+				local stair = Instance.new("Part", workspace)
+				stair.CFrame = v.CFrame
+				stair.Size = v.Size
+				stair.Position = v.Position - Vector3.new(0, 3, 0)
+				stair.Anchored = true 
+				stair.Transparency = 1
+				stair.Name = "LB_STAIR"
+			end
+		end
+		
+	end
+
+	local function onChatted(p,msg)
+		if _G.chatSpyInstance == instance then
+			if p==Player and msg:lower():sub(1,4)=="/spy" then
+				enabledSpy = not enabledSpy
+				task.wait(0.3)
+				privateProperties.Text = "{SPY "..(enabledSpy and "EN" or "DIS").."ABLED}"
+				StarterGui:SetCore("ChatMakeSystemMessage",privateProperties)
+			elseif enabledSpy and (spyOnMyself==true or p~=Player) then
+				msg = msg:gsub("[\n\r]",""):gsub("\t"," "):gsub("[ ]+"," ")
+				local hidden = true
+				local conn = getmsg.OnClientEvent:Connect(function(packet,channel)
+					if packet.PlayerUserId==p.UserId and packet.Message==msg:sub(#msg-#packet.Message+1) and (channel=="All" or (channel=="Team" and public==false and Players[packet.FromPlayer].Team==Player.Team)) then
+						hidden = false
+					end
+				end)
+				task.wait(1)
+				conn:Disconnect()
+				if hidden and enabledSpy then
+					if public then
+						saymsg:FireServer((publicItalics and "" or "").."{SPY} [".. p.DisplayName .."]: "..msg,"All")
+					else
+						privateProperties.Text = "{SPY} [".. p.DisplayName .."]: "..msg
+						StarterGui:SetCore("ChatMakeSystemMessage",privateProperties)
+					end
+				end
+			end
+		end
+	end
+
+	local function antiChatSpy()
+		while antiSpyEnabled do
+			Players:Chat("ЙОУ ВЫРУБИ ЧЯТ СПАЙ Э")
+			task.wait(0.1)
+		end
+	end
+
+	local function chatBypass()
+		while chatBypassEnabled do
+			Players:Chat("EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE")
+			task.wait()
+			Players:Chat("/e ABC")
+			task.wait()
+			Players:Chat("le le le le le le le")
+			task.wait()
+			Players:Chat("le le le le le")
+			task.wait()
+		end
+	end
+
+	local function dolceHUI1()
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(86.5668335, 3.59999943, -20.2602482, -0.996740162, 2.41834641e-08, 0.0806784108, 3.29712577e-08, 1, 1.07591539e-07, -0.0806784108, 1.09900881e-07, -0.996740162)
+		local TweenService = game:GetService"TweenService"
+		local RunService = game:GetService"RunService"
+		if not Player.Character:FindFirstChild("Dolce Milk") then
+			Player.Backpack:FindFirstChild("Dolce Milk").Parent = Player.Character
+		end
+		local d = Player.Character:FindFirstChild("Dolce Milk").Handle
+		workspace.Gravity = 10
+		Player.Character.Humanoid.PlatformStand = true
+		task.wait(1)
+		workspace.Gravity = 192.6
+		local function ChangeFov(Fov, Time)
+		TweenService:Create(d, TweenInfo.new(Time), {Position = Fov}):Play()
+		end
+		local function ChangeRotation(Fov, Time)
+		TweenService:Create(d, TweenInfo.new(Time), {Rotation = Fov}):Play()
+		end
+		RunService.RenderStepped:Connect(function()
+			ChangeFov(Player.Character.HumanoidRootPart.Position + Vector3.new(0, -1, -1.3), 0.0000001)
+			ChangeRotation(Vector3.new(0, 90, 0), 0.00000001) 
+		end)
+	end
+
+	for _,p in ipairs(Players:GetPlayers()) do
+		p.Chatted:Connect(function(msg) onChatted(p,msg) end)
+	end
+	Players.PlayerAdded:Connect(function(p)
+		p.Chatted:Connect(function(msg) onChatted(p,msg) end)
+	end)
+
+	StarterGui:SetCore("ChatMakeSystemMessage",privateProperties)
+	local chatFrame = Player.PlayerGui.Chat.Frame
+	chatFrame.ChatChannelParentFrame.Visible = true
+	chatFrame.ChatBarParentFrame.Position = chatFrame.ChatChannelParentFrame.Position+UDim2.new(UDim.new(),chatFrame.ChatChannelParentFrame.Size.Y)
+
+	--library
+	print("[LadderBreaker]: loading gui.")
+	local OrionLib = loadstring(game:HttpGet(("https://raw.githubusercontent.com/m1kp0/libraries/refs/heads/main/m1kpe0_orion_lib.lua")))()
+	local Window = OrionLib:MakeWindow({Name = "Ladder Breaker | Premium", HidePremium = false, IntroEnabled = false, IntroText = "Loading..", SaveConfig = true, ConfigFolder = "OrionTest"})
+
+	local MainTab = Window:MakeTab({Name = "main", Icon = "", PremiumOnly = false})
+	local ChatTab = Window:MakeTab({Name = "chat", Image = "", PremiumOnly = false})
+	local TPTab = Window:MakeTab({Name = "teleport", Image = "", PremiumOnly = false})
+	local DefenseTab = Window:MakeTab({Name = "defense", Image = "", PremiumOnly = false})
+	local PlayerTab = Window:MakeTab({Name = "character", Image = "", PremiumOnly = false})
+	local ScriptTab = Window:MakeTab({Name = "scripts", Image = "", PremiumOnly = false})
+	local ClockTab = Window:MakeTab({Name = "time", Image = "", PremiumOnly = false})
+	local Ctab = Window:MakeTab({Name = "changelog", Image = "", PremiumOnly = false})
+	local Servertab = Window:MakeTab({Name = "server", Image = "", PremiumOnly = false})
+
+	--main tab
+	MainTab:AddToggle({
+		Name = "BREAK LADDER | THE BEST",
+		Default = false,
+		Color = Color3.fromRGB(102, 0, 102),
+		Callback = function(Value)
+			breakFullLadderEnabled = Value
+			enabledNoc = Value
+			if breakFullLadderEnabled then
+				stairs()
+			else
+				for i, v in pairs(workspace:GetDescendants()) do
+					if v.Name == "LB_STAIR" then
+						v:Destroy()
+					end
+				end
+			end
+			if enabledNoc then
+				noclipping = RunService.Stepped:Connect(noclip)
+			else
+				if noclipping then
+					noclipping:Disconnect()
+				end
+			end
+			brkldrfull()
+		end    
+	})
+
+	--chat tab
+	ChatTab:AddToggle({
+		Name = "chat spy",
+		Default = false,
+		Color = Color3.fromRGB(102, 0, 102),
+		Callback = function(Value)
+			if Value == true then
+				enabledSpy = true
+				spyOnMyself = false
+			else
+				enabledSpy = false
+				spyOnMyself = false
+			end
+		end    
+	})
+
+	ChatTab:AddToggle({
+		Name = "public chat spy",
+		Default = false,
+		Color = Color3.fromRGB(102, 0, 102),
+		Callback = function(Value)
+			if Value == true then
+				public = true
+			else
+				public = false
+			end
+		end    
+	})
+
+	ChatTab:AddToggle({
+		Name = "spy on myself",
+		Default = false,
+		Color = Color3.fromRGB(102, 0, 102),
+		Callback = function(Value)
+			if Value == true then
+				spyOnMyself = true
+			else
+				spyOnMyself = false
+			end
+		end    
+	})
+
+	ChatTab:AddToggle({
+		Name = "anti chat spy",
+		Default = false,
+		Color = Color3.fromRGB(102, 0, 102),
+		Callback = function(Value)
+			antiSpyEnabled = Value
+			antiChatSpy()
+		end    
+	})
+
+	ChatTab:AddSection({Name = "advanced"})
+
+	osk = 1
+	ChatTab:AddToggle({
+		Name = "спам-оск (без бана)",
+		Default = false,
+		Color = Color3.fromRGB(102, 0, 102),
+		Callback = function(Value)
+			oskSpamEnabled = Value
+			while oskSpamEnabled do
+				if osk == 1 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le Але пердокрылый хуйла шлюшенская подзалупная хуета", "All")
+					task.wait(5)
+					osk = 2
+				elseif osk == 2 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le уворачивайся от моей запы чернохуеплитический дегенерат", "All")
+					task.wait(5)
+					osk = 3
+				elseif osk == 3 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le я ща твоей потаскухе шлюхо матери череп хуем пробью кину тоего батька через реку", "All")
+					task.wait(5)
+					osk = 4
+				elseif osk == 4 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le ты нищее дегенеративное утребье которое в очко долбил прадед", "All")
+					task.wait(5)
+					osk = 5
+				elseif osk == 5 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le давай нахуй отцов пересчитывай своих я уже заебался слишком мало человек тя там долбит", "All")
+					task.wait(5)
+					osk = 6
+				elseif osk == 6 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le хуесос патлатый чо ты там плачешь в хуй раб ща твоей маме гнилозубой 3 оставшиеся зуба выбью", "All")
+					task.wait(5)
+					osk = 7
+				elseif osk == 7 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("ты фрик ебаный под напором моей спермы из мармелада превратился в черную поганду", "All")
+					task.wait(5)
+					osk = 8
+				elseif osk == 8 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le але мудоногий вафлепидешь ты сын пробляди тухлодырой просто копроеб низкорослый я же кончу твоей мамаше на могилу", "All")
+					task.wait(5)
+					osk = 9
+				elseif osk == 9 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le там толпа ебет твоего батька за котлету он там полудохлый уже лежит", "All")
+					task.wait(5)
+					osk = 10
+				elseif osk == 10 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le твоя бабка колясочница блядная мне минет за пачку сухариков 3 месяца делала она здохла быстрее чем я предполагал не успела сделать мне минет на память", "All")
+					task.wait(5)
+					osk = 11
+				elseif osk == 11 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le але ты же наикопрохуила я же твоего жирного небритого батька смусорки достал после того как он от меня хуем в рыло получал", "All")
+					task.wait(5)
+					osk = 12
+				elseif osk == 12 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le Але ты че тут нахуй озверевшея обезьяна тухлодырая пытаешься просраться у меня под ногами", "All")
+					task.wait(5)
+					osk = 13
+				elseif osk == 13 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le тише ты сейчас будешь получать мощные тычки хуем по затылку", "All")
+					task.wait(5)
+					osk = 14
+				elseif osk == 14 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le але имбицильная потаскуха ты сейчас в своем же чемодане с которым ты хотел ко мне приехать полетишь в жерло вулкана", "All")
+					task.wait(5)
+					osk = 15
+				elseif osk == 15 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le сынуля куртизанской шлюхи я те ща рил вены хуем вскрою влечу тебе с 2 ног в ебучку и кричу арррр арррр", "All")
+					task.wait(5)
+					osk = 16
+				elseif osk == 16 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le ты уже тут смардное еблище на 180 скривил от такого удара", "All")
+					task.wait(5)
+					osk = 17
+				elseif osk == 17 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le сынуля пробляди дырявой какой те хаудинг нахуй сын бляди принимай богоподобный хуй в свой спермоприемник", "All")
+					task.wait(5)
+					osk = 18
+				elseif osk == 18 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le поебированная выблядь тебя в данной конференции уже пустили по кругу", "All")
+					task.wait(5)
+					osk = 19
+				elseif osk == 19 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le гнилозубый вафлепиздешь анука выплюнь яйца изо рта нищее дегенеративное утребье которое в детстве долбил в очко прадед", "All")
+					task.wait(5)
+					osk = 20
+				elseif osk == 20 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le блядохуила шлюхопропиздическая санкционная тайская шлюха я же закапывпю твою мамашу заживо на твоих глазах", "All")
+					task.wait(5)
+					osk = 21
+				elseif osk == 21 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le ты нищий сын швали подорожной я же твоего батька там пилю лазером еблан его на 2 части распилило так быстро что он не успел мне там помолиться", "All")
+					task.wait(5)
+					osk = 22
+				elseif osk == 22 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le давай ебало подбей сын свиноматки а то я ща те швабру в очко начну сувать", "All")
+					task.wait(5)
+					osk = 23
+				elseif osk == 23 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le Блять сука але сын свиноматки ебированной всей калифорнии что ты тут пиздишь", "All")
+					task.wait(5)
+					osk = 24
+				elseif osk == 24 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le сынуля шаболды жирной нахуй давай вылизывай потные яйца своего жирного небритого отчима", "All")
+					task.wait(5)
+					osk = 25
+				elseif osk == 25 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le перхоть подзалупная что ты можешь противопоставить я ща с мексиканским картелем влетаем к те на хату убиваем твою шваль мамашу жирную", "All")
+					task.wait(5)
+					osk = 26
+				elseif osk == 26 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le на ран зе гантлит сняли видео как мы ее потрашили нахуй", "All")
+					task.wait(5)
+					osk = 27
+				elseif osk == 27 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le але скотопиздыц кривозубый сынуля падали тумбоголовой ты знаешь как мой член проскальзывал по анальным тунелям твоей матери", "All")
+					task.wait(5)
+					osk = 28
+				elseif osk == 28 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le Че ты там себе начинаешь свечки в анус сувать походу ты страдаешь от собственной не вьебучести", "All")
+					task.wait(5)
+					osk = 29
+				elseif osk == 29 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le отрыжка папиного хуя давай уже втопи ебало вылизывай древнегреческий клитор своей толстой шлюхо матери", "All")
+					task.wait(5)
+					osk = 30
+				elseif osk == 30 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le я же те очко разорвпл хуем и спермой залил ты раздулся я тя запустил пинком к тебе в окно", "All")
+					task.wait(5)
+					osk = 31
+				elseif osk == 31 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le ослина ебированная у тя семья мои гнилые рабы я же ща в берцах белыми шнурками буду подошвой давить интимную стрижку", "All")
+					task.wait(5)
+					osk = 32
+				elseif osk == 32 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le твоего батька я тя нахуц подвесил как морковку в майнкрафте для свиней проеормил потомство", "All")
+					task.wait(5)
+					osk = 33
+				elseif osk == 33 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le слизывай лечебную сметану с моего хуя собака гнилая ты обычный сперматозоид вытекающий с моей уретры", "All")
+					task.wait(5)
+					osk = 34
+				elseif osk == 34 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le просто признац что ты слаб и я тебя только что отпинал ногами выблядка", "All")
+					task.wait(5)
+					osk = 35
+				elseif osk == 35 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le разрублю тебя пополам нищий сынок полумертвого коня", "All")
+					task.wait(5)
+					osk = 36
+				elseif osk == 36 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le але ебаная патчерица я же ща твой гнилой ебасос по кругу пускать буду", "All")
+					task.wait(5)
+					osk = 37
+				elseif osk == 37 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le Тебе мать ебали але в хуй пиши мне бырее", "All")
+					task.wait(5)
+					osk = 38
+				elseif osk == 38 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le свинья ебало подбей у тя батек хач ебливый который твою мохнатую раздробленную пизду своим хуем выпотрошил полностью", "All")
+					task.wait(5)
+					osk = 39
+				elseif osk == 39 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le я те сказал ебало закрыла ебаная ротовыебанная обезьяна занимающаяся проституцией на хуе своего гнилозубого хачееба отца", "All")
+					task.wait(5)
+					osk = 40
+				elseif osk == 40 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le Дура ебаная ты че на мой хуй рыпаешься тебе же ща все ебало вскрою своим богоподобным членом", "All")
+					task.wait(5)
+					osk = 41
+				elseif osk == 41 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le Инфантильная шлюха ебало свое закрой и начни впитывать миллионы фактов в свое продырявленное моим хуем ебало", "All")
+					task.wait(5)
+					osk = 42
+				elseif osk == 42 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le Я же тебе щас яйцами все твои глаза выбью дочь куртизанской грязной свиноты жирной 300 килотонн бля", "All")
+					task.wait(5)
+					osk = 43
+				elseif osk == 43 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le Але копрофильная лупоглазая блядинка тебе же когда твою шлюхомать на белазе переезжали белаз чуть не утонул в ее пузе она как черная дыра нахуй", "All")
+					task.wait(5)
+					osk = 44
+				elseif osk == 44 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le Ты че у тя бабку твою пузатую сиротку на колесо камаза намотало и 30 раз переебашило в блендере", "All")
+					task.wait(5)
+					osk = 45
+				elseif osk == 45 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le Твой батек спермобак ща пойдет тебе свой фимозный хуек сувать в твою ротовую полость где нет языка он в остался в анале твоего прадеда", "All")
+					task.wait(5)
+					osk = 46
+				elseif osk == 46 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le Ты че беззубая мусорница я же тебя ща за волосы возьму начну по всему твоему шалашу раскручивать нахуй", "All")
+					task.wait(5)
+					osk = 47
+				elseif osk == 47 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le Ау хуесосница я ща пойду твой череп испепелять лазером из головки моего хуя", "All")
+					task.wait(5)
+					osk = 48
+				elseif osk == 48 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le Потаскуха нахуй за пивом мне метнулась быстро я те этой банкой ща пропасть сделаю в твоем пустом черепе", "All")
+					task.wait(5)
+					osk = 49
+				elseif osk == 49 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le Ты че бля я ща приду твою матушку вросшую в диван возьму за ебало и начну его выкручивать нахуй", "All")
+					task.wait(5)
+					osk = 50
+				elseif osk == 50 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le паскудница я тебе говорю ща тя просто в землю втоптаю ты там будешь червей жрать выдра ебанутая стремная", "All")
+					task.wait(5)
+					osk = 51
+				elseif osk == 51 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le чета ты сын шлюхи прихуел тут я смотрю может те давно череп не пробивали хуем", "All")
+					task.wait(5)
+					osk = 52
+				elseif osk == 52 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le Или я все не как не пойму давай ка я те тута щас скважину вьебу во лбу и ты нахуй будешь туда говнеца принимать покуда во рту места нет", "All")
+					task.wait(5)
+					osk = 53
+				elseif osk == 53 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le Закрой там еблище своё идиот ебучий черный сын шлюхи ты куда там убежало с этой конференции в надежде что тебя это спасет или что я не могу толком то понять", "All")
+					task.wait(5)
+					osk = 54
+				elseif osk == 54 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le естественно от тебя ничего не остаётся тут ты поняла нет мышцы напряги свои и начни выдавать отпор какой либо пока тебе пизда тут окончательно не пришла", "All")
+					task.wait(5)
+					osk = 55
+				elseif osk == 55 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le баная нахуйница сидит и терпит пока я его мать хачиху ебашу во все щели с эхом как в онигарском водопаде", "All")
+					task.wait(5)
+					osk = 56
+				elseif osk == 56 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le я те тута щас ряд еблище раскрою Ты чё мне тут начинаешь пиздеть дочь шлюхи я же тебя разъебашу мне даже не придется силы тратить", "All")
+					task.wait(5)
+					osk = 57
+				elseif osk == 57 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le ты же ебанутая девчонка которая думает что сможет вывезти меня ты очень сильно ошибаешься", "All")
+					task.wait(5)
+					osk = 58
+				elseif osk == 58 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le a я тебя выебу как нехуй делать и будешь выжимать из себя соки чтобы ответить мне самому богу твоих родителей", "All")
+					task.wait(5)
+					osk = 59
+				elseif osk == 59 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le свои слова которые ты высераешь и понимаешь насколько ты позорище и потом начнёшь мне в лс плакаться извинятся за твои слова и ты будешь думать что приму твои извинения", "All")
+					task.wait(5)
+					osk = 60
+				elseif osk == 60 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le но ты ты ошибаешься так как ты дочь шлюхи которая ебётся каждый раз", "All")
+					task.wait(5)
+					osk = 61
+				elseif osk == 61 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le при рождении она уж ебалась с отчимом которые ебашил в ней струек спермы", "All")
+					task.wait(5)
+					osk = 62
+				elseif osk == 62 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le тут же ты нахуй отлетишь от хуя моего и тебе даже не кто не поможет ты же думаешь что тебе помогут", "All")
+					task.wait(5)
+					osk = 63
+				elseif osk == 63 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le ты же максимум позовешь своих подружек на мой хуй", "All")
+					task.wait(5)
+					osk = 64
+				elseif osk == 64 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le твои подружки подсосы которые в силах отсосать у меня членок и пойти спать в свой сарай где уж бомжы твою мамашу ебашут", "All")
+					task.wait(5)
+					osk = 65
+				elseif osk == 65 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le даже не надо объяснить что я тут сильный а ты слабак которые возомнил себя царем ты такой смешной однако", "All")
+					task.wait(4)
+					osk = 66
+				elseif osk == 66 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le внутри тебя сперма моих дружков давай щас бел глупостей ты отсосешь мне по классике как ты обычно умеешь", "All")
+					task.wait(5)
+					osk = 67
+				elseif osk == 67 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le и я забью на тебя хуй и перестану трогать и ты будешь выгоде и ты всегда будешь радоваться тому моменту когда я свой пенис буду пихать к твоим губам", "All")
+					task.wait(5)
+					osk = 68
+				elseif osk == 68 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le да кстати ты уж сожрал мое говно я тебе дал свой кал жрать а ты его так доел сильно что ты просила добавки ты же даже в жизни не знаешь", "All")
+					task.wait(5)
+					osk = 69
+				elseif osk == 69 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le Слушай сюда пиздонаркогейша я же начну тебя ебать по всем фронтам также как твоего хуесоса отца на сво", "All")
+					task.wait(5)
+					osk = 70
+				elseif osk == 70 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le ты же слабая трансуха мне похуй кто ты я тебя ебал слабая дочурка хуеты я же тя об столб заебашил я тя с небоскреба кидал в тя тор молниями ебашил под 100000 вольт", "All")
+					task.wait(5)
+					osk = 71
+				elseif osk == 71 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le я тя яйцами душил ты от моего хуя получала удары что ты увидела спутник с которого я твоей матери сперму спустил", "All")
+					task.wait(5)
+					osk = 72
+				elseif osk == 72 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le А ну-ка ты нахуй ебасос хуеплетный я же ща начну пулять тебя в стратосферу ебаный пиздоблядский лохматый чмырь", "All")
+					task.wait(5)
+					osk = 73
+				elseif osk == 73 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le яш щас буду ебашить тебя шваль тухлодырая", "All")
+					task.wait(5)
+					osk = 74
+				elseif osk == 74 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le А ну-ка свой еблет всосала дочура щлюхи я те нахуй все кости вы ломаю наизнанку", "All")
+					task.wait(5)
+					osk = 75
+				elseif osk == 75 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le я твоей матери палками по её уродливому лобку ебашил ну ну бля попизди в хуй пиздохуесоска", "All")
+					task.wait(5)
+					osk = 76
+				elseif osk == 76 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le Я тя нахуй как рыбу буду вскрывать я тя об тумбу уебал шлюхоподобная свиноте мразота", "All")
+					task.wait(5)
+					osk = 77
+				elseif osk == 77 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le я те меч в жопу сувал ща поминутно начну ебать тя ты своим спермоприемником будешь лизать мне хуй хуераспиздяйка у ты блять выродка залупы", "All")
+					task.wait(5)
+					osk = 78
+				elseif osk == 78 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le внутри тебя сперма моих дружков давай щас бел глупостей ты отсосешь мне по классике как ты обычно умеешь", "All")
+					task.wait(5)
+					osk = 79
+				elseif osk == 79 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le и я забью на тебя хуй и перестану трогать и ты будешь выгоде и ты всегда будешь радоваться тому моменту когда я свой пенис буду пихать к твоим губам", "All")
+					task.wait(5)
+					osk = 80
+				elseif osk == 80 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le да кстати ты уж сожрал мое говно я тебе дал свой кал жрать а ты его так доел сильно что ты просила добавки ты же даже в жизни не знаешь", "All")
+					task.wait(5)
+					osk = 81
+				elseif osk == 81 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le Слушай сюда пиздонаркогейша я же начну тебя ебать по всем фронтам также как твоего хуесоса отца на сво", "All")
+					task.wait(5)
+					osk = 82
+				elseif osk == 82 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le ты же слабая трансуха мне похуй кто ты я тебя ебал слабая дочурка хуеты я же тя об столб заебашил я тя с небоскреба кидал в тя тор молниями ебашил под 100000 вольт", "All")
+					task.wait(5)
+					osk = 83
+				elseif osk == 83 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le я тя яйцами душил ты от моего хуя получала удары что ты увидела спутник с которого я твоей матери сперму спустил", "All")
+					task.wait(5)
+					osk = 84
+				elseif osk == 84 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le А ну-ка ты нахуй ебасос хуеплетный я же ща начну пулять тебя в стратосферу ебаный пиздоблядский лохматый чмырь", "All")
+					task.wait(5)
+					osk = 85
+				elseif osk == 85 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le я в тя комочками из спермой пулял ты же слабая подсоска хуя моего ты никому не известная детя шлюхи медленная хуета ща хуем те ебало скрою", "All")
+					task.wait(5)
+					osk = 86
+				elseif osk == 86 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le Ты еще поклониться моему волшебному дилдаку будешь", "All")
+					task.wait(5)
+					osk = 87
+				elseif osk == 87 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le Ебаная шлюха щя начну ебать тя камнями по еблету залупой на Марс к Илону Маску запущу он тя выебет пиздохарактерную подзалупную ебаподсоску", "All")
+					task.wait(5)
+					osk = 88
+				elseif osk == 88 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Тle le le le le le le le ы же нахуй поеботна блядопиздеща я же нахуй твоего отца заебаширую своими сильными ногами маленькая хуебродопиздатая чмырила, прыщявая залупень", "All")
+					task.wait(5)
+					osk = 89
+				elseif osk == 89 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le Ты нахуй как мармелад под огнем превратилась в черную поганку от моей спермы ты вместо воды будешь пить мою спермоту", "All")
+					task.wait(5)
+					osk = 90
+				elseif osk == 90 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le ты детишка алконаркоцигана со своими собутыльниками отсосали хуи по размеру к их гнилозубому рту", "All")
+					task.wait(5)
+					osk = 91
+				elseif osk == 91 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le ты же нахуц пиздец какая слабая и даже не пизди что ты мою мать ебал потому что даже женщина заебашит такую слабую хуетень как ты", "All")
+					task.wait(5)
+					osk = 92
+				elseif osk == 92 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le Ты де уже от пота выявленным моим хуем задыхаешься ты просто черножопая грязная своей жизнью хуеглотное дерьмо", "All")
+					task.wait(5)
+					osk = 93
+				elseif osk == 93 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le вскройся также как это сделал твой бухой узбек отец на сво", "All")
+					task.wait(5)
+					osk = 94
+				elseif osk == 94 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le ну ты же нахуй цель для буллинга все сильнее заглатываешь мой хуй", "All")
+					task.wait(5)
+					osk = 95
+				elseif osk == 95 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le я своим металлическим членом достал до твоего желудочного сока но место него там была моя сперма", "All")
+					task.wait(3)
+					osk = 96
+				elseif osk == 96 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le которая появилась из за твоего тупого отца яйцебродного которого заебашить даже букашке не составит особого труда", "All")
+					task.wait(5)
+					osk = 97
+				elseif osk == 97 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le я тебе в натуре буду пробивать в твое обосанное ебло каждые 5 секунд потому что я буду доводить тебя до смерти старенькая коза", "All")
+					task.wait(5)
+					osk = 98
+				elseif osk == 98 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le Ты же нахуй понимаешь что я буду ебать тебя до смерти без секунды отдыха просто нахуй скажи уже что ты слабость которая насасывает мне хуй", "All")
+					task.wait(5)
+					osk = 99
+				elseif osk == 99 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le Такая мразотина яж твою колясочницу бабушку выбросил в окно и она прилетела в твой ничтожный еблет осла ебаного", "All")
+					task.wait(5)
+					osk = 100
+				elseif osk == 100 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le ну уже просто втопи свое еблище в могилу твоей матери, твоец матери краном уебали в ебло ты же нахуй не по смеешь даже высрать 1 слово", "All")
+					task.wait(5)
+					osk = 101
+				elseif osk == 101 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le против такого могущественого как я который холодно кровно заебашировал всю твою семью ты же нахуй слабая шлюхидзе скунсиха от которой за километр пахнет моей спермой просто нахуй", "All")
+					task.wait(5)
+					osk = 102
+				elseif osk == 102 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le лузани шалавка ебаная", "All")
+					task.wait(5)
+					osk = 103
+				elseif osk == 103 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le Анука але вафлепиздище вафлехуильное анука соси мой обконченный дилдак который выебал в анал твою бездарную шлюшенскую", "All")
+					task.wait(5)
+					osk = 104
+				elseif osk == 104 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le шлюхо мамашу прошмандовку але утребье я щя буду ебашить твою мандохвостого отца камнями по голове я со спутника спущю", "All")
+					task.wait(5)
+					osk = 105
+				elseif osk == 105 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("тle le le le le le le le ы же сам блядоблядинская проблядная чернохуеплитическая мандорылая чернорылая пиздорылая фуфловое мразеебированная млепопитающая", "All")
+					task.wait(5)
+					osk = 106
+				elseif osk == 106 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le засунь огурец в пизду твоей мертвой бездарной губке матери я же здал эту чушку на мясо комбинат к таким же свиноподобным", "All")
+					task.wait(5)
+					osk = 107
+				elseif osk == 107 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le свинорылым свиньям которые бяли такими же паскуда и прошмандовками как и твоя шлюхидза потаскуха матушка ты знал что я вырезал", "All")
+					task.wait(5)
+					osk = 108
+				elseif osk == 108 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le ее древнегреческий клитор выкопанный племеним древних ацтеков ножницами и с моей сперомой скормил твоему козлоссаному ничтожеству блядотворенскуму копрохую жирному небритому отчима", "All")
+					task.wait(5)
+					osk = 109
+				elseif osk == 109 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le он ебет тебя стручком в 3 см всю ночь а ты ахаешь будто увидел как я режу сиськи твоей проблядоблядухе мертвой шаболде атери которая делала мне минет 3 месяца за пачку сухариков с котлетой", "All")
+					task.wait(5)
+					osk = 110
+				elseif osk == 110 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le она будет получать тотальные проблемы от моего члена перейдем на твою старую потаскуху шлюхо бабушку я же ей выбивал ее вставную челусть купленные на последние гроши", "All")
+					task.wait(5)
+					osk = 111
+				elseif osk == 111 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le потому что она такая же мудоногая кривозубая гнилозубая мандохвостная жирная блядуха ей пора в гроб я лично на кончаю ей на могилку поставлю ей там ф как твоей матери", "All")
+					task.wait(5)
+					osk = 112
+				elseif osk == 112 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le хорошая женщина была всегда мне давала как только я попрощу ее спермоприемник уже выглядед как белый экран жаль что они все здохли", "All")
+					task.wait(5)
+					osk = 113
+				elseif osk == 113 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le пока что кроме тебя чушкохуила я же распелю тебя бензопилой пополам а потом выложу как расчлененку я посмотрю как ты будешь хрюкать", "All")
+					task.wait(5)
+					osk = 114
+				elseif osk == 114 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le когда я буду резать тебе твою глотку ты же просто свинорылый козлоссаный свиняра подсоска моего хуя", "All")
+					task.wait(5)
+					osk = 115
+				elseif osk == 115 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le ты же просто хитроебированный сынок жирной мертвой шлюхидзы шлюхоблядиной прошмандоки которую наркоманы хуярили по пузу пока же я говорил", "All")
+					task.wait(5)
+					osk = 116
+				elseif osk == 116 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le ты уже здох от ебейшего напора моей спермы бездарное утребье ебаный пасынок жирной шаболды", "All")
+					task.wait(5)
+					osk = 117
+				elseif osk == 117 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le я же распелю тебя бензопилой пополам а потом выложу как расчлененку я посмотрю как ты будешь хрюкать когда я буду резать тебе", "All")
+					task.wait(5)
+					osk = 118
+				elseif osk == 118 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le твою глотку ты же просто свинорылый козлоссаный свиняра подсоска моего хуя ты же просто хитроебированный сынок жирной мертвой", "All")
+					task.wait(5)
+					osk = 119
+				elseif osk == 119 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le шлюхидзы шлюхоблядиной прошмандоки которую наркоманы хуярили по пузу пока же я говорил ты уже здох от ебейшего напора моей", "All")
+					task.wait(5)
+					osk = 120
+				elseif osk == 120 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le спермы бездарное утребье ебаный пасынок жирной шаболды анука сосо мой член 0 отпора безприемное хуета ложись в гроб", "All")
+					task.wait(5)
+					osk = 121
+				elseif osk == 121 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le я буду него кончать как и твоей полоумной шлюхо пиздапроблной бляди матери", "All")
+					task.wait(5)
+					osk = 122
+				elseif osk == 122 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le Блядоблятский пиздонутый вафледрон анука соси мой обконченный дилдак суванный в пидзу твоей козлоссущей шлюхо мамаше выебнаая", "All")
+					task.wait(5)
+					osk = 123
+				elseif osk == 123 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le перхотью подзалупной уворачивайся от моей залупы ктребье а то я уебу яйцами те по глазам они у тебя под диван укатяться будешь по всей хате ебало собирать", "All")
+					task.wait(5)
+					osk = 124
+				elseif osk == 124 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le Троллинг бедная девочка обиделась на мои факты про тебя у тебя уж пизда задроченая малоимущий умирай уж в муках собака ебливая", "All")
+					task.wait(5)
+					osk = 125
+				elseif osk == 125 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le каждый раз при обстоятельствах будешь у меня под столом мой членок обсасывать и мою сперму в себя принимать ты уж этим заниматься любишь так что приказам моим ты уж всегда готова", "All")
+					task.wait(5)
+					osk = 126
+				elseif osk == 126 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le Максимум высри из своего ротика говнище, я буду хуярить твой текст своим королевским агрегатом, сделаю печать на твой лобешник,", "All")
+					task.wait(5)
+					osk = 127
+				elseif osk == 127 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le там будет написано тупой сынок шлюшенции, ибо ты выписал мне в хуй срутекст своими жирненькими копытцами, ебать ты сынище мутации", "All")
+					task.wait(5)
+					osk = 128
+				elseif osk == 128 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le старался так и влетел в мой хуй,мдаа можно спокойно въебать тебе троический ударок в печень за твою микрообъебануюю деградированную текстовку", "All")
+					task.wait(5)
+					osk = 129
+				elseif osk == 129 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le ты же сыночек шмарообъебки будешь доедать за мной объедки,точнее частицы своей дегролированной матухи спермобанки,", "All")
+					task.wait(5)
+					osk = 130
+				elseif osk == 130 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le я в неё столько спермы влил ,что ты просто наешься до отвала будешь пить из своей мамы, а если ослушаешься возьму и сдеру с тебя твою мутированную кожецу,", "All")
+					task.wait(5)
+					osk = 131
+				elseif osk == 131 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le для меня ты всего лишь хуесос высравший из себя мало по малу, ибо твои наделенные деградацией тексты пошли дефать моё ахуенное чтиво,", "All")
+					task.wait(5)
+					osk = 132
+				elseif osk == 132 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le щас же я возьму просто и испепелю твою мать своим хуйцом и разрежу все её микрохуемподорванные частицы деградации,", "All")
+					task.wait(5)
+					osk = 133
+				elseif osk == 133 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le ты же сынок блядусии как заурядный пасынок будешь выдан на обед моему хую,буду ебать твой ротик и кончать в тебя,", "All")
+					task.wait(5)
+					osk = 134
+				elseif osk == 134 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le а ты будешь все это глотать,я сделаю из тебя последнюю шлюшку, хотя в твоей линии есть и дочерние клетки ,я избавлю тебч от них ебанув на тебя тупогорильную чмышку клеймо,", "All")
+					task.wait(5)
+					osk = 135
+				elseif osk == 135 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le ты же в свою очередь пойдешь на линию отбора ,где и будут ебать твою ничтожномямлющую тушку", "All")
+					task.wait(5)
+					osk = 136
+				elseif osk == 136 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le слышишь рабоблядь ,я расстреляю ноги твоему бати ,возьму его голову и буду ебашить в неё из дробовика ,а после перейду на мать и выбью из неё все свиные кости,", "All")
+					task.wait(5)
+					osk = 137
+				elseif osk == 137 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le а тебя в свою очередь я пропущу через мясорубку и сделаю фаршеподобное изделие , будешь фрикаделькой, буду наслаждаться твоей ничтожной плотью сыночек шлюхематочной продукции", "All")
+					task.wait(5)
+					osk = 138
+				elseif osk == 138 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le я твою мамашу ебал дерьмо ебанное быстрее в руки себя взяла козлина ебучая будешь тут мне отсасывать на постоянной основе", "All")
+					task.wait(5)
+					osk = 139
+				elseif osk == 139 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le телочка ебанная я тебе нахуй тут сосалище объебашу кулаками дерьмо ебучее будешь у меня тут на постоянной основе лещей получать", "All")
+					task.wait(5)
+					osk = 140
+				elseif osk == 140 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le теленок ебучий что ты тут пытаешься нахуй я тебе тут один хуй сломаю все сосалище ебанная тряпка", "All")
+					task.wait(5)
+					osk = 141
+				elseif osk == 141 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le молись сколько хочешь тебе никто не поможет осилить мою залупу в этом противостоянии тряпичная мизерная куртизанская банкаброшница", "All")
+					task.wait(5)
+					osk = 142
+				elseif osk == 142 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le что будет тут на постоянной основе получать у меня в рыгалище тварь ебаная я тебе сказал в руки себя щеглина ебанная", "All")
+					task.wait(5)
+					osk = 143
+				elseif osk == 143 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le будешь же тут всеми своими слабыми силами надрачивать мою залупу щегол ебучий я твою мамашу шлюху ебал пошел нахуй отсюда сынуля", "All")
+					task.wait(5)
+					osk = 144
+				elseif osk == 144 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le шалавы ты перекошенный тебе же тут пизды сынку шалавы дадим обоссыв твою глазницу терпила ебанная будешь тут своей черепной коробкой", "All")
+					task.wait(5)
+					osk = 145
+				elseif osk == 145 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le обороняться от моей залупы терпилоид ебучий тебе тут каждый мать ебал что ты тут пытаешься отсосница ебанная я твое ебало нахуй", "All")
+					task.wait(5)
+					osk = 146
+				elseif osk == 146 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le тут вытрахаю кидая его в масленицу терпила ебанная в руки себя взяла и начала мне показывать что ты из себя представляешь терпильная хуесосущая тряпка", "All")
+					task.wait(5)
+					osk = 147
+				elseif osk == 147 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le тут которую я буду кидать тут по пентаграмме мусорщица ебанная я тебе тут нахуй буду кости ломать пока ты будешь здесь истошно орать", "All")
+					task.wait(5)
+					osk = 148
+				elseif osk == 148 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le сын шалавы перекошенный завали свое ебало сынуля шлюхи ебучий тебе же тут один хуй сынку шалавы сломаем все ебало кидая в него харчи и рапиры", "All")
+					task.wait(5)
+					osk = 149
+				elseif osk == 149 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le я твою мамашу ебал так что не замедляйся тряпка глупейшая", "All")
+					task.wait(5)
+					osk = 150
+				elseif osk == 150 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le я твою мамашу ебал чушак ебучий тебе сказано тут показывать весь свой нулячий скилл в виде своих отсосов девчонка ебучая", "All")
+					task.wait(5)
+					osk = 151
+				elseif osk == 151 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le я тебе тут буду на постоянной основе кидать маслянистые харчи в ебалище будешь ими умывать свой говнистый ебальник сын шалавы ебанный", "All")
+					task.wait(5)
+					osk = 152
+				elseif osk == 152 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le я твою мамашу ебал попросту что ты мразь ебанная лоускильная хуесоска пытаешься тебе никогда не осилить меня на фантазии", "All")
+					task.wait(5)
+					osk = 153
+				elseif osk == 153 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le просто прими факт того что ты ебанная мразота попросту никогда и никого тут не осилишь", "All")
+					task.wait(5)
+					osk = 154
+				elseif osk == 154 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le что на выдержке что на фантазии кидая мне свою немыслимую трепотню девчонка ебучая я тебе попросту тут сосалище в ошметки превращу чуркабес ебучий", "All")
+					task.wait(5)
+					osk = 155
+				elseif osk == 155 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le будешь тут своими лоускильными текстами выживать тут у меня слышишь телочка ебанная я твою мамашу шалаву ебанную ебу", "All")
+					task.wait(5)
+					osk = 156
+				elseif osk == 156 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le тут в дерьмище превращу один хуй ты тряпка говнистая будешь тут своим упитанным ебалищем набирать залупы в свой зубной состав вместо пломбы", "All")
+					task.wait(5)
+					osk = 157
+				elseif osk == 157 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le телочка ебучая пиздец тебе же сынку падали шаблонизированной тут пиздец слышала телочка ебучая собирай уже все свои силы воедино", "All")
+					task.wait(5)
+					osk = 158
+				elseif osk == 158 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le и показывай мне отсосы в хорошем качестве чтобы я тебя мразоту ебанную тут попросту не начал раскидывать по всем отделам дерьмеца который летит в твое ебалище интуитивно", "All")
+					task.wait(5)
+					osk = 159
+				elseif osk == 159 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le телочка ты ебучая наислабейшая", "All")
+					task.wait(5)
+					osk = 160
+				elseif osk == 160 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le ты попросту у меня тут будешь высижывать последние свои дни жизни и вкачиваться смотря на мои объемные текста и отсасыват одну громадную залупу", "All")
+					task.wait(5)
+					osk = 161
+				elseif osk == 161 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le чурочка ебучая я тебе тут попросту мать ебал хуесос лоускильный ничтожный ничего из себя не представляющий", "All")
+					task.wait(5)
+					osk = 162
+				elseif osk == 162 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le телочка я тебе говорю не смей даже противиться мне я тебе нахуй ебало все перетрахаю что ты ебанная терпила еще годами в себя прийти не сможешь", "All")
+					task.wait(5)
+					osk = 163
+				elseif osk == 163 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le ебанная мразота говорю реще собирай все свои силы в кулак и начинай мне показывать как ты умеешь наяриватьмою залупу своими ебучими сраными культяпками", "All")
+					task.wait(5)
+					osk = 164
+				elseif osk == 164 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le которые я тебе отбил в ходе харкания в ебалище твоей матери шалаве дерьмище ебанное", "All")
+					task.wait(5)
+					osk = 165
+				elseif osk == 165 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le ты ебучая терпила тебе тут будем на постоянной основе кидать харчки в ебало дабы ты ебанная блевотина понимала что со мной бесполезно конкурировать в чем либо", "All")
+					task.wait(5)
+					osk = 166
+				elseif osk == 166 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le ведь твое ебалище гнилое будет постоянно находиться в опасности и страхе ведь моя залупа полностью пронзит и насквозь твою сосальню сынок шлюхи ебучий", "All")
+					task.wait(5)
+					osk = 167
+				elseif osk == 167 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le я тебе говорю не отсоси здесь тебе никакие шаблоны тут не помогут знай это терпила ебанная я же буду тебе ебалище переламывать на постоянной основе", "All")
+					task.wait(5)
+					osk = 168
+				elseif osk == 168 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le чуркабес ебучий ты уже сжился с тем фактом что твоя мать шлюха сделает тут мне минет и съебется нахуй пока я буду сокрушать твое ебалище меж галлактики", "All")
+					task.wait(5)
+					osk = 169
+				elseif osk == 169 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le ебанная мусорница я тебе говорю не смей тут отсосать шимпанзе ебучее тебе же тут сынку падали все ноги нахуй переломаю за твои попытки отсосать мою залупу на камеру", "All")
+					task.wait(5)
+					osk = 170
+				elseif osk == 170 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le патлатый длиноволоссый скуфурезный тупейший сын рабопидораса ебанного жирного нахуй толстоеблый прыщавый омежный сын шлюхи что гниет понорвстающе на моем елданище", "All")
+					task.wait(5)
+					osk = 171
+				elseif osk == 171 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le встанем вдвоем меж ног твоей матери копро бляди и будем харкать в ее жирноою отраханное жерло будтно она не человек", "All")
+					task.wait(5)
+					osk = 172
+				elseif osk == 172 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le а просто выблядко подобная трипоблядская пиздаеблая полузгнившая дочура черной хуйни хуй держи в зубах своих", "All")
+					task.wait(5)
+					osk = 173
+				elseif osk == 173 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le сыняра ебанной выдры залупу мою чещешь при этом тыкая по клаве клава мой хуй тыкай быстрее дерьмоедливый сынок копроблядиты просто потеха ебаннаянахуй", "All")
+					task.wait(5)
+					osk = 174
+				elseif osk == 174 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le не на что не способная которая ищет тут оправдания сосируя мой богоебский половой агрегат накрозависиый блядотный увалень четопиздит своим сальным непропорциональным еблом", "All")
+					task.wait(5)
+					osk = 175
+				elseif osk == 175 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le пытаевьшсись достигунть своей главной цели в жизни а именно отсосать мой детародный орган качественно и без хуйни я тыою мамашу ебалником", "All")
+					task.wait(5)
+					osk = 176
+				elseif osk == 176 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le не известный сынуля шлюхикоторый сидит врежиметерпилыебучейиполучаетпизды от каждегоя тя слабака ебанного буду хуесосить терпи унижения сын шлюхи", "All")
+					task.wait(5)
+					osk = 177
+				elseif osk == 177 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le я твою мать ебал тебе ноавиься мое мамаебство хуйлуша ебливая я тебе рога сломаю тут за твой базар петух ебаный еблище своё", "All")
+					task.wait(5)
+					osk = 178
+				elseif osk == 178 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le нахуй завали шерсть ебучая чисто я кста в зубы твоей матери с ноги влетал сынише ебанного говна тут нахуй решил моему пенису", "All")
+					task.wait(5)
+					osk = 179
+				elseif osk == 179 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le нахуй сопоставить чото ртом своей жировыебанной свинорылой матухи в итоге ща сосируя мне им нахуй пытаясь душу высосать из моего королевского нахуй волшебного хуя", "All")
+					task.wait(5)
+					osk = 180
+				elseif osk == 180 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le который одним взмахом заставить тебя примкнуть к нему своими ебаными губами и сосировать его ртом мамки твоей ебливой свиноватки", "All")
+					task.wait(5)
+					osk = 181
+				elseif osk == 181 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le в итоге нахуй получив по ебалу и начать судорожно сосать его до потери пулься нахуй", "All")
+					task.wait(5)
+					osk = 182
+				elseif osk == 182 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le пока он тебе нахуй глаза не выбил и тепбе не пришлось мою хуяку нахуй на ощуп искать ебланище ебать тупое ебаная подвальная проблядская хуета", "All")
+					task.wait(5)
+					osk = 183
+				elseif osk == 183 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le чо ты тут на деле може кроме того как сосать мою королевскую хуяку нижняя ветвь развития чото пытается сопоставить мне ртом своей матери", "All")
+					task.wait(5)
+					osk = 184
+				elseif osk == 184 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le пока его отец гоняет мои шары чтоб они ему нахуй вмятину на ебале не оставили тупорылое", "All")
+					task.wait(5)
+					osk = 185
+				elseif osk == 185 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le ебать создание я же тебя ща отьебашу нахуй и колени наизнанку выверну хуесос ебливый сосок ебаный я же ща внатуре твою мамашу ебу", "All")
+					task.wait(5)
+					osk = 186
+				elseif osk == 186 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le она пытается убежать от моего хуя чтоб он ее как в прошлый раз залупай по губам не отхуесосил ты тут сынок шлюхи черной", "All")
+					task.wait(5)
+					osk = 187
+				elseif osk == 187 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le чисто рексиш мне на хуй пиздов отхватывал от залцпф моейа ну тяни сюда ебло твоей мамаши ебем ее всей кф сын бляди у твоей", "All")
+					task.wait(5)
+					osk = 188
+				elseif osk == 188 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le матери шлюхи ебаной черепно мозговая от удара залупой рекс ебучий обхарканный бомжами сын шлбхи ты сосешь сдесь сын шлюхи с обконченым еблищем", "All")
+					task.wait(5)
+					osk = 189
+				elseif osk == 189 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le ты куда по тапкам там въебал ишак ебучий ты тут будешь страдать каждый день в моем присутствии чуркаш ебучий", "All")
+					task.wait(5)
+					osk = 190
+				elseif osk == 190 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le мать те в бронивике нбал мать те покойницу ебанную хуем пытал заплаканную дочь выдры шпиглик ебанный не боймя меня телка", "All")
+					task.wait(5)
+					osk = 191
+				elseif osk == 191 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le месим твою губастую шлюхомать передай своей матери что она шлюха траханная мною так скажем ты тут щеняра ты ебанная тупо рексик", "All")
+					task.wait(5)
+					osk = 192
+				elseif osk == 192 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le ебливый ниначто ниспособный я те мамашу зарежу нахуй копрофильный отсосный сыняра ебанной шельмы я те на рыло срал ничтожный", "All")
+					task.wait(5)
+					osk = 193
+				elseif osk == 193 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le рабопидорас ты сынуля шлюхи ебанной будешь онли по еблу своему маловидному получать удары залупой ты пиздец блядорыльцевый сынуля", "All")
+					task.wait(5)
+					osk = 194
+				elseif osk == 194 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le хуйни не смыслящий ничего в жизни я твою мамашу ебал она брала тут по самые десна ебал твое изнасилованное сосалище харчеглотное", "All")
+					task.wait(5)
+					osk = 195
+				elseif osk == 195 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le поебенное рыльце твое разобью на пазлы нахуй те тельце твое обьебанное сынуля ты черной шлюхи ебало твое мамбетное тут трахать", "All")
+					task.wait(5)
+					osk = 196
+				elseif osk == 196 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le буду косозубая шельма бля блядоуфанатевшая тут моим пенисом дегенеративная говноедливая трущебное сынуля ты потешной говноеблой", "All")
+					task.wait(5)
+					osk = 197
+				elseif osk == 197 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le наездницы моего полового агрегата сынуля ебанной попездливой блядины кринжовая дочь фимозного пастуха рабыня ты ебанная", "All")
+					task.wait(5)
+					osk = 198
+				elseif osk == 198 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le дряблокожая ебанная дочура шлавенции деревнская шлюха твою тупую физиомюномию нахуй тут ебировать буду тумородная ты дите свиньи", "All")
+					task.wait(5)
+					osk = 199
+				elseif osk == 199 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le ебанной ебал те мамашу тут ты сынуля бляди нбанной я те матуху ебал потому что эта блядуха пришла на мусорку набила се брюхо", "All")
+					task.wait(5)
+					osk = 200
+				elseif osk == 200 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le жирное хуями блядскими эту хуесоску драли пятеро бомжей ебанных под забором она давала в пизду свою спидозную за шестнадцать рублей", "All")
+					task.wait(5)
+					osk = 201
+				elseif osk == 201 and oskSpamEnabled then
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("le le le le le le le le бля в принципе живет ваша радословная хуесосов тем что она сосет грязные елдаки как и ты сыняра шельмы ебанной", "All")
+					task.wait(5)
+					osk = 1
+				end
+				task.wait()
+			end
+		end    
+	})
+
+	ChatTab:AddTextbox({
+		Name = "chat (не забанят)",
+		Default = "",
+		TextDisappear = true,
+		Callback = function(messageToSay)
+			Players:Chat("EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE")
+			task.wait()
+			Players:Chat("/e ABC")
+			task.wait()
+			Players:Chat("le le le le le le le")
+			task.wait()
+			Players:Chat("le le le le le")
+			task.wait()
+			if repeatmsg and _what then
+				for i = 1, repeattimes do
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("                                                                                                                                       "..messageToSay, "All")
+				end
+			elseif _what then
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("                                                                                                                                       "..messageToSay, "All")
+			elseif repeatmsg then
+				for i = 1, repeattimes do
+					ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(messageToSay, "All")
+				end
+			else
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(messageToSay, "All")
+			end
+		end	  
+	})
+
+	ChatTab:AddToggle({
+		Name = "chat bypass",
+		Default = false,
+		Color = Color3.fromRGB(102, 0, 102),
+		Callback = function(Value)
+			chatBypassEnabled = Value
+			chatBypass()
+		end    
+	})
+
+	ChatTab:AddToggle({
+		Name = "mega message",
+		Default = false,
+		Color = Color3.fromRGB(102, 0, 102),
+		Callback = function(Value)
+			_what = Value
+		end    
+	})
+
+	ChatTab:AddToggle({
+		Name = "repeat message",
+		Default = false,
+		Color = Color3.fromRGB(102, 0, 102),
+		Callback = function(Value)
+			repeatmsg = Value
+		end    
+	})
+
+	ChatTab:AddTextbox({
+		Name = "repeat value",
+		Default = "3",
+		TextDisappear = false,
+		Callback = function(Value)
+			repeattimes = Value
+		end	  
+	})
+
+	local raidSymbol = "👹"
+	ChatTab:AddToggle({
+		Name = "chat raid",
+		Default = false,
+		Color = Color3.fromRGB(102, 0, 102),
+		Callback = function(Value)
+		spamen = Value
+			if spamen then
+				if raidSymbol == "👹" then
+					repeat
+						task.wait(2)
+						ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹", "All")
+					until spamen == false
+				elseif raidSymbol == "👍" then
+					repeat
+						task.wait(2)
+						ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍", "All")
+					until spamen == false
+				elseif raidSymbol == "🥵" then
+					repeat
+						task.wait(2)
+						ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵", "All")
+					until spamen == false
+				elseif raidSymbol == "😈" then
+					repeat
+						task.wait(2)
+						ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈", "All")
+					until spamen == false
+				elseif raidSymbol == "👺" then
+					repeat
+						task.wait(2)
+						ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺", "All")
+					until spamen == false
+				elseif raidSymbol == "❤️" then
+					repeat
+						task.wait(2)
+						ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️", "All")
+					until spamen == false
+				elseif raidSymbol == "💩" then
+					repeat
+						task.wait(2)
+						ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩", "All")
+					until spamen == false
+				end
+			end
+		end    
+	})
+
+	ChatTab:AddDropdown({
+		Name = "raid symbol",
+		Default = "👹",
+		Options = {"👹", "👍", "🥵", "😈", "👺", "❤️", "💩"},
+		Callback = function(Value)
+			raidSymbol = Value
+		end    
+	})
+
+	--teleport tab
+	TPTab:AddButton({
+		Name = "spawn",
+		Callback = function()
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(91, 3, -26)
+		end    
+	})
+
+	TPTab:AddButton({
+		Name = "top of the ladder",
+		Callback = function()
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(80, 147, -247)
+		end    
+	})
+
+	TPTab:AddButton({
+		Name = "bottom of the ladder",
+		Callback = function()
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(93, 3, -232)
+		end    
+	})
+
+	TPTab:AddButton({
+		Name = "green zone",
+		Callback = function()
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(70, 100, -469)
+		end    
+	})
+
+	TPTab:AddButton({
+		Name = "yellow zone",
+		Callback = function()
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(41, 106, -775)
+		end    
+	})
+
+	TPTab:AddButton({
+		Name = "pink zone",
+		Callback = function()
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(3, 188, -1188)
+		end    
+	})
+
+	TPTab:AddButton({
+		Name = "purple zone",
+		Callback = function()
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(-25, 192, -1534)
+		end    
+	})
+
+	TPTab:AddButton({
+		Name = "orange zone",
+		Callback = function()
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(-82, 282, -1824)
+		end    
+	})
+
+	TPTab:AddButton({
+		Name = "dark-yellow zone",
+		Callback = function()
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(-122, 264, -2145)
+		end    
+	})
+
+	TPTab:AddButton({
+		Name = "blue zone",
+		Callback = function()
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(-204, 264, -2620)
+		end    
+	})
+
+	TPTab:AddButton({
+		Name = "end",
+		Callback = function()
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(-238, 265, -2809)
+		end    
+	})
+
+	--[[AdminTab:AddToggle({
+		Name = "commands",
+		Default = false,
+		Color = Color3.fromRGB(102, 0, 102),
+		Callback = function(Value)
+			Player.Character.Humanoid.Seated:Connect(function()
+				if antiSitEnabled then
+					Player.Character.Humanoid.Sit = false
+				else
+					antiSitEnabled = false
+				end
+			end)
+			cmds = Value
+			Player.Chatted:Connect(function(msg)
+				local m = msg:lower()
+				if m == ";sit" and cmds then
+					Player.Character.Humanoid.Sit = true
+					task.wait()
+				elseif m == ";break" and cmds then
+					breakFullLadderEnabled = true
+					enabledNoc = true
+					stairs()
+					noclipping = RunService.Stepped:Connect(noclip)
+					brkldrfull()
+				elseif m == ";unbreak" or ";stopbreak" then
+					breakFullLadderEnabled = false
+					for i, v in pairs(workspace:GetDescendants()) do
+						if v.Name == "LB_STAIR" then
+							v:Destroy()
+						end
+					end
+					if noclipping then
+						noclipping:Disconnect()
+					end
+				elseif m == ";antisit" and cmds then
+					warn"antisit enabled"
+				elseif m == ";unantisit" then
+					antiSitEnabled = false
+				elseif m == ";spy" or ";chatspy" then
+					enabledSpy = true
+					spyOnMyself = false
+				elseif m == ";unspy" or ";unchatspy" then
+					enabledSpy = false
+					spyOnMyself = false
+				elseif m == ";publicspy" or ";publicchatspy" then
+					public = true
+				elseif m == ";spyonmyself" or ";som" then
+					spyOnMyself = true
+				elseif m == ";unspyonmyself" or ";unsom" then
+					spyOnMyself = false
+				elseif m == ";antispy" or ";antichatspy" then
+					antiSpyEnabled = true
+					antiChatSpy()
+				elseif m == ";unantispy" or ";unantichatspy" then
+					antiSpyEnabled = false
+				elseif m == ";godmode" or ";antikillpart" then
+					for i, p in pairs(workspace.Damage:GetDescendants()) do
+						if p.Name == "TouchInterest" then
+							p:Destroy()
+						end
+					end
+					for i, v in pairs(workspace:GetDescendants()) do
+						if v.Name == "TeleportPart" then
+							for i, p in pairs(v:GetDescendants()) do
+								if p.Name == "TouchInterest" then
+									p:Destroy()
+								end
+							end
+						end
+					end
+				elseif m == ";antiwarp" then
+					antiWarpEnabled = Value
+					while RunService.RenderStepped:task.wait() and antiWarpEnabled do
+						ChangeFov(70, 0.0000001)
+					end
+				elseif m == ";unantiwarp" then
+					antiWarpEnabled = Value
+				elseif m == ";killbang" then
+					local p = Player.Character.HumanoidRootPart.Position
+					Player.Character.HumanoidRootPart.CFrame = CFrame.new(65, 96, -407)
+					task.wait(0.3)
+					Player.Character.HumanoidRootPart.CFrame = CFrame.new(65, 96, -407)
+					task.wait(0.3)
+					Player.Character.HumanoidRootPart.CFrame = CFrame.new(p)
+				elseif m == ";kickbang" then
+					local p = Player.Character.HumanoidRootPart.Position
+					Player.Character.HumanoidRootPart.CFrame = CFrame.new(-245, 265, -2828)
+					task.wait(0.3)
+					Player.Character.HumanoidRootPart.CFrame = CFrame.new(-245, 265, -2828)
+					task.wait(0.3)
+					Player.Character.HumanoidRootPart.CFrame = CFrame.new(p)
+				elseif m == ";killfacebang" then
+					local p =  Player.Character.HumanoidRootPart.Position
+					Player.Character.HumanoidRootPart.CFrame = CFrame.new(65, 89, -404)
+					task.wait(0.3)
+					Player.Character.HumanoidRootPart.CFrame = CFrame.new(65, 89, -404)
+					task.wait(0.3)
+					Player.Character.HumanoidRootPart.CFrame = CFrame.new(p)
+				elseif m == ";kickfacebang" then
+					local p =  Player.Character.HumanoidRootPart.Position
+					Player.Character.HumanoidRootPart.CFrame = CFrame.new(-244, 265, -2826)
+					task.wait(0.3)
+					Player.Character.HumanoidRootPart.CFrame = CFrame.new(-244, 265, -2826)
+					task.wait(0.3)
+					Player.Character.HumanoidRootPart.CFrame = CFrame.new(p)
+				end
+			end)
+		end    
+	})]]
+
+	--defense tab
+	DefenseTab:AddSection({Name = "anti-admin"})
+
+	DefenseTab:AddToggle({
+		Name = "anti blur",
+		Default = false,
+		Color = Color3.fromRGB(102, 0, 102),
+		Flag = "AntiSitToggle",
+		Callback = function(Value)
+			pcall(function()
+				if Value then
+					if workspace.Camera.Blur then
+						workspace.Camera.Blur.Enabled = false
+					end
+				else
+					if workspace.Camera.Blur then
+						workspace.Camera.Blur.Enabled = true
+					end
+				end
+			end)
+		end    
+	})
+
+	DefenseTab:AddButton({
+		Name = "anti kill/kick part",
+		Callback = function()
+			for i, p in pairs(workspace.Damage:GetDescendants()) do
+				if p.Name == "TouchInterest" then
+					p:Destroy()
+				end
+			end
+			for i, v in pairs(workspace:GetDescendants()) do
+				if v.Name == "TeleportPart" then
+					for i, p in pairs(v:GetDescendants()) do
+						if p.Name == "TouchInterest" then
+							p:Destroy()
+						end
+					end
+				end
+			end
+		end    
+	})
+
+	DefenseTab:AddToggle({
+		Name = "anti warp",
+		Default = false,
+		Color = Color3.fromRGB(102, 0, 102),
+		Flag = "AntiWarpToggle",
+		Callback = function(Value)
+			antiWarpEnabled = Value
+			while RunService.RenderStepped:wait() and antiWarpEnabled do
+				ChangeFov(70, 0.0000001)
+			end
+		end    
+	})
+
+	DefenseTab:AddToggle({
+		Name = "anti sit",
+		Default = false,
+		Color = Color3.fromRGB(102, 0, 102),
+		Flag = "AntiSitToggle",
+		Callback = function(Value)
+			antiSitEnabled = Value
+			Player.Character.Humanoid.Seated:Connect(function()
+				if antiSitEnabled then
+					Player.Character.Humanoid.Sit = false
+				else
+					antiSitEnabled = false
+				end
+			end)
+		end    
+	})
+
+	DefenseTab:AddSection({Name = "advanced"})
+
+	DefenseTab:AddButton({
+		Name = "kill/kick facebang",
+		Callback = function()
+			if bangDefense == "kill" then
+				local p =  Player.Character.HumanoidRootPart.Position
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(65, 89, -404)
+				task.wait(0.3)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(65, 89, -404)
+				task.wait(0.3)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(p)
+			else
+				local p =  Player.Character.HumanoidRootPart.Position
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(-244, 265, -2826)
+				task.wait(0.3)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(-244, 265, -2826)
+				task.wait(0.3)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(p)
+			end
+		end    
+	})
+
+	DefenseTab:AddButton({
+		Name = "kill/kick bang",
+		Callback = function()
+			if bangDefense == "kill" then
+				local p = Player.Character.HumanoidRootPart.Position
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(65, 96, -407)
+				task.wait(0.3)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(65, 96, -407)
+				task.wait(0.3)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(p)
+			else
+				local p = Player.Character.HumanoidRootPart.Position
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(-245, 265, -2828)
+				task.wait(0.3)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(-245, 265, -2828)
+				task.wait(0.3)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(p)
+			end
+		end    
+	})
+
+	DefenseTab:AddDropdown({
+		Name = "bang-defense",
+		Default = "kill",
+		Options = {"kill", "kick"},
+		Callback = function(Value)
+			bangDefense = Value
+		end    
+	})
+
+	DefenseTab:AddToggle({
+		Name = "anti void",
+		Default = false,
+		Color = Color3.fromRGB(102, 0, 102),
+		Callback = function(Value)
+			if Value then
+				antiVoidEnabled = true
+				workspace.FallenPartsDestroyHeight = -100000
+				while Value do
+					while Player.Character.HumanoidRootPart and Player.Character.HumanoidRootPart.Position.Y < -500 and antiVoidEnabled do
+						Player.Character.HumanoidRootPart.CFrame = CFrame.new(80, 147, -247)
+						OrionLib:MakeNotification({
+							Name = "Theres a staarmaan task.waiting in the sky",
+							Content = "i will save you next time:3",
+							Image = "rbxassetid://18624604880",
+							Time = 5
+						})
+						Player.Character.HumanoidRootPart.CFrame = CFrame.new(80, 147, -247)
+						task.wait()
+					end
+					task.wait()
+				end
+			else
+				antiVoidEnabled = false
+				workspace.FallenPartsDestroyHeight = -100
+			end
+		end    
+	})
+
+	DefenseTab:AddToggle({
+		Name = "hacker detector",
+		Default = false,
+		Color = Color3.fromRGB(102, 0, 102),
+		Callback = function(Value)
+			if Value == true then
+				detected = true
+			else
+				detected = false
+			end
+		end    
+	})
+
+	DefenseTab:AddTextbox({
+		Name = "ladder transparency",
+		Default = "0.5",
+		TextDisappear = false,
+		Callback = function(Value)
+			ladderTransparency = Value
+		end	  
+	})
+
+	DefenseTab:AddToggle({
+		Name = "create my ladder",
+		Default = false,
+		Color = Color3.fromRGB(102, 0, 102),
+		Callback = function(Value)
+			if Value then
+				for i, p in pairs(workspace.Stairs:GetDescendants()) do
+					if p:IsA("Part") then
+						local k = Instance.new("Part", workspace)
+						k.Position = p.Position
+						k.Anchored = true
+						k.CFrame = p.CFrame
+						k.Size = p.Size
+						k.Name = "LB-Ladder"
+						k.Color = p.Color
+						k.BrickColor = p.BrickColor
+						k.Transparency = ladderTransparency
+						k.Material = "SmoothPlastic"
+					end
+				end
+			else
+				for i, p in pairs(workspace:GetDescendants()) do
+					if p.Name == "LB-Ladder" then
+						p:Destroy()
+					end
+				end
+			end
+		end    
+	})
+
+	DefenseTab:AddButton({
+		Name = "save checkpoint",
+		Callback = function()
+			SavedCheckpoint = Player.Character.HumanoidRootPart.Position
+			Player.CharacterAdded:Connect(function()
+				task.wait(0.2)
+				Player.Character.HumanoidRootPart.CFrame = CFrame.new(SavedCheckpoint + Vector3.new(0, 3, 0))
+			end)
+		end    
+	})
+
+	DefenseTab:AddButton({
+		Name = "delete checkpoint",
+		Callback = function()
+			SavedCheckpoint = nil
+		end    
+	})
+
+	DefenseTab:AddButton({
+		Name = "drop dolce milk (inventory)",
+		Callback = function()
+			for i, v in pairs(game.Players.LocalPlayer.Backpack:FindFirstChild("Dolce Milk")) do
+				v.Parent = game.Players.LocalPlayer.Character
+				task.wait(breakingSpeed)
+				v.Parent = workspace
+			end
+		end
+	})
+
+	DefenseTab:AddToggle({
+		Name = "auto drop dolce milk",
+		Default = false,
+		Color = Color3.fromRGB(102, 0, 102),
+		Callback = function(Value)
+			autoDropDolce = Value
+			while autoDropDolce do
+				task.wait()
+				for i, tool in pairs(Player.Backpack:GetChildren()) do
+					if tool.Parent == Player.Backpack and autoDropDolce then
+						tool.Parent = Player.Character
+						task.wait()
+						tool.Parent = workspace
+					end
+					if tool.Parent == Player.Character and autoDropDolce then
+						tool.Parent = workspace
+						task.wait()
+					end
+				end
+			end
+		end    
+	})
+
+	DefenseTab:AddToggle({
+		Name = "auto grab dolce milk",
+		Default = false,
+		Color = Color3.fromRGB(102, 0, 102),
+		Callback = function(Value)
+			autoGrabDolce = Value
+			while autoGrabDolce and not autoDropDolce do
+				task.wait(0.1)
+				for i, d in pairs(workspace:GetDescendants()) do
+					if d.Name == "Dolce Milk" and d.Parent == workspace then
+						d.Handle.CFrame = CFrame.new(Player.Character.RightLowerArm.CFrame.Position + Vector3.new(-1, -1, 0))
+					end
+				end
+			end
+		end    
+	})
+
+	--Player.Character settings tab
+	PlayerTab:AddTextbox({
+		Name = "speed",
+		Default = "",
+		TextDisappear = false,
+		Callback = function(Value)
+			Player.Character.Humanoid.WalkSpeed = Value
+			speed = Value
+		end	  
+	})
+
+	PlayerTab:AddTextbox({
+		Name = "jump power",
+		Default = "",
+		TextDisappear = false,
+		Callback = function(Value)
+			Player.Character.Humanoid.JumpPower = Value
+		end	  
+	})
+
+	PlayerTab:AddToggle({
+		Name = "infinite jumps",
+		Default = false,
+		Color = Color3.fromRGB(102, 0, 102),
+		Callback = function(Value)
+			if Value then
+				infJump = true
+				game:GetService("UserInputService").JumpRequest:Connect(function()
+					if infJump then
+						Player.Character:FindFirstChildOfClass("Humanoid"):ChangeState("Jumping")
+					end
+				end)
+			else
+				infJump = false
+			end
+		end
+	})
+
+	PlayerTab:AddTextbox({
+		Name = "gravity",
+		Default = "",
+		TextDisappear = false,
+		Callback = function(Value)
+			workspace.Gravity = Value
+		end	  
+	})
+
+	PlayerTab:AddTextbox({
+		Name = "field of view",
+		Default = "",
+		TextDisappear = false,
+		Callback = function(Value)
+			workspace.Camera.FieldOfView = Value
+		end	  
+	})
+
+	PlayerTab:AddToggle({
+		Name = "infinite zoom distance",
+		Default = false,
+		Color = Color3.fromRGB(102, 0, 102),
+		Callback = function(Value)
+			if Value then
+				Player.CameraMaxZoomDistance = math.huge
+			else
+				Player.CameraMaxZoomDistance = 150
+			end
+		end
+	})
+
+	PlayerTab:AddButton({
+		Name = "sit",
+		Callback = function()
+			if OrionLib.Flags["AntiSitToggle"].Value == true then
+				OrionLib:MakeNotification({
+					Name = "you need to disable the anti sit",
+					Content = "you cant sit with enabled anti sit",
+					Image = "rbxassetid://18624604880",
+					Time = 5
+				})
+			else
+				workspace.Gravity = 10
+				Player.Character.Humanoid.Sit = true
+				task.wait(1)
+				workspace.Gravity = 192.6
+			end
+		end    
+	})
+
+	PlayerTab:AddToggle({
+		Name = "platform stand",
+		Default = false,
+		Color = Color3.fromRGB(102, 0, 102),
+		Callback = function(Value)
+			if Value then
+				workspace.Gravity = 10
+				Player.Character.Humanoid.PlatformStand = true
+				task.wait()
+				workspace.Gravity = 196
+			else
+				Player.Character.Humanoid.PlatformStand = false
+			end
+		end
+	})
+
+	PlayerTab:AddButton({
+		Name = "r6 animation",
+		Callback = function()
+			OrionLib:MakeNotification({
+				Name = "подожди",
+				Content = "task.wait",
+				Image = "rbxassetid://18624604880",
+				Time = 1
+			})
+			loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-R6-Animations-on-R15-16865"))()
+		end    
+	})
+
+	PlayerTab:AddParagraph("defaults","| speed - 16 | jump power - 50 | gravity - 196.2 | field of view - 70 |")
+	
+	PlayerTab:AddButton({
+		Name = "сделать хуй из дольче милка",
+		Callback = function()
+			OrionLib:MakeNotification({
+				Name = "не двигайся!",
+				Content = "!!!!",
+				Image = "rbxassetid://18624604880",
+				Time = 3
+			})
+			oldpos = Player.Character.HumanoidRootPart.CFrame
+			dolceHUI1()
+		end    
+	})
+
+	PlayerTab:AddButton({
+		Name = "телепорт на прошлое место",
+		Callback = function()
+			Player.Character.HumanoidRootPart.CFrame = oldpos
+		end    
+	})
+
+	PlayerTab:AddButton({
+		Name = "большой хуй из долче милка",
+		Callback = function()
+			local character = Player.Character
+			local backpack = Player.Backpack
+			local items = {}
+			
+			for _,tool in ipairs(character:GetChildren()) do
+				if tool:IsA("Tool") then
+					tool.Parent = backpack
+				end
+			end
+
+			for i,v in ipairs(backpack:GetChildren()) do
+				if #backpack:GetChildren() < 3 then
+					return error("You don't have 3 items in your backpack")
+				end
+				if #items < 3 then
+					table.insert(items, v)
+				end
+			end
+
+			items[1].Grip = CFrame.new(1.4, 0.5, 1.25, 1, 0, -0, 0, 0, -1, 0, 1, -0)
+			items[2].Grip = CFrame.new(1.4, -1.5, 1.25, 1, 0, -0, 0, 0, -1, 0, 1, -0)
+			items[3].Grip = CFrame.new(1.4, -3.5, 1.25, 1, 0, -0, 0, 0, -1, 0, 1, -0)
+			task.task.wait(0.25)
+
+			for _,tool in ipairs(items) do
+				tool.Parent = character
+			end
+
+			while task.wait() do
+				for _,tool in ipairs(items) do
+					if tool.Parent ~= character then
+						tool.Parent = character
+					end
+				end
+				if character.Humanoid.Health == 0 then
+					break
+				end
+			end
+		end    
+	})
+
+	--other scripts tab
+	ScriptTab:AddButton({
+		Name = "infinite yield",
+		Callback = function()
+			loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
+		end    
+	})
+
+	ScriptTab:AddButton({
+		Name = "system broken",
+		Callback = function()
+			loadstring(game:HttpGet("https://raw.githubusercontent.com/H20CalibreYT/SystemBroken/main/script"))()
+		end    
+	})
+
+	ScriptTab:AddButton({
+		Name = "float",
+		Callback = function()
+			loadstring(game:HttpGet("https://raw.githubusercontent.com/GhostPlayer352/Test4/main/Float"))()
+		end    
+	})
+
+	ScriptTab:AddButton({
+		Name = "dex explorer",
+		Callback = function()
+			loadstring(game:HttpGet("https://raw.githubusercontent.com/infyiff/backup/main/dex.lua"))()
+		end    
+	})
+
+	ScriptTab:AddButton({
+		Name = "path & float",
+		Callback = function()
+			loadstring(game:HttpGet("https://raw.githubusercontent.com/m1kp0/universal_scripts/refs/heads/main/ONLY-PC_pathing"))()
+		end    
+	})
+
+	ScriptTab:AddButton({
+		Name = "jerk off",
+		Callback = function()
+			loadstring(game:HttpGet("https://pastefy.app/wa3v2Vgm/raw"))()
+		end    
+	})
+
+	ScriptTab:AddButton({
+		Name = "отдельный chat bypass",
+		Callback = function()
+			loadstring(game:HttpGet"https://raw.githubusercontent.com/m1kp0/universal_scripts/refs/heads/main/chat_bypass.lua")()
+		end    
+	})
+
+	--clocktime tab
+	ClockTab:AddButton({
+		Name = "night",
+		Callback = function()
+			game.Lighting.ClockTime = 0
+		end    
+	})
+
+	ClockTab:AddButton({
+		Name = "day",
+		Callback = function()
+			game.Lighting.ClockTime = 10
+		end    
+	})
+
+	ClockTab:AddButton({
+		Name = "morning",
+		Callback = function()
+			game.Lighting.ClockTime = 6
+		end    
+	})
+
+	ClockTab:AddButton({
+		Name = "evening",
+		Callback = function()
+			game.Lighting.ClockTime = 18
+		end    
+	})
+
+	ClockTab:AddTextbox({
+		Name = "custom time",
+		Default = "",
+		TextDisappear = false,
+		Callback = function(Value)
+			game.Lighting.ClockTime = Value
+		end	  
+	})
+
+	ClockTab:AddToggle({
+		Name = "real time",
+		Default = false,
+		Flag = "clocktimeflag",
+		Color = Color3.fromRGB(102, 0, 102),
+		Callback = function(Value)
+			while Value do
+				task.wait(1)
+				local niggga = os.time()
+				local sex = "%H"
+				local gay = os.date(sex, niggga)
+				task.wait()
+				game.Lighting.ClockTime = gay
+			end
+		end
+	})
+
+	--changelog tab
+	Ctab:AddParagraph("PREMIUM", "онли я и друзья")
+
+	--server tab
+	AmountOfPlayers = #Players:GetPlayers()
+	AllPlayers = #Players:GetPlayers()
+
+	Servertab:AddSection({Name = "players (max 50)"})
+
+	local countOfPlayersLabel = Servertab:AddLabel("count of players: "..AmountOfPlayers.."")
+	local allPlayersLabel = Servertab:AddLabel("all players: "..AmountOfPlayers.."")
+
+	Servertab:AddSection({Name = "you"})
+
+	Servertab:AddLabel("you: "..Player.DisplayName.." ("..Player.Name..")")
+	local executedLB_label = Servertab:AddLabel("йоу")
+	local RealTimeLbl = Servertab:AddLabel("REAL TIME")
+
+	Players.PlayerAdded:Connect(function(plr)
+		AmountOfPlayers = AmountOfPlayers + 1
+		AllPlayers = AllPlayers + 1
+		countOfPlayersLabel:Set("count of players: "..AmountOfPlayers.."")
+		allPlayersLabel:Set("all players: "..AllPlayers.."")
+	end)
+
+	Players.PlayerRemoving:Connect(function()
+		AmountOfPlayers = AmountOfPlayers - 1
+		countOfPlayersLabel:Set("count of players: "..AmountOfPlayers.."")
+	end)
+
+	local hourOfExecutedLB = 0
+
+	OrionLib:MakeNotification({
+		Name = "Ladder Breaker premium loaded",
+		Content = "completely",
+		Image = "rbxassetid://4483345998",
+		Time = 3
+	})
+
+	Player.Character.Humanoid.Died:Connect(function()
+		OrionLib:MakeNotification({
+			Name = "died",
+			Content = "you are",
+			Image = "rbxassetid://18624604880",
+			Time = 5
+		})
+		task.wait(1)
+	end)
+	Player.CharacterAdded:Connect(function()
+		OrionLib:MakeNotification({
+			Name = "respawned",
+			Content = "real",
+			Image = "rbxassetid://18624604880",
+			Time = 5
+		})
+		task.wait(1)
+	end)
+	print("[LadderBreaker]: loaded")
+	while task.wait(1) do
+		TimeOfExecutedLB = TimeOfExecutedLB + 1
+		executedLB_label:Set("script executed: "..minutesOfExecutedLB.." min, "..TimeOfExecutedLB.." sec")
+
+		if TimeOfExecutedLB == 59 then
+			minutesOfExecutedLB = minutesOfExecutedLB + 1
+			TimeOfExecutedLB = 0
+			task.wait()
+		end
+		local time = os.time()
+		local format = "%H:%M"
+		local realTime = os.date(format, time)
+		task.wait()
+		RealTimeLbl:Set("real time: "..realTime.."")
+	end
+
+	OrionLib:Init()
+else
+	print("[LadderBreaker]: default user, loading")
+	local version = "v5"
+	print("[LadderBreaker]: version: "..version.."")
+
+	--server
+	local Players = game:GetService("Players")
+	local Player = Players.LocalPlayer
+	local ReplicatedStorage = game:GetService("ReplicatedStorage")
+	local RunService = game:GetService("RunService")
+	local TweenService = game:GetService("TweenService")
+	local TeleportService = game:GetService("TeleportService")
+	local saymsg = ReplicatedStorage:WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest")
+	local getmsg = ReplicatedStorage:WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("OnMessageDoneFiltering")
+	local StarterGui = game:GetService("StarterGui")
+	local instance = (_G.chatSpyInstance or 0) + 1
+	_G.chatSpyInstance = instance
+	PlaceId, JobId = game.PlaceId, game.JobId
+
+	--counter
+	local AmountOfPlayers
+	local AllPlayers
+	local TimeOfExecutedLB = 0
+	local minutesOfExecutedLB = 0
+	local breakingMins = 0
+	local breakingSec = 0
+	local breakingCount = 0
+	local SavedCheckpoint
+	local realTime
+	local speed
+
+	--toggle
+	local breakFullLadderEnabled = false
+	local breakLadderEnabled = false
+	local antiVoidEnabled = false
+	local antiSitEnabled = false
+	local antiWarpEnabled = false
+	local chatBypassEn = false
+	local autoDropDolce = false
+	local autoGrabDolce = false
+	local spamen = false
+	local Clip = false
+	local fieldOfViewBreh = 70
+	local repeattimes = 3
+	local raidSymbol = "👹"
+	local espConnect = nil
+	enabledSpy = false
+	spyOnMyself = false
+	public = false
+	publicItalics = true
+
+	--properties
+	privateProperties = {
+	Color = Color3.fromRGB(132,0,132); 
+	Font = Enum.Font.SourceSansBold;
+	TextSize = 18;
+	}
+	local raidSymbol = "👹"
+	local ladderTransparency = 0.5
+
+	--functions
+	local function brkldrfull()
+	while breakFullLadderEnabled == true do
+	pcall(function()
+		local Player = game.Players.LocalPlayer
+		local breakingSpeed = 0.05
+		noclipping = RunService.Stepped:Connect(noclip)
+		Player.Character.HumanoidRootPart.Size = Vector3.new(1.5,1.5,1.5)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(90.2871323, 142.19899, -241.016586, 0.216689184, -4.79452353e-08, -0.976240635, -6.84476973e-08, 1, -6.4304956e-08, 0.976240635, 8.0755612e-08, 0.216689184)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(91.0978851, 140.298981, -238.744034, 0.451353669, -9.80752262e-08, -0.89234513, 3.78280376e-08, 1, -9.07736251e-08, 0.89234513, 7.21534521e-09, 0.451353669)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(91.6046371, 139.298996, -237.295547, 0.44760713, 5.99268688e-08, -0.894230306, -2.39691129e-08, 1, 5.5017285e-08, 0.894230306, -3.19222071e-09, 0.44760713)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(92.9826508, 138.298996, -236.002441, 0.560875833, 2.02255208e-08, -0.827899933, 1.60691194e-08, 1, 3.53162264e-08, 0.827899933, -3.31116397e-08, 0.560875833)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(94.6445465, 136.298996, -233.878571, 0.678971052, 2.75740355e-08, -0.734165013, 2.43300722e-08, 1, 6.0059314e-08, 0.734165013, -5.86408255e-08, 0.678971052)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(96.3649826, 135.298996, -232.799728, 0.737124205, -7.15544459e-08, -0.675757289, 4.51176092e-08, 1, -5.66729561e-08, 0.675757289, 1.12864544e-08, 0.737124205)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(98.2008362, 133.298996, -231.302521, 0.832671225, -7.37861754e-08, -0.553767622, 5.41573719e-08, 1, -5.18103427e-08, 0.553767622, 1.31503812e-08, 0.832671225)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(100.045044, 132.298996, -230.338242, 0.898028553, -1.85680875e-08, -0.439937174, 4.47176696e-08, 1, 4.90744121e-08, 0.439937174, -6.37431867e-08, 0.898028553)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(102.621155, 130.298996, -229.510193, 0.975852668, -9.59031183e-08, -0.218429893, 1.01547307e-07, 1, 1.4613792e-08, 0.218429893, -3.64418753e-08, 0.975852668)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(104.224251, 129.298996, -229.041656, 0.989499152, -4.17768646e-08, -0.144538477, 4.8952419e-08, 1, 4.60881751e-08, 0.144538477, -5.26797201e-08, 0.989499152)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(105.747269, 128.298965, -228.67215, 0.990291774, 2.31010642e-08, -0.139004305, -2.69731437e-08, 1, -2.59719943e-08, 0.139004305, 2.94692359e-08, 0.990291774)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(107.090187, 127.301003, -228.880722, 0.998178422, 1.11795488e-08, 0.0603306815, -1.04699032e-08, 1, -1.20787185e-08, -0.0603306815, 1.142506e-08, 0.998178422)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(108.413338, 126.298996, -228.716553, 0.999167681, -6.68114719e-09, 0.0407914072, 2.30229569e-09, 1, 1.07394378e-07, -0.0407914072, -1.07211072e-07, 0.999167681)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(109.961189, 125.298996, -229.40242, 0.978919268, 9.81815962e-09, 0.204247564, 2.64855471e-09, 1, -6.07639095e-08, -0.204247564, 6.00239218e-08, 0.978919268)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(111.531853, 124.298996, -229.330017, 0.958375871, 2.94830205e-08, 0.285509497, -7.94839583e-10, 1, -1.0059653e-07, -0.285509497, 9.61823545e-08, 0.958375871)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(113.806046, 122.298996, -230.324554, 0.921631157, -2.16754015e-09, 0.388066947, 1.21990595e-09, 1, 2.68829048e-09, -0.388066947, -2.00420724e-09, 0.921631157)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(115.568855, 121.299004, -231.170425, 0.896044672, -4.62760319e-08, 0.443963975, 4.74952131e-08, 1, 8.37500735e-09, -0.443963975, 1.35817819e-08, 0.896044672)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(116.907997, 120.299004, -232.019852, 0.785785735, 9.36495752e-08, 0.618498802, -1.09982103e-07, 1, -1.16850796e-08, -0.618498802, -5.8841831e-08, 0.785785735)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(117.750374, 119.299004, -232.964508, 0.766403079, -5.49552901e-08, 0.642359972, 3.03970005e-08, 1, 4.92853474e-08, -0.642359972, -1.82466255e-08, 0.766403079)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(118.971375, 118.299004, -233.847092, 0.680802226, 5.91350862e-08, 0.732467234, 1.54345638e-08, 1, -9.5079983e-08, -0.732467234, 7.6035974e-08, 0.680802226)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(119.779747, 117.299004, -235.016525, 0.620363712, 4.14338537e-08, 0.784314275, -1.25519701e-08, 1, -4.28999805e-08, -0.784314275, 1.67689027e-08, 0.620363712)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(120.715286, 116.299004, -236.171967, 0.604902804, -6.95124882e-08, 0.796299279, 1.30869937e-08, 1, 7.73529862e-08, -0.796299279, -3.6369876e-08, 0.604902804)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(121.504257, 115.299004, -237.414734, 0.532548904, -5.04965456e-08, 0.846399248, -2.90271629e-08, 1, 7.79241347e-08, -0.846399248, -6.60669812e-08, 0.532548904)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(122.117371, 114.299004, -238.541702, 0.42217344, 9.86871118e-09, 0.906515062, 7.67946595e-09, 1, -1.44628345e-08, -0.906515062, 1.30673765e-08, 0.42217344)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(123.046234, 112.299004, -241.616653, 0.274375856, 2.04904804e-08, 0.961622536, -2.82256245e-08, 1, -1.32547333e-08, -0.961622536, -2.3505617e-08, 0.274375856)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(123.593735, 111.299004, -242.749542, 0.229756922, 4.71209738e-08, 0.973248065, -1.40535565e-08, 1, -4.50985489e-08, -0.973248065, -3.31589267e-09, 0.229756922)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(123.748993, 110.299004, -244.383392, 0.119748861, -4.74855621e-09, 0.992804229, -3.66719299e-09, 1, 5.22529886e-09, -0.992804229, -4.26652802e-09, 0.119748861)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(123.89962, 110.299995, -246.38942, 0.0361889414, 7.96216e-08, 0.999344945, 4.05463432e-08, 1, -8.11420762e-08, -0.999344945, 4.34562288e-08, 0.0361889414)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(123.635635, 108.299004, -248.081543, -0.0769171864, -8.11551217e-08, 0.99703747, -3.16514637e-09, 1, 8.11520806e-08, -0.99703747, 3.08622039e-09, -0.0769171864)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(123.577309, 107.299004, -249.108566, -0.0518187359, -4.53069084e-08, 0.998656511, -5.51531354e-09, 1, 4.50816771e-08, -0.998656511, -3.17182836e-09, -0.0518187359)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(123.393623, 106.299004, -250.494919, -0.231385753, 1.13640709e-07, 0.972862065, -2.45591263e-08, 1, -1.22651855e-07, -0.972862065, -5.22725365e-08, -0.231385753)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(122.710434, 105.299004, -251.976761, -0.37035495, -1.64589515e-08, 0.928890288, 9.04863739e-10, 1, 1.80797155e-08, -0.928890288, 7.53643103e-09, -0.37035495)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(122.158119, 104.299988, -252.889267, -0.42040509, 4.45564652e-09, 0.907336533, -8.9301827e-10, 1, -5.32445865e-09, -0.907336533, -3.04869774e-09, -0.42040509)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(121.294701, 103.301003, -254.337387, -0.535623789, 7.37801074e-08, 0.844456732, -2.1261263e-08, 1, -1.00855551e-07, -0.844456732, -7.19748456e-08, -0.535623789)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(120.681671, 102.301003, -255.877136, -0.642682076, -1.67137824e-08, 0.76613301, -9.52543489e-10, 1, 2.10167173e-08, -0.76613301, 1.27772921e-08, -0.642682076)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(119.662415, 101.301003, -256.994781, -0.632999241, 7.13252604e-08, 0.774152458, 1.55037903e-08, 1, -7.9456413e-08, -0.774152458, -3.82935497e-08, -0.632999241)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(118.77874, 100.301003, -257.984833, -0.716385543, -1.71869772e-08, 0.697704613, -6.95620761e-09, 1, 1.74911428e-08, -0.697704613, 7.67702435e-09, -0.716385543)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(117.64502, 99.3009949, -259.123322, -0.800759912, -3.11203081e-08, 0.598985434, -1.72060801e-08, 1, 2.89529076e-08, -0.598985434, 1.28781359e-08, -0.800759912)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(117.64502, 99.3009949, -259.123322, -0.800759912, -3.11203081e-08, 0.598985434, -1.72060801e-08, 1, 2.89529076e-08, -0.598985434, 1.28781359e-08, -0.800759912)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(115.316833, 97.3010025, -260.57663, -0.82039547, 3.2885076e-08, 0.571796536, -1.97802628e-08, 1, -8.58919407e-08, -0.571796536, -8.17756458e-08, -0.82039547)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(113.726326, 96.3009949, -261.376984, -0.909036577, -2.97304226e-08, 0.416716367, 2.12505196e-08, 1, 1.17700978e-07, -0.416716367, 1.15849929e-07, -0.909036577)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(112.365425, 95.3010025, -261.610168, -0.927964509, 4.85544689e-08, 0.372668564, 1.68661192e-08, 1, -8.8291074e-08, -0.372668564, -7.56455094e-08, -0.927964509)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(110.901733, 94.3010025, -262.06958, -0.987205684, 9.71211875e-08, 0.159452155, 8.6838071e-08, 1, -7.14581248e-08, -0.159452155, -5.66973455e-08, -0.987205684)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(109.692291, 93.3010025, -262.383759, -0.980488539, -3.64462593e-08, 0.196576193, -2.91028233e-08, 1, 4.02453324e-08, -0.196576193, 3.37391626e-08, -0.980488539)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(108.489365, 92.3010025, -262.534027, -0.986067474, -5.87416409e-08, 0.166345671, -6.76184087e-08, 1, -4.76999169e-08, -0.166345671, -5.82833692e-08, -0.986067474)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(106.537674, 91.3010025, -262.720703, -0.999931037, -2.24309482e-09, -0.0117414938, -2.20549312e-09, 1, -3.21542015e-09, 0.0117414938, -3.1893026e-09, -0.999931037)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(104.887077, 90.3010025, -262.596161, -0.995300889, 5.40037242e-08, -0.0968301743, 4.66026435e-08, 1, 7.86952157e-08, 0.0968301743, 7.38128776e-08, -0.995300889)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(103.820724, 89.3010025, -262.438812, -0.987907588, 3.34804504e-08, -0.155043945, 2.65912661e-08, 1, 4.6507715e-08, 0.155043945, 4.18225063e-08, -0.987907588)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(102.105492, 88.3010025, -262.006592, -0.968392909, -7.10715824e-08, -0.249429628, -4.31664198e-08, 1, -1.17345841e-07, 0.249429628, -1.02869897e-07, -0.968392909)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(100.995506, 87.3010025, -261.777893, -0.952094436, 1.24691383e-07, -0.305804104, 1.16673007e-07, 1, 4.44979555e-08, 0.305804104, 6.68717082e-09, -0.952094436)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(99.2935104, 86.3010025, -261.273956, -0.929972231, 6.24183443e-08, -0.367629796, 5.68595304e-08, 1, 2.59515431e-08, 0.367629796, 3.23095661e-09, -0.929972231)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(98.2667007, 85.3010025, -260.794861, -0.897156298, -4.42727313e-08, -0.441713184, -4.57311806e-08, 1, -7.34574401e-09, 0.441713184, 1.36097853e-08, -0.897156298)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(97.1793594, 84.3010025, -259.237549, -0.834665418, -7.94021702e-08, -0.550757349, -7.1248671e-08, 1, -3.6192656e-08, 0.550757349, 9.03196895e-09, -0.834665418)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(95.887558, 83.3010025, -258.414917, -0.805086672, 1.28317652e-07, -0.593157232, 1.10091491e-07, 1, 6.69037732e-08, 0.593157232, -1.14382317e-08, -0.805086672)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(94.8851013, 82.3010025, -257.492767, -0.723361731, 1.1667273e-07, -0.690469325, 9.37954212e-08, 1, 7.07123604e-08, 0.690469325, -1.36122464e-08, -0.723361731)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(93.9190674, 81.3010025, -256.479492, -0.641820073, 9.16277614e-08, -0.76685524, 6.77392435e-08, 1, 6.27906687e-08, 0.76685524, -1.16458834e-08, -0.641820073)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(93.1807861, 80.3010025, -255.430206, -0.617946088, -7.19211712e-08, -0.786220491, -5.26583044e-08, 1, -5.00892341e-08, 0.786220491, 1.04485922e-08, -0.617946088)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(92.3184738, 79.3010025, -254.313919, -0.522809267, -4.44631958e-08, -0.852449715, 5.04990183e-08, 1, -8.31304803e-08, 0.852449715, -8.65092531e-08, -0.522809267)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(91.3926468, 78.3010025, -252.766205, -0.457059085, 3.93542399e-09, -0.889436364, -2.19847376e-10, 1, 4.53760096e-09, 0.889436364, 2.26949193e-09, -0.457059085)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(90.8795319, 77.3010025, -251.461411, -0.356288821, -1.12123402e-07, -0.934375882, 1.88049931e-08, 1, -1.27168747e-07, 0.934375882, -6.28797352e-08, -0.356288821)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(90.5267105, 76.3010025, -250.176254, -0.263333082, 1.13872396e-07, -0.96470499, -2.37062618e-08, 1, 1.24509612e-07, 0.96470499, 5.5657047e-08, -0.263333082)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(90.1674194, 75.3010025, -248.859985, -0.270067543, 4.81445603e-08, -0.962841392, -8.44487946e-09, 1, 5.23712949e-08, 0.962841392, 2.22748664e-08, -0.270067543)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(89.7181473, 74.3009949, -246.990936, -0.123625994, -9.58061293e-08, -0.992328882, 5.18873868e-08, 1, -1.03010962e-07, 0.992328882, -6.42241886e-08, -0.123625994)
+		task.wait(breakingSpeed)
+		Player.Character.HumanoidRootPart.CFrame = CFrame.new(89.7181473, 74.3009949, -246.990936, -0.123625994, -9.58061293e-08, -0.992328882, 5.18873868e-08, 1, -1.03010962e-07, 0.992328882, -6.42241886e-08, -0.123625994)
+		task.wait(0.35)
+		task.wait()
+		noclipping:Disconnect()
+		task.wait()
+	end)
+	end
+	end
+
+	local function noclip()
+	if Clip == false and Player.Character ~= nil then
+	for _, child in pairs(Player.Character:GetDescendants()) do
+		if child:IsA("BasePart") and child.CanCollide == true and child.Name ~= fn then
+			child.CanCollide = false
+		end
+	end
+	end
+	end
+
+	local function stairs()
+	for i, v in pairs(workspace.Stairs:GetDescendants()) do
+	if v:IsA("Part") then
+		local stair = Instance.new("Part", workspace)
+		stair.CFrame = v.CFrame
+		stair.Size = v.Size
+		stair.Position = v.Position - Vector3.new(0, 3, 0)
+		stair.Anchored = true 
+		stair.Transparency = 1
+		stair.Name = "LadderBreaker_Stairs"
+	end
+	end
+	end
+	local function onChatted(p,msg)
+	if _G.chatSpyInstance == instance then
+	if p==Player and msg:lower():sub(1,4)=="/spy" then
+		enabledSpy = not enabledSpy
+		task.wait(0.3)
+		privateProperties.Text = "{SPY "..(enabledSpy and "EN" or "DIS").."ABLED}"
+		StarterGui:SetCore("ChatMakeSystemMessage",privateProperties)
+	elseif enabledSpy and (spyOnMyself==true or p~=Player) then
+		msg = msg:gsub("[\n\r]",""):gsub("\t"," "):gsub("[ ]+"," ")
+		local hidden = true
+		local conn = getmsg.OnClientEvent:Connect(function(packet,channel)
+			if packet.SpeakerUserId==p.UserId and packet.Message==msg:sub(#msg-#packet.Message+1) and (channel=="All" or (channel=="Team" and public==false and Players[packet.FromSpeaker].Team==Player.Team)) then
+				hidden = false
+			end
+		end)
+		task.wait(1)
+		conn:Disconnect()
+		if hidden and enabledSpy then
+			if public then
+				saymsg:FireServer((publicItalics and "" or "").."{SPY} [".. p.DisplayName .."]: "..msg,"All")
+			else
+				privateProperties.Text = "{SPY} [".. p.DisplayName .."]: "..msg
+				StarterGui:SetCore("ChatMakeSystemMessage",privateProperties)
+			end
+		end
+	end
+	end
+	end
+
+	for _,p in ipairs(Players:GetPlayers()) do
+	p.Chatted:Connect(function(msg) onChatted(p,msg) end)
+	end
+	Players.PlayerAdded:Connect(function(p)
+	p.Chatted:Connect(function(msg) onChatted(p,msg) end)
+	end)
+
+	StarterGui:SetCore("ChatMakeSystemMessage",privateProperties)
+	local chatFrame = Player.PlayerGui.Chat.Frame
+	chatFrame.ChatChannelParentFrame.Visible = true
+	chatFrame.ChatBarParentFrame.Position = chatFrame.ChatChannelParentFrame.Position+UDim2.new(UDim.new(),chatFrame.ChatChannelParentFrame.Size.Y)
+
+	local function ChangeFov(Fov, Time)
+	TweenService:Create(workspace.Camera, TweenInfo.new(Time), {FieldOfView = Fov}):Play()
+	end
+
+	print("[LadderBreaker]: loaded main")
+	--library
+	print("[LadderBreaker]: loading library")
+	local OrionLib = loadstring(game:HttpGet(("https://raw.githubusercontent.com/m1kp0/libraries/refs/heads/main/m1kpe0_orion_lib.lua")))()
+	print("[LadderBreaker]: loaded library")
+	print("[LadderBreaker]: loading script")
+	local Window = OrionLib:MakeWindow({Name = "Ladder Breaker | DMO", HidePremium = false, IntroEnabled = false, IntroText = "Loading..", SaveConfig = true, ConfigFolder = "OrionTest"})
+
+	local MainTab = Window:MakeTab({Name = "main", Icon = "", PremiumOnly = false})
+	local ChatTab = Window:MakeTab({Name = "chat", Image = "", PremiumOnly = false})
+	local TPTab = Window:MakeTab({Name = "teleport", Image = "", PremiumOnly = false})
+	local DefenseTab = Window:MakeTab({Name = "defense", Image = "", PremiumOnly = false})
+	local PlayerTab = Window:MakeTab({Name = "character", Image = "", PremiumOnly = false})
+	local ScriptTab = Window:MakeTab({Name = "scripts", Image = "", PremiumOnly = false})
+	local ClockTab = Window:MakeTab({Name = "time", Image = "", PremiumOnly = false})
+	local Ctab = Window:MakeTab({Name = "changelog", Image = "", PremiumOnly = false})
+	local Servertab = Window:MakeTab({Name = "server", Image = "", PremiumOnly = false})
+
+	--main tab
+	MainTab:AddToggle({
+	Name = "break ladder | the best",
+	Default = false,
+	Color = Color3.fromRGB(102, 0, 102),
+	Callback = function(Value)
+	breakFullLadderEnabled = Value
+	enabledNoc = Value
+	if breakFullLadderEnabled then
+		stairs()
+	else
+		for i, v in pairs(workspace:GetDescendants()) do
+			if v.Name == "LadderBreaker_Stairs" then
+				v:Destroy()
+			end
+		end
+	end
+	if enabledNoc then
+		noclipping = RunService.Stepped:Connect(noclip)
+	else
+		if noclipping then
+			noclipping:Disconnect()
+		end
+	end
+	brkldrfull()
+	end    
+	})
+	--chat tab
+	ChatTab:AddToggle({
+	Name = "chat spy",
+	Default = true,
+	Color = Color3.fromRGB(102, 0, 102),
+	Callback = function(Value)
+	if Value == true then
+		enabledSpy = true
+		spyOnMyself = false
+	else
+		enabledSpy = false
+		spyOnMyself = false
+	end
+	end    
+	})
+
+	ChatTab:AddToggle({
+	Name = "public chat spy",
+	Default = false,
+	Color = Color3.fromRGB(102, 0, 102),
+	Callback = function(Value)
+	if Value == true then
+		public = true
+	else
+		public = false
+	end
+	end    
+	})
+
+	ChatTab:AddToggle({
+	Name = "spy on myself",
+	Default = false,
+	Color = Color3.fromRGB(102, 0, 102),
+	Callback = function(Value)
+	if Value == true then
+		spyOnMyself = true
+	else
+		spyOnMyself = false
+	end
+	end    
+	})
+
+	ChatTab:AddSection({Name = "advanced"})
+
+	ChatTab:AddParagraph("ВАЖНО", "НЕ ПИШИТЕ НИЧЕГО В ОБЫНЧЫЙ ЧАТ СО ВКЛЮЧЕННЫМ БАЙПАССОМ, ИНАЧЕ - БАН И НЕ БУДЕТ РОБЛАКСА")
+
+	ChatTab:AddTextbox({
+	Name = "chat (не забанят)",
+	Default = "",
+	TextDisappear = true,
+	Callback = function(messageToSay)
+		Players:Chat("EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE")
+		task.wait()
+		Players:Chat("/e ABC")
+		task.wait()
+		Players:Chat("le le le le le le le")
+		task.wait()
+		Players:Chat("le le le le le")
+		task.wait()
+		if repeatmsg and _what then
+			for i = 1, repeattimes do
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("                                                                                                                                       "..messageToSay, "All")
+			end
+		elseif _what then
+			ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("                                                                                                                                       "..messageToSay, "All")
+		elseif repeatmsg then
+			for i = 1, repeattimes do
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(messageToSay, "All")
+			end
+		else
+			ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(messageToSay, "All")
+		end
+	end	  
+	})
+
+	ChatTab:AddToggle({
+	Name = "chat bypass",
+	Default = false,
+	Color = Color3.fromRGB(102, 0, 102),
+	Callback = function(Value)
+	chatBypassEn = Value
+	repeat task.wait(1)
+		Players:Chat("EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE false")
+		task.wait()
+		Players:Chat("/e ABC")
+		task.wait()
+		Players:Chat("le le le le le le le")
+		task.wait()
+		Players:Chat("le le le le le")
+		task.wait()
+	until chatBypassEn == false
+	end    
+	})
+
+	ChatTab:AddToggle({
+	Name = "mega message",
+	Default = false,
+	Color = Color3.fromRGB(102, 0, 102),
+	Callback = function(Value)
+	_what = Value
+	end    
+	})
+
+	ChatTab:AddToggle({
+	Name = "repeat message",
+	Default = false,
+	Color = Color3.fromRGB(102, 0, 102),
+	Callback = function(Value)
+	repeatmsg = Value
+	end    
+	})
+
+
+	ChatTab:AddTextbox({
+	Name = "repeat value",
+	Default = "3",
+	TextDisappear = false,
+	Callback = function(Value)
+	repeattimes = Value
+	end	  
+	})
+
+	ChatTab:AddToggle({
+	Name = "chat raid",
+	Default = false,
+	Color = Color3.fromRGB(102, 0, 102),
+	Callback = function(Value)
+	spamen = Value
+	if spamen then
+		if raidSymbol == "👹" then
+			repeat
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹", "All")
+				task.wait(2)
+			until spamen == false
+		elseif raidSymbol == "👍" then
+			repeat
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍", "All")
+				task.wait(2)
+			until spamen == false
+		elseif raidSymbol == "🥵" then
+			repeat
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵🥵", "All")
+				task.wait(2)
+			until spamen == false
+		elseif raidSymbol == "😈" then
+			repeat
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈😈", "All")
+				task.wait(2)
+			until spamen == false
+		elseif raidSymbol == "👺" then
+			repeat
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺👺", "All")
+				task.wait(2)
+			until spamen == false
+		elseif raidSymbol == "❤️" then
+			repeat
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️", "All")
+				task.wait(2)
+			until spamen == false
+		elseif raidSymbol == "💩" then
+			repeat
+				ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩", "All")
+				task.wait(2)
+			until spamen == false
+		end
+	end
+	end    
+	})
+
+	ChatTab:AddDropdown({
+	Name = "raid symbol",
+	Default = "👹",
+	Options = {"👹", "👍", "🥵", "😈", "👺", "❤️", "💩"},
+	Callback = function(Value)
+	raidSymbol = Value
+	end    
+	})
+
+	--telport tab
+	TPTab:AddButton({
+	Name = "spawn",
+	Callback = function()
+	Player.Character.HumanoidRootPart.CFrame = CFrame.new(91, 3, -26)
+	end    
+	})
+
+	TPTab:AddButton({
+	Name = "top of the ladder",
+	Callback = function()
+	Player.Character.HumanoidRootPart.CFrame = CFrame.new(80, 147, -247)
+	end    
+	})
+
+	TPTab:AddButton({
+	Name = "bottom of the ladder",
+	Callback = function()
+	Player.Character.HumanoidRootPart.CFrame = CFrame.new(93, 3, -232)
+	end    
+	})
+
+	TPTab:AddButton({
+	Name = "green zone",
+	Callback = function()
+	Player.Character.HumanoidRootPart.CFrame = CFrame.new(70, 100, -469)
+	end    
+	})
+
+	TPTab:AddButton({
+	Name = "yellow zone",
+	Callback = function()
+	Player.Character.HumanoidRootPart.CFrame = CFrame.new(41, 106, -775)
+	end    
+	})
+
+	TPTab:AddButton({
+	Name = "pink zone",
+	Callback = function()
+	Player.Character.HumanoidRootPart.CFrame = CFrame.new(3, 188, -1188)
+	end    
+	})
+
+	TPTab:AddButton({
+	Name = "purple zone",
+	Callback = function()
+	Player.Character.HumanoidRootPart.CFrame = CFrame.new(-25, 192, -1534)
+	end    
+	})
+
+	TPTab:AddButton({
+	Name = "orange zone",
+	Callback = function()
+	Player.Character.HumanoidRootPart.CFrame = CFrame.new(-82, 282, -1824)
+	end    
+	})
+
+	TPTab:AddButton({
+	Name = "dark-yellow zone",
+	Callback = function()
+	Player.Character.HumanoidRootPart.CFrame = CFrame.new(-122, 264, -2145)
+	end    
+	})
+
+	TPTab:AddButton({
+	Name = "blue zone",
+	Callback = function()
+	Player.Character.HumanoidRootPart.CFrame = CFrame.new(-204, 264, -2620)
+	end    
+	})
+
+	TPTab:AddButton({
+	Name = "end",
+	Callback = function()
+	Player.Character.HumanoidRootPart.CFrame = CFrame.new(-238, 265, -2809)
+	end    
+	})
+
+	--defense tab
+	DefenseTab:AddSection({Name = "anti-admin"})
+
+	DefenseTab:AddToggle({
+	Name = "anti blur",
+	Default = false,
+	Color = Color3.fromRGB(102, 0, 102),
+	Flag = "AntiSitToggle",
+	Callback = function(Value)
+		if Value then
+			workspace.Camera.Blur.Enabled = false
+		else
+			workspace.Camera.Blur.Enabled = true
+		end
+	end    
+	})
+
+	DefenseTab:AddButton({
+	Name = "anti kill-parts",
+	Callback = function()
+		for i, p in pairs(workspace.Damage:GetDescendants()) do
+			if p.Name == "TouchInterest" then
+				p:Destroy()
+			end
+		end
+	end    
+	})
+
+	DefenseTab:AddToggle({
+	Name = "anti warp",
+	Default = false,
+	Color = Color3.fromRGB(102, 0, 102),
+	Flag = "AntiWarpToggle",
+	Callback = function(Value)
+	antiWarpEnabled = Value
+		if antiWarpEnabled then
+			while game:GetService("RunService").RenderStepped:Wait() do
+				ChangeFov(tonumber(fieldOfViewBreh), 0.0000001)
+			end
+		end
+	end    
+	})
+
+	DefenseTab:AddToggle({
+	Name = "anti sit",
+	Default = false,
+	Color = Color3.fromRGB(102, 0, 102),
+	Flag = "AntiSitToggle",
+	Callback = function(Value)
+	antiSitEnabled = Value
+		Player.Character.Humanoid.Seated:Connect(function()
+			if Player.Character or antiSitEnabled then
+				Player.Character.Humanoid.Sit = false
+			else
+				antiSitEnabled = false
+			end
+		end)
+	end    
+	})
+
+	DefenseTab:AddSection({Name = "advanced"})
+
+	DefenseTab:AddToggle({
+	Name = "anti void",
+	Default = false,
+	Color = Color3.fromRGB(102, 0, 102),
+	Callback = function(Value)
+		if Value then
+			pcall(function()
+				antiVoidEnabled = true
+				workspace.FallenPartsDestroyHeight = -100000
+				while Value do
+					if Player.Character.HumanoidRootPart and Player.Character.HumanoidRootPart.Position.Y < -500 and antiVoidEnabled then
+						Player.Character.HumanoidRootPart.CFrame = CFrame.new(80, 147, -247)
+						OrionLib:MakeNotification({
+							Name = "Theres a staarmaan task.waiting in the sky",
+							Content = "i will save you next time:3",
+							Image = "rbxassetid://18624604880",
+							Time = 5
+						})
+						Player.Character.HumanoidRootPart.CFrame = CFrame.new(80, 147, -247)
+					end
+					task.wait(0.1)
+				end
+			end)
+		else
+			antiVoidEnabled = false
+			workspace.FallenPartsDestroyHeight = -100
+		end
+	end    
+	})
+
+	DefenseTab:AddToggle({
+	Name = "create my ladder",
+	Default = false,
+	Color = Color3.fromRGB(102, 0, 102),
+	Callback = function(Value)
+		if Value then
+			for i, p in pairs(workspace.Stairs:GetDescendants()) do
+				if p:IsA("Part") then
+					local k = Instance.new("Part", workspace)
+					k.Position = p.Position
+					k.Anchored = true
+					k.CFrame = p.CFrame
+					k.Size = p.Size
+					k.Name = "LadderBreaker_ladder"
+					k.Color = p.Color
+					k.BrickColor = p.BrickColor
+					k.Transparency = 0.5
+					k.Material = "SmoothPlastic"
+				end
+			end
+		else
+			for i, p in pairs(workspace:GetDescendants()) do
+				if p.Name == "LadderBreaker_ladder" then
+					p:Destroy()
+				end
+			end
+		end
+	end    
+	})
+
+	DefenseTab:AddButton({
+	Name = "save checkpoint",
+	Callback = function()
+	SavedCheckpoint = Player.Character.HumanoidRootPart.CFrame
+		Player.CharacterAdded:Connect(function()
+			task.wait(0.2)
+			Player.Character.HumanoidRootPart.CFrame = CFrame.new(SavedCheckpoint)
+		end)
+	end    
+	})
+
+	DefenseTab:AddButton({
+	Name = "delete checkpoint",
+	Callback = function()
+		
+	end    
+	})
+
+	DefenseTab:AddButton({
+	Name = "drop dolce milk",
+	Callback = function()
+		local tool = Player.Character:FindFirstChildWhichIsA("Tool")
+		if tool then
+			tool.Parent = workspace
+		else
+			OrionLib:MakeNotification({
+				Name = "возьми дольче милк",
+				Content = "в руки",
+				Image = "rbxassetid://18624604880",
+				Time = 5
+			})
+		end
+	end
+	})
+
+	DefenseTab:AddToggle({
+	Name = "auto drop dolce milk",
+	Default = false,
+	Color = Color3.fromRGB(102, 0, 102),
+	Callback = function(Value)
+		autoDropDolce = Value
+		while autoDropDolce do
+			task.wait()
+			for i, tool in pairs(Player.Backpack:GetChildren()) do
+				if tool.Parent == Player.Backpack and autoDropDolce then
+					tool.Parent = Player.Character
+					task.wait()
+					tool.Parent = workspace
+				end
+				if tool.Parent == Player.Character and autoDropDolce then
+					tool.Parent = workspace
+					task.wait()
+				end
+			end
+		end
+	end    
+	})
+
+	DefenseTab:AddToggle({
+	Name = "auto grab dolce milk",
+	Default = false,
+	Color = Color3.fromRGB(102, 0, 102),
+	Callback = function(Value)
+		autoGrabDolce = Value
+		while game:GetService("RunService").RenderStepped:Wait() and autoGrabDolce do
+			task.wait(0.1)
+			for i, d in pairs(workspace:GetDescendants()) do
+				if d.Name == "Dolce Milk" and d.Parent == workspace then
+					d.Handle.CFrame = CFrame.new(Player.Character.RightLowerArm.CFrame.Position + Vector3.new(-1, -1, 0))
+				end
+			end
+		end
+	end    
+	})
+	--character settings tab
+	PlayerTab:AddTextbox({
+	Name = "speed",
+	Default = "16",
+	TextDisappear = false,
+	Callback = function(Speed)
+	Player.Character.Humanoid.WalkSpeed = Speed
+	speed = Speed
+	end	  
+	})
+
+	PlayerTab:AddTextbox({
+	Name = "jump power",
+	Default = "50",
+	TextDisappear = false,
+	Callback = function(Jumpp)
+	Player.Character.Humanoid.JumpPower = Jumpp
+	end	  
+	})
+
+	PlayerTab:AddToggle({
+	Name = "infinite jumps",
+	Default = false,
+	Color = Color3.fromRGB(102, 0, 102),
+	Callback = function(Value)
+	if Value then
+		infJump = true
+		game:GetService("UserInputService").JumpRequest:Connect(function()
+			if infJump then
+				Player.Character:FindFirstChildOfClass("Humanoid"):ChangeState("Jumping")
+			end
+		end)
+	else
+		infJump = false
+	end
+	end
+	})
+
+	PlayerTab:AddTextbox({
+	Name = "gravity",
+	Default = "196",
+	TextDisappear = false,
+	Callback = function(Grav)
+	workspace.Gravity = Grav
+	end	  
+	})
+
+	PlayerTab:AddTextbox({
+	Name = "field of view",
+	Default = "",
+	TextDisappear = false,
+	Callback = function(fov)
+	workspace.Camera.FieldOfView = fov
+	fieldOfViewBreh = fov
+	end	  
+	})
+
+	PlayerTab:AddToggle({
+	Name = "infinite zoom distance",
+	Default = false,
+	Color = Color3.fromRGB(102, 0, 102),
+	Callback = function(Value)
+	if Value then
+		Player.CameraMaxZoomDistance = math.huge
+	else
+		Player.CameraMaxZoomDistance = 150
+	end
+	end
+	})
+
+	PlayerTab:AddButton({
+	Name = "sit",
+	Callback = function()
+	if OrionLib.Flags["AntiSitToggle"].Value == true then
+		OrionLib:MakeNotification({
+			Name = "you need to disable the anti sit",
+			Content = "you cant sit with enabled anti sit",
+			Image = "rbxassetid://18624604880",
+			Time = 5
+		})
+	else
+		workspace.Gravity = 10
+		Player.Character.Humanoid.Sit = true
+		task.wait(1)
+		workspace.Gravity = 192.6
+	end
+	end    
+	})
+
+	PlayerTab:AddToggle({
+	Name = "platform stand",
+	Default = false,
+	Color = Color3.fromRGB(102, 0, 102),
+	Callback = function(Value)
+	if Value then
+		workspace.Gravity = 10
+		Player.Character.Humanoid.PlatformStand = true
+		task.wait(1)
+		workspace.Gravity = 192.6
+	else
+		Player.Character.Humanoid.PlatformStand = false
+	end
+	end
+	})
+
+	PlayerTab:AddButton({
+	Name = "r6 animation",
+	Callback = function()
+	loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-R6-Animations-on-R15-16865"))("t.me/arceusxscripts")
+	end    
+	})
+
+	PlayerTab:AddParagraph("defaults","| speed - 16 | jump power - 50 | gravity - 196.2 | field of view- 70 |")
+
+	--other scripts tab
+	ScriptTab:AddButton({
+	Name = "infinite yield",
+	Callback = function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
+	end    
+	})
+
+	ScriptTab:AddButton({
+	Name = "system broken",
+	Callback = function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/H20CalibreYT/SystemBroken/main/script"))()
+	end    
+	})
+
+	ScriptTab:AddButton({
+	Name = "float",
+	Callback = function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/GhostPlayer352/Test4/main/Float"))("https://t.me/arceusxscripts")
+	end    
+	})
+
+	ScriptTab:AddButton({
+	Name = "dex Explorer",
+	Callback = function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/infyiff/backup/main/dex.lua"))()
+	end    
+	})
+
+	ScriptTab:AddButton({
+	Name = "jerk off",
+	Callback = function()
+	loadstring(game:HttpGet("https://pastefy.app/wa3v2Vgm/raw"))()
+	end    
+	})
+
+	ScriptTab:AddButton({
+	Name = "pathing & floating",
+	Callback = function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/m1kp0/universal_scripts/refs/heads/main/ONLY-PC_pathing"))()
+	end    
+	})
+
+	ScriptTab:AddButton({
+	Name = "отдельный chat bypass",
+	Callback = function()
+	loadstring(game:HttpGet"https://raw.githubusercontent.com/m1kp0/universal_scripts/refs/heads/main/chat_bypass.lua")()
+	end    
+	})
+
+	ScriptTab:AddButton({
+	Name = "dev's github (more scripts)",
+	Callback = function()
+	setclipboard(tostring("https://github.com/m1kp0"))
+	OrionLib:MakeNotification({
+		Name = "copied link",
+		Content = "github",
+		Image = "rbxassetid://4483345998",
+		Time = 3
+	})
+	end    
+	})
+
+	--clocktime tab
+	ClockTab:AddButton({
+	Name = "night",
+	Callback = function()
+	game.Lighting.ClockTime = 0
+	end    
+	})
+
+	ClockTab:AddButton({
+	Name = "day",
+	Callback = function()
+	game.Lighting.ClockTime = 10
+	end    
+	})
+
+	ClockTab:AddButton({
+	Name = "morning",
+	Callback = function()
+	game.Lighting.ClockTime = 6
+	end    
+	})
+
+	ClockTab:AddButton({
+	Name = "evening",
+	Callback = function()
+	game.Lighting.ClockTime = 18
+	end    
+	})
+
+	ClockTab:AddTextbox({
+	Name = "custom time",
+	Default = "",
+	TextDisappear = false,
+	Callback = function(Timee)
+	game.Lighting.ClockTime = Timee
+	end	  
+	})
+
+	--changelog tab
+	Ctab:AddParagraph("v5.0 last update (maybe no)", "added:\nTHE BEST LADDER BREAKING SCRIPT\nversion notify (not in tab)\nm1kp's github (script tab)\nrejoin button(server tab);\nfixed:\nchat (chat tab)\nname space\nanti warp\nbreak ladder(main tab)\nanti sit (defense tab);\ncleared:\nchangelog tab\nclosed:\nscript's source (github)")
+
+	--server tab
+	AmountOfPlayers = #Players:GetPlayers()
+	AllPlayers = #Players:GetPlayers()
+
+	Servertab:AddSection({Name = "players (max 50)"})
+
+	local CounOfPlayersLbl = Servertab:AddLabel("count of players: "..AmountOfPlayers.."")
+	local AllPlayersLbl = Servertab:AddLabel("all players: "..AmountOfPlayers.."")
+
+	Servertab:AddSection({Name = "you"})
+	Servertab:AddLabel("you: "..Player.DisplayName.." ("..Player.Name..")")
+
+	local ExecutedLBbl = Servertab:AddLabel("script executed: "..minutesOfExecutedLB.." min "..TimeOfExecutedLB.." sec")
+	local RealTimeLbl = Servertab:AddLabel("REAL TIME")
+
+	Servertab:AddButton({
+	Name = "rejoin",
+	Callback = function()
+	if #Players:GetPlayers() <= 1 then
+		Player:Kick("\nrejoining")
+		task.wait()
+		TeleportService:Teleport(PlaceId, Player)
+	else
+		TeleportService:TeleportToPlaceInstance(PlaceId, JobId, Player)
+	end
+	end    
+	})
+
+	Players.PlayerAdded:Connect(function(plr)
+	AmountOfPlayers = AmountOfPlayers + 1
+	AllPlayers = AllPlayers + 1
+	CounOfPlayersLbl:Set("count of players: "..AmountOfPlayers.."")
+	AllPlayersLbl:Set("all players: "..AllPlayers.."")
+	end)
+	Players.PlayerRemoving:Connect(function(plre)
+	AmountOfPlayers = AmountOfPlayers - 1
+	CounOfPlayersLbl:Set("count of players: "..AmountOfPlayers.."")
+	end)
+
+	OrionLib:MakeNotification({
+	Name = "Ladder Breaker "..version.." loaded",
+	Content = "completely",
+	Image = "rbxassetid://4483345998",
+	Time = 7
+	})
+
+	print("[LadderBreaker]: loaded script")
+
+	while true do
+		task.wait(1)
+		TimeOfExecutedLB = TimeOfExecutedLB + 1
+		task.wait()
+		ExecutedLBbl:Set("script executed: "..minutesOfExecutedLB.." mins, "..TimeOfExecutedLB.." sec")
+
+		if TimeOfExecutedLB == 59 then
+			minutesOfExecutedLB = minutesOfExecutedLB + 1
+			TimeOfExecutedLB = 0
+			task.wait()
+		end
+
+		local time = os.time()
+		local format = "%H:%M"
+		local realTime = os.date(format, time)
+		task.wait()
+		RealTimeLbl:Set("real time: "..realTime.."")
+	end
+
+	OrionLib:Init()
+end
