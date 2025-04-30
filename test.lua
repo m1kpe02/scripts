@@ -69,19 +69,6 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
     local player = Players.LocalPlayer
     local Sped = false
     local blobDelay
-    local saymsg = game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest")
-    local getmsg = game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("OnMessageDoneFiltering")
-    local instance = (_G.chatSpyInstance or 0) + 1
-    enabledSpy = false
-    spyOnMyself = false
-    public = false
-    publicItalics = true
-    privateProperties = {
-    	Color = Color3.fromRGB(102,0,102); 
-    	Font = Enum.Font.SourceSansBold;
-    	TextSize = 18;
-    }
-    _G.chatSpyInstance = instance
     --Coroutines
     local PoisonGrabCoroutine
     local poisonAuraCoroutine
@@ -504,46 +491,6 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
         end
     end
 
-    local function onChatted(p,msg)
-        if _G.chatSpyInstance == instance then
-            if p==player and msg:lower():sub(1,4)=="/spy" then
-                enabledSpy = not enabledSpy
-                wait(0.3)
-                privateProperties.Text = "{SPY "..(enabledSpy and "EN" or "DIS").."ABLED}"
-                StarterGui:SetCore("ChatMakeSystemMessage",privateProperties)
-            elseif enabledSpy and (spyOnMyself==true or p~=player) then
-                msg = msg:gsub("[\n\r]",''):gsub("\t",' '):gsub("[ ]+",' ')
-                local hidden = true
-                local conn = getmsg.OnClientEvent:Connect(function(packet,channel)
-                    if packet.SpeakerUserId==p.UserId and packet.Message==msg:sub(#msg-#packet.Message+1) and (channel=="All" or (channel=="Team" and public==false and Players[packet.FromSpeaker].Team==player.Team)) then
-                        hidden = false
-                    end
-                end)
-                wait(1)
-                conn:Disconnect()
-                if hidden and enabledSpy then
-                    if public then
-                        saymsg:FireServer((publicItalics and "" or '').."{SPY} [".. p.DisplayName .."]: "..msg,"All")
-                    else
-                        privateProperties.Text = "{SPY} [".. p.Name .."]: "..msg
-                        StarterGui:SetCore("ChatMakeSystemMessage",privateProperties)
-                    end
-                end
-            end
-        end
-    end
-     
-    for _,p in ipairs(Players:GetPlayers()) do
-        p.Chatted:Connect(function(msg) onChatted(p,msg) end)
-    end
-    Players.PlayerAdded:Connect(function(p)
-        p.Chatted:Connect(function(msg) onChatted(p,msg) end)
-    end)
-    local chatFrame = player.PlayerGui.Chat.Frame
-    chatFrame.ChatChannelParentFrame.Visible = true
-    chatFrame.ChatBarParentFrame.Position = chatFrame.ChatChannelParentFrame.Position+UDim2.new(UDim.new(),chatFrame.ChatChannelParentFrame.Size.Y)
-
-
     --GUI
     local OrionLib = loadstring(game:HttpGet(("https://raw.githubusercontent.com/m1kp0/libraries/refs/heads/main/m1kpe0_orion_lib.lua")))()
     local Window = OrionLib:MakeWindow({Name = HubName, HidePremium = false, SaveConfig = False, ConfigFolder = "OrionTest", IntroEnabled = false})
@@ -878,36 +825,6 @@ if game.Players.LocalPlayer.Name == "bebra7658" or "asqw_zv" or "Yaros1979" or "
         Name = "Sit",
         Callback = function()
             game.Players.LocalPlayer.Character.Humanoid.Sit = true
-        end    
-    })
-
-    local Section = CharTab:AddSection({Name = "Chat"})
-
-    CharTab:AddToggle({
-        Name = "chat spy",
-        Default = true,
-        Color = Color3.fromRGB(102, 0, 102),
-        Callback = function(Value)
-            if Value == true then
-                enabledSpy = true
-                spyOnMyself = true
-            else
-                enabledSpy = false
-                spyOnMyself = false
-            end
-        end    
-    })
-    
-    CharTab:AddToggle({
-        Name = "public chat spy",
-        Default = false,
-        Color = Color3.fromRGB(102, 0, 102),
-        Callback = function(Value)
-            if Value == true then
-                public = true
-            else
-                public = false
-            end
         end    
     })
 
